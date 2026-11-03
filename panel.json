@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated_at": "2026-11-02T14:43:07Z",
+ "generated_at": "2026-11-03T14:43:25Z",
  "brief": {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T14:43:07Z",
-  "headline": "Monday Nov 2 — enrollment opens today, G Herbo is Friday, 5 things waiting on you",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T14:43:25Z",
+  "headline": "Tuesday Nov 3 — store posts in four slots today, G Herbo is Friday, 5 things waiting on you",
   "highlights": [
    {
     "kind": "task",
     "title": "Benefits open enrollment is open Nov 2-16",
-    "detail": "Dine Brands, in Workday — elections do not roll over, pick fresh ones"
+    "detail": "In Workday — elections do not roll over, pick fresh ones by Nov 16"
    },
    {
     "kind": "calendar",
@@ -19,7 +19,7 @@
    {
     "kind": "fyi",
     "title": "Store posts run today in four slots",
-    "detail": "Mon Nov 2 lineup starts 11:30 AM, with extra slots at 6 PM, 7:30 PM and 8 PM"
+    "detail": "Tue Nov 3 lineup starts 11:30 AM, with slots at 6 PM, 7:30 PM and 8 PM"
    },
    {
     "kind": "calendar",
@@ -27,9 +27,9 @@
     "detail": "Reminder lands Nov 8 so you can decide before it bills"
    },
    {
-    "kind": "fyi",
-    "title": "Store fixes v57 are with Grok for QC",
-    "detail": "Real-model hoodie, smoother tee and cap, fixed mug page — then your phone check"
+    "kind": "calendar",
+    "title": "Trippie Redd trip reminder lands Nov 21",
+    "detail": "Show is Sat Dec 5 in Springfield, MO — reminder set so you can plan"
    }
   ],
   "decide_count": 5
@@ -37,7 +37,7 @@
  "house": {
   "mode": null,
   "in_sync": false,
-  "reported_at": "2026-11-02T14:43:07Z",
+  "reported_at": "2026-11-03T14:43:25Z",
   "source": "peanut"
  }
 }
