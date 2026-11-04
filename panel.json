@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated_at": "2026-11-03T14:43:25Z",
+ "generated_at": "2026-11-04T14:44:04Z",
  "brief": {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T14:43:25Z",
-  "headline": "Tuesday Nov 3 — store posts in four slots today, G Herbo is Friday, 5 things waiting on you",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T14:44:04Z",
+  "headline": "Wednesday Nov 4 — store posts today, G Herbo Friday, 6 things waiting on you",
   "highlights": [
    {
-    "kind": "task",
-    "title": "Benefits open enrollment is open Nov 2-16",
-    "detail": "In Workday — elections do not roll over, pick fresh ones by Nov 16"
+    "kind": "fyi",
+    "title": "Store posts run today, Nov 5 queued",
+    "detail": "Wed Nov 4 lineup starts 11:30 AM, with slots at 6 PM, 7:30 PM and 8 PM"
    },
    {
     "kind": "calendar",
@@ -17,27 +17,27 @@
     "detail": "Fri Nov 6, 8 PM at United Center, Chicago — with Young Thug and GloRilla"
    },
    {
-    "kind": "fyi",
-    "title": "Store posts run today in four slots",
-    "detail": "Tue Nov 3 lineup starts 11:30 AM, with slots at 6 PM, 7:30 PM and 8 PM"
+    "kind": "calendar",
+    "title": "Papa's birthday",
+    "detail": "Saturday Nov 7"
+   },
+   {
+    "kind": "task",
+    "title": "Benefits open enrollment closes Nov 16",
+    "detail": "In Workday — elections do not roll over, pick fresh ones by Nov 16"
    },
    {
     "kind": "calendar",
     "title": "GeForce NOW renews around Nov 11",
     "detail": "Reminder lands Nov 8 so you can decide before it bills"
-   },
-   {
-    "kind": "calendar",
-    "title": "Trippie Redd trip reminder lands Nov 21",
-    "detail": "Show is Sat Dec 5 in Springfield, MO — reminder set so you can plan"
    }
   ],
-  "decide_count": 5
+  "decide_count": 6
  },
  "house": {
   "mode": null,
   "in_sync": false,
-  "reported_at": "2026-11-03T14:43:25Z",
+  "reported_at": "2026-11-04T14:44:04Z",
   "source": "peanut"
  }
 }
