@@ -1,0 +1,99 @@
+{
+ "updated": "2026-11-05 16:52 CST",
+ "updated_epoch": 1793919174,
+ "library_songs": 1357,
+ "total": 829,
+ "done": 49,
+ "open": 780,
+ "by_status": {
+  "no_lyrics_yet": 608,
+  "has_lyrics_needs_sync": 164,
+  "transcribing": 5,
+  "blocked_on_audio": 3
+ },
+ "tiers": {
+  "Rest of playlist": {
+   "done": 0,
+   "open": 617
+  },
+  "TopOppGen": {
+   "done": 44,
+   "open": 1
+  },
+  "BabyRu78": {
+   "done": 0,
+   "open": 84
+  },
+  "AZIEDOESNTEXIST": {
+   "done": 2,
+   "open": 18
+  },
+  "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)": {
+   "done": 3,
+   "open": 60
+  }
+ },
+ "finished_recently": [
+  {
+   "slug": "topoppgen-cavity",
+   "when": "Nov 05 14:16"
+  },
+  {
+   "slug": "nino-paid-believe",
+   "when": "Nov 05 14:16"
+  },
+  {
+   "slug": "klouxt-madness",
+   "when": "Nov 05 10:52"
+  },
+  {
+   "slug": "topoppgen-luvmethesame",
+   "when": "Nov 05 10:52"
+  },
+  {
+   "slug": "jay-montana-thats-a-lie",
+   "when": "Nov 05 10:48"
+  },
+  {
+   "slug": "topoppgen-dior",
+   "when": "Nov 05 10:48"
+  },
+  {
+   "slug": "jay-montana-slow-it-down",
+   "when": "Nov 05 10:48"
+  },
+  {
+   "slug": "topoppgen-leave-bad-bxs-on-read",
+   "when": "Nov 05 05:19"
+  },
+  {
+   "slug": "topoppgen-jump-ina-crowd",
+   "when": "Nov 05 01:05"
+  },
+  {
+   "slug": "aziedoesntexist-everglades",
+   "when": "Nov 04 22:58"
+  },
+  {
+   "slug": "aziedoesntexist-back-to-her-is-this-real",
+   "when": "Nov 04 22:58"
+  },
+  {
+   "slug": "topoppgen-eway",
+   "when": "Nov 04 20:44"
+  },
+  {
+   "slug": "topoppgen-hello",
+   "when": "Nov 04 19:52"
+  },
+  {
+   "slug": "topoppgen-idaho",
+   "when": "Nov 04 19:42"
+  }
+ ],
+ "transcribing_now": [
+  "klouxt anemic",
+  "klouxt lilfish",
+  "topoppgen pretty and evil"
+ ]
+}
