@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05 16:52 CST",
- "updated_epoch": 1793919174,
+ "updated": "2026-11-05 17:10 CST",
+ "updated_epoch": 1793920225,
  "library_songs": 1357,
  "total": 829,
  "done": 49,
@@ -91,9 +91,5 @@
    "when": "Nov 04 19:42"
   }
  ],
- "transcribing_now": [
-  "klouxt anemic",
-  "klouxt lilfish",
-  "topoppgen pretty and evil"
- ]
+ "transcribing_now": []
 }
