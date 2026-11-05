@@ -1,16 +1,11 @@
 {
  "v": 1,
- "generated_at": "2026-11-04T14:44:04Z",
+ "generated_at": "2026-11-05T14:44:53Z",
  "brief": {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T14:44:04Z",
-  "headline": "Wednesday Nov 4 — store posts today, G Herbo Friday, 6 things waiting on you",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T14:44:53Z",
+  "headline": "Thursday Nov 5 — G Herbo tomorrow, new shirts with Grok, 7 things waiting on you",
   "highlights": [
-   {
-    "kind": "fyi",
-    "title": "Store posts run today, Nov 5 queued",
-    "detail": "Wed Nov 4 lineup starts 11:30 AM, with slots at 6 PM, 7:30 PM and 8 PM"
-   },
    {
     "kind": "calendar",
     "title": "G Herbo: Swerv & Friends Part 2",
@@ -22,22 +17,27 @@
     "detail": "Saturday Nov 7"
    },
    {
+    "kind": "fyi",
+    "title": "Store posts run today",
+    "detail": "Thu Nov 5 lineup starts 11:30 AM, with slots at 6 PM, 7:30 PM and 8 PM"
+   },
+   {
     "kind": "task",
     "title": "Benefits open enrollment closes Nov 16",
     "detail": "In Workday — elections do not roll over, pick fresh ones by Nov 16"
    },
    {
-    "kind": "calendar",
-    "title": "GeForce NOW renews around Nov 11",
-    "detail": "Reminder lands Nov 8 so you can decide before it bills"
+    "kind": "fyi",
+    "title": "New shirts drop with Grok for QC",
+    "detail": "47 designs in tee and hoodie variants delivered, awaiting fold-in"
    }
   ],
-  "decide_count": 6
+  "decide_count": 7
  },
  "house": {
   "mode": null,
   "in_sync": false,
-  "reported_at": "2026-11-04T14:44:04Z",
+  "reported_at": "2026-11-05T14:44:53Z",
   "source": "peanut"
  }
 }
