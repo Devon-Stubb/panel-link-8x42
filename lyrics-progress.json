@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05 17:22 CST",
- "updated_epoch": 1793920928,
+ "updated": "2026-11-05 17:25 CST",
+ "updated_epoch": 1793921124,
  "library_songs": 1357,
  "total": 829,
  "done": 49,
@@ -188,6 +188,22 @@
    "tier": "BabyRu78",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: small"
+  },
+  {
+   "slug": "neko-how-bout-dis",
+   "title": "how bout dis",
+   "artist": "Neko",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "klouxt-anemic",
+   "title": "Anemic",
+   "artist": "Klouxt",
+   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
+   "stage": "Fix in progress",
+   "detail": "Re-checking specific lines against the audio"
   }
  ]
 }
