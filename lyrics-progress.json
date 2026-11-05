@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05 17:20 CST",
- "updated_epoch": 1793920828,
+ "updated": "2026-11-05 17:22 CST",
+ "updated_epoch": 1793920928,
  "library_songs": 1357,
  "total": 829,
  "done": 49,
@@ -91,5 +91,103 @@
    "when": "Nov 04 19:42"
   }
  ],
- "transcribing_now": []
+ "transcribing_now": [],
+ "in_progress": [
+  {
+   "slug": "topoppgen-pretty-and-evil",
+   "title": "TOPOPPGEN PRETTY & EVIL",
+   "artist": "TopOppGen",
+   "tier": "TopOppGen",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "klouxt-10-a-g",
+   "title": "10 A G",
+   "artist": "Klouxt",
+   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "klouxt-free-threat-p2",
+   "title": "Free Threat P2",
+   "artist": "Klouxt",
+   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "klouxt-perc-day",
+   "title": "Perc day",
+   "artist": "Klouxt",
+   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "klouxt-whip-out-fye",
+   "title": "Whip out Fye",
+   "artist": "Klouxt",
+   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "klouxt-lilfish",
+   "title": "lilfish",
+   "artist": "Klouxt",
+   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, small"
+  },
+  {
+   "slug": "babyru78-bhot",
+   "title": "BHOT",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babyru78-more-than-friends",
+   "title": "More Than Friends",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: small"
+  },
+  {
+   "slug": "babyru78-overlooked-me",
+   "title": "Overlooked Me",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: raw, small"
+  },
+  {
+   "slug": "babyru78-pop-two",
+   "title": "Pop Two",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babyru78-worlds-collide",
+   "title": "Worlds Collide",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babyru78-you-dont-like-it-remix",
+   "title": "YOU DONT LIKE IT (Remix)",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: small"
+  }
+ ]
 }
