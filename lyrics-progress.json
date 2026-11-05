@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05 17:30 CST",
- "updated_epoch": 1793921436,
+ "updated": "2026-11-05 17:40 CST",
+ "updated_epoch": 1793922032,
  "library_songs": 1357,
  "total": 829,
  "done": 49,
@@ -91,8 +91,18 @@
    "when": "Nov 04 19:42"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "jay montana slow it down"
+ ],
  "in_progress": [
+  {
+   "slug": "jay-montana-slow-it-down",
+   "title": "Jay Montana Slow It Down",
+   "artist": "",
+   "tier": "",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 00:46"
+  },
   {
    "slug": "topoppgen-pretty-and-evil",
    "title": "TOPOPPGEN PRETTY & EVIL",
