@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-06 00:30 CST",
- "updated_epoch": 1793946634,
- "library_songs": 1362,
+ "updated": "2026-11-06 00:40 CST",
+ "updated_epoch": 1793947235,
+ "library_songs": 1369,
  "total": 829,
- "done": 54,
- "open": 775,
+ "done": 61,
+ "open": 768,
  "by_status": {
-  "no_lyrics_yet": 604,
+  "no_lyrics_yet": 601,
   "has_lyrics_needs_sync": 164,
-  "transcribing": 4,
+  "transcribing": 0,
   "blocked_on_audio": 3
  },
  "tiers": {
@@ -21,19 +21,47 @@
    "open": 0
   },
   "BabyRu78": {
-   "done": 3,
-   "open": 81
+   "done": 6,
+   "open": 78
   },
   "AZIEDOESNTEXIST": {
    "done": 2,
    "open": 18
   },
   "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)": {
-   "done": 4,
-   "open": 59
+   "done": 8,
+   "open": 55
   }
  },
  "finished_recently": [
+  {
+   "slug": "klouxt-free-threat-p2",
+   "when": "Nov 06 00:38"
+  },
+  {
+   "slug": "klouxt-whip-out-fye",
+   "when": "Nov 06 00:38"
+  },
+  {
+   "slug": "klouxt-perc-day",
+   "when": "Nov 06 00:37"
+  },
+  {
+   "slug": "klouxt-10-a-g",
+   "when": "Nov 06 00:37"
+  },
+  {
+   "slug": "babyru78-you-dont-like-it-remix",
+   "when": "Nov 06 00:37"
+  },
+  {
+   "slug": "babyru78-worlds-collide",
+   "when": "Nov 06 00:37"
+  },
+  {
+   "slug": "babyru78-bhot",
+   "when": "Nov 06 00:36"
+  },
   {
    "slug": "babyru78-more-than-friends",
    "when": "Nov 06 00:10"
@@ -61,88 +89,10 @@
   {
    "slug": "topoppgen-cavity",
    "when": "Nov 05 14:16"
-  },
-  {
-   "slug": "nino-paid-believe",
-   "when": "Nov 05 14:16"
-  },
-  {
-   "slug": "klouxt-madness",
-   "when": "Nov 05 10:52"
-  },
-  {
-   "slug": "topoppgen-luvmethesame",
-   "when": "Nov 05 10:52"
-  },
-  {
-   "slug": "jay-montana-thats-a-lie",
-   "when": "Nov 05 10:48"
-  },
-  {
-   "slug": "topoppgen-dior",
-   "when": "Nov 05 10:48"
-  },
-  {
-   "slug": "jay-montana-slow-it-down",
-   "when": "Nov 05 10:48"
-  },
-  {
-   "slug": "topoppgen-leave-bad-bxs-on-read",
-   "when": "Nov 05 05:19"
   }
  ],
- "transcribing_now": [
-  "klouxt whip out fye"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "klouxt-10-a-g",
-   "title": "10 A G",
-   "artist": "Klouxt",
-   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "klouxt-free-threat-p2",
-   "title": "Free Threat P2",
-   "artist": "Klouxt",
-   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "klouxt-perc-day",
-   "title": "Perc day",
-   "artist": "Klouxt",
-   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "klouxt-whip-out-fye",
-   "title": "Whip out Fye",
-   "artist": "Klouxt",
-   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "babyru78-bhot",
-   "title": "BHOT",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "babyru78-worlds-collide",
-   "title": "Worlds Collide",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
   {
    "slug": "babyru78-you-dont-like-it-remix",
    "title": "YOU DONT LIKE IT (Remix)",
