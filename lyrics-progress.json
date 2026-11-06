@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05 23:33 CST",
- "updated_epoch": 1793943225,
+ "updated": "2026-11-05 23:40 CST",
+ "updated_epoch": 1793943625,
  "library_songs": 1357,
  "total": 829,
  "done": 49,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "klouxt-anemic",
+   "when": "Nov 05 23:37"
+  },
   {
    "slug": "topoppgen-cavity",
    "when": "Nov 05 14:16"
@@ -85,10 +89,6 @@
   {
    "slug": "topoppgen-hello",
    "when": "Nov 04 19:52"
-  },
-  {
-   "slug": "topoppgen-idaho",
-   "when": "Nov 04 19:42"
   }
  ],
  "transcribing_now": [],
@@ -196,14 +196,6 @@
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "klouxt-anemic",
-   "title": "Anemic",
-   "artist": "Klouxt",
-   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
-   "stage": "Fix in progress",
-   "detail": "Re-checking specific lines against the audio"
   }
  ]
 }
