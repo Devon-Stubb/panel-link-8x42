@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06 16:00 CST",
- "updated_epoch": 1794002427,
+ "updated": "2026-11-06 17:02 CST",
+ "updated_epoch": 1794006171,
  "library_songs": 1374,
  "total": 831,
  "done": 66,
@@ -94,6 +94,30 @@
  "transcribing_now": [],
  "in_progress": [
   {
+   "slug": "we-heart-gen-the-letter",
+   "title": "The Letter",
+   "artist": "We Heart Gen",
+   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "klouxt-yams",
+   "title": "YAMS",
+   "artist": "Klouxt",
+   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "lady2x-klouxt-yams",
+   "title": "YAMS",
+   "artist": "lady2x, Klouxt",
+   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "babyru78-cant-tell-me-nothing",
    "title": "Cant Tell Me Nothing",
    "artist": "BabyRu78",
@@ -164,14 +188,6 @@
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "lady2x-klouxt-yams",
-   "title": "YAMS",
-   "artist": "lady2x, Klouxt",
-   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
-   "stage": "Transcription paused",
-   "detail": "2 of 3 passes in \u2014 more transcription queued"
   }
  ]
 }
