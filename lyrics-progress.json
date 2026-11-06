@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-06 15:46 CST",
- "updated_epoch": 1794001560,
+ "updated": "2026-11-06 16:00 CST",
+ "updated_epoch": 1794002427,
  "library_songs": 1374,
  "total": 831,
  "done": 66,
  "open": 765,
  "by_status": {
-  "no_lyrics_yet": 589,
+  "no_lyrics_yet": 587,
   "has_lyrics_needs_sync": 165,
-  "transcribing": 8,
-  "blocked_on_audio": 3
+  "transcribing": 11,
+  "blocked_on_audio": 2
  },
  "tiers": {
   "Rest of playlist": {
@@ -164,6 +164,14 @@
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "lady2x-klouxt-yams",
+   "title": "YAMS",
+   "artist": "lady2x, Klouxt",
+   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
+   "stage": "Transcription paused",
+   "detail": "2 of 3 passes in \u2014 more transcription queued"
   }
  ]
 }
