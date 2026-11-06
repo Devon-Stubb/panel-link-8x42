@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-05 23:40 CST",
- "updated_epoch": 1793943625,
- "library_songs": 1357,
+ "updated": "2026-11-06 00:12 CST",
+ "updated_epoch": 1793945551,
+ "library_songs": 1362,
  "total": 829,
- "done": 49,
- "open": 780,
+ "done": 54,
+ "open": 775,
  "by_status": {
-  "no_lyrics_yet": 608,
+  "no_lyrics_yet": 604,
   "has_lyrics_needs_sync": 164,
-  "transcribing": 5,
+  "transcribing": 4,
   "blocked_on_audio": 3
  },
  "tiers": {
@@ -17,23 +17,43 @@
    "open": 617
   },
   "TopOppGen": {
-   "done": 44,
-   "open": 1
+   "done": 45,
+   "open": 0
   },
   "BabyRu78": {
-   "done": 0,
-   "open": 84
+   "done": 3,
+   "open": 81
   },
   "AZIEDOESNTEXIST": {
    "done": 2,
    "open": 18
   },
   "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)": {
-   "done": 3,
-   "open": 60
+   "done": 4,
+   "open": 59
   }
  },
  "finished_recently": [
+  {
+   "slug": "babyru78-more-than-friends",
+   "when": "Nov 06 00:10"
+  },
+  {
+   "slug": "babyru78-overlooked-me",
+   "when": "Nov 05 23:59"
+  },
+  {
+   "slug": "topoppgen-pretty-and-evil",
+   "when": "Nov 05 23:50"
+  },
+  {
+   "slug": "babyru78-pop-two",
+   "when": "Nov 05 23:43"
+  },
+  {
+   "slug": "klouxt-lilfish",
+   "when": "Nov 05 23:41"
+  },
   {
    "slug": "klouxt-anemic",
    "when": "Nov 05 23:37"
@@ -69,37 +89,19 @@
   {
    "slug": "topoppgen-leave-bad-bxs-on-read",
    "when": "Nov 05 05:19"
-  },
-  {
-   "slug": "topoppgen-jump-ina-crowd",
-   "when": "Nov 05 01:05"
-  },
-  {
-   "slug": "aziedoesntexist-everglades",
-   "when": "Nov 04 22:58"
-  },
-  {
-   "slug": "aziedoesntexist-back-to-her-is-this-real",
-   "when": "Nov 04 22:58"
-  },
-  {
-   "slug": "topoppgen-eway",
-   "when": "Nov 04 20:44"
-  },
-  {
-   "slug": "topoppgen-hello",
-   "when": "Nov 04 19:52"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "babyru78 you dont like it remix"
+ ],
  "in_progress": [
   {
-   "slug": "topoppgen-pretty-and-evil",
-   "title": "TOPOPPGEN PRETTY & EVIL",
-   "artist": "TopOppGen",
-   "tier": "TopOppGen",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
+   "slug": "babyru78-you-dont-like-it-remix",
+   "title": "YOU DONT LIKE IT (Remix)",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 01:30"
   },
   {
    "slug": "klouxt-10-a-g",
@@ -134,40 +136,8 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "klouxt-lilfish",
-   "title": "lilfish",
-   "artist": "Klouxt",
-   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, small"
-  },
-  {
    "slug": "babyru78-bhot",
    "title": "BHOT",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "babyru78-more-than-friends",
-   "title": "More Than Friends",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: small"
-  },
-  {
-   "slug": "babyru78-overlooked-me",
-   "title": "Overlooked Me",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: raw, small"
-  },
-  {
-   "slug": "babyru78-pop-two",
-   "title": "Pop Two",
    "artist": "BabyRu78",
    "tier": "BabyRu78",
    "stage": "Finishing \u2014 checking lines & timing",
@@ -180,14 +150,6 @@
    "tier": "BabyRu78",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "babyru78-you-dont-like-it-remix",
-   "title": "YOU DONT LIKE IT (Remix)",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: small"
   },
   {
    "slug": "neko-how-bout-dis",
