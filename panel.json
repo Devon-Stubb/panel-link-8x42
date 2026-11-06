@@ -1,10 +1,10 @@
 {
  "v": 1,
- "generated_at": "2026-11-05T14:44:53Z",
+ "generated_at": "2026-11-06T14:44:02Z",
  "brief": {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T14:44:53Z",
-  "headline": "Thursday Nov 5 — G Herbo tomorrow, new shirts with Grok, 7 things waiting on you",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T14:44:02Z",
+  "headline": "Friday Nov 6 — G Herbo tonight in Chicago, Papa's birthday tomorrow, 7 waiting on you",
   "highlights": [
    {
     "kind": "calendar",
@@ -17,19 +17,19 @@
     "detail": "Saturday Nov 7"
    },
    {
-    "kind": "fyi",
-    "title": "Store posts run today",
-    "detail": "Thu Nov 5 lineup starts 11:30 AM, with slots at 6 PM, 7:30 PM and 8 PM"
-   },
-   {
     "kind": "task",
     "title": "Benefits open enrollment closes Nov 16",
     "detail": "In Workday — elections do not roll over, pick fresh ones by Nov 16"
    },
    {
     "kind": "fyi",
-    "title": "New shirts drop with Grok for QC",
-    "detail": "47 designs in tee and hoodie variants delivered, awaiting fold-in"
+    "title": "Store update v82 ready",
+    "detail": "Zip 1 ready to publish now; color picker held until Grok returns Mon Nov 9"
+   },
+   {
+    "kind": "fyi",
+    "title": "Lyrics: TopOppGen complete",
+    "detail": "TopOppGen tier finished; BabyRu78 songs now in finishing and queued next"
    }
   ],
   "decide_count": 7
@@ -37,7 +37,7 @@
  "house": {
   "mode": null,
   "in_sync": false,
-  "reported_at": "2026-11-05T14:44:53Z",
+  "reported_at": "2026-11-06T14:44:02Z",
   "source": "peanut"
  }
 }
