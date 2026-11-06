@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06 00:12 CST",
- "updated_epoch": 1793945551,
+ "updated": "2026-11-06 00:20 CST",
+ "updated_epoch": 1793946038,
  "library_songs": 1362,
  "total": 829,
  "done": 54,
@@ -92,17 +92,9 @@
   }
  ],
  "transcribing_now": [
-  "babyru78 you dont like it remix"
+  "babyru78 worlds collide"
  ],
  "in_progress": [
-  {
-   "slug": "babyru78-you-dont-like-it-remix",
-   "title": "YOU DONT LIKE IT (Remix)",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 01:30"
-  },
   {
    "slug": "klouxt-10-a-g",
    "title": "10 A G",
@@ -146,6 +138,14 @@
   {
    "slug": "babyru78-worlds-collide",
    "title": "Worlds Collide",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babyru78-you-dont-like-it-remix",
+   "title": "YOU DONT LIKE IT (Remix)",
    "artist": "BabyRu78",
    "tier": "BabyRu78",
    "stage": "Finishing \u2014 checking lines & timing",
