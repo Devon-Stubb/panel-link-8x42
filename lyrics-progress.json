@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-06 05:55 CST",
- "updated_epoch": 1793966110,
+ "updated": "2026-11-06 06:30 CST",
+ "updated_epoch": 1793968207,
  "library_songs": 1369,
  "total": 829,
  "done": 61,
  "open": 768,
  "by_status": {
-  "no_lyrics_yet": 601,
+  "no_lyrics_yet": 593,
   "has_lyrics_needs_sync": 164,
-  "transcribing": 0,
+  "transcribing": 8,
   "blocked_on_audio": 3
  },
  "tiers": {
@@ -93,6 +93,30 @@
  ],
  "transcribing_now": [],
  "in_progress": [
+  {
+   "slug": "babyru78-cant-tell-me-nothing",
+   "title": "Cant Tell Me Nothing",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babyru78-ray-bands",
+   "title": "Ray Bands",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babyru78-who-tf-is-getemgone",
+   "title": "Who Tf is GetEmGone",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
   {
    "slug": "babyru78-you-dont-like-it-remix",
    "title": "YOU DONT LIKE IT (Remix)",
