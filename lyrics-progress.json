@@ -1,31 +1,31 @@
 {
- "updated": "2026-11-06 10:08 CST",
- "updated_epoch": 1793981302,
- "library_songs": 1369,
- "total": 829,
- "done": 61,
- "open": 768,
+ "updated": "2026-11-06 13:58 CST",
+ "updated_epoch": 1793995103,
+ "library_songs": 1374,
+ "total": 831,
+ "done": 66,
+ "open": 765,
  "by_status": {
-  "no_lyrics_yet": 593,
-  "has_lyrics_needs_sync": 164,
+  "no_lyrics_yet": 589,
+  "has_lyrics_needs_sync": 165,
   "transcribing": 8,
   "blocked_on_audio": 3
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 0,
-   "open": 617
+   "done": 1,
+   "open": 616
   },
   "TopOppGen": {
-   "done": 45,
+   "done": 46,
    "open": 0
   },
   "BabyRu78": {
-   "done": 6,
-   "open": 78
+   "done": 8,
+   "open": 76
   },
   "AZIEDOESNTEXIST": {
-   "done": 2,
+   "done": 3,
    "open": 18
   },
   "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)": {
@@ -34,6 +34,22 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "babyru78-ray-bands",
+   "when": "Nov 06 11:02"
+  },
+  {
+   "slug": "babyru78-chicken-rubberband",
+   "when": "Nov 06 10:53"
+  },
+  {
+   "slug": "aziedoesntexist-strings-attached-feat-topoppgen",
+   "when": "Nov 06 10:44"
+  },
+  {
+   "slug": "aziedoesntexist-everglades-remix",
+   "when": "Nov 06 10:44"
+  },
   {
    "slug": "klouxt-free-threat-p2",
    "when": "Nov 06 00:38"
@@ -73,22 +89,6 @@
   {
    "slug": "topoppgen-pretty-and-evil",
    "when": "Nov 05 23:50"
-  },
-  {
-   "slug": "babyru78-pop-two",
-   "when": "Nov 05 23:43"
-  },
-  {
-   "slug": "klouxt-lilfish",
-   "when": "Nov 05 23:41"
-  },
-  {
-   "slug": "klouxt-anemic",
-   "when": "Nov 05 23:37"
-  },
-  {
-   "slug": "topoppgen-cavity",
-   "when": "Nov 05 14:16"
   }
  ],
  "transcribing_now": [],
@@ -96,14 +96,6 @@
   {
    "slug": "babyru78-cant-tell-me-nothing",
    "title": "Cant Tell Me Nothing",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "babyru78-chicken-rubberband",
-   "title": "Chicken RubberBand",
    "artist": "BabyRu78",
    "tier": "BabyRu78",
    "stage": "Finishing \u2014 checking lines & timing",
@@ -142,14 +134,6 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "babyru78-ray-bands",
-   "title": "Ray Bands",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
    "slug": "babyru78-who-tf-is-getemgone",
    "title": "Who Tf is GetEmGone",
    "artist": "BabyRu78",
@@ -166,9 +150,17 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "neko-how-bout-dis",
-   "title": "how bout dis",
-   "artist": "Neko",
+   "slug": "rmc-mike-krispylife-kidd-arguing-pt-4-feat-krispylife-kidd",
+   "title": "Arguing, Pt. 4 (feat. KrispyLife Kidd)",
+   "artist": "Rmc Mike, KrispyLife Kidd",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "quicc-savo-rmc-mike-yn-jay-i-dont-see-the-problem",
+   "title": "I dont see the Problem",
+   "artist": "Quicc Savo, Rmc Mike, YN Jay",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
