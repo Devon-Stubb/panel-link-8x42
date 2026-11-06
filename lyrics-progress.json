@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06 06:30 CST",
- "updated_epoch": 1793968207,
+ "updated": "2026-11-06 08:09 CST",
+ "updated_epoch": 1793974155,
  "library_songs": 1369,
  "total": 829,
  "done": 61,
@@ -96,6 +96,46 @@
   {
    "slug": "babyru78-cant-tell-me-nothing",
    "title": "Cant Tell Me Nothing",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babyru78-chicken-rubberband",
+   "title": "Chicken RubberBand",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babyru78-how-it-go",
+   "title": "How It Go",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babyru78-murda-suit",
+   "title": "Murda Suit",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babyru78-no-glock",
+   "title": "No Glock",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babyru78-onna-backend",
+   "title": "Onna Backend",
    "artist": "BabyRu78",
    "tier": "BabyRu78",
    "stage": "Finishing \u2014 checking lines & timing",
