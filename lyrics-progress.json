@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07 09:10 CST",
- "updated_epoch": 1794064239,
+ "updated": "2026-11-07 09:17 CST",
+ "updated_epoch": 1794064670,
  "library_songs": 1374,
  "total": 831,
  "done": 66,
@@ -91,7 +91,9 @@
    "when": "Nov 05 23:50"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "babyru78 murda suit"
+ ],
  "in_progress": [
   {
    "slug": "we-heart-gen-the-letter",
