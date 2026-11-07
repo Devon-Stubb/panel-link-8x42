@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-07 11:10 CST",
- "updated_epoch": 1794071448,
- "library_songs": 1385,
+ "updated": "2026-11-07 11:22 CST",
+ "updated_epoch": 1794072137,
+ "library_songs": 1384,
  "total": 831,
- "done": 77,
- "open": 754,
+ "done": 78,
+ "open": 753,
  "by_status": {
   "no_lyrics_yet": 583,
-  "has_lyrics_needs_sync": 165,
-  "transcribing": 4,
+  "has_lyrics_needs_sync": 163,
+  "transcribing": 5,
   "blocked_on_audio": 2
  },
  "tiers": {
@@ -25,8 +25,8 @@
    "open": 70
   },
   "AZIEDOESNTEXIST": {
-   "done": 3,
-   "open": 18
+   "done": 4,
+   "open": 17
   },
   "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)": {
    "done": 11,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "chuckyy-plenty",
+   "when": "Nov 07 11:17"
+  },
+  {
+   "slug": "aziedoesntexist-no-one-else",
+   "when": "Nov 07 11:17"
+  },
   {
    "slug": "quicc-savo-rmc-mike-yn-jay-i-dont-see-the-problem",
    "when": "Nov 07 10:37"
@@ -81,29 +89,10 @@
   {
    "slug": "babyru78-ray-bands",
    "when": "Nov 06 11:02"
-  },
-  {
-   "slug": "babyru78-chicken-rubberband",
-   "when": "Nov 06 10:53"
-  },
-  {
-   "slug": "aziedoesntexist-strings-attached-feat-topoppgen",
-   "when": "Nov 06 10:44"
   }
  ],
- "transcribing_now": [
-  "aziedoesntexist no one else",
-  "expen ive rio playing roles"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "expen-ive-rio-playing-roles",
-   "title": "Playing Roles",
-   "artist": "Expen$ive, Rio",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 00:53"
-  },
   {
    "slug": "babyru78-you-dont-like-it-remix",
    "title": "YOU DONT LIKE IT (Remix)",
@@ -111,6 +100,14 @@
    "tier": "BabyRu78",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "expen-ive-rio-playing-roles",
+   "title": "Playing Roles",
+   "artist": "Expen$ive, Rio",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: small"
   }
  ]
 }
