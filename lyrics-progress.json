@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07 11:06 CST",
- "updated_epoch": 1794071214,
+ "updated": "2026-11-07 11:10 CST",
+ "updated_epoch": 1794071448,
  "library_songs": 1385,
  "total": 831,
  "done": 77,
@@ -91,8 +91,19 @@
    "when": "Nov 06 10:44"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "aziedoesntexist no one else",
+  "expen ive rio playing roles"
+ ],
  "in_progress": [
+  {
+   "slug": "expen-ive-rio-playing-roles",
+   "title": "Playing Roles",
+   "artist": "Expen$ive, Rio",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 00:53"
+  },
   {
    "slug": "babyru78-you-dont-like-it-remix",
    "title": "YOU DONT LIKE IT (Remix)",
