@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07 11:22 CST",
- "updated_epoch": 1794072137,
+ "updated": "2026-11-07 11:25 CST",
+ "updated_epoch": 1794072353,
  "library_songs": 1384,
  "total": 831,
  "done": 78,
@@ -91,7 +91,9 @@
    "when": "Nov 06 11:02"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "chuckyy plenty"
+ ],
  "in_progress": [
   {
    "slug": "babyru78-you-dont-like-it-remix",
