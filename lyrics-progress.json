@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07 12:15 CST",
- "updated_epoch": 1794075343,
+ "updated": "2026-11-07 12:20 CST",
+ "updated_epoch": 1794075644,
  "library_songs": 1387,
  "total": 831,
  "done": 81,
@@ -92,6 +92,7 @@
   }
  ],
  "transcribing_now": [
+  "fonzo 6700 ova viral",
   "rio da yung og rmc mike non cense"
  ],
  "in_progress": [
@@ -101,7 +102,7 @@
    "artist": "Rio Da Yung Og, Rmc Mike",
    "tier": "Rest of playlist",
    "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 01:40"
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 00:41"
   },
   {
    "slug": "babyru78-love-me-rumix",
