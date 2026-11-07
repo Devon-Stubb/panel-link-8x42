@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07 12:08 CST",
- "updated_epoch": 1794074910,
+ "updated": "2026-11-07 12:10 CST",
+ "updated_epoch": 1794075043,
  "library_songs": 1387,
  "total": 831,
  "done": 81,
@@ -91,18 +91,8 @@
    "when": "Nov 07 10:37"
   }
  ],
- "transcribing_now": [
-  "jamal kuron rio da yung og rmc mike 2 spicy"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "jamal-kuron-rio-da-yung-og-rmc-mike-2-spicy",
-   "title": "2 Spicy",
-   "artist": "Jamal Kuron, Rio Da Yung Og, Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 00:35"
-  },
   {
    "slug": "babyru78-love-me-rumix",
    "title": "LOVE ME Rumix",
@@ -116,6 +106,14 @@
    "title": "YOU DONT LIKE IT (Remix)",
    "artist": "BabyRu78",
    "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "jamal-kuron-rio-da-yung-og-rmc-mike-2-spicy",
+   "title": "2 Spicy",
+   "artist": "Jamal Kuron, Rio Da Yung Og, Rmc Mike",
+   "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
