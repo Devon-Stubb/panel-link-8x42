@@ -1,39 +1,83 @@
 {
- "updated": "2026-11-07 10:25 CST",
- "updated_epoch": 1794068748,
- "library_songs": 1374,
+ "updated": "2026-11-07 10:59 CST",
+ "updated_epoch": 1794070768,
+ "library_songs": 1385,
  "total": 831,
- "done": 66,
- "open": 765,
+ "done": 77,
+ "open": 754,
  "by_status": {
-  "no_lyrics_yet": 587,
+  "no_lyrics_yet": 583,
   "has_lyrics_needs_sync": 165,
-  "transcribing": 11,
+  "transcribing": 4,
   "blocked_on_audio": 2
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 1,
-   "open": 616
+   "done": 3,
+   "open": 614
   },
   "TopOppGen": {
    "done": 46,
    "open": 0
   },
   "BabyRu78": {
-   "done": 8,
-   "open": 76
+   "done": 14,
+   "open": 70
   },
   "AZIEDOESNTEXIST": {
    "done": 3,
    "open": 18
   },
   "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)": {
-   "done": 8,
-   "open": 55
+   "done": 11,
+   "open": 52
   }
  },
  "finished_recently": [
+  {
+   "slug": "quicc-savo-rmc-mike-yn-jay-i-dont-see-the-problem",
+   "when": "Nov 07 10:37"
+  },
+  {
+   "slug": "rmc-mike-arguing-pt-4",
+   "when": "Nov 07 10:37"
+  },
+  {
+   "slug": "babyru78-no-glock",
+   "when": "Nov 07 10:37"
+  },
+  {
+   "slug": "babyru78-murda-suit",
+   "when": "Nov 07 10:37"
+  },
+  {
+   "slug": "babyru78-onna-backend",
+   "when": "Nov 07 10:37"
+  },
+  {
+   "slug": "babyru78-how-it-go",
+   "when": "Nov 07 10:37"
+  },
+  {
+   "slug": "babyru78-who-tf-is-getemgone",
+   "when": "Nov 07 10:37"
+  },
+  {
+   "slug": "babyru78-cant-tell-me-nothing",
+   "when": "Nov 07 10:37"
+  },
+  {
+   "slug": "klouxt-yams",
+   "when": "Nov 07 10:37"
+  },
+  {
+   "slug": "lady2x-klouxt-yams",
+   "when": "Nov 07 10:37"
+  },
+  {
+   "slug": "we-heart-gen-the-letter",
+   "when": "Nov 07 10:37"
+  },
   {
    "slug": "babyru78-ray-bands",
    "when": "Nov 06 11:02"
@@ -45,149 +89,34 @@
   {
    "slug": "aziedoesntexist-strings-attached-feat-topoppgen",
    "when": "Nov 06 10:44"
-  },
-  {
-   "slug": "aziedoesntexist-everglades-remix",
-   "when": "Nov 06 10:44"
-  },
-  {
-   "slug": "klouxt-free-threat-p2",
-   "when": "Nov 06 00:38"
-  },
-  {
-   "slug": "klouxt-whip-out-fye",
-   "when": "Nov 06 00:38"
-  },
-  {
-   "slug": "klouxt-perc-day",
-   "when": "Nov 06 00:37"
-  },
-  {
-   "slug": "klouxt-10-a-g",
-   "when": "Nov 06 00:37"
-  },
-  {
-   "slug": "babyru78-you-dont-like-it-remix",
-   "when": "Nov 06 00:37"
-  },
-  {
-   "slug": "babyru78-worlds-collide",
-   "when": "Nov 06 00:37"
-  },
-  {
-   "slug": "babyru78-bhot",
-   "when": "Nov 06 00:36"
-  },
-  {
-   "slug": "babyru78-more-than-friends",
-   "when": "Nov 06 00:10"
-  },
-  {
-   "slug": "babyru78-overlooked-me",
-   "when": "Nov 05 23:59"
-  },
-  {
-   "slug": "topoppgen-pretty-and-evil",
-   "when": "Nov 05 23:50"
   }
  ],
  "transcribing_now": [
-  "babyru78 how it go"
+  "aziedoesntexist no one else",
+  "babyru78 love me rumix"
  ],
  "in_progress": [
   {
-   "slug": "we-heart-gen-the-letter",
-   "title": "The Letter",
-   "artist": "We Heart Gen",
-   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
+   "slug": "sync-love-me-rumix",
+   "title": "Sync Love Me Rumix",
+   "artist": "",
+   "tier": "",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 04:09"
   },
   {
-   "slug": "klouxt-yams",
-   "title": "YAMS",
-   "artist": "Klouxt",
-   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "lady2x-klouxt-yams",
-   "title": "YAMS",
-   "artist": "lady2x, Klouxt",
-   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "babyru78-cant-tell-me-nothing",
-   "title": "Cant Tell Me Nothing",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "babyru78-how-it-go",
-   "title": "How It Go",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "babyru78-murda-suit",
-   "title": "Murda Suit",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "babyru78-no-glock",
-   "title": "No Glock",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "babyru78-onna-backend",
-   "title": "Onna Backend",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "babyru78-who-tf-is-getemgone",
-   "title": "Who Tf is GetEmGone",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
+   "slug": "sync-no-one-else",
+   "title": "Sync No One Else",
+   "artist": "",
+   "tier": "",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 04:34"
   },
   {
    "slug": "babyru78-you-dont-like-it-remix",
    "title": "YOU DONT LIKE IT (Remix)",
    "artist": "BabyRu78",
    "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "rmc-mike-krispylife-kidd-arguing-pt-4-feat-krispylife-kidd",
-   "title": "Arguing, Pt. 4 (feat. KrispyLife Kidd)",
-   "artist": "Rmc Mike, KrispyLife Kidd",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "quicc-savo-rmc-mike-yn-jay-i-dont-see-the-problem",
-   "title": "I dont see the Problem",
-   "artist": "Quicc Savo, Rmc Mike, YN Jay",
-   "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   }
