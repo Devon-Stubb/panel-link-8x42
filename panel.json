@@ -1,20 +1,20 @@
 {
  "v": 1,
- "generated_at": "2026-11-06T14:44:02Z",
+ "generated_at": "2026-11-07T14:43:28Z",
  "brief": {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T14:44:02Z",
-  "headline": "Friday Nov 6 — G Herbo tonight in Chicago, Papa's birthday tomorrow, 7 waiting on you",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T14:43:28Z",
+  "headline": "Saturday Nov 7 — Papa's birthday today, store posts queued, benefits deadline Nov 16",
   "highlights": [
    {
     "kind": "calendar",
-    "title": "G Herbo: Swerv & Friends Part 2",
-    "detail": "Fri Nov 6, 8 PM at United Center, Chicago — with Young Thug and GloRilla"
+    "title": "Papa's birthday",
+    "detail": "Today, Saturday Nov 7"
    },
    {
     "kind": "calendar",
-    "title": "Papa's birthday",
-    "detail": "Saturday Nov 7"
+    "title": "Store posts today",
+    "detail": "Sat Nov 7 at 11:30 AM, 6:00 PM and 7:30 PM on Facebook and Instagram"
    },
    {
     "kind": "task",
@@ -27,9 +27,9 @@
     "detail": "Zip 1 ready to publish now; color picker held until Grok returns Mon Nov 9"
    },
    {
-    "kind": "fyi",
-    "title": "Lyrics: TopOppGen complete",
-    "detail": "TopOppGen tier finished; BabyRu78 songs now in finishing and queued next"
+    "kind": "calendar",
+    "title": "Trippie Redd trip reminder coming Nov 21",
+    "detail": "Show is Sat Dec 5 in Springfield, MO with TopOppGen — reminder set for Nov 21"
    }
   ],
   "decide_count": 7
@@ -37,7 +37,7 @@
  "house": {
   "mode": null,
   "in_sync": false,
-  "reported_at": "2026-11-06T14:44:02Z",
+  "reported_at": "2026-11-07T14:43:28Z",
   "source": "peanut"
  }
 }
