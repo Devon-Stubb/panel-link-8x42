@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-07 15:41 CST",
- "updated_epoch": 1794087667,
- "library_songs": 1392,
+ "updated": "2026-11-07 16:14 CST",
+ "updated_epoch": 1794089651,
+ "library_songs": 1395,
  "total": 831,
- "done": 86,
- "open": 745,
+ "done": 89,
+ "open": 742,
  "by_status": {
-  "no_lyrics_yet": 571,
-  "has_lyrics_needs_sync": 164,
+  "no_lyrics_yet": 567,
+  "has_lyrics_needs_sync": 165,
   "transcribing": 8,
   "blocked_on_audio": 2
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 10,
-   "open": 607
+   "done": 13,
+   "open": 604
   },
   "TopOppGen": {
    "done": 46,
@@ -34,6 +34,18 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "baby-zeek-rio-da-yung-og-murdermitten-babies",
+   "when": "Nov 07 15:41"
+  },
+  {
+   "slug": "lil-2z-need-some-peace",
+   "when": "Nov 07 15:41"
+  },
+  {
+   "slug": "lil-2z-what-that-mean",
+   "when": "Nov 07 15:41"
+  },
   {
    "slug": "babyru78-love-me-rumix",
    "when": "Nov 07 14:15"
@@ -77,22 +89,20 @@
   {
    "slug": "rmc-mike-arguing-pt-4",
    "when": "Nov 07 10:37"
-  },
-  {
-   "slug": "babyru78-no-glock",
-   "when": "Nov 07 10:37"
-  },
-  {
-   "slug": "babyru78-murda-suit",
-   "when": "Nov 07 10:37"
-  },
-  {
-   "slug": "babyru78-onna-backend",
-   "when": "Nov 07 10:37"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "rmc mike wop"
+ ],
  "in_progress": [
+  {
+   "slug": "rmc-mike-wop",
+   "title": "WOP",
+   "artist": "Rmc Mike",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 00:05"
+  },
   {
    "slug": "babyru78-you-dont-like-it-remix",
    "title": "YOU DONT LIKE IT (Remix)",
@@ -102,17 +112,9 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "baby-zeek-rio-da-yung-og-murdermitten-babies",
-   "title": "MurderMitten Babies",
-   "artist": "Baby Zeek, Rio Da Yung Og",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "lil-2z-need-some-peace",
-   "title": "Need Some Peace",
-   "artist": "Lil 2z",
+   "slug": "rmc-mike-22nd-jim-back-in-the-ghetto",
+   "title": "Back In The Ghetto",
+   "artist": "Rmc Mike, 22nd Jim",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -153,14 +155,6 @@
    "slug": "ysr-gramz-krispylife-kidd-welcome-to-lebeau-city",
    "title": "Welcome to Lebeau City",
    "artist": "Ysr Gramz, KrispyLife Kidd",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "lil-2z-what-that-mean",
-   "title": "What That Mean",
-   "artist": "Lil 2z",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
