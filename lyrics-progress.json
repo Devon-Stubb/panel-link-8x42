@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-07 11:25 CST",
- "updated_epoch": 1794072353,
- "library_songs": 1384,
+ "updated": "2026-11-07 11:42 CST",
+ "updated_epoch": 1794073347,
+ "library_songs": 1385,
  "total": 831,
- "done": 78,
- "open": 753,
+ "done": 79,
+ "open": 752,
  "by_status": {
-  "no_lyrics_yet": 583,
+  "no_lyrics_yet": 582,
   "has_lyrics_needs_sync": 163,
   "transcribing": 5,
   "blocked_on_audio": 2
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 3,
-   "open": 614
+   "done": 4,
+   "open": 613
   },
   "TopOppGen": {
    "done": 46,
@@ -36,7 +36,7 @@
  "finished_recently": [
   {
    "slug": "chuckyy-plenty",
-   "when": "Nov 07 11:17"
+   "when": "Nov 07 11:32"
   },
   {
    "slug": "aziedoesntexist-no-one-else",
@@ -92,14 +92,30 @@
   }
  ],
  "transcribing_now": [
-  "chuckyy plenty"
+  "sob odee boom"
  ],
  "in_progress": [
+  {
+   "slug": "sob-odee-boom",
+   "title": "BOOM",
+   "artist": "SOB Odee",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 02:40"
+  },
   {
    "slug": "babyru78-you-dont-like-it-remix",
    "title": "YOU DONT LIKE IT (Remix)",
    "artist": "BabyRu78",
    "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "fonzo-6700-ova-viral",
+   "title": "Ova Viral",
+   "artist": "Fonzo 6700",
+   "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
