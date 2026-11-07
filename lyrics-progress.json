@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07 17:05 CST",
- "updated_epoch": 1794092747,
+ "updated": "2026-11-07 17:26 CST",
+ "updated_epoch": 1794093972,
  "library_songs": 1397,
  "total": 831,
  "done": 91,
@@ -91,8 +91,19 @@
    "when": "Nov 07 11:17"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "lil 2z jimmy cliff",
+  "ysr gramz krispylife kidd welcome to lebeau city"
+ ],
  "in_progress": [
+  {
+   "slug": "lil-2z-jimmy-cliff",
+   "title": "Jimmy Cliff",
+   "artist": "Lil 2z",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 12:07"
+  },
   {
    "slug": "babyru78-you-dont-like-it-remix",
    "title": "YOU DONT LIKE IT (Remix)",
@@ -126,6 +137,14 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
+   "slug": "rio-da-yung-og-louie-one-night",
+   "title": "One Night",
+   "artist": "Rio Da Yung OG Louie",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "expen-ive-rio-playing-roles",
    "title": "Playing Roles",
    "artist": "Expen$ive, Rio",
@@ -148,14 +167,6 @@
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "rio-da-yung-og-louie-one-night",
-   "title": "One Night",
-   "artist": "Rio Da Yung OG Louie",
-   "tier": "Rest of playlist",
-   "stage": "Transcription paused",
-   "detail": "1 of 3 passes in \u2014 more transcription queued"
   }
  ]
 }
