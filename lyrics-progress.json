@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-07 12:45 CST",
- "updated_epoch": 1794077140,
- "library_songs": 1387,
+ "updated": "2026-11-07 15:24 CST",
+ "updated_epoch": 1794086660,
+ "library_songs": 1392,
  "total": 831,
- "done": 81,
- "open": 750,
+ "done": 86,
+ "open": 745,
  "by_status": {
-  "no_lyrics_yet": 578,
-  "has_lyrics_needs_sync": 163,
-  "transcribing": 7,
+  "no_lyrics_yet": 571,
+  "has_lyrics_needs_sync": 164,
+  "transcribing": 8,
   "blocked_on_audio": 2
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 6,
-   "open": 611
+   "done": 10,
+   "open": 607
   },
   "TopOppGen": {
    "done": 46,
    "open": 0
   },
   "BabyRu78": {
-   "done": 14,
-   "open": 70
+   "done": 15,
+   "open": 69
   },
   "AZIEDOESNTEXIST": {
    "done": 4,
@@ -34,6 +34,26 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "babyru78-love-me-rumix",
+   "when": "Nov 07 14:15"
+  },
+  {
+   "slug": "rio-da-yung-og-rmc-mike-poundtown",
+   "when": "Nov 07 14:15"
+  },
+  {
+   "slug": "jamal-kuron-rio-da-yung-og-rmc-mike-2-spicy",
+   "when": "Nov 07 13:00"
+  },
+  {
+   "slug": "sob-odee-boom",
+   "when": "Nov 07 13:00"
+  },
+  {
+   "slug": "fonzo-6700-ova-viral",
+   "when": "Nov 07 13:00"
+  },
   {
    "slug": "metro-boomin-feel-the-fiyaaaah",
    "when": "Nov 07 11:59"
@@ -69,40 +89,14 @@
   {
    "slug": "babyru78-onna-backend",
    "when": "Nov 07 10:37"
-  },
-  {
-   "slug": "babyru78-how-it-go",
-   "when": "Nov 07 10:37"
-  },
-  {
-   "slug": "babyru78-who-tf-is-getemgone",
-   "when": "Nov 07 10:37"
-  },
-  {
-   "slug": "babyru78-cant-tell-me-nothing",
-   "when": "Nov 07 10:37"
-  },
-  {
-   "slug": "klouxt-yams",
-   "when": "Nov 07 10:37"
-  },
-  {
-   "slug": "lady2x-klouxt-yams",
-   "when": "Nov 07 10:37"
   }
  ],
  "transcribing_now": [
-  "fonzo 6700 ova viral"
+  "baby zeek rio da yung og murdermitten babies",
+  "lil 2z need some peace",
+  "lil 2z what that mean"
  ],
  "in_progress": [
-  {
-   "slug": "babyru78-love-me-rumix",
-   "title": "LOVE ME Rumix",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
   {
    "slug": "babyru78-you-dont-like-it-remix",
    "title": "YOU DONT LIKE IT (Remix)",
@@ -112,17 +106,17 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "jamal-kuron-rio-da-yung-og-rmc-mike-2-spicy",
-   "title": "2 Spicy",
-   "artist": "Jamal Kuron, Rio Da Yung Og, Rmc Mike",
+   "slug": "baby-zeek-rio-da-yung-og-murdermitten-babies",
+   "title": "MurderMitten Babies",
+   "artist": "Baby Zeek, Rio Da Yung Og",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "sob-odee-boom",
-   "title": "BOOM",
-   "artist": "SOB Odee",
+   "slug": "lil-2z-need-some-peace",
+   "title": "Need Some Peace",
+   "artist": "Lil 2z",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -136,9 +130,9 @@
    "detail": "Passes in: raw, small"
   },
   {
-   "slug": "fonzo-6700-ova-viral",
-   "title": "Ova Viral",
-   "artist": "Fonzo 6700",
+   "slug": "rio-da-yung-og-rmc-mike-numbers",
+   "title": "Numbers",
+   "artist": "Rio Da Yung Og, Rmc Mike",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -152,9 +146,25 @@
    "detail": "Passes in: small"
   },
   {
+   "slug": "ysr-gramz-krispylife-kidd-glockboy-tez-promoting-violence",
+   "title": "Promoting Violence",
+   "artist": "Ysr Gramz, KrispyLife Kidd, GlockBoy Tez",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "ysr-gramz-krispylife-kidd-welcome-to-lebeau-city",
    "title": "Welcome to Lebeau City",
    "artist": "Ysr Gramz, KrispyLife Kidd",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "lil-2z-what-that-mean",
+   "title": "What That Mean",
+   "artist": "Lil 2z",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
