@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07 17:47 CST",
- "updated_epoch": 1794095239,
+ "updated": "2026-11-07 17:50 CST",
+ "updated_epoch": 1794095443,
  "library_songs": 1397,
  "total": 831,
  "done": 91,
@@ -91,10 +91,7 @@
    "when": "Nov 07 11:17"
   }
  ],
- "transcribing_now": [
-  "rio da yung og louie one night",
-  "rio da yung og rmc mike numbers"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
    "slug": "babyru78-you-dont-like-it-remix",
