@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-07T17:50:42Z",
- "count": 1379,
+ "generated_at": "2026-11-07T23:55:28Z",
+ "count": 1392,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -682,6 +682,13 @@
    "sha": "3a5cac82ba1e847af211b6dc8566bdec37ba2c2a475d08a68046882045667673"
   },
   {
+   "title": "MurderMitten Babies",
+   "artist": "Baby Zeek, Rio Da Yung Og",
+   "file": "baby-zeek-rio-da-yung-og-murdermitten-babies.lrc",
+   "kind": "synced",
+   "sha": "827e127be70a5335064dc022fad0d57d16478011fb8b6d626f21382fd8522db9"
+  },
+  {
    "title": "6ix Times 2Day",
    "artist": "BabyChiefDoit",
    "file": "babychiefdoit-6ix-times-2day.lrc",
@@ -841,6 +848,13 @@
    "file": "babyru78-how-it-go.lrc",
    "kind": "synced",
    "sha": "a05c03ccda723deb0ea0a520b094e03a7609e33060cd5757656f82a13fef6430"
+  },
+  {
+   "title": "LOVE ME Rumix",
+   "artist": "BabyRu78",
+   "file": "babyru78-love-me-rumix.lrc",
+   "kind": "synced",
+   "sha": "fe10266943f656ca73f55fc4d723dd18cb02b31e9cd891923baff35de97e89ed"
   },
   {
    "title": "More Than Friends",
@@ -2292,6 +2306,13 @@
    "sha": "bb77c21f4c13e83a8008bc72b8d20b2c67bea2075708e59d422fe8a391826af4"
   },
   {
+   "title": "Ova Viral",
+   "artist": "Fonzo 6700",
+   "file": "fonzo-6700-ova-viral.lrc",
+   "kind": "synced",
+   "sha": "25ee227c18c912c2fd8872317a001f9042544f9a03eef1fb714ef19be428df53"
+  },
+  {
    "title": "Maserati (feat. YNW Melly)",
    "artist": "Foolie, YNW Melly",
    "file": "foolie-maserati.lrc",
@@ -2976,6 +2997,13 @@
    "file": "ja-z-f-ckwithmeyouknowigotit.lrc",
    "kind": "synced",
    "sha": "6ed6c9bd25c29da0eb11bc78c46119cb61dc0d731adf102934b67f8c693d72bb"
+  },
+  {
+   "title": "2 Spicy",
+   "artist": "Jamal Kuron, Rio Da Yung Og, Rmc Mike",
+   "file": "jamal-kuron-rio-da-yung-og-rmc-mike-2-spicy.lrc",
+   "kind": "synced",
+   "sha": "22dc37f4fd871fd8d524312c856dfa22617e33ad0170a56a5b9597588bd93412"
   },
   {
    "title": "I Hope",
@@ -3935,6 +3963,20 @@
    "file": "li-rye-rental-cars.lrc",
    "kind": "synced",
    "sha": "60e23e1a6b58b809ec0597a17606aac4929bebe90f6bc665d8ddf8a6d332acd6"
+  },
+  {
+   "title": "Need Some Peace",
+   "artist": "Lil 2z",
+   "file": "lil-2z-need-some-peace.lrc",
+   "kind": "synced",
+   "sha": "e04000ef54b82d15502b9f58ae11bd778ddcaca031236f71f71a483f22bbd445"
+  },
+  {
+   "title": "What That Mean",
+   "artist": "Lil 2z",
+   "file": "lil-2z-what-that-mean.lrc",
+   "kind": "synced",
+   "sha": "058bfa26bd06db9dff76a86511cb83639b97ac0b3837fcef6a75104deee2dd5d"
   },
   {
    "title": "Jagger",
@@ -5489,6 +5531,20 @@
    "file": "meek-mill-sharing-locations.lrc",
    "kind": "synced",
    "sha": "df2c219fa50a4ec42314712a3f82514366e7687f0faa36289932e48ffe16c6c9"
+  },
+  {
+   "title": "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff)",
+   "artist": "Metro Boomin, A$AP Rocky, Takeoff",
+   "file": "metro-boomin-feel-the-fiyaaaah.lrc",
+   "kind": "synced",
+   "sha": "0c81dd1cca06e99e629f2a11a2d5972beadeb0ad9b831fe51de2f8e19b31a10a"
+  },
+  {
+   "title": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+   "artist": "Metro Boomin, Travis Scott, 21 Savage",
+   "file": "metro-boomin-niagara-falls.lrc",
+   "kind": "synced",
+   "sha": "62a7d64b647ac1d4a2de8f926e49245356259d9e526b077a1da546028240721c"
   },
   {
    "title": "Too Many Nights (feat. Don Toliver & with Future)",
@@ -7262,6 +7318,13 @@
    "sha": "80c9cf8fe896d9279782405840d830ddf351185d39e5eb1cecfa0a0ac825463b"
   },
   {
+   "title": "One Night",
+   "artist": "Rio Da Yung OG Louie",
+   "file": "rio-da-yung-og-louie-one-night.lrc",
+   "kind": "synced",
+   "sha": "4cf7caa5dfb7a2ce82b379d4374616af5c504fd88093227124512469c4034536"
+  },
+  {
    "title": "Me And Mike",
    "artist": "Rio Da Yung Og, Rmc Mike",
    "file": "rio-da-yung-og-me-and-mike.txt",
@@ -7316,6 +7379,13 @@
    "file": "rio-da-yung-og-rio-free.lrc",
    "kind": "synced",
    "sha": "0066d828c54a276d1032db530f5d3dee3ee1caa08acd9c1e49915a78be6024c8"
+  },
+  {
+   "title": "PoundTown",
+   "artist": "Rio Da Yung Og, Rmc Mike",
+   "file": "rio-da-yung-og-rmc-mike-poundtown.lrc",
+   "kind": "synced",
+   "sha": "999054458d6f998a20e57c863c41961ac1e65ab081ec92c65de8b26a084ea240"
   },
   {
    "title": "S.O.T.B.",
@@ -7395,6 +7465,13 @@
    "sha": "4e68dd676ec08f30cd0bfb4c85053892647209729ea4033ebec95264d0aad017"
   },
   {
+   "title": "Back In The Ghetto",
+   "artist": "Rmc Mike, 22nd Jim",
+   "file": "rmc-mike-22nd-jim-back-in-the-ghetto.lrc",
+   "kind": "synced",
+   "sha": "64adc6a9541f125ad7306b9c1e21242f83bdd68b6f2ad3d33b4b8c721dea321f"
+  },
+  {
    "title": "2K24",
    "artist": "Rmc Mike",
    "file": "rmc-mike-2k24.lrc",
@@ -7428,6 +7505,13 @@
    "file": "rmc-mike-paranoid.lrc",
    "kind": "synced",
    "sha": "e0ff7a10e4f92374b5e563def213eac9cae2329e50dc5ea85405feda82ad2c34"
+  },
+  {
+   "title": "WOP",
+   "artist": "Rmc Mike",
+   "file": "rmc-mike-wop.lrc",
+   "kind": "synced",
+   "sha": "9db5b05fa7f812fa74239feecbbcf3dd95bf67a02fe2189a4961861e96d16776"
   },
   {
    "title": "Mama (with Skilla Baby feat. GloRilla) - Remix",
@@ -7897,6 +7981,13 @@
    "file": "sleepy-hallow-calm-3.lrc",
    "kind": "synced",
    "sha": "45000703c72fa2724ba55e701d22eda5a39f4faee51c5262a2bd67ecbd6edea7"
+  },
+  {
+   "title": "BOOM",
+   "artist": "SOB Odee",
+   "file": "sob-odee-boom.lrc",
+   "kind": "synced",
+   "sha": "a2cc0b7bd76deeef40cfd2d831e97cf195cb2a7a771074d51086aa56aaf262a8"
   },
   {
    "title": "Black Fingernails",
