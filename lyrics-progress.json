@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-07 17:50 CST",
- "updated_epoch": 1794095443,
- "library_songs": 1397,
+ "updated": "2026-11-07 17:55 CST",
+ "updated_epoch": 1794095742,
+ "library_songs": 1398,
  "total": 831,
- "done": 91,
- "open": 740,
+ "done": 92,
+ "open": 739,
  "by_status": {
   "no_lyrics_yet": 564,
   "has_lyrics_needs_sync": 165,
-  "transcribing": 8,
+  "transcribing": 7,
   "blocked_on_audio": 3
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 15,
-   "open": 602
+   "done": 16,
+   "open": 601
   },
   "TopOppGen": {
    "done": 46,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "rio-da-yung-og-louie-one-night",
+   "when": "Nov 07 17:51"
+  },
   {
    "slug": "rmc-mike-wop",
    "when": "Nov 07 16:37"
@@ -85,13 +89,11 @@
   {
    "slug": "chuckyy-plenty",
    "when": "Nov 07 11:32"
-  },
-  {
-   "slug": "aziedoesntexist-no-one-else",
-   "when": "Nov 07 11:17"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "rio da yung og rmc mike numbers"
+ ],
  "in_progress": [
   {
    "slug": "babyru78-you-dont-like-it-remix",
@@ -129,14 +131,6 @@
    "slug": "rio-da-yung-og-rmc-mike-numbers",
    "title": "Numbers",
    "artist": "Rio Da Yung Og, Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "rio-da-yung-og-louie-one-night",
-   "title": "One Night",
-   "artist": "Rio Da Yung OG Louie",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
