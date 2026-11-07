@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07 17:26 CST",
- "updated_epoch": 1794093972,
+ "updated": "2026-11-07 17:47 CST",
+ "updated_epoch": 1794095239,
  "library_songs": 1397,
  "total": 831,
  "done": 91,
@@ -92,18 +92,10 @@
   }
  ],
  "transcribing_now": [
-  "lil 2z jimmy cliff",
-  "ysr gramz krispylife kidd welcome to lebeau city"
+  "rio da yung og louie one night",
+  "rio da yung og rmc mike numbers"
  ],
  "in_progress": [
-  {
-   "slug": "lil-2z-jimmy-cliff",
-   "title": "Jimmy Cliff",
-   "artist": "Lil 2z",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 12:07"
-  },
   {
    "slug": "babyru78-you-dont-like-it-remix",
    "title": "YOU DONT LIKE IT (Remix)",
@@ -111,6 +103,14 @@
    "tier": "BabyRu78",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "lil-2z-jimmy-cliff",
+   "title": "Jimmy Cliff",
+   "artist": "Lil 2z",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: raw, small"
   },
   {
    "slug": "rmc-mike-love-live-dee",
