@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07 11:00 CST",
- "updated_epoch": 1794070843,
+ "updated": "2026-11-07 11:06 CST",
+ "updated_epoch": 1794071214,
  "library_songs": 1385,
  "total": 831,
  "done": 77,
@@ -91,27 +91,8 @@
    "when": "Nov 06 10:44"
   }
  ],
- "transcribing_now": [
-  "aziedoesntexist no one else",
-  "babyru78 love me rumix"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "sync-love-me-rumix",
-   "title": "Sync Love Me Rumix",
-   "artist": "",
-   "tier": "",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 05:24"
-  },
-  {
-   "slug": "sync-no-one-else",
-   "title": "Sync No One Else",
-   "artist": "",
-   "tier": "",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 05:49"
-  },
   {
    "slug": "babyru78-you-dont-like-it-remix",
    "title": "YOU DONT LIKE IT (Remix)",
