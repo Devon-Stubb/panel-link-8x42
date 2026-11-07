@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-07 16:14 CST",
- "updated_epoch": 1794089651,
- "library_songs": 1395,
+ "updated": "2026-11-07 16:46 CST",
+ "updated_epoch": 1794091613,
+ "library_songs": 1397,
  "total": 831,
- "done": 89,
- "open": 742,
+ "done": 91,
+ "open": 740,
  "by_status": {
   "no_lyrics_yet": 567,
   "has_lyrics_needs_sync": 165,
-  "transcribing": 8,
+  "transcribing": 6,
   "blocked_on_audio": 2
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 13,
-   "open": 604
+   "done": 15,
+   "open": 602
   },
   "TopOppGen": {
    "done": 46,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "rmc-mike-wop",
+   "when": "Nov 07 16:37"
+  },
+  {
+   "slug": "rmc-mike-22nd-jim-back-in-the-ghetto",
+   "when": "Nov 07 16:37"
+  },
   {
    "slug": "baby-zeek-rio-da-yung-og-murdermitten-babies",
    "when": "Nov 07 15:41"
@@ -81,28 +89,10 @@
   {
    "slug": "aziedoesntexist-no-one-else",
    "when": "Nov 07 11:17"
-  },
-  {
-   "slug": "quicc-savo-rmc-mike-yn-jay-i-dont-see-the-problem",
-   "when": "Nov 07 10:37"
-  },
-  {
-   "slug": "rmc-mike-arguing-pt-4",
-   "when": "Nov 07 10:37"
   }
  ],
- "transcribing_now": [
-  "rmc mike wop"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "rmc-mike-wop",
-   "title": "WOP",
-   "artist": "Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 00:05"
-  },
   {
    "slug": "babyru78-you-dont-like-it-remix",
    "title": "YOU DONT LIKE IT (Remix)",
@@ -112,9 +102,9 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "rmc-mike-22nd-jim-back-in-the-ghetto",
-   "title": "Back In The Ghetto",
-   "artist": "Rmc Mike, 22nd Jim",
+   "slug": "rmc-mike-love-live-dee",
+   "title": "Love Live Dee",
+   "artist": "Rmc Mike",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
