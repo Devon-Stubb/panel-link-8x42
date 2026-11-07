@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-07 16:55 CST",
- "updated_epoch": 1794092141,
+ "updated": "2026-11-07 17:05 CST",
+ "updated_epoch": 1794092747,
  "library_songs": 1397,
  "total": 831,
  "done": 91,
  "open": 740,
  "by_status": {
-  "no_lyrics_yet": 567,
+  "no_lyrics_yet": 564,
   "has_lyrics_needs_sync": 165,
-  "transcribing": 6,
-  "blocked_on_audio": 2
+  "transcribing": 8,
+  "blocked_on_audio": 3
  },
  "tiers": {
   "Rest of playlist": {
@@ -148,6 +148,14 @@
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "rio-da-yung-og-louie-one-night",
+   "title": "One Night",
+   "artist": "Rio Da Yung OG Louie",
+   "tier": "Rest of playlist",
+   "stage": "Transcription paused",
+   "detail": "1 of 3 passes in \u2014 more transcription queued"
   }
  ]
 }
