@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T17:00:13Z",
+ "generated_at": "2026-11-07T17:41:39Z",
  "count": 1379,
  "songs": [
   {
@@ -628,9 +628,9 @@
   {
    "title": "No One Else",
    "artist": "AZIEDOESNTEXIST",
-   "file": "aziedoesntexist-no-one-else.txt",
-   "kind": "plain",
-   "sha": "0151f9ff0ba5824ea4259d8b967bd5a59497d91df67f15936e540935c90bb655"
+   "file": "aziedoesntexist-no-one-else.lrc",
+   "kind": "synced",
+   "sha": "77df184d2e5333de86cde4d2fe3b2e3f992ffd416b17d7e460b9687fe8e26d5d"
   },
   {
    "title": "Strings Attached (feat. TopOppGen)",
@@ -841,13 +841,6 @@
    "file": "babyru78-how-it-go.lrc",
    "kind": "synced",
    "sha": "a05c03ccda723deb0ea0a520b094e03a7609e33060cd5757656f82a13fef6430"
-  },
-  {
-   "title": "LOVE ME Rumix",
-   "artist": "BabyRu78",
-   "file": "babyru78-love-me-rumix.txt",
-   "kind": "plain",
-   "sha": "7ff5aa9189ddc15bd442068235ad88d515fb12aa4f6d9325f0c63701070d7594"
   },
   {
    "title": "More Than Friends",
@@ -1674,6 +1667,13 @@
    "file": "chuckyy-bodiez.lrc",
    "kind": "synced",
    "sha": "c2d2d27b8c7827bb9802778cc18dc751b37ea78d34d82188208a7eb8cfb1f919"
+  },
+  {
+   "title": "Plenty",
+   "artist": "Chuckyy",
+   "file": "chuckyy-plenty.lrc",
+   "kind": "synced",
+   "sha": "2dbac99ad9b2f97a5a220fa91f8cfdd50ab3e4c556fc41a7de6be116433ca8ae"
   },
   {
    "title": "Bring Dat Bag Out (feat. Lil Yachty)",
