@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-07 17:55 CST",
- "updated_epoch": 1794095742,
- "library_songs": 1398,
+ "updated": "2026-11-07 18:05 CST",
+ "updated_epoch": 1794096340,
+ "library_songs": 1399,
  "total": 831,
- "done": 92,
- "open": 739,
+ "done": 93,
+ "open": 738,
  "by_status": {
-  "no_lyrics_yet": 564,
+  "no_lyrics_yet": 563,
   "has_lyrics_needs_sync": 165,
   "transcribing": 7,
   "blocked_on_audio": 3
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 16,
-   "open": 601
+   "done": 17,
+   "open": 600
   },
   "TopOppGen": {
    "done": 46,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "rio-da-yung-og-rmc-mike-numbers",
+   "when": "Nov 07 18:00"
+  },
   {
    "slug": "rio-da-yung-og-louie-one-night",
    "when": "Nov 07 17:51"
@@ -85,16 +89,20 @@
   {
    "slug": "metro-boomin-niagara-falls",
    "when": "Nov 07 11:59"
-  },
-  {
-   "slug": "chuckyy-plenty",
-   "when": "Nov 07 11:32"
   }
  ],
  "transcribing_now": [
-  "rio da yung og rmc mike numbers"
+  "tre loaded probation"
  ],
  "in_progress": [
+  {
+   "slug": "tre-loaded-probation",
+   "title": "Probation",
+   "artist": "Tre Loaded",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 02:23"
+  },
   {
    "slug": "babyru78-you-dont-like-it-remix",
    "title": "YOU DONT LIKE IT (Remix)",
@@ -126,14 +134,6 @@
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: raw, small"
-  },
-  {
-   "slug": "rio-da-yung-og-rmc-mike-numbers",
-   "title": "Numbers",
-   "artist": "Rio Da Yung Og, Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
   },
   {
    "slug": "expen-ive-rio-playing-roles",
