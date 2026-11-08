@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-07 20:23 CST",
- "updated_epoch": 1794104586,
- "library_songs": 1400,
+ "updated": "2026-11-07 21:08 CST",
+ "updated_epoch": 1794107327,
+ "library_songs": 1402,
  "total": 835,
- "done": 94,
- "open": 741,
+ "done": 96,
+ "open": 739,
  "by_status": {
-  "no_lyrics_yet": 563,
+  "no_lyrics_yet": 562,
   "has_lyrics_needs_sync": 166,
-  "transcribing": 9,
+  "transcribing": 8,
   "blocked_on_audio": 3
  },
  "tiers": {
@@ -21,8 +21,8 @@
    "open": 3
   },
   "BabyRu78": {
-   "done": 15,
-   "open": 69
+   "done": 17,
+   "open": 67
   },
   "AZIEDOESNTEXIST": {
    "done": 4,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "babyru78-groupie-hoes",
+   "when": "Nov 07 20:44"
+  },
+  {
+   "slug": "babyru78-make-a-toast",
+   "when": "Nov 07 20:35"
+  },
   {
    "slug": "tre-loaded-probation",
    "when": "Nov 07 18:32"
@@ -81,36 +89,10 @@
   {
    "slug": "sob-odee-boom",
    "when": "Nov 07 13:00"
-  },
-  {
-   "slug": "fonzo-6700-ova-viral",
-   "when": "Nov 07 13:00"
-  },
-  {
-   "slug": "metro-boomin-feel-the-fiyaaaah",
-   "when": "Nov 07 11:59"
   }
  ],
- "transcribing_now": [
-  "babyru78 make a toast"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "babyru78-groupie-hoes",
-   "title": "GROUPIE HOES",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "babyru78-make-a-toast",
-   "title": "Make A Toast",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
   {
    "slug": "babyru78-skip-town",
    "title": "Skip Town",
@@ -171,6 +153,14 @@
    "slug": "ysr-gramz-krispylife-kidd-welcome-to-lebeau-city",
    "title": "Welcome to Lebeau City",
    "artist": "Ysr Gramz, KrispyLife Kidd",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "realrichizzo-whoop-dat",
+   "title": "Whoop Dat",
+   "artist": "RealRichIzzo",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
