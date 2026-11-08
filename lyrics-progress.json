@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07 19:01 CST",
- "updated_epoch": 1794099668,
+ "updated": "2026-11-07 19:10 CST",
+ "updated_epoch": 1794100231,
  "library_songs": 1400,
  "total": 835,
  "done": 94,
@@ -91,8 +91,18 @@
    "when": "Nov 07 11:59"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "babyru78 make a toast"
+ ],
  "in_progress": [
+  {
+   "slug": "babyru78-make-a-toast",
+   "title": "Make A Toast",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 06:21"
+  },
   {
    "slug": "babyru78-you-dont-like-it-remix",
    "title": "YOU DONT LIKE IT (Remix)",
