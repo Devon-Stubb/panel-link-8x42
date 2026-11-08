@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08 15:53 CST",
- "updated_epoch": 1794174814,
+ "updated": "2026-11-08 16:00 CST",
+ "updated_epoch": 1794175220,
  "library_songs": 1404,
  "total": 836,
  "done": 100,
@@ -91,8 +91,18 @@
    "when": "Nov 07 14:15"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "bak jay feeling good"
+ ],
  "in_progress": [
+  {
+   "slug": "bak-jay-feeling-good",
+   "title": "Bak Jay Feeling Good",
+   "artist": "",
+   "tier": "",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 00:36"
+  },
   {
    "slug": "babyru78-skip-town",
    "title": "Skip Town",
