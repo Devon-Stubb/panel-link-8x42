@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07 18:05 CST",
- "updated_epoch": 1794096340,
+ "updated": "2026-11-07 18:14 CST",
+ "updated_epoch": 1794096892,
  "library_songs": 1399,
  "total": 831,
  "done": 93,
@@ -96,14 +96,6 @@
  ],
  "in_progress": [
   {
-   "slug": "tre-loaded-probation",
-   "title": "Probation",
-   "artist": "Tre Loaded",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 02:23"
-  },
-  {
    "slug": "babyru78-you-dont-like-it-remix",
    "title": "YOU DONT LIKE IT (Remix)",
    "artist": "BabyRu78",
@@ -142,6 +134,14 @@
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: small"
+  },
+  {
+   "slug": "tre-loaded-probation",
+   "title": "Probation",
+   "artist": "Tre Loaded",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
   },
   {
    "slug": "ysr-gramz-krispylife-kidd-glockboy-tez-promoting-violence",
