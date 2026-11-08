@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-08T00:02:40Z",
- "count": 1393,
+ "generated_at": "2026-11-08T00:35:28Z",
+ "count": 1394,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -8737,6 +8737,13 @@
    "file": "travis-scott-stargazing.lrc",
    "kind": "synced",
    "sha": "2b06061bae897dcb0a6888baf62adcce85e477f5465e20186a52194606185601"
+  },
+  {
+   "title": "Probation",
+   "artist": "Tre Loaded",
+   "file": "tre-loaded-probation.lrc",
+   "kind": "synced",
+   "sha": "b4cd154cc44380487c474c539a517be67e4b70ee63fa91a54059dd8718ba5be6"
   },
   {
    "title": "1400 / 999 Freestyle",
