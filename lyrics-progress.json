@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-08 03:10 CST",
- "updated_epoch": 1794129051,
- "library_songs": 1402,
- "total": 835,
- "done": 96,
- "open": 739,
+ "updated": "2026-11-08 13:18 CST",
+ "updated_epoch": 1794165499,
+ "library_songs": 1404,
+ "total": 836,
+ "done": 100,
+ "open": 736,
  "by_status": {
-  "no_lyrics_yet": 562,
-  "has_lyrics_needs_sync": 166,
+  "no_lyrics_yet": 560,
+  "has_lyrics_needs_sync": 165,
   "transcribing": 8,
   "blocked_on_audio": 3
  },
@@ -17,11 +17,11 @@
    "open": 600
   },
   "TopOppGen": {
-   "done": 46,
-   "open": 3
+   "done": 49,
+   "open": 0
   },
   "BabyRu78": {
-   "done": 17,
+   "done": 18,
    "open": 67
   },
   "AZIEDOESNTEXIST": {
@@ -34,6 +34,18 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "topoppgen-shooting-star",
+   "when": "Nov 08 10:52"
+  },
+  {
+   "slug": "big-yavo-topoppgen-brorilla",
+   "when": "Nov 08 10:44"
+  },
+  {
+   "slug": "fattmack-topoppgen-do-or-die",
+   "when": "Nov 08 10:44"
+  },
   {
    "slug": "babyru78-groupie-hoes",
    "when": "Nov 07 20:44"
@@ -77,18 +89,6 @@
   {
    "slug": "babyru78-love-me-rumix",
    "when": "Nov 07 14:15"
-  },
-  {
-   "slug": "rio-da-yung-og-rmc-mike-poundtown",
-   "when": "Nov 07 14:15"
-  },
-  {
-   "slug": "jamal-kuron-rio-da-yung-og-rmc-mike-2-spicy",
-   "when": "Nov 07 13:00"
-  },
-  {
-   "slug": "sob-odee-boom",
-   "when": "Nov 07 13:00"
   }
  ],
  "transcribing_now": [],
@@ -96,14 +96,6 @@
   {
    "slug": "babyru78-skip-town",
    "title": "Skip Town",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "babyru78-you-dont-like-it-remix",
-   "title": "YOU DONT LIKE IT (Remix)",
    "artist": "BabyRu78",
    "tier": "BabyRu78",
    "stage": "Finishing \u2014 checking lines & timing",
