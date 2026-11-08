@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07 19:15 CST",
- "updated_epoch": 1794100538,
+ "updated": "2026-11-07 20:23 CST",
+ "updated_epoch": 1794104586,
  "library_songs": 1400,
  "total": 835,
  "done": 94,
@@ -96,12 +96,28 @@
  ],
  "in_progress": [
   {
+   "slug": "babyru78-groupie-hoes",
+   "title": "GROUPIE HOES",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "babyru78-make-a-toast",
    "title": "Make A Toast",
    "artist": "BabyRu78",
    "tier": "BabyRu78",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 01:35"
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babyru78-skip-town",
+   "title": "Skip Town",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
   },
   {
    "slug": "babyru78-you-dont-like-it-remix",
