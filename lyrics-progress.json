@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-07 18:40 CST",
- "updated_epoch": 1794098441,
+ "updated": "2026-11-07 18:45 CST",
+ "updated_epoch": 1794098738,
  "library_songs": 1400,
- "total": 831,
+ "total": 835,
  "done": 94,
- "open": 737,
+ "open": 741,
  "by_status": {
-  "no_lyrics_yet": 563,
-  "has_lyrics_needs_sync": 165,
+  "no_lyrics_yet": 566,
+  "has_lyrics_needs_sync": 166,
   "transcribing": 6,
   "blocked_on_audio": 3
  },
  "tiers": {
   "Rest of playlist": {
    "done": 18,
-   "open": 599
+   "open": 600
   },
   "TopOppGen": {
    "done": 46,
-   "open": 0
+   "open": 3
   },
   "BabyRu78": {
    "done": 15,
