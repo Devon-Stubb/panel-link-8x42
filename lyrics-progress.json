@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-07 18:20 CST",
- "updated_epoch": 1794097240,
- "library_songs": 1399,
+ "updated": "2026-11-07 18:32 CST",
+ "updated_epoch": 1794097971,
+ "library_songs": 1400,
  "total": 831,
- "done": 93,
- "open": 738,
+ "done": 94,
+ "open": 737,
  "by_status": {
   "no_lyrics_yet": 563,
   "has_lyrics_needs_sync": 165,
-  "transcribing": 7,
+  "transcribing": 6,
   "blocked_on_audio": 3
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 17,
-   "open": 600
+   "done": 18,
+   "open": 599
   },
   "TopOppGen": {
    "done": 46,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "tre-loaded-probation",
+   "when": "Nov 07 18:32"
+  },
   {
    "slug": "rio-da-yung-og-rmc-mike-numbers",
    "when": "Nov 07 18:00"
@@ -85,15 +89,9 @@
   {
    "slug": "metro-boomin-feel-the-fiyaaaah",
    "when": "Nov 07 11:59"
-  },
-  {
-   "slug": "metro-boomin-niagara-falls",
-   "when": "Nov 07 11:59"
   }
  ],
- "transcribing_now": [
-  "tre loaded probation"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
    "slug": "babyru78-you-dont-like-it-remix",
@@ -134,14 +132,6 @@
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: small"
-  },
-  {
-   "slug": "tre-loaded-probation",
-   "title": "Probation",
-   "artist": "Tre Loaded",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
   },
   {
    "slug": "ysr-gramz-krispylife-kidd-glockboy-tez-promoting-violence",
