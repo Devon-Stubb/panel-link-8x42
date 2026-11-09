@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08 19:12 CST",
- "updated_epoch": 1794186769,
+ "updated": "2026-11-08 19:25 CST",
+ "updated_epoch": 1794187537,
  "library_songs": 1406,
  "total": 837,
  "done": 102,
@@ -91,69 +91,23 @@
    "when": "Nov 07 15:41"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "nino paid believe"
+ ],
  "in_progress": [
+  {
+   "slug": "nino-paid-believe",
+   "title": "Nino Paid Believe",
+   "artist": "",
+   "tier": "",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 01:21"
+  },
   {
    "slug": "babyru78-skip-town",
    "title": "Skip Town",
    "artist": "BabyRu78",
    "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "lil-2z-jimmy-cliff",
-   "title": "Jimmy Cliff",
-   "artist": "Lil 2z",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: raw, small"
-  },
-  {
-   "slug": "rmc-mike-love-live-dee",
-   "title": "Love Live Dee",
-   "artist": "Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "rio-da-yung-og-rmc-mike-non-cense",
-   "title": "Non Cense",
-   "artist": "Rio Da Yung Og, Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: raw, small"
-  },
-  {
-   "slug": "expen-ive-rio-playing-roles",
-   "title": "Playing Roles",
-   "artist": "Expen$ive, Rio",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: small"
-  },
-  {
-   "slug": "ysr-gramz-krispylife-kidd-glockboy-tez-promoting-violence",
-   "title": "Promoting Violence",
-   "artist": "Ysr Gramz, KrispyLife Kidd, GlockBoy Tez",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "ysr-gramz-krispylife-kidd-welcome-to-lebeau-city",
-   "title": "Welcome to Lebeau City",
-   "artist": "Ysr Gramz, KrispyLife Kidd",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "realrichizzo-whoop-dat",
-   "title": "Whoop Dat",
-   "artist": "RealRichIzzo",
-   "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   }
