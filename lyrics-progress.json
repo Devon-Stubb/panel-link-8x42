@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-09 15:40 CST",
- "updated_epoch": 1794260440,
+ "updated": "2026-11-09 15:45 CST",
+ "updated_epoch": 1794260740,
  "library_songs": 1424,
  "total": 838,
  "done": 120,
  "open": 718,
  "by_status": {
-  "no_lyrics_yet": 520,
+  "no_lyrics_yet": 519,
   "has_lyrics_needs_sync": 168,
-  "transcribing": 8,
+  "transcribing": 9,
   "blocked_on_audio": 14
  },
  "tiers": {
