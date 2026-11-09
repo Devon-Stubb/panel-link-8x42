@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-08T00:35:28Z",
- "count": 1394,
+ "generated_at": "2026-11-09T11:57:30Z",
+ "count": 1412,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -843,6 +843,13 @@
    "sha": "7d8a2124bc1b6636082ca0b2623d006088921cb5e26c6afe26f2af468e1a1c76"
   },
   {
+   "title": "GROUPIE HOES",
+   "artist": "BabyRu78",
+   "file": "babyru78-groupie-hoes.lrc",
+   "kind": "synced",
+   "sha": "d7135bee3570d5cda8c17bdbf1c2f20bed5bf34614a56e94dc023e8ec63e705e"
+  },
+  {
    "title": "How It Go",
    "artist": "BabyRu78",
    "file": "babyru78-how-it-go.lrc",
@@ -855,6 +862,13 @@
    "file": "babyru78-love-me-rumix.lrc",
    "kind": "synced",
    "sha": "fe10266943f656ca73f55fc4d723dd18cb02b31e9cd891923baff35de97e89ed"
+  },
+  {
+   "title": "Make A Toast",
+   "artist": "BabyRu78",
+   "file": "babyru78-make-a-toast.lrc",
+   "kind": "synced",
+   "sha": "8fb98bdd4af163dd8bfe07b9a680dc3b7816e42b3b6ce4196565267b728217f5"
   },
   {
    "title": "More Than Friends",
@@ -1060,6 +1074,13 @@
    "sha": "67018a623d591255aa2c707cd77481079aa34c79d58074f945042a2930f9531c"
   },
   {
+   "title": "Feeling Good",
+   "artist": "BAK Jay",
+   "file": "bak-jay-feeling-good.lrc",
+   "kind": "synced",
+   "sha": "01f62c2ad0568e82c0808dabd69048526086a5a4be10d98cae9f3844336b77a8"
+  },
+  {
    "title": "Junkie Money",
    "artist": "BAK Jay",
    "file": "bak-jay-junkie-money.lrc",
@@ -1142,6 +1163,13 @@
    "file": "bay-swag-all-night-long.txt",
    "kind": "plain",
    "sha": "55bb11ccfc7df296231fe4f0b2f09fb94ab13f42a0fc3c59a4db8420862042d0"
+  },
+  {
+   "title": "Hate Hoes",
+   "artist": "bazhar",
+   "file": "bazhar-hate-hoes.lrc",
+   "kind": "synced",
+   "sha": "edb8cdbe9f0b6b447d995c66cfc3bfe3cd889c70fd10d8e97442f0a98785e8c0"
   },
   {
    "title": "Mayhem",
@@ -1275,6 +1303,13 @@
    "file": "big-yavo-dumb-ass.txt",
    "kind": "plain",
    "sha": "1465a5fcdb7b407be75f62cbbe5707627cf2c6edca6a8ea25d7db449bf1ef2ba"
+  },
+  {
+   "title": "Brorilla (feat. TopOppGen)",
+   "artist": "Big Yavo, TopOppGen",
+   "file": "big-yavo-topoppgen-brorilla.lrc",
+   "kind": "synced",
+   "sha": "131cb49dda0fc0c03a944258d2f978d4c930c5a5a30026a6471195084f7b2aa2"
   },
   {
    "title": "Allegations (feat. Pooh Shiesty)",
@@ -1422,6 +1457,13 @@
    "file": "bloodhound-q50-splash-bros.lrc",
    "kind": "synced",
    "sha": "df0a28719a9751cbdba5ff6dfe973585599b094dda21e6cc8391fdc00d1941f9"
+  },
+  {
+   "title": "Bdd",
+   "artist": "Blueface Baby",
+   "file": "blueface-baby-bdd.lrc",
+   "kind": "synced",
+   "sha": "935f96f4bd69ef1bb90ec6f639b17515cc35824ec58bcdfeb452b774280b9260"
   },
   {
    "title": "Meat This",
@@ -2250,6 +2292,20 @@
    "sha": "776e9b0558c1539e8288b26a9c0a73979f72f8cf6bd6772ec5116c9598076d95"
   },
   {
+   "title": "Playing Roles",
+   "artist": "Expen$ive, Rio",
+   "file": "expen-ive-rio-playing-roles.lrc",
+   "kind": "synced",
+   "sha": "77f5984214c6f501052643675d206a0ed2d3e5a764a273070b8f4a039f3d2628"
+  },
+  {
+   "title": "Do or Die",
+   "artist": "FattMack, TopOppGen",
+   "file": "fattmack-topoppgen-do-or-die.lrc",
+   "kind": "synced",
+   "sha": "b5a1ae5fa537cce1cfa9e8422166487892e6caaeefe43d364d42aaa128a0c9ad"
+  },
+  {
    "title": "Exposing Me Remix (feat. Rooga)",
    "artist": "FBG Duck, Rooga",
    "file": "fbg-duck-exposing-me-remix.lrc",
@@ -2521,6 +2577,13 @@
    "file": "fwc-big-key-pressure.lrc",
    "kind": "synced",
    "sha": "73f8b3e45d657e99274ced42b5c172c62e006eb0d2ef25726d4311b1f7f9bd96"
+  },
+  {
+   "title": "Wife Beater",
+   "artist": "fwm.kalebb",
+   "file": "fwm-kalebb-wife-beater.lrc",
+   "kind": "synced",
+   "sha": "2347cc903e2f2e96de200487974f770584298db7d977956add5f7f0fe9968866"
   },
   {
    "title": "2 Chains",
@@ -3895,11 +3958,25 @@
    "sha": "fd18355527596eccea24717a78501241f08c6888be82d1fdeab6788e06e0a651"
   },
   {
+   "title": "Feeling Like Bengee",
+   "artist": "KrispyLife Kidd",
+   "file": "krispylife-kidd-feeling-like-bengee.lrc",
+   "kind": "synced",
+   "sha": "bd2c3f875c8353953bf99bb10de13ac6965f8e06cb84b7f6f7d4d1d119f11095"
+  },
+  {
    "title": "Genre of Spice Talk",
    "artist": "KrispyLife Kidd, Rmc Mike",
    "file": "krispylife-kidd-genre-of-spice-talk.lrc",
    "kind": "synced",
    "sha": "416686b0dbae5f5e5a62f59c8a78afdaa1f805602959f73d5265de54ea5dad8d"
+  },
+  {
+   "title": "Ham Behavior",
+   "artist": "KrispyLife Kidd",
+   "file": "krispylife-kidd-ham-behavior.lrc",
+   "kind": "synced",
+   "sha": "3ebce41c15cb6af5b680302d07b6c2d38432aeb2290102687c3665d9567ab242"
   },
   {
    "title": "Hooty Hoo",
@@ -3914,6 +3991,13 @@
    "file": "krispylife-kidd-inna-bag.lrc",
    "kind": "synced",
    "sha": "09583ee28dfbe65782f456aafe6ecc4e1a7f9537b5b470fbf1ac1b62b7bb37aa"
+  },
+  {
+   "title": "Jibber Jabber",
+   "artist": "KrispyLife Kidd",
+   "file": "krispylife-kidd-jibber-jabber.lrc",
+   "kind": "synced",
+   "sha": "f6e847f854142a765aa592128b9f84f26e7a77545e8d3407602dcd31199ee575"
   },
   {
    "title": "Juice World",
@@ -3963,6 +4047,13 @@
    "file": "li-rye-rental-cars.lrc",
    "kind": "synced",
    "sha": "60e23e1a6b58b809ec0597a17606aac4929bebe90f6bc665d8ddf8a6d332acd6"
+  },
+  {
+   "title": "Jimmy Cliff",
+   "artist": "Lil 2z",
+   "file": "lil-2z-jimmy-cliff.lrc",
+   "kind": "synced",
+   "sha": "ece6f24a881a459f06e2f5502354477f2cfbd20d30bf00c80ba3ca335ca8f7b2"
   },
   {
    "title": "Need Some Peace",
@@ -7073,6 +7164,13 @@
    "sha": "4d8907f7d0adb7bea788e5571e88882be693f040883b76eca653767df3c17a3e"
   },
   {
+   "title": "Punch Story",
+   "artist": "Punchmade Dev",
+   "file": "punchmade-dev-punch-story.lrc",
+   "kind": "synced",
+   "sha": "77cbaf0618ed6a72f3fa3db3b704534d7b866176bada6ed1adda30c88981ff96"
+  },
+  {
    "title": "Baby",
    "artist": "Quality Control, Lil Baby, DaBaby",
    "file": "quality-control-baby.txt",
@@ -7297,6 +7395,20 @@
    "sha": "f8df0c9adcd00a3128fb571e96a61c5ea26a000f67c278b1b9d0ab3b0bdd88fb"
   },
   {
+   "title": "Grab The Pistol",
+   "artist": "Rio Da Yung Og, GrindHard E, Rmc Mike",
+   "file": "rio-da-yung-og-grindhard-e-rmc-mike-grab-the-pistol.lrc",
+   "kind": "synced",
+   "sha": "a70ac7bc786078ff14bf436341282027d94b4f67a1a67b396d559a151b734fac"
+  },
+  {
+   "title": "Heads",
+   "artist": "Rio Da Yung Og, GrindHard E, Rmc Mike, Louie Ray",
+   "file": "rio-da-yung-og-grindhard-e-rmc-mike-louie-ray-heads.lrc",
+   "kind": "synced",
+   "sha": "521d8d660a9f52b56ce613aa60886670e6f1150cbf4649eeb7f7c5d54d30b812"
+  },
+  {
    "title": "Inergee",
    "artist": "Rio Da Yung Og, Rmc Mike",
    "file": "rio-da-yung-og-inergee.txt",
@@ -7379,6 +7491,13 @@
    "file": "rio-da-yung-og-rio-free.lrc",
    "kind": "synced",
    "sha": "0066d828c54a276d1032db530f5d3dee3ee1caa08acd9c1e49915a78be6024c8"
+  },
+  {
+   "title": "Non Cense",
+   "artist": "Rio Da Yung Og, Rmc Mike",
+   "file": "rio-da-yung-og-rmc-mike-non-cense.lrc",
+   "kind": "synced",
+   "sha": "55725bc3073995fc4c468f6c9d914fe830903c6996bd763a8959bb359fbd03c7"
   },
   {
    "title": "Numbers",
@@ -7785,6 +7904,13 @@
    "file": "sheff-g-on-go.lrc",
    "kind": "synced",
    "sha": "a78c29a08777bcad3a4bef3bc2408fdeca4c8948b4b259fc10250f9dc1c840be"
+  },
+  {
+   "title": "Jackie Moon (feat. Rio Da Yung OG & RMC Mike)",
+   "artist": "ShittyBoyz, Rio Da Yung Og, Rmc Mike",
+   "file": "shittyboyz-rio-da-yung-og-rmc-mike-jackie-moon-feat-rio-da-yung-og-rmc-mike.lrc",
+   "kind": "synced",
+   "sha": "99339de7e80d49a7b23e6bd3b0ccbee6f06985306a7f44c16083978cd9f5d0f2"
   },
   {
    "title": "FDP",
@@ -8601,9 +8727,9 @@
   {
    "title": "Shooting Star",
    "artist": "TopOppGen",
-   "file": "topoppgen-shooting-star.txt",
-   "kind": "plain",
-   "sha": "6098889926a1f05f969c3355dc20195d3f8e5256fcc0cdbdbaa69a97060464be"
+   "file": "topoppgen-shooting-star.lrc",
+   "kind": "synced",
+   "sha": "b82968ac28687bb51511f03e9e04c5e48696bde9810e1a5dad8ea2337f98ced5"
   },
   {
    "title": "show me it's over",
