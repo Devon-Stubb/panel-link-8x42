@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-09 05:57 CST",
- "updated_epoch": 1794225469,
+ "updated": "2026-11-09 06:09 CST",
+ "updated_epoch": 1794226141,
  "library_songs": 1418,
  "total": 837,
  "done": 114,
  "open": 723,
  "by_status": {
-  "no_lyrics_yet": 536,
+  "no_lyrics_yet": 532,
   "has_lyrics_needs_sync": 166,
-  "transcribing": 5,
-  "blocked_on_audio": 8
+  "transcribing": 6,
+  "blocked_on_audio": 11
  },
  "tiers": {
   "Rest of playlist": {
@@ -169,6 +169,14 @@
    "slug": "ysr-gramz-krispylife-kidd-glockboy-tez-promoting-violence",
    "title": "Promoting Violence",
    "artist": "Ysr Gramz, KrispyLife Kidd, GlockBoy Tez",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "cootie-bic-fizzle-swing-my-doe-feat-bic-fizzle",
+   "title": "Swing My Doe (feat. BiC Fizzle)",
+   "artist": "Cootie, BiC Fizzle",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
