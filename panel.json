@@ -1,35 +1,35 @@
 {
  "v": 1,
- "generated_at": "2026-11-07T14:43:28Z",
+ "generated_at": "2026-11-09T14:44:07Z",
  "brief": {
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07T14:43:28Z",
-  "headline": "Saturday Nov 7 — Papa's birthday today, store posts queued, benefits deadline Nov 16",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T14:44:07Z",
+  "headline": "Monday Nov 9 — Grok back today, benefits close Nov 16, store update still to publish",
   "highlights": [
-   {
-    "kind": "calendar",
-    "title": "Papa's birthday",
-    "detail": "Today, Saturday Nov 7"
-   },
-   {
-    "kind": "calendar",
-    "title": "Store posts today",
-    "detail": "Sat Nov 7 at 11:30 AM, 6:00 PM and 7:30 PM on Facebook and Instagram"
-   },
    {
     "kind": "task",
     "title": "Benefits open enrollment closes Nov 16",
     "detail": "In Workday — elections do not roll over, pick fresh ones by Nov 16"
    },
    {
+    "kind": "calendar",
+    "title": "GeForce NOW renewal around Nov 11",
+    "detail": "Auto-renews around Nov 11 unless changed in your NVIDIA account"
+   },
+   {
     "kind": "fyi",
-    "title": "Store update v82 ready",
-    "detail": "Zip 1 ready to publish now; color picker held until Grok returns Mon Nov 9"
+    "title": "Grok returns Mon Nov 9",
+    "detail": "Color map and next store steps are queued for his return today"
    },
    {
     "kind": "calendar",
     "title": "Trippie Redd trip reminder coming Nov 21",
     "detail": "Show is Sat Dec 5 in Springfield, MO with TopOppGen — reminder set for Nov 21"
+   },
+   {
+    "kind": "fyi",
+    "title": "Lyrics library growing",
+    "detail": "116 songs done, TopOppGen at zero open, new songs still adding daily"
    }
   ],
   "decide_count": 7
@@ -37,7 +37,7 @@
  "house": {
   "mode": null,
   "in_sync": false,
-  "reported_at": "2026-11-07T14:43:28Z",
+  "reported_at": "2026-11-09T14:44:07Z",
   "source": "peanut"
  }
 }
