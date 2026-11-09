@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-09 06:43 CST",
- "updated_epoch": 1794228198,
- "library_songs": 1418,
+ "updated": "2026-11-09 14:18 CST",
+ "updated_epoch": 1794255487,
+ "library_songs": 1424,
  "total": 837,
- "done": 114,
- "open": 723,
+ "done": 120,
+ "open": 717,
  "by_status": {
-  "no_lyrics_yet": 532,
-  "has_lyrics_needs_sync": 166,
-  "transcribing": 6,
-  "blocked_on_audio": 11
+  "no_lyrics_yet": 519,
+  "has_lyrics_needs_sync": 168,
+  "transcribing": 8,
+  "blocked_on_audio": 14
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 32,
-   "open": 587
+   "done": 38,
+   "open": 581
   },
   "TopOppGen": {
    "done": 49,
@@ -34,6 +34,30 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "rmc-mike-elegant",
+   "when": "Nov 09 11:19"
+  },
+  {
+   "slug": "yusmb-rio-da-yung-og-flintiac",
+   "when": "Nov 09 11:08"
+  },
+  {
+   "slug": "ysr-gramz-krispylife-kidd-rap-about-violence",
+   "when": "Nov 09 08:47"
+  },
+  {
+   "slug": "444vlone-got-nothing-on-me",
+   "when": "Nov 09 08:39"
+  },
+  {
+   "slug": "cootie-bic-fizzle-swing-my-doe-feat-bic-fizzle",
+   "when": "Nov 09 06:57"
+  },
+  {
+   "slug": "amr-dee-huncho-bodybagz-briccz",
+   "when": "Nov 09 06:45"
+  },
   {
    "slug": "krispylife-kidd-jibber-jabber",
    "when": "Nov 09 05:44"
@@ -65,41 +89,23 @@
   {
    "slug": "rio-da-yung-og-grindhard-e-rmc-mike-grab-the-pistol",
    "when": "Nov 09 00:31"
-  },
-  {
-   "slug": "rio-da-yung-og-grindhard-e-rmc-mike-louie-ray-heads",
-   "when": "Nov 08 23:39"
-  },
-  {
-   "slug": "lil-2z-jimmy-cliff",
-   "when": "Nov 08 22:03"
-  },
-  {
-   "slug": "rio-da-yung-og-rmc-mike-non-cense",
-   "when": "Nov 08 20:41"
-  },
-  {
-   "slug": "expen-ive-rio-playing-roles",
-   "when": "Nov 08 20:32"
-  },
-  {
-   "slug": "bak-jay-feeling-good",
-   "when": "Nov 08 16:44"
-  },
-  {
-   "slug": "bazhar-hate-hoes",
-   "when": "Nov 08 16:44"
   }
  ],
- "transcribing_now": [
-  "cootie bic fizzle swing my doe feat bic fizzle"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
    "slug": "babyru78-skip-town",
    "title": "Skip Town",
    "artist": "BabyRu78",
    "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "mcn-music-rmc-mike-100-blues",
+   "title": "100 Blues",
+   "artist": "MCN Music, Rmc Mike",
+   "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
@@ -120,14 +126,6 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "amr-dee-huncho-bodybagz-briccz",
-   "title": "Bodybagz Briccz",
-   "artist": "Amr Dee Huncho",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
    "slug": "ysr-gramz-enrgy-beats-rmc-mike-baglife-tee-cant-be-stopped",
    "title": "Cant Be Stopped",
    "artist": "Ysr Gramz, Enrgy Beats, Rmc Mike, Baglife Tee",
@@ -139,6 +137,14 @@
    "slug": "krispylife-kidd-rmc-mike-gall-dept",
    "title": "Gall Dept",
    "artist": "KrispyLife Kidd, Rmc Mike",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "krispylife-kidd-i-was-done",
+   "title": "I Was Done",
+   "artist": "KrispyLife Kidd",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -168,6 +174,14 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
+   "slug": "grindhard-e-tony-rose-ysr-gramz-out-the-way",
+   "title": "Out The Way",
+   "artist": "GrindHard E, Tony Rose, Ysr Gramz",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "ysr-gramz-krispylife-kidd-glockboy-tez-promoting-violence",
    "title": "Promoting Violence",
    "artist": "Ysr Gramz, KrispyLife Kidd, GlockBoy Tez",
@@ -176,9 +190,9 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "cootie-bic-fizzle-swing-my-doe-feat-bic-fizzle",
-   "title": "Swing My Doe (feat. BiC Fizzle)",
-   "artist": "Cootie, BiC Fizzle",
+   "slug": "yusmb-rio-da-yung-og-same-day-out",
+   "title": "Same Day Out",
+   "artist": "YUSMB, Rio Da Yung Og",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -195,14 +209,6 @@
    "slug": "ysr-gramz-white-ashes-chief-keef-flow",
    "title": "White Ashes/Chief Keef Flow",
    "artist": "Ysr Gramz",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "realrichizzo-whoop-dat",
-   "title": "Whoop Dat",
-   "artist": "RealRichIzzo",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
