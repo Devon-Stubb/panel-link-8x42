@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-09 04:25 CST",
- "updated_epoch": 1794219943,
- "library_songs": 1415,
+ "updated": "2026-11-09 05:57 CST",
+ "updated_epoch": 1794225469,
+ "library_songs": 1418,
  "total": 837,
- "done": 111,
- "open": 726,
+ "done": 114,
+ "open": 723,
  "by_status": {
   "no_lyrics_yet": 536,
   "has_lyrics_needs_sync": 166,
-  "transcribing": 8,
+  "transcribing": 5,
   "blocked_on_audio": 8
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 29,
-   "open": 590
+   "done": 32,
+   "open": 587
   },
   "TopOppGen": {
    "done": 49,
@@ -34,6 +34,18 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "krispylife-kidd-jibber-jabber",
+   "when": "Nov 09 05:44"
+  },
+  {
+   "slug": "shittyboyz-rio-da-yung-og-rmc-mike-jackie-moon-feat-rio-da-yung-og-rmc-mike",
+   "when": "Nov 09 05:37"
+  },
+  {
+   "slug": "krispylife-kidd-ham-behavior",
+   "when": "Nov 09 05:27"
+  },
   {
    "slug": "punchmade-dev-punch-story",
    "when": "Nov 09 04:18"
@@ -77,32 +89,10 @@
   {
    "slug": "bazhar-hate-hoes",
    "when": "Nov 08 16:44"
-  },
-  {
-   "slug": "topoppgen-shooting-star",
-   "when": "Nov 08 10:52"
-  },
-  {
-   "slug": "big-yavo-topoppgen-brorilla",
-   "when": "Nov 08 10:44"
-  },
-  {
-   "slug": "fattmack-topoppgen-do-or-die",
-   "when": "Nov 08 10:44"
   }
  ],
- "transcribing_now": [
-  "krispylife kidd grindhard e on 2 sum"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "krispylife-kidd-grindhard-e-on-2-sum",
-   "title": "On 2 Sum",
-   "artist": "KrispyLife Kidd, Grindhard E",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 00:40"
-  },
   {
    "slug": "babyru78-skip-town",
    "title": "Skip Town",
@@ -120,17 +110,33 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "krispylife-kidd-rmc-mike-gall-dept",
-   "title": "Gall Dept",
-   "artist": "KrispyLife Kidd, Rmc Mike",
+   "slug": "ysr-gramz-enrgy-beats-scatz-krispylife-kidd-bakin-fish",
+   "title": "Bakin Fish",
+   "artist": "Ysr Gramz, Enrgy Beats, Scatz, KrispyLife Kidd",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "krispylife-kidd-ham-behavior",
-   "title": "Ham Behavior",
-   "artist": "KrispyLife Kidd",
+   "slug": "amr-dee-huncho-bodybagz-briccz",
+   "title": "Bodybagz Briccz",
+   "artist": "Amr Dee Huncho",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "ysr-gramz-enrgy-beats-rmc-mike-baglife-tee-cant-be-stopped",
+   "title": "Cant Be Stopped",
+   "artist": "Ysr Gramz, Enrgy Beats, Rmc Mike, Baglife Tee",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "krispylife-kidd-rmc-mike-gall-dept",
+   "title": "Gall Dept",
+   "artist": "KrispyLife Kidd, Rmc Mike",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -152,6 +158,14 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
+   "slug": "krispylife-kidd-grindhard-e-on-2-sum",
+   "title": "On 2 Sum",
+   "artist": "KrispyLife Kidd, Grindhard E",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "ysr-gramz-krispylife-kidd-glockboy-tez-promoting-violence",
    "title": "Promoting Violence",
    "artist": "Ysr Gramz, KrispyLife Kidd, GlockBoy Tez",
@@ -163,6 +177,14 @@
    "slug": "ysr-gramz-krispylife-kidd-welcome-to-lebeau-city",
    "title": "Welcome to Lebeau City",
    "artist": "Ysr Gramz, KrispyLife Kidd",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "ysr-gramz-white-ashes-chief-keef-flow",
+   "title": "White Ashes/Chief Keef Flow",
+   "artist": "Ysr Gramz",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
