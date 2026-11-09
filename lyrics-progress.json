@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-09 04:08 CST",
- "updated_epoch": 1794218910,
- "library_songs": 1414,
+ "updated": "2026-11-09 04:23 CST",
+ "updated_epoch": 1794219790,
+ "library_songs": 1415,
  "total": 837,
- "done": 110,
- "open": 727,
+ "done": 111,
+ "open": 726,
  "by_status": {
-  "no_lyrics_yet": 545,
+  "no_lyrics_yet": 536,
   "has_lyrics_needs_sync": 166,
-  "transcribing": 0,
+  "transcribing": 8,
   "blocked_on_audio": 8
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 28,
-   "open": 591
+   "done": 29,
+   "open": 590
   },
   "TopOppGen": {
    "done": 49,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "punchmade-dev-punch-story",
+   "when": "Nov 09 04:18"
+  },
   {
    "slug": "krispylife-kidd-feeling-like-bengee",
    "when": "Nov 09 02:44"
@@ -85,14 +89,20 @@
   {
    "slug": "fattmack-topoppgen-do-or-die",
    "when": "Nov 08 10:44"
-  },
-  {
-   "slug": "babyru78-groupie-hoes",
-   "when": "Nov 07 20:44"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "krispylife kidd ham behavior"
+ ],
  "in_progress": [
+  {
+   "slug": "krispylife-kidd-ham-behavior",
+   "title": "Ham Behavior",
+   "artist": "KrispyLife Kidd",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 02:54"
+  },
   {
    "slug": "babyru78-skip-town",
    "title": "Skip Town",
