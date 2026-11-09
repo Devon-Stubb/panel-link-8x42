@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-09 15:55 CST",
- "updated_epoch": 1794261348,
+ "updated": "2026-11-09 16:08 CST",
+ "updated_epoch": 1794262133,
  "library_songs": 1424,
- "total": 838,
+ "total": 889,
  "done": 120,
- "open": 718,
+ "open": 769,
  "by_status": {
-  "no_lyrics_yet": 519,
+  "no_lyrics_yet": 571,
   "has_lyrics_needs_sync": 168,
   "transcribing": 9,
-  "blocked_on_audio": 14
+  "blocked_on_audio": 13
  },
  "tiers": {
   "Rest of playlist": {
    "done": 38,
-   "open": 581
+   "open": 632
   },
   "TopOppGen": {
    "done": 49,
