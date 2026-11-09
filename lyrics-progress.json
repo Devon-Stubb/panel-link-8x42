@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09 04:23 CST",
- "updated_epoch": 1794219790,
+ "updated": "2026-11-09 04:25 CST",
+ "updated_epoch": 1794219943,
  "library_songs": 1415,
  "total": 837,
  "done": 111,
@@ -92,16 +92,16 @@
   }
  ],
  "transcribing_now": [
-  "krispylife kidd ham behavior"
+  "krispylife kidd grindhard e on 2 sum"
  ],
  "in_progress": [
   {
-   "slug": "krispylife-kidd-ham-behavior",
-   "title": "Ham Behavior",
-   "artist": "KrispyLife Kidd",
+   "slug": "krispylife-kidd-grindhard-e-on-2-sum",
+   "title": "On 2 Sum",
+   "artist": "KrispyLife Kidd, Grindhard E",
    "tier": "Rest of playlist",
    "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 02:54"
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 00:40"
   },
   {
    "slug": "babyru78-skip-town",
@@ -123,6 +123,14 @@
    "slug": "krispylife-kidd-rmc-mike-gall-dept",
    "title": "Gall Dept",
    "artist": "KrispyLife Kidd, Rmc Mike",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "krispylife-kidd-ham-behavior",
+   "title": "Ham Behavior",
+   "artist": "KrispyLife Kidd",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
