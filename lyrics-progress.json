@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09 15:50 CST",
- "updated_epoch": 1794261042,
+ "updated": "2026-11-09 15:55 CST",
+ "updated_epoch": 1794261348,
  "library_songs": 1424,
  "total": 838,
  "done": 120,
@@ -91,17 +91,15 @@
    "when": "Nov 09 00:31"
   }
  ],
- "transcribing_now": [
-  "topoppgen bonded trauma"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
    "slug": "topoppgen-bonded-trauma",
    "title": "Bonded Trauma",
    "artist": "TopOppGen",
    "tier": "TopOppGen",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 01:35"
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
   },
   {
    "slug": "babyru78-skip-town",
