@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-09 02:08 CST",
- "updated_epoch": 1794211711,
- "library_songs": 1413,
+ "updated": "2026-11-09 04:08 CST",
+ "updated_epoch": 1794218910,
+ "library_songs": 1414,
  "total": 837,
- "done": 109,
- "open": 728,
+ "done": 110,
+ "open": 727,
  "by_status": {
-  "no_lyrics_yet": 546,
+  "no_lyrics_yet": 545,
   "has_lyrics_needs_sync": 166,
-  "transcribing": 8,
+  "transcribing": 0,
   "blocked_on_audio": 8
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 27,
-   "open": 592
+   "done": 28,
+   "open": 591
   },
   "TopOppGen": {
    "done": 49,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "krispylife-kidd-feeling-like-bengee",
+   "when": "Nov 09 02:44"
+  },
   {
    "slug": "blueface-baby-bdd",
    "when": "Nov 09 01:57"
@@ -85,10 +89,6 @@
   {
    "slug": "babyru78-groupie-hoes",
    "when": "Nov 07 20:44"
-  },
-  {
-   "slug": "babyru78-make-a-toast",
-   "when": "Nov 07 20:35"
   }
  ],
  "transcribing_now": [],
@@ -105,6 +105,14 @@
    "slug": "rio-da-yung-og-grindhard-e-rmc-mike-alot-to-say",
    "title": "Alot To Say",
    "artist": "Rio Da Yung Og, GrindHard E, Rmc Mike",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "krispylife-kidd-rmc-mike-gall-dept",
+   "title": "Gall Dept",
+   "artist": "KrispyLife Kidd, Rmc Mike",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
