@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09 06:09 CST",
- "updated_epoch": 1794226141,
+ "updated": "2026-11-09 06:43 CST",
+ "updated_epoch": 1794228198,
  "library_songs": 1418,
  "total": 837,
  "done": 114,
@@ -91,7 +91,9 @@
    "when": "Nov 08 16:44"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "cootie bic fizzle swing my doe feat bic fizzle"
+ ],
  "in_progress": [
   {
    "slug": "babyru78-skip-town",
