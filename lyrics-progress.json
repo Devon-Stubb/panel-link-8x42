@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-08 16:00 CST",
- "updated_epoch": 1794175220,
- "library_songs": 1404,
- "total": 836,
- "done": 100,
- "open": 736,
+ "updated": "2026-11-08 17:45 CST",
+ "updated_epoch": 1794181509,
+ "library_songs": 1406,
+ "total": 837,
+ "done": 102,
+ "open": 735,
  "by_status": {
-  "no_lyrics_yet": 560,
+  "no_lyrics_yet": 559,
   "has_lyrics_needs_sync": 165,
   "transcribing": 8,
   "blocked_on_audio": 3
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 18,
-   "open": 600
+   "done": 20,
+   "open": 599
   },
   "TopOppGen": {
    "done": 49,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "bak-jay-feeling-good",
+   "when": "Nov 08 16:44"
+  },
+  {
+   "slug": "bazhar-hate-hoes",
+   "when": "Nov 08 16:44"
+  },
   {
    "slug": "topoppgen-shooting-star",
    "when": "Nov 08 10:52"
@@ -81,28 +89,10 @@
   {
    "slug": "lil-2z-need-some-peace",
    "when": "Nov 07 15:41"
-  },
-  {
-   "slug": "lil-2z-what-that-mean",
-   "when": "Nov 07 15:41"
-  },
-  {
-   "slug": "babyru78-love-me-rumix",
-   "when": "Nov 07 14:15"
   }
  ],
- "transcribing_now": [
-  "bak jay feeling good"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "bak-jay-feeling-good",
-   "title": "Bak Jay Feeling Good",
-   "artist": "",
-   "tier": "",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 00:36"
-  },
   {
    "slug": "babyru78-skip-town",
    "title": "Skip Town",
