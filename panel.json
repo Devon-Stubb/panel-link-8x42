@@ -1,10 +1,10 @@
 {
  "v": 1,
- "generated_at": "2026-11-09T14:44:07Z",
+ "generated_at": "2026-11-10T14:43:42Z",
  "brief": {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T14:44:07Z",
-  "headline": "Monday Nov 9 — Grok back today, benefits close Nov 16, store update still to publish",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T14:43:42Z",
+  "headline": "Tuesday Nov 10 — Benefits close Nov 16, GeForce renewal Nov 11, Trippie reminder Nov 21",
   "highlights": [
    {
     "kind": "task",
@@ -17,11 +17,6 @@
     "detail": "Auto-renews around Nov 11 unless changed in your NVIDIA account"
    },
    {
-    "kind": "fyi",
-    "title": "Grok returns Mon Nov 9",
-    "detail": "Color map and next store steps are queued for his return today"
-   },
-   {
     "kind": "calendar",
     "title": "Trippie Redd trip reminder coming Nov 21",
     "detail": "Show is Sat Dec 5 in Springfield, MO with TopOppGen — reminder set for Nov 21"
@@ -29,7 +24,12 @@
    {
     "kind": "fyi",
     "title": "Lyrics library growing",
-    "detail": "116 songs done, TopOppGen at zero open, new songs still adding daily"
+    "detail": "129 songs done, TopOppGen at zero open, Juice WRLD batch now in line"
+   },
+   {
+    "kind": "calendar",
+    "title": "Daily concert check at noon",
+    "detail": "St. Louis, Evansville, Nashville and Joliet checked daily, plus Chicago lookahead"
    }
   ],
   "decide_count": 7
@@ -37,7 +37,7 @@
  "house": {
   "mode": null,
   "in_sync": false,
-  "reported_at": "2026-11-09T14:44:07Z",
+  "reported_at": "2026-11-10T14:43:42Z",
   "source": "peanut"
  }
 }
