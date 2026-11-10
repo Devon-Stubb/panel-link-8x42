@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-10 00:50 CST",
- "updated_epoch": 1794293409,
- "library_songs": 1430,
+ "updated": "2026-11-10 01:03 CST",
+ "updated_epoch": 1794294198,
+ "library_songs": 1432,
  "total": 889,
- "done": 126,
- "open": 763,
+ "done": 128,
+ "open": 761,
  "by_status": {
-  "no_lyrics_yet": 564,
+  "no_lyrics_yet": 561,
   "has_lyrics_needs_sync": 171,
-  "transcribing": 7,
+  "transcribing": 8,
   "blocked_on_audio": 13
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 43,
-   "open": 627
+   "done": 45,
+   "open": 625
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "juice-wrld-rockstar-girl-prod-sidepce",
+   "when": "Nov 10 00:57"
+  },
+  {
+   "slug": "juice-wrld-cali-girl-where-are-you-3-prod-nick-mira",
+   "when": "Nov 10 00:56"
+  },
   {
    "slug": "juice-wrld-my-fault-3-prod-nick-mira",
    "when": "Nov 10 00:00"
@@ -81,14 +89,6 @@
   {
    "slug": "amr-dee-huncho-bodybagz-briccz",
    "when": "Nov 09 06:45"
-  },
-  {
-   "slug": "krispylife-kidd-jibber-jabber",
-   "when": "Nov 09 05:44"
-  },
-  {
-   "slug": "shittyboyz-rio-da-yung-og-rmc-mike-jackie-moon-feat-rio-da-yung-og-rmc-mike",
-   "when": "Nov 09 05:37"
   }
  ],
  "transcribing_now": [],
