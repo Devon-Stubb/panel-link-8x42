@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-10 06:35 CST",
- "updated_epoch": 1794314131,
- "library_songs": 1432,
+ "updated": "2026-11-10 06:56 CST",
+ "updated_epoch": 1794315361,
+ "library_songs": 1433,
  "total": 889,
- "done": 128,
- "open": 761,
+ "done": 129,
+ "open": 760,
  "by_status": {
   "no_lyrics_yet": 561,
   "has_lyrics_needs_sync": 171,
-  "transcribing": 8,
+  "transcribing": 7,
   "blocked_on_audio": 13
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 45,
-   "open": 625
+   "done": 46,
+   "open": 624
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "juice-wrld-telepathy-pt-2",
+   "when": "Nov 10 06:44"
+  },
   {
    "slug": "juice-wrld-rockstar-girl-prod-sidepce",
    "when": "Nov 10 00:57"
@@ -85,10 +89,6 @@
   {
    "slug": "cootie-bic-fizzle-swing-my-doe-feat-bic-fizzle",
    "when": "Nov 09 06:57"
-  },
-  {
-   "slug": "amr-dee-huncho-bodybagz-briccz",
-   "when": "Nov 09 06:45"
   }
  ],
  "transcribing_now": [],
@@ -190,14 +190,6 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "juice-wrld-telepathy-pt-2",
-   "title": "Telepathy (Pt. 2)",
-   "artist": "Juice WRLD",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
    "slug": "ysr-gramz-krispylife-kidd-welcome-to-lebeau-city",
    "title": "Welcome to Lebeau City",
    "artist": "Ysr Gramz, KrispyLife Kidd",
@@ -209,6 +201,14 @@
    "slug": "ysr-gramz-white-ashes-chief-keef-flow",
    "title": "White Ashes/Chief Keef Flow",
    "artist": "Ysr Gramz",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "realrichizzo-whoop-dat",
+   "title": "Whoop Dat",
+   "artist": "RealRichIzzo",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
