@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-09 16:08 CST",
- "updated_epoch": 1794262133,
- "library_songs": 1424,
+ "updated": "2026-11-09 22:24 CST",
+ "updated_epoch": 1794284679,
+ "library_songs": 1428,
  "total": 889,
- "done": 120,
- "open": 769,
+ "done": 124,
+ "open": 765,
  "by_status": {
-  "no_lyrics_yet": 571,
+  "no_lyrics_yet": 568,
   "has_lyrics_needs_sync": 168,
-  "transcribing": 9,
+  "transcribing": 8,
   "blocked_on_audio": 13
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 38,
-   "open": 632
+   "done": 41,
+   "open": 629
   },
   "TopOppGen": {
-   "done": 49,
-   "open": 1
+   "done": 50,
+   "open": 0
   },
   "BabyRu78": {
    "done": 18,
@@ -34,6 +34,22 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "juice-wrld-my-x-was-poison-999-prod-sidepce-x-nick-mira",
+   "when": "Nov 09 16:58"
+  },
+  {
+   "slug": "juice-wrld-hold-me-down",
+   "when": "Nov 09 16:57"
+  },
+  {
+   "slug": "grindhard-e-tony-rose-ysr-gramz-out-the-way",
+   "when": "Nov 09 16:49"
+  },
+  {
+   "slug": "topoppgen-bonded-trauma",
+   "when": "Nov 09 16:40"
+  },
   {
    "slug": "rmc-mike-elegant",
    "when": "Nov 09 11:19"
@@ -73,34 +89,10 @@
   {
    "slug": "punchmade-dev-punch-story",
    "when": "Nov 09 04:18"
-  },
-  {
-   "slug": "krispylife-kidd-feeling-like-bengee",
-   "when": "Nov 09 02:44"
-  },
-  {
-   "slug": "blueface-baby-bdd",
-   "when": "Nov 09 01:57"
-  },
-  {
-   "slug": "fwm-kalebb-wife-beater",
-   "when": "Nov 09 01:27"
-  },
-  {
-   "slug": "rio-da-yung-og-grindhard-e-rmc-mike-grab-the-pistol",
-   "when": "Nov 09 00:31"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "topoppgen-bonded-trauma",
-   "title": "Bonded Trauma",
-   "artist": "TopOppGen",
-   "tier": "TopOppGen",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
   {
    "slug": "babyru78-skip-town",
    "title": "Skip Town",
@@ -113,6 +105,14 @@
    "slug": "mcn-music-rmc-mike-100-blues",
    "title": "100 Blues",
    "artist": "MCN Music, Rmc Mike",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "juice-wrld-4th-quarter-shawty-freestyle",
+   "title": "4th quarter shawty freestyle",
+   "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -182,14 +182,6 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "grindhard-e-tony-rose-ysr-gramz-out-the-way",
-   "title": "Out The Way",
-   "artist": "GrindHard E, Tony Rose, Ysr Gramz",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
    "slug": "ysr-gramz-krispylife-kidd-glockboy-tez-promoting-violence",
    "title": "Promoting Violence",
    "artist": "Ysr Gramz, KrispyLife Kidd, GlockBoy Tez",
@@ -209,6 +201,14 @@
    "slug": "ysr-gramz-krispylife-kidd-welcome-to-lebeau-city",
    "title": "Welcome to Lebeau City",
    "artist": "Ysr Gramz, KrispyLife Kidd",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "ysr-gramz-white-ashes-chief-keef-flow",
+   "title": "White Ashes/Chief Keef Flow",
+   "artist": "Ysr Gramz",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
