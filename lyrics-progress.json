@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10 01:05 CST",
- "updated_epoch": 1794294340,
+ "updated": "2026-11-10 01:36 CST",
+ "updated_epoch": 1794296171,
  "library_songs": 1432,
  "total": 889,
  "done": 128,
@@ -91,18 +91,8 @@
    "when": "Nov 09 06:45"
   }
  ],
- "transcribing_now": [
-  "juice wrld telepathy pt 2"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "juice-wrld-telepathy-pt-2",
-   "title": "Telepathy (Pt. 2)",
-   "artist": "Juice WRLD",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 01:38"
-  },
   {
    "slug": "babyru78-skip-town",
    "title": "Skip Town",
@@ -195,6 +185,14 @@
    "slug": "yusmb-rio-da-yung-og-same-day-out",
    "title": "Same Day Out",
    "artist": "YUSMB, Rio Da Yung Og",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "juice-wrld-telepathy-pt-2",
+   "title": "Telepathy (Pt. 2)",
+   "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
