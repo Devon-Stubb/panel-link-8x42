@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10 01:03 CST",
- "updated_epoch": 1794294198,
+ "updated": "2026-11-10 01:05 CST",
+ "updated_epoch": 1794294340,
  "library_songs": 1432,
  "total": 889,
  "done": 128,
@@ -91,8 +91,18 @@
    "when": "Nov 09 06:45"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "juice wrld telepathy pt 2"
+ ],
  "in_progress": [
+  {
+   "slug": "juice-wrld-telepathy-pt-2",
+   "title": "Telepathy (Pt. 2)",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 01:38"
+  },
   {
    "slug": "babyru78-skip-town",
    "title": "Skip Town",
@@ -201,14 +211,6 @@
    "slug": "ysr-gramz-white-ashes-chief-keef-flow",
    "title": "White Ashes/Chief Keef Flow",
    "artist": "Ysr Gramz",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "realrichizzo-whoop-dat",
-   "title": "Whoop Dat",
-   "artist": "RealRichIzzo",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
