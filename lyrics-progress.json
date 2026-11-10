@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-09 22:46 CST",
- "updated_epoch": 1794285999,
- "library_songs": 1428,
+ "updated": "2026-11-10 00:21 CST",
+ "updated_epoch": 1794291716,
+ "library_songs": 1430,
  "total": 889,
- "done": 124,
- "open": 765,
+ "done": 126,
+ "open": 763,
  "by_status": {
-  "no_lyrics_yet": 568,
-  "has_lyrics_needs_sync": 168,
-  "transcribing": 8,
+  "no_lyrics_yet": 564,
+  "has_lyrics_needs_sync": 171,
+  "transcribing": 7,
   "blocked_on_audio": 13
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 41,
-   "open": 629
+   "done": 43,
+   "open": 627
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "juice-wrld-my-fault-3-prod-nick-mira",
+   "when": "Nov 10 00:00"
+  },
+  {
+   "slug": "juice-wrld-4th-quarter-shawty-freestyle",
+   "when": "Nov 09 23:35"
+  },
   {
    "slug": "juice-wrld-my-x-was-poison-999-prod-sidepce-x-nick-mira",
    "when": "Nov 09 16:58"
@@ -81,14 +89,6 @@
   {
    "slug": "shittyboyz-rio-da-yung-og-rmc-mike-jackie-moon-feat-rio-da-yung-og-rmc-mike",
    "when": "Nov 09 05:37"
-  },
-  {
-   "slug": "krispylife-kidd-ham-behavior",
-   "when": "Nov 09 05:27"
-  },
-  {
-   "slug": "punchmade-dev-punch-story",
-   "when": "Nov 09 04:18"
   }
  ],
  "transcribing_now": [],
@@ -105,14 +105,6 @@
    "slug": "mcn-music-rmc-mike-100-blues",
    "title": "100 Blues",
    "artist": "MCN Music, Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "juice-wrld-4th-quarter-shawty-freestyle",
-   "title": "4th quarter shawty freestyle",
-   "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -209,6 +201,14 @@
    "slug": "ysr-gramz-white-ashes-chief-keef-flow",
    "title": "White Ashes/Chief Keef Flow",
    "artist": "Ysr Gramz",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "realrichizzo-whoop-dat",
+   "title": "Whoop Dat",
+   "artist": "RealRichIzzo",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
