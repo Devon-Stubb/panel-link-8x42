@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-10 08:02 CST",
- "updated_epoch": 1794319347,
- "library_songs": 1433,
+ "updated": "2026-11-10 14:21 CST",
+ "updated_epoch": 1794342092,
+ "library_songs": 1435,
  "total": 889,
- "done": 129,
- "open": 760,
+ "done": 131,
+ "open": 758,
  "by_status": {
-  "no_lyrics_yet": 559,
-  "has_lyrics_needs_sync": 172,
+  "no_lyrics_yet": 555,
+  "has_lyrics_needs_sync": 174,
   "transcribing": 8,
   "blocked_on_audio": 13
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 46,
-   "open": 624
+   "done": 48,
+   "open": 622
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "juice-wrld-demon-girl",
+   "when": "Nov 10 13:56"
+  },
+  {
+   "slug": "juice-wrld-hypnotic-og",
+   "when": "Nov 10 13:48"
+  },
   {
    "slug": "juice-wrld-telepathy-pt-2",
    "when": "Nov 10 06:44"
@@ -81,14 +89,6 @@
   {
    "slug": "ysr-gramz-krispylife-kidd-rap-about-violence",
    "when": "Nov 09 08:47"
-  },
-  {
-   "slug": "444vlone-got-nothing-on-me",
-   "when": "Nov 09 08:39"
-  },
-  {
-   "slug": "cootie-bic-fizzle-swing-my-doe-feat-bic-fizzle",
-   "when": "Nov 09 06:57"
   }
  ],
  "transcribing_now": [],
@@ -134,17 +134,17 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "krispylife-kidd-rmc-mike-gall-dept",
-   "title": "Gall Dept",
-   "artist": "KrispyLife Kidd, Rmc Mike",
+   "slug": "juice-wrld-codeine-cobain-1-00",
+   "title": "Codeine Cobain (1:00)",
+   "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "juice-wrld-hypnotic-og",
-   "title": "Hypnotic [OG]",
-   "artist": "Juice WRLD",
+   "slug": "krispylife-kidd-rmc-mike-gall-dept",
+   "title": "Gall Dept",
+   "artist": "KrispyLife Kidd, Rmc Mike",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
