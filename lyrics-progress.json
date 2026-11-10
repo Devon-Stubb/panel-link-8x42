@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-10 06:56 CST",
- "updated_epoch": 1794315361,
+ "updated": "2026-11-10 08:02 CST",
+ "updated_epoch": 1794319347,
  "library_songs": 1433,
  "total": 889,
  "done": 129,
  "open": 760,
  "by_status": {
-  "no_lyrics_yet": 561,
-  "has_lyrics_needs_sync": 171,
-  "transcribing": 7,
+  "no_lyrics_yet": 559,
+  "has_lyrics_needs_sync": 172,
+  "transcribing": 8,
   "blocked_on_audio": 13
  },
  "tiers": {
@@ -142,6 +142,14 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
+   "slug": "juice-wrld-hypnotic-og",
+   "title": "Hypnotic [OG]",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "krispylife-kidd-i-was-done",
    "title": "I Was Done",
    "artist": "KrispyLife Kidd",
@@ -201,14 +209,6 @@
    "slug": "ysr-gramz-white-ashes-chief-keef-flow",
    "title": "White Ashes/Chief Keef Flow",
    "artist": "Ysr Gramz",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "realrichizzo-whoop-dat",
-   "title": "Whoop Dat",
-   "artist": "RealRichIzzo",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
