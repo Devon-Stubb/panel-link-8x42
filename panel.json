@@ -1,20 +1,25 @@
 {
  "v": 1,
- "generated_at": "2026-11-10T14:43:42Z",
+ "generated_at": "2026-11-11T14:43:48Z",
  "brief": {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T14:43:42Z",
-  "headline": "Tuesday Nov 10 — Benefits close Nov 16, GeForce renewal Nov 11, Trippie reminder Nov 21",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T14:43:48Z",
+  "headline": "Wednesday Nov 11 — Package due Thu, benefits close Nov 16, payment choice to make",
   "highlights": [
+   {
+    "kind": "calendar",
+    "title": "UPS delivery due Thu Nov 12",
+    "detail": "On the way — due Nov 12, 9:45 AM to 12:45 PM, signature needed"
+   },
    {
     "kind": "task",
     "title": "Benefits open enrollment closes Nov 16",
-    "detail": "In Workday — elections do not roll over, pick fresh ones by Nov 16"
+    "detail": "In Workday — HSA elections do not roll over, pick fresh ones by Nov 16"
    },
    {
-    "kind": "calendar",
-    "title": "GeForce NOW renewal around Nov 11",
-    "detail": "Auto-renews around Nov 11 unless changed in your NVIDIA account"
+    "kind": "task",
+    "title": "GeForce NOW renewal needs attention",
+    "detail": "Renewal did not go through — update payment by Nov 26 to keep membership"
    },
    {
     "kind": "calendar",
@@ -23,21 +28,16 @@
    },
    {
     "kind": "fyi",
-    "title": "Lyrics library growing",
-    "detail": "129 songs done, TopOppGen at zero open, Juice WRLD batch now in line"
-   },
-   {
-    "kind": "calendar",
-    "title": "Daily concert check at noon",
-    "detail": "St. Louis, Evansville, Nashville and Joliet checked daily, plus Chicago lookahead"
+    "title": "Slashc connector now connected",
+    "detail": "Verified Nov 10 — site and tools readable, no writes run yet"
    }
   ],
-  "decide_count": 7
+  "decide_count": 8
  },
  "house": {
   "mode": null,
   "in_sync": false,
-  "reported_at": "2026-11-10T14:43:42Z",
+  "reported_at": "2026-11-11T14:43:48Z",
   "source": "peanut"
  }
 }
