@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-11 13:10 CST",
- "updated_epoch": 1794424218,
- "library_songs": 1435,
+ "updated": "2026-11-11 15:39 CST",
+ "updated_epoch": 1794433173,
+ "library_songs": 1436,
  "total": 889,
- "done": 131,
- "open": 758,
+ "done": 132,
+ "open": 757,
  "by_status": {
-  "no_lyrics_yet": 555,
+  "no_lyrics_yet": 554,
   "has_lyrics_needs_sync": 174,
   "transcribing": 8,
   "blocked_on_audio": 13
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 48,
-   "open": 622
+   "done": 49,
+   "open": 621
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "ysr-gramz-white-ashes-chief-keef-flow",
+   "when": "Nov 11 13:25"
+  },
   {
    "slug": "juice-wrld-demon-girl",
    "when": "Nov 10 13:56"
@@ -130,6 +134,14 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
+   "slug": "juice-wrld-dark-side",
+   "title": "Dark Side",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "krispylife-kidd-rmc-mike-gall-dept",
    "title": "Gall Dept",
    "artist": "KrispyLife Kidd, Rmc Mike",
@@ -189,14 +201,6 @@
    "slug": "ysr-gramz-krispylife-kidd-welcome-to-lebeau-city",
    "title": "Welcome to Lebeau City",
    "artist": "Ysr Gramz, KrispyLife Kidd",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "ysr-gramz-white-ashes-chief-keef-flow",
-   "title": "White Ashes/Chief Keef Flow",
-   "artist": "Ysr Gramz",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
