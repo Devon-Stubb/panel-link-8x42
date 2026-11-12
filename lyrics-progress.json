@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11 23:34 CST",
- "updated_epoch": 1794461646,
+ "updated": "2026-11-11 23:43 CST",
+ "updated_epoch": 1794462183,
  "library_songs": 1439,
  "total": 889,
  "done": 135,
@@ -73,10 +73,6 @@
   {
    "slug": "juice-wrld-my-fault-3-prod-nick-mira",
    "when": "Nov 10 00:00"
-  },
-  {
-   "slug": "juice-wrld-4th-quarter-shawty-freestyle",
-   "when": "Nov 09 23:35"
   }
  ],
  "transcribing_now": [],
