@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12 00:00 CST",
- "updated_epoch": 1794463242,
+ "updated": "2026-11-12 00:05 CST",
+ "updated_epoch": 1794463544,
  "library_songs": 1439,
  "total": 889,
  "done": 135,
@@ -69,10 +69,6 @@
   {
    "slug": "juice-wrld-cali-girl-where-are-you-3-prod-nick-mira",
    "when": "Nov 10 00:56"
-  },
-  {
-   "slug": "juice-wrld-my-fault-3-prod-nick-mira",
-   "when": "Nov 10 00:00"
   }
  ],
  "transcribing_now": [],
