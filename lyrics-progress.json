@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-12 13:36 CST",
- "updated_epoch": 1794512181,
- "library_songs": 1450,
+ "updated": "2026-11-12 13:45 CST",
+ "updated_epoch": 1794512743,
+ "library_songs": 1451,
  "total": 889,
- "done": 146,
- "open": 743,
+ "done": 147,
+ "open": 742,
  "by_status": {
   "no_lyrics_yet": 522,
   "has_lyrics_needs_sync": 180,
-  "transcribing": 5,
+  "transcribing": 4,
   "blocked_on_audio": 14
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 63,
-   "open": 607
+   "done": 64,
+   "open": 606
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "juice-wrld-hurt-you",
+   "when": "Nov 12 13:45"
+  },
   {
    "slug": "juice-wrld-back-in-chicago",
    "when": "Nov 12 11:19"
@@ -85,15 +89,9 @@
   {
    "slug": "juice-wrld-life-s-a-dungeon",
    "when": "Nov 11 18:56"
-  },
-  {
-   "slug": "juice-wrld-reminds-me-of-you-og",
-   "when": "Nov 11 18:26"
   }
  ],
- "transcribing_now": [
-  "juice wrld hurt you"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
    "slug": "juice-wrld-999wrld-chrome",
@@ -114,14 +112,6 @@
   {
    "slug": "juice-wrld-gelato-and-models-juice-wrld-unreleased-the-party-never-ends",
    "title": "Gelato and Models | JUICE WRLD UNRELEASED | THE PARTY NEVER ENDS",
-   "artist": "Juice WRLD",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "juice-wrld-hurt-you",
-   "title": "Hurt You",
    "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
