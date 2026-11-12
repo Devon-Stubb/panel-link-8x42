@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-12 14:50 CST",
- "updated_epoch": 1794516645,
+ "updated": "2026-11-12 15:11 CST",
+ "updated_epoch": 1794517914,
  "library_songs": 1454,
  "total": 889,
  "done": 150,
  "open": 739,
  "by_status": {
-  "no_lyrics_yet": 518,
+  "no_lyrics_yet": 514,
   "has_lyrics_needs_sync": 182,
-  "transcribing": 3,
+  "transcribing": 7,
   "blocked_on_audio": 14
  },
  "tiers": {
@@ -91,11 +91,29 @@
    "when": "Nov 12 07:29"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "krispylife kidd sweepstakes"
+ ],
  "in_progress": [
+  {
+   "slug": "krispylife-kidd-sweepstakes",
+   "title": "Sweepstakes",
+   "artist": "KrispyLife Kidd",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 04:16"
+  },
   {
    "slug": "juice-wrld-boss-of-me",
    "title": "Boss Of Me",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "juice-wrld-lovely-remix-ft-juice-wrld-khalid",
+   "title": "Lovely (Remix) (ft. Juice WRLD, Khalid)",
    "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
