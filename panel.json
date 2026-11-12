@@ -1,25 +1,20 @@
 {
  "v": 1,
- "generated_at": "2026-11-11T14:43:48Z",
+ "generated_at": "2026-11-12T14:43:45Z",
  "brief": {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T14:43:48Z",
-  "headline": "Wednesday Nov 11 — Package due Thu, benefits close Nov 16, payment choice to make",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T14:43:45Z",
+  "headline": "Thursday Nov 12 — Package due today, benefits close Nov 16, launch week live",
   "highlights": [
    {
     "kind": "calendar",
-    "title": "UPS delivery due Thu Nov 12",
-    "detail": "On the way — due Nov 12, 9:45 AM to 12:45 PM, signature needed"
+    "title": "UPS delivery due today Thu Nov 12",
+    "detail": "Loaded for delivery this morning — due 9:45 AM to 12:45 PM, signature needed"
    },
    {
     "kind": "task",
     "title": "Benefits open enrollment closes Nov 16",
     "detail": "In Workday — HSA elections do not roll over, pick fresh ones by Nov 16"
-   },
-   {
-    "kind": "task",
-    "title": "GeForce NOW renewal needs attention",
-    "detail": "Renewal did not go through — update payment by Nov 26 to keep membership"
    },
    {
     "kind": "calendar",
@@ -28,16 +23,21 @@
    },
    {
     "kind": "fyi",
-    "title": "Slashc connector now connected",
-    "detail": "Verified Nov 10 — site and tools readable, no writes run yet"
+    "title": "New shirts launch week Nov 11-17",
+    "detail": "Daily posts running on Facebook and Instagram featuring the new designs"
+   },
+   {
+    "kind": "fyi",
+    "title": "Site update v84 live",
+    "detail": "New view now leads with the 47 new shirts, verified live Nov 11"
    }
   ],
-  "decide_count": 8
+  "decide_count": 7
  },
  "house": {
   "mode": null,
   "in_sync": false,
-  "reported_at": "2026-11-11T14:43:48Z",
+  "reported_at": "2026-11-12T14:43:45Z",
   "source": "peanut"
  }
 }
