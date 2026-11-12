@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12 07:30 CST",
- "updated_epoch": 1794490251,
+ "updated": "2026-11-12 07:38 CST",
+ "updated_epoch": 1794490714,
  "library_songs": 1441,
  "total": 889,
  "done": 137,
@@ -67,8 +67,18 @@
    "when": "Nov 10 13:48"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "juice wrld my goodness"
+ ],
  "in_progress": [
+  {
+   "slug": "juice-wrld-my-goodness",
+   "title": "My Goodness",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 00:16"
+  },
   {
    "slug": "juice-wrld-denial-3-demo",
    "title": "DENIAL </3 (demo)",
