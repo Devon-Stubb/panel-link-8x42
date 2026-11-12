@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-12 07:56 CST",
- "updated_epoch": 1794491785,
- "library_songs": 1441,
+ "updated": "2026-11-12 08:14 CST",
+ "updated_epoch": 1794492872,
+ "library_songs": 1442,
  "total": 889,
- "done": 137,
- "open": 752,
+ "done": 138,
+ "open": 751,
  "by_status": {
-  "no_lyrics_yet": 546,
-  "has_lyrics_needs_sync": 174,
-  "transcribing": 2,
+  "no_lyrics_yet": 542,
+  "has_lyrics_needs_sync": 175,
+  "transcribing": 4,
   "blocked_on_audio": 13
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 54,
-   "open": 616
+   "done": 55,
+   "open": 615
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "juice-wrld-spanglish",
+   "when": "Nov 12 07:57"
+  },
   {
    "slug": "juice-wrld-run",
    "when": "Nov 12 07:29"
@@ -67,8 +71,26 @@
    "when": "Nov 10 13:48"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "juice wrld challenger juice"
+ ],
  "in_progress": [
+  {
+   "slug": "juice-wrld-challenger-juice",
+   "title": "challenger juice",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 05:21"
+  },
+  {
+   "slug": "juice-wrld-heart-clean",
+   "title": "Heart Clean",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
   {
    "slug": "juice-wrld-my-goodness",
    "title": "My Goodness",
