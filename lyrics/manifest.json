@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-09T11:57:30Z",
- "count": 1412,
+ "generated_at": "2026-11-12T18:30:28Z",
+ "count": 1444,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -402,6 +402,13 @@
    "sha": "8526aa5a399a04d25c4f95c776d370145358f361536e335ef7daa2af009d0879"
   },
   {
+   "title": "Got Nothing on Me",
+   "artist": "444Vlone",
+   "file": "444vlone-got-nothing-on-me.lrc",
+   "kind": "synced",
+   "sha": "c37978c6a1746853ef572ec1473517e86a7f70d8c90914c9cfd32683ec461776"
+  },
+  {
    "title": "Something to Prove",
    "artist": "444Vlone",
    "file": "444vlone-something-to-prove.lrc",
@@ -596,6 +603,13 @@
    "file": "akon-lonely.lrc",
    "kind": "synced",
    "sha": "3471dec6e7dd3736f46dfa1db61ca789dcfa5be814479b9343500df5f9d3df72"
+  },
+  {
+   "title": "Bodybagz Briccz",
+   "artist": "Amr Dee Huncho",
+   "file": "amr-dee-huncho-bodybagz-briccz.lrc",
+   "kind": "synced",
+   "sha": "06e9de037a5362d283700e395cbff815709cab853743390f905a7227a7f1f234"
   },
   {
    "title": "Can't Rent Anymore!",
@@ -1767,6 +1781,13 @@
    "sha": "c4f8af794bf66ece9fe565d432aaef8771e4b7aacc5b4c6fcffd6a02eac563d8"
   },
   {
+   "title": "Swing My Doe (feat. BiC Fizzle)",
+   "artist": "Cootie, BiC Fizzle",
+   "file": "cootie-bic-fizzle-swing-my-doe-feat-bic-fizzle.lrc",
+   "kind": "synced",
+   "sha": "483e55370bbced2fafe6112a32a4f7d802bb1924e9703c28f8765343966df927"
+  },
+  {
    "title": "Two Tens (feat. Anderson .Paak)",
    "artist": "Cordae, Anderson .Paak",
    "file": "cordae-two-tens.lrc",
@@ -2733,6 +2754,13 @@
    "sha": "1aa2632a561159d5a51addec01e05469a6408e093e219dd4e783708c29606730"
   },
   {
+   "title": "Out The Way",
+   "artist": "GrindHard E, Tony Rose, Ysr Gramz",
+   "file": "grindhard-e-tony-rose-ysr-gramz-out-the-way.lrc",
+   "kind": "synced",
+   "sha": "f56c3f163cf3dea27d599e4cdc46d52fa38c56dda9946318fa66c291940f190d"
+  },
+  {
    "title": "1st Day out Tha Feds",
    "artist": "Gucci Mane",
    "file": "gucci-mane-1st-day-out-tha-feds.lrc",
@@ -3181,6 +3209,13 @@
    "sha": "2748409720e3d145c062ee6270452e49b6bff8a3449360336ab17994fc6c8408"
   },
   {
+   "title": "4th quarter shawty freestyle",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-4th-quarter-shawty-freestyle.lrc",
+   "kind": "synced",
+   "sha": "804879c5a1d216397761d7735abcdfead5474642c75c25df77e1cf0506e2169a"
+  },
+  {
    "title": "Adore You",
    "artist": "Juice WRLD",
    "file": "juice-wrld-adore-you.lrc",
@@ -3209,11 +3244,32 @@
    "sha": "8ccc5a002e28c66e08e4b6d5194b67170e73676f468a637062151f0d526a30e6"
   },
   {
+   "title": "Alright (RIP JuiceWRLD 999)",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-alright-rip-juicewrld-999.lrc",
+   "kind": "synced",
+   "sha": "3c7bd8d711aa186fb582874c83fe51c7efdaeee92e6a7e5ffd4035026c44084a"
+  },
+  {
+   "title": "Arctic Tundra",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-arctic-tundra.lrc",
+   "kind": "synced",
+   "sha": "fea1ab4e3cc320bd119e1e450a5ba214ef43bcec0e2eeea07e48d69bb801f56e"
+  },
+  {
    "title": "Armed And Dangerous",
    "artist": "Juice WRLD",
    "file": "juice-wrld-armed-and-dangerous.lrc",
    "kind": "synced",
    "sha": "b93e6e50776e18c7884327ad671026c50f97506942e968b1cb58427fff4d1cc3"
+  },
+  {
+   "title": "Back In Chicago",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-back-in-chicago.lrc",
+   "kind": "synced",
+   "sha": "e130e670ecbd6eaa4659f0d7f3dff9c86fc14d9377bce4c05e92484e6524d2dc"
   },
   {
    "title": "Black & White",
@@ -3230,6 +3286,13 @@
    "sha": "57252d18afac53fe7b97e8ea338838edb3008edfb1fb7765566423dfac25ea3b"
   },
   {
+   "title": "cali girl... where are you </3 (prod. nick mira)",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-cali-girl-where-are-you-3-prod-nick-mira.lrc",
+   "kind": "synced",
+   "sha": "7ab77a76b8e13ab6ada479a772e2be4ca4ee21da679f852f2ed80d239d0ae806"
+  },
+  {
    "title": "Cavalier",
    "artist": "Juice WRLD",
    "file": "juice-wrld-cavalier.txt",
@@ -3242,6 +3305,13 @@
    "file": "juice-wrld-celebrate.lrc",
    "kind": "synced",
    "sha": "2d0017e2125a06fc75dd50419f05acb8fc23e9a2ec7757dfe892998d175d8eaf"
+  },
+  {
+   "title": "challenger juice",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-challenger-juice.lrc",
+   "kind": "synced",
+   "sha": "11ea1327073febd8412fa044228f09271ce72c93c2ae72ce17eab455d77660c9"
   },
   {
    "title": "Conversations",
@@ -3258,6 +3328,27 @@
    "sha": "15ed9c2f79a24f795c3c8e50df8ba15c67027f8f646f2e9a9cce4a2b0f0e4c9d"
   },
   {
+   "title": "Demon Girl",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-demon-girl.lrc",
+   "kind": "synced",
+   "sha": "2fbd6ec773261d1025e6efb022fdf75ba8a3563e670f0df467b7bb32546092a1"
+  },
+  {
+   "title": "Diners [Unrelease]",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-diners-unrelease.lrc",
+   "kind": "synced",
+   "sha": "87e3ce6c9aa5f1b02d3008646495f0189c6038437ab5520526a5617c6ba6127e"
+  },
+  {
+   "title": "Don't Forget Me",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-dont-forget-me1-4.lrc",
+   "kind": "synced",
+   "sha": "d2f6c80635b9f0e9d05acd5c1c901ee1ebe133d9f116c4abad7ddc5748e40472"
+  },
+  {
    "title": "Empty Out Your Pockets",
    "artist": "Juice WRLD",
    "file": "juice-wrld-empty-out-your-pockets.lrc",
@@ -3270,6 +3361,13 @@
    "file": "juice-wrld-end-of-the-road.lrc",
    "kind": "synced",
    "sha": "9f18cc0b4ca07cb14dadc83fbfb3fde6d1d7ddef7e4f5ee4e43f219e43fdb4ff"
+  },
+  {
+   "title": "Everlasting Love",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-everlasting-love.lrc",
+   "kind": "synced",
+   "sha": "a4814a46062ff3c02f3015f7b861581f48b4b834bf9ed26e3aba3068e8ef6e19"
   },
   {
    "title": "Flaws And Sins",
@@ -3300,6 +3398,27 @@
    "sha": "192a28676b62ac4a65e35840a4ff2d86a423284e79582d7edf938db90337e342"
   },
   {
+   "title": "Heart Clean",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-heart-clean.lrc",
+   "kind": "synced",
+   "sha": "22c495f629df879aa6be7b1205e041fd7269261f846bc248abfec526636e10fc"
+  },
+  {
+   "title": "Hold Me Down",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-hold-me-down.lrc",
+   "kind": "synced",
+   "sha": "20de2df7b7df443c9f4bba25097642c868786410ecb91985cc0636e2278bfecc"
+  },
+  {
+   "title": "Hypnotic [OG]",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-hypnotic-og.lrc",
+   "kind": "synced",
+   "sha": "a509e100a12ea1042e87cb3e837de698ac22a53a96da4b25925174e0140d2b40"
+  },
+  {
    "title": "I'll Be Fine",
    "artist": "Juice WRLD",
    "file": "juice-wrld-i-ll-be-fine.lrc",
@@ -3328,6 +3447,13 @@
    "sha": "f39c5710054a75606f7d2cac9749c8d4867644967cca71dc7f22e360db71d620"
   },
   {
+   "title": "Life's A Dungeon",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-life-s-a-dungeon.lrc",
+   "kind": "synced",
+   "sha": "4ddd68bce43a1705f13535958ca80df1a8a4aeab44b7e483539e27ec5e692082"
+  },
+  {
    "title": "Lightyears (with Young Thug)",
    "artist": "Juice WRLD, Young Thug",
    "file": "juice-wrld-lightyears.txt",
@@ -3354,6 +3480,27 @@
    "file": "juice-wrld-make-it-back.lrc",
    "kind": "synced",
    "sha": "e0b14bdec83a3a227fa326757b8d8c5558b31300c7ec4759a5df94855d684fb1"
+  },
+  {
+   "title": "My Fault </3 [prod. nick mira]",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-my-fault-3-prod-nick-mira.lrc",
+   "kind": "synced",
+   "sha": "bdc8b3b743cded55f0baea97022aa590ac07f8a36588d899333846fa2e6a0d91"
+  },
+  {
+   "title": "My Goodness",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-my-goodness.lrc",
+   "kind": "synced",
+   "sha": "1ac5fc22ab821371b00cbdbb29a65ba7efb25cf156b927633ee4e206e5e80e22"
+  },
+  {
+   "title": "my x was poison 999 [prod. sidepce x nick mira]",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-my-x-was-poison-999-prod-sidepce-x-nick-mira.lrc",
+   "kind": "synced",
+   "sha": "7915d395766b8cb806327a30b9260d188ae475c9fd11928d25eadd9d03f18e8f"
   },
   {
    "title": "No Good",
@@ -3391,6 +3538,13 @@
    "sha": "8a87c37f342166e730803ed35b72b1e0c6eb7fdd66ae3ddb9c22a69e26af1285"
   },
   {
+   "title": "Reminds Me Of You OG",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-reminds-me-of-you-og.lrc",
+   "kind": "synced",
+   "sha": "91b1bc28f3c4c405b71b6e4e453d11389045a9ad83706bb9556ef41417e29286"
+  },
+  {
    "title": "Rich And Blind",
    "artist": "Juice WRLD",
    "file": "juice-wrld-rich-and-blind.lrc",
@@ -3405,11 +3559,32 @@
    "sha": "806acca7e7ded8fe7e16325cc5daa27c6cd434ea42b9f7d8470d16ca8138e734"
   },
   {
+   "title": "Rob A Bank OG",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-rob-a-bank-og.lrc",
+   "kind": "synced",
+   "sha": "b0d194e8d0b325584d0937bdeb2b9fb584d3341f4710d3449d7b00fa5f57e53c"
+  },
+  {
+   "title": "ROCKSTAR GIRL [PROD. SIDEPCE]",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-rockstar-girl-prod-sidepce.lrc",
+   "kind": "synced",
+   "sha": "b38f7d9729f92eb8458ce826b4153e50a1ef2749c02387f1c57e10c1775db296"
+  },
+  {
    "title": "Rockstar In His Prime",
    "artist": "Juice WRLD",
    "file": "juice-wrld-rockstar-in-his-prime.lrc",
    "kind": "synced",
    "sha": "730aec2a579c3a1ae6dbbd00e0f40dcc0dd603ec59d21bc2f5f5d25c23248e1d"
+  },
+  {
+   "title": "RUN",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-run.lrc",
+   "kind": "synced",
+   "sha": "7341acf1d32d63eed95603543bf3bec041a20beda1e16f1ded9eb5387bffa1ef"
   },
   {
    "title": "Scared Of Love",
@@ -3424,6 +3599,20 @@
    "file": "juice-wrld-she-s-the-one.lrc",
    "kind": "synced",
    "sha": "dc636e792fb89adade945c0cce67bb5bc92ddb0062538d93fe45563d70222b9a"
+  },
+  {
+   "title": "Spanglish",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-spanglish.lrc",
+   "kind": "synced",
+   "sha": "7b671a56cff2cb15cd9e40cf26d7b3f432b4a3aa5d42b7f27919fac9b20abdb1"
+  },
+  {
+   "title": "Telepathy (Pt. 2)",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-telepathy-pt-2.lrc",
+   "kind": "synced",
+   "sha": "0beb6263fb352533f7d81db5dc248468013db1ed4d22b43a1d4f7abe0fb55717"
   },
   {
    "title": "The Light",
@@ -7626,6 +7815,13 @@
    "sha": "3ae71cae6b9441b54fb13f4202210dffd28dd0479bb1a186e38f5e908174940c"
   },
   {
+   "title": "Elegant",
+   "artist": "Rmc Mike",
+   "file": "rmc-mike-elegant.lrc",
+   "kind": "synced",
+   "sha": "bac9437e9d7d2b5c88fb48561099c2250be7c34f06fd6d3125e23465f7b6d217"
+  },
+  {
    "title": "Paranoid",
    "artist": "Rmc Mike, Rio Da Yung Og",
    "file": "rmc-mike-paranoid.lrc",
@@ -8366,6 +8562,13 @@
    "file": "topoppgen-blow-me-away.lrc",
    "kind": "synced",
    "sha": "eec59b51e220de4a6cc3048b17c224c2ba5b2589eaa8ae95099af923b71e8140"
+  },
+  {
+   "title": "Bonded Trauma",
+   "artist": "TopOppGen",
+   "file": "topoppgen-bonded-trauma.lrc",
+   "kind": "synced",
+   "sha": "92757eececcb3fe5a797e3597aafead994f81fccd44038b58ee607980a0d6458"
   },
   {
    "title": "bones and all",
@@ -9852,11 +10055,25 @@
    "sha": "67603e84553aa30b0151382d5e7e2fcb5027b0a66d7fc20e4c9baca1d8981f4f"
   },
   {
+   "title": "Rap About Violence",
+   "artist": "Ysr Gramz, KrispyLife Kidd",
+   "file": "ysr-gramz-krispylife-kidd-rap-about-violence.lrc",
+   "kind": "synced",
+   "sha": "eb72e7dd9dff1571f69a6fc5e7f9f7cc40278c2054390790312cdd5f44951fe5"
+  },
+  {
    "title": "Street Fighter",
    "artist": "Ysr Gramz, KrispyLife Kidd",
    "file": "ysr-gramz-street-fighter.txt",
    "kind": "plain",
    "sha": "12cc9b056b826ff2524541f682e0ce0644434a3965d759eb1674de680299e43c"
+  },
+  {
+   "title": "White Ashes/Chief Keef Flow",
+   "artist": "Ysr Gramz",
+   "file": "ysr-gramz-white-ashes-chief-keef-flow.lrc",
+   "kind": "synced",
+   "sha": "e11cce240dce931e9d6466d8ab6e4a841e4933242e7dc836f33e8053568afae8"
   },
   {
    "title": "Conspiracy V2",
@@ -9885,6 +10102,13 @@
    "file": "yungeen-ace-who-i-smoke.lrc",
    "kind": "synced",
    "sha": "ee8517b4839fbb65dee61fb8cfb0c9d492602ddedc28b0a20513887801a5de90"
+  },
+  {
+   "title": "Flintiac",
+   "artist": "YUSMB, Rio Da Yung Og",
+   "file": "yusmb-rio-da-yung-og-flintiac.lrc",
+   "kind": "synced",
+   "sha": "fd5059f15031bf546e3c061d712a00c65cc7ac7d3a31e34e94006b78adaa7696"
   }
  ]
 }
