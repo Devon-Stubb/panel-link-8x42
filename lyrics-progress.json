@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12 08:14 CST",
- "updated_epoch": 1794492872,
+ "updated": "2026-11-12 08:28 CST",
+ "updated_epoch": 1794493732,
  "library_songs": 1442,
  "total": 889,
  "done": 138,
@@ -72,17 +72,9 @@
   }
  ],
  "transcribing_now": [
-  "juice wrld challenger juice"
+  "juice wrld my goodness"
  ],
  "in_progress": [
-  {
-   "slug": "juice-wrld-challenger-juice",
-   "title": "challenger juice",
-   "artist": "Juice WRLD",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 05:21"
-  },
   {
    "slug": "juice-wrld-heart-clean",
    "title": "Heart Clean",
@@ -102,6 +94,14 @@
   {
    "slug": "juice-wrld-rob-a-bank-og",
    "title": "Rob A Bank OG",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "juice-wrld-challenger-juice",
+   "title": "challenger juice",
    "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
