@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-12 11:28 CST",
- "updated_epoch": 1794504538,
+ "updated": "2026-11-12 13:30 CST",
+ "updated_epoch": 1794511806,
  "library_songs": 1450,
  "total": 889,
  "done": 146,
  "open": 743,
  "by_status": {
-  "no_lyrics_yet": 530,
-  "has_lyrics_needs_sync": 177,
-  "transcribing": 1,
+  "no_lyrics_yet": 522,
+  "has_lyrics_needs_sync": 180,
+  "transcribing": 5,
   "blocked_on_audio": 14
  },
  "tiers": {
@@ -94,8 +94,40 @@
  "transcribing_now": [],
  "in_progress": [
   {
-   "slug": "juice-wrld-down-bad-prod-sbeatz",
-   "title": "Down Bad (Prod.SBeatz)",
+   "slug": "juice-wrld-999wrld-chrome",
+   "title": "999wrld- Chrome",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "juice-wrld-boss-of-me",
+   "title": "Boss Of Me",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "juice-wrld-gelato-and-models-juice-wrld-unreleased-the-party-never-ends",
+   "title": "Gelato and Models | JUICE WRLD UNRELEASED | THE PARTY NEVER ENDS",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "juice-wrld-hurt-you",
+   "title": "Hurt You",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "juice-wrld-monsters-in-my-basement",
+   "title": "Monsters In My Basement",
    "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
