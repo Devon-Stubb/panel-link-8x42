@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-12 07:28 CST",
- "updated_epoch": 1794490084,
- "library_songs": 1440,
+ "updated": "2026-11-12 07:30 CST",
+ "updated_epoch": 1794490251,
+ "library_songs": 1441,
  "total": 889,
- "done": 135,
- "open": 754,
+ "done": 137,
+ "open": 752,
  "by_status": {
-  "no_lyrics_yet": 550,
+  "no_lyrics_yet": 546,
   "has_lyrics_needs_sync": 174,
-  "transcribing": 0,
+  "transcribing": 2,
   "blocked_on_audio": 13
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 52,
-   "open": 618
+   "done": 54,
+   "open": 616
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "juice-wrld-run",
+   "when": "Nov 12 07:29"
+  },
   {
    "slug": "juice-wrld-arctic-tundra",
    "when": "Nov 12 07:27"
