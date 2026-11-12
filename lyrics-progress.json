@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-12 15:11 CST",
- "updated_epoch": 1794517914,
- "library_songs": 1454,
+ "updated": "2026-11-12 15:53 CST",
+ "updated_epoch": 1794520408,
+ "library_songs": 1455,
  "total": 889,
- "done": 150,
- "open": 739,
+ "done": 151,
+ "open": 738,
  "by_status": {
   "no_lyrics_yet": 514,
   "has_lyrics_needs_sync": 182,
-  "transcribing": 7,
+  "transcribing": 6,
   "blocked_on_audio": 14
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 67,
-   "open": 603
+   "done": 68,
+   "open": 602
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "juice-wrld-orange-running-from-me",
+   "when": "Nov 12 15:51"
+  },
   {
    "slug": "juice-wrld-gelato-and-models-juice-wrld-unreleased-the-party-never-ends",
    "when": "Nov 12 14:44"
@@ -85,24 +89,10 @@
   {
    "slug": "juice-wrld-spanglish",
    "when": "Nov 12 07:57"
-  },
-  {
-   "slug": "juice-wrld-run",
-   "when": "Nov 12 07:29"
   }
  ],
- "transcribing_now": [
-  "krispylife kidd sweepstakes"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "krispylife-kidd-sweepstakes",
-   "title": "Sweepstakes",
-   "artist": "KrispyLife Kidd",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 04:16"
-  },
   {
    "slug": "juice-wrld-boss-of-me",
    "title": "Boss Of Me",
@@ -120,6 +110,14 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
+   "slug": "krispylife-kidd-mann",
+   "title": "Mann",
+   "artist": "KrispyLife Kidd",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, small"
+  },
+  {
    "slug": "juice-wrld-monsters-in-my-basement",
    "title": "Monsters In My Basement",
    "artist": "Juice WRLD",
@@ -128,9 +126,17 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "juice-wrld-orange-running-from-me",
-   "title": "Orange (Running from Me)",
-   "artist": "Juice WRLD",
+   "slug": "fonzo-6700-sticks",
+   "title": "Sticks",
+   "artist": "Fonzo 6700",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "krispylife-kidd-sweepstakes",
+   "title": "Sweepstakes",
+   "artist": "KrispyLife Kidd",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
