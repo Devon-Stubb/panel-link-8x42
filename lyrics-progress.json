@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-12 06:35 CST",
- "updated_epoch": 1794486937,
- "library_songs": 1439,
+ "updated": "2026-11-12 07:28 CST",
+ "updated_epoch": 1794490084,
+ "library_songs": 1440,
  "total": 889,
  "done": 135,
  "open": 754,
  "by_status": {
   "no_lyrics_yet": 550,
   "has_lyrics_needs_sync": 174,
-  "transcribing": 8,
+  "transcribing": 0,
   "blocked_on_audio": 13
  },
  "tiers": {
@@ -35,6 +35,10 @@
  },
  "finished_recently": [
   {
+   "slug": "juice-wrld-arctic-tundra",
+   "when": "Nov 12 07:27"
+  },
+  {
    "slug": "juice-wrld-dont-forget-me1-4",
    "when": "Nov 11 18:57"
   },
@@ -57,133 +61,25 @@
   {
    "slug": "juice-wrld-hypnotic-og",
    "when": "Nov 10 13:48"
-  },
-  {
-   "slug": "juice-wrld-telepathy-pt-2",
-   "when": "Nov 10 06:44"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
   {
-   "slug": "babyru78-skip-town",
-   "title": "Skip Town",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "mcn-music-rmc-mike-100-blues",
-   "title": "100 Blues",
-   "artist": "MCN Music, Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "rio-da-yung-og-grindhard-e-rmc-mike-alot-to-say",
-   "title": "Alot To Say",
-   "artist": "Rio Da Yung Og, GrindHard E, Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "ysr-gramz-enrgy-beats-scatz-krispylife-kidd-bakin-fish",
-   "title": "Bakin Fish",
-   "artist": "Ysr Gramz, Enrgy Beats, Scatz, KrispyLife Kidd",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "ysr-gramz-enrgy-beats-rmc-mike-baglife-tee-cant-be-stopped",
-   "title": "Cant Be Stopped",
-   "artist": "Ysr Gramz, Enrgy Beats, Rmc Mike, Baglife Tee",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "juice-wrld-codeine-cobain-1-00",
-   "title": "Codeine Cobain (1:00)",
+   "slug": "juice-wrld-denial-3-demo",
+   "title": "DENIAL </3 (demo)",
    "artist": "Juice WRLD",
    "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
+   "stage": "Transcription paused",
+   "detail": "1 of 3 passes in \u2014 more transcription queued"
   },
   {
-   "slug": "juice-wrld-cutting-it-too-close",
-   "title": "Cutting It Too Close",
+   "slug": "juice-wrld-forever",
+   "title": "Forever",
    "artist": "Juice WRLD",
    "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "juice-wrld-dark-side",
-   "title": "Dark Side",
-   "artist": "Juice WRLD",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "krispylife-kidd-rmc-mike-gall-dept",
-   "title": "Gall Dept",
-   "artist": "KrispyLife Kidd, Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "krispylife-kidd-i-was-done",
-   "title": "I Was Done",
-   "artist": "KrispyLife Kidd",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "rio-da-yung-og-grindhard-e-rmc-mike-lost-a-person",
-   "title": "Lost A Person",
-   "artist": "Rio Da Yung Og, GrindHard E, Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "rmc-mike-love-live-dee",
-   "title": "Love Live Dee",
-   "artist": "Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "krispylife-kidd-grindhard-e-on-2-sum",
-   "title": "On 2 Sum",
-   "artist": "KrispyLife Kidd, Grindhard E",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "ysr-gramz-krispylife-kidd-glockboy-tez-promoting-violence",
-   "title": "Promoting Violence",
-   "artist": "Ysr Gramz, KrispyLife Kidd, GlockBoy Tez",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "yusmb-rio-da-yung-og-same-day-out",
-   "title": "Same Day Out",
-   "artist": "YUSMB, Rio Da Yung Og",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
+   "stage": "Transcription paused",
+   "detail": "1 of 3 passes in \u2014 more transcription queued"
   }
  ]
 }
