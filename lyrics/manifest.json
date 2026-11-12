@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-12T18:30:28Z",
- "count": 1444,
+ "generated_at": "2026-11-12T20:48:27Z",
+ "count": 1448,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -3216,6 +3216,13 @@
    "sha": "804879c5a1d216397761d7735abcdfead5474642c75c25df77e1cf0506e2169a"
   },
   {
+   "title": "999wrld- Chrome",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-999wrld-chrome.lrc",
+   "kind": "synced",
+   "sha": "22d5bcb688114dfe67102af37723f44ba27b5c18ed54189cc579bf66d72851ba"
+  },
+  {
    "title": "Adore You",
    "artist": "Juice WRLD",
    "file": "juice-wrld-adore-you.lrc",
@@ -3321,6 +3328,13 @@
    "sha": "47a6075cc1541a6179cb1d33a09a6bd683cad1a65ff4c6af3c78069864d15934"
   },
   {
+   "title": "Couple Pills (prod. ColaBeats)",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-couple-pills-prod-colabeats.lrc",
+   "kind": "synced",
+   "sha": "12d71374e4b03f997e9b92f73510dcc42ed091e51aa44a1b62252c7c4811d4b1"
+  },
+  {
    "title": "Cuffed",
    "artist": "Juice WRLD",
    "file": "juice-wrld-cuffed.lrc",
@@ -3391,6 +3405,13 @@
    "sha": "7a6d723efc6c0a00d6afb6030ca9d83d6ae7ff8aba0a180872415d8eade3598c"
   },
   {
+   "title": "Gelato and Models | JUICE WRLD UNRELEASED | THE PARTY NEVER ENDS",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-gelato-and-models-juice-wrld-unreleased-the-party-never-ends.lrc",
+   "kind": "synced",
+   "sha": "e0c227bb8a6ed1e8ceed81506d52c442349dc89f8c5bb2711ffe811b0426f1de"
+  },
+  {
    "title": "Hate The Other Side (with Marshmello & The Kid Laroi)",
    "artist": "Juice WRLD, Marshmello, The Kid LAROI, Polo G",
    "file": "juice-wrld-hate-the-other-side.lrc",
@@ -3410,6 +3431,13 @@
    "file": "juice-wrld-hold-me-down.lrc",
    "kind": "synced",
    "sha": "20de2df7b7df443c9f4bba25097642c868786410ecb91985cc0636e2278bfecc"
+  },
+  {
+   "title": "Hurt You",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-hurt-you.lrc",
+   "kind": "synced",
+   "sha": "394632dc585871d5e4aa858b4d62941664d52d0655435f06f031ab6b6273a736"
   },
   {
    "title": "Hypnotic [OG]",
