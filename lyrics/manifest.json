@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-12T20:48:27Z",
- "count": 1448,
+ "generated_at": "2026-11-12T21:52:54Z",
+ "count": 1449,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -3543,6 +3543,13 @@
    "file": "juice-wrld-on-god.txt",
    "kind": "plain",
    "sha": "c3292a0dd36fa86f8e7ff7ea584188a40f8aa1ac714d91f9f5359093a07d35b4"
+  },
+  {
+   "title": "Orange (Running from Me)",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-orange-running-from-me.lrc",
+   "kind": "synced",
+   "sha": "e95a28ece36e2d56365c5da517898506e07719ee432ca70d69a5c61eba2f68a1"
   },
   {
    "title": "Out My Way",
