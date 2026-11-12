@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-12 13:45 CST",
- "updated_epoch": 1794512743,
- "library_songs": 1451,
+ "updated": "2026-11-12 13:59 CST",
+ "updated_epoch": 1794513567,
+ "library_songs": 1452,
  "total": 889,
- "done": 147,
- "open": 742,
+ "done": 148,
+ "open": 741,
  "by_status": {
-  "no_lyrics_yet": 522,
+  "no_lyrics_yet": 521,
   "has_lyrics_needs_sync": 180,
   "transcribing": 4,
   "blocked_on_audio": 14
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 64,
-   "open": 606
+   "done": 65,
+   "open": 605
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "juice-wrld-couple-pills-prod-colabeats",
+   "when": "Nov 12 13:59"
+  },
   {
    "slug": "juice-wrld-hurt-you",
    "when": "Nov 12 13:45"
@@ -85,10 +89,6 @@
   {
    "slug": "juice-wrld-dont-forget-me1-4",
    "when": "Nov 11 18:57"
-  },
-  {
-   "slug": "juice-wrld-life-s-a-dungeon",
-   "when": "Nov 11 18:56"
   }
  ],
  "transcribing_now": [],
