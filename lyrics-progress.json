@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-11 18:16 CST",
- "updated_epoch": 1794442574,
- "library_songs": 1436,
+ "updated": "2026-11-11 19:29 CST",
+ "updated_epoch": 1794446982,
+ "library_songs": 1439,
  "total": 889,
- "done": 132,
- "open": 757,
+ "done": 135,
+ "open": 754,
  "by_status": {
-  "no_lyrics_yet": 553,
+  "no_lyrics_yet": 550,
   "has_lyrics_needs_sync": 174,
   "transcribing": 8,
   "blocked_on_audio": 13
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 49,
-   "open": 621
+   "done": 52,
+   "open": 618
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,18 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "juice-wrld-dont-forget-me1-4",
+   "when": "Nov 11 18:57"
+  },
+  {
+   "slug": "juice-wrld-life-s-a-dungeon",
+   "when": "Nov 11 18:56"
+  },
+  {
+   "slug": "juice-wrld-reminds-me-of-you-og",
+   "when": "Nov 11 18:26"
+  },
   {
    "slug": "ysr-gramz-white-ashes-chief-keef-flow",
    "when": "Nov 11 13:25"
@@ -67,9 +79,7 @@
    "when": "Nov 09 23:35"
   }
  ],
- "transcribing_now": [
-  "juice wrld reminds me of you og"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
    "slug": "babyru78-skip-town",
@@ -114,6 +124,14 @@
   {
    "slug": "juice-wrld-codeine-cobain-1-00",
    "title": "Codeine Cobain (1:00)",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "juice-wrld-cutting-it-too-close",
+   "title": "Cutting It Too Close",
    "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
@@ -171,14 +189,6 @@
    "slug": "ysr-gramz-krispylife-kidd-glockboy-tez-promoting-violence",
    "title": "Promoting Violence",
    "artist": "Ysr Gramz, KrispyLife Kidd, GlockBoy Tez",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "juice-wrld-reminds-me-of-you-og",
-   "title": "Reminds Me Of You OG",
-   "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
