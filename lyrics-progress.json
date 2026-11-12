@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12 13:59 CST",
- "updated_epoch": 1794513567,
+ "updated": "2026-11-12 20:00 UTC",
+ "updated_epoch": 1794513607,
  "library_songs": 1452,
  "total": 889,
  "done": 148,
@@ -36,59 +36,59 @@
  "finished_recently": [
   {
    "slug": "juice-wrld-couple-pills-prod-colabeats",
-   "when": "Nov 12 13:59"
+   "when": "Nov 12 19:59"
   },
   {
    "slug": "juice-wrld-hurt-you",
-   "when": "Nov 12 13:45"
+   "when": "Nov 12 19:45"
   },
   {
    "slug": "juice-wrld-back-in-chicago",
-   "when": "Nov 12 11:19"
+   "when": "Nov 12 17:19"
   },
   {
    "slug": "juice-wrld-diners-unrelease",
-   "when": "Nov 12 11:09"
+   "when": "Nov 12 17:09"
   },
   {
    "slug": "juice-wrld-alright-rip-juicewrld-999",
-   "when": "Nov 12 11:05"
+   "when": "Nov 12 17:05"
   },
   {
    "slug": "juice-wrld-everlasting-love",
-   "when": "Nov 12 10:58"
+   "when": "Nov 12 16:58"
   },
   {
    "slug": "juice-wrld-challenger-juice",
-   "when": "Nov 12 09:59"
+   "when": "Nov 12 15:59"
   },
   {
    "slug": "juice-wrld-heart-clean",
-   "when": "Nov 12 08:53"
+   "when": "Nov 12 14:53"
   },
   {
    "slug": "juice-wrld-rob-a-bank-og",
-   "when": "Nov 12 08:44"
+   "when": "Nov 12 14:44"
   },
   {
    "slug": "juice-wrld-my-goodness",
-   "when": "Nov 12 08:36"
+   "when": "Nov 12 14:36"
   },
   {
    "slug": "juice-wrld-spanglish",
-   "when": "Nov 12 07:57"
+   "when": "Nov 12 13:57"
   },
   {
    "slug": "juice-wrld-run",
-   "when": "Nov 12 07:29"
+   "when": "Nov 12 13:29"
   },
   {
    "slug": "juice-wrld-arctic-tundra",
-   "when": "Nov 12 07:27"
+   "when": "Nov 12 13:27"
   },
   {
    "slug": "juice-wrld-dont-forget-me1-4",
-   "when": "Nov 11 18:57"
+   "when": "Nov 12 00:57"
   }
  ],
  "transcribing_now": [],
