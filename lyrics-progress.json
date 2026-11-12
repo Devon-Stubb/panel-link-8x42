@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12 00:25 CST",
- "updated_epoch": 1794464740,
+ "updated": "2026-11-12 00:57 CST",
+ "updated_epoch": 1794466666,
  "library_songs": 1439,
  "total": 889,
  "done": 135,
@@ -65,10 +65,6 @@
   {
    "slug": "juice-wrld-rockstar-girl-prod-sidepce",
    "when": "Nov 10 00:57"
-  },
-  {
-   "slug": "juice-wrld-cali-girl-where-are-you-3-prod-nick-mira",
-   "when": "Nov 10 00:56"
   }
  ],
  "transcribing_now": [],
