@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-12 20:00 UTC",
- "updated_epoch": 1794513607,
- "library_songs": 1452,
+ "updated": "2026-11-12 14:50 CST",
+ "updated_epoch": 1794516645,
+ "library_songs": 1454,
  "total": 889,
- "done": 148,
- "open": 741,
+ "done": 150,
+ "open": 739,
  "by_status": {
-  "no_lyrics_yet": 521,
-  "has_lyrics_needs_sync": 180,
-  "transcribing": 4,
+  "no_lyrics_yet": 518,
+  "has_lyrics_needs_sync": 182,
+  "transcribing": 3,
   "blocked_on_audio": 14
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 65,
-   "open": 605
+   "done": 67,
+   "open": 603
   },
   "TopOppGen": {
    "done": 50,
@@ -35,72 +35,64 @@
  },
  "finished_recently": [
   {
-   "slug": "juice-wrld-couple-pills-prod-colabeats",
-   "when": "Nov 12 19:59"
-  },
-  {
-   "slug": "juice-wrld-hurt-you",
-   "when": "Nov 12 19:45"
-  },
-  {
-   "slug": "juice-wrld-back-in-chicago",
-   "when": "Nov 12 17:19"
-  },
-  {
-   "slug": "juice-wrld-diners-unrelease",
-   "when": "Nov 12 17:09"
-  },
-  {
-   "slug": "juice-wrld-alright-rip-juicewrld-999",
-   "when": "Nov 12 17:05"
-  },
-  {
-   "slug": "juice-wrld-everlasting-love",
-   "when": "Nov 12 16:58"
-  },
-  {
-   "slug": "juice-wrld-challenger-juice",
-   "when": "Nov 12 15:59"
-  },
-  {
-   "slug": "juice-wrld-heart-clean",
-   "when": "Nov 12 14:53"
-  },
-  {
-   "slug": "juice-wrld-rob-a-bank-og",
+   "slug": "juice-wrld-gelato-and-models-juice-wrld-unreleased-the-party-never-ends",
    "when": "Nov 12 14:44"
   },
   {
+   "slug": "juice-wrld-999wrld-chrome",
+   "when": "Nov 12 14:31"
+  },
+  {
+   "slug": "juice-wrld-couple-pills-prod-colabeats",
+   "when": "Nov 12 13:59"
+  },
+  {
+   "slug": "juice-wrld-hurt-you",
+   "when": "Nov 12 13:45"
+  },
+  {
+   "slug": "juice-wrld-back-in-chicago",
+   "when": "Nov 12 11:19"
+  },
+  {
+   "slug": "juice-wrld-diners-unrelease",
+   "when": "Nov 12 11:09"
+  },
+  {
+   "slug": "juice-wrld-alright-rip-juicewrld-999",
+   "when": "Nov 12 11:05"
+  },
+  {
+   "slug": "juice-wrld-everlasting-love",
+   "when": "Nov 12 10:58"
+  },
+  {
+   "slug": "juice-wrld-challenger-juice",
+   "when": "Nov 12 09:59"
+  },
+  {
+   "slug": "juice-wrld-heart-clean",
+   "when": "Nov 12 08:53"
+  },
+  {
+   "slug": "juice-wrld-rob-a-bank-og",
+   "when": "Nov 12 08:44"
+  },
+  {
    "slug": "juice-wrld-my-goodness",
-   "when": "Nov 12 14:36"
+   "when": "Nov 12 08:36"
   },
   {
    "slug": "juice-wrld-spanglish",
-   "when": "Nov 12 13:57"
+   "when": "Nov 12 07:57"
   },
   {
    "slug": "juice-wrld-run",
-   "when": "Nov 12 13:29"
-  },
-  {
-   "slug": "juice-wrld-arctic-tundra",
-   "when": "Nov 12 13:27"
-  },
-  {
-   "slug": "juice-wrld-dont-forget-me1-4",
-   "when": "Nov 12 00:57"
+   "when": "Nov 12 07:29"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "juice-wrld-999wrld-chrome",
-   "title": "999wrld- Chrome",
-   "artist": "Juice WRLD",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
   {
    "slug": "juice-wrld-boss-of-me",
    "title": "Boss Of Me",
@@ -110,16 +102,16 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "juice-wrld-gelato-and-models-juice-wrld-unreleased-the-party-never-ends",
-   "title": "Gelato and Models | JUICE WRLD UNRELEASED | THE PARTY NEVER ENDS",
+   "slug": "juice-wrld-monsters-in-my-basement",
+   "title": "Monsters In My Basement",
    "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "juice-wrld-monsters-in-my-basement",
-   "title": "Monsters In My Basement",
+   "slug": "juice-wrld-orange-running-from-me",
+   "title": "Orange (Running from Me)",
    "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
