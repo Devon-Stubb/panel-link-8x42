@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12 00:57 CST",
- "updated_epoch": 1794466666,
+ "updated": "2026-11-12 01:05 CST",
+ "updated_epoch": 1794467144,
  "library_songs": 1439,
  "total": 889,
  "done": 135,
@@ -61,10 +61,6 @@
   {
    "slug": "juice-wrld-telepathy-pt-2",
    "when": "Nov 10 06:44"
-  },
-  {
-   "slug": "juice-wrld-rockstar-girl-prod-sidepce",
-   "when": "Nov 10 00:57"
   }
  ],
  "transcribing_now": [],
