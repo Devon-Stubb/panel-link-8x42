@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12 20:20 CST",
- "updated_epoch": 1794536431,
+ "updated": "2026-11-12 20:34 CST",
+ "updated_epoch": 1794537289,
  "library_songs": 1460,
  "total": 889,
  "done": 156,
@@ -91,7 +91,9 @@
    "when": "Nov 12 10:58"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "greenlightt jdot breezy what i m on"
+ ],
  "in_progress": [
   {
    "slug": "juice-wrld-boss-of-me",
@@ -108,6 +110,14 @@
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "jdot-breezy-dope-slangin",
+   "title": "Dope Slangin",
+   "artist": "Jdot Breezy",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: raw, small"
   },
   {
    "slug": "juice-wrld-lovely-remix-ft-juice-wrld-khalid",
@@ -153,14 +163,6 @@
    "slug": "juice-wrld-denial-3-demo",
    "title": "DENIAL </3 (demo)",
    "artist": "Juice WRLD",
-   "tier": "Rest of playlist",
-   "stage": "Transcription paused",
-   "detail": "1 of 3 passes in \u2014 more transcription queued"
-  },
-  {
-   "slug": "jdot-breezy-dope-slangin",
-   "title": "Dope Slangin",
-   "artist": "Jdot Breezy",
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
    "detail": "1 of 3 passes in \u2014 more transcription queued"
