@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-13 17:40 CST",
- "updated_epoch": 1794613244,
- "library_songs": 1475,
+ "updated": "2026-11-13 17:47 CST",
+ "updated_epoch": 1794613669,
+ "library_songs": 1476,
  "total": 889,
- "done": 171,
- "open": 718,
+ "done": 172,
+ "open": 717,
  "by_status": {
   "no_lyrics_yet": 470,
   "has_lyrics_needs_sync": 190,
-  "transcribing": 7,
+  "transcribing": 6,
   "blocked_on_audio": 21
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 88,
-   "open": 582
+   "done": 89,
+   "open": 581
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "sobmeech-glocktober",
+   "when": "Nov 13 17:45"
+  },
   {
    "slug": "fwc-big-key-392-lil-head-nyc-2am-feat-392-lil-head",
    "when": "Nov 13 17:36"
@@ -85,10 +89,6 @@
   {
    "slug": "steppa-white-bitch",
    "when": "Nov 13 04:29"
-  },
-  {
-   "slug": "bfb-da-packman-ddg-delulu",
-   "when": "Nov 12 20:52"
   }
  ],
  "transcribing_now": [],
@@ -129,14 +129,6 @@
    "slug": "thf-lil-law-gervonta-davis",
    "title": "Gervonta Davis",
    "artist": "THF LIL LAW",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "sobmeech-glocktober",
-   "title": "Glocktober",
-   "artist": "Sobmeech",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
