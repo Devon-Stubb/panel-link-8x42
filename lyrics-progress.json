@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-12 19:10 CST",
- "updated_epoch": 1794532241,
- "library_songs": 1458,
+ "updated": "2026-11-12 20:20 CST",
+ "updated_epoch": 1794536431,
+ "library_songs": 1460,
  "total": 889,
- "done": 154,
- "open": 735,
+ "done": 156,
+ "open": 733,
  "by_status": {
-  "no_lyrics_yet": 504,
+  "no_lyrics_yet": 502,
   "has_lyrics_needs_sync": 186,
   "transcribing": 8,
   "blocked_on_audio": 15
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 71,
-   "open": 599
+   "done": 73,
+   "open": 597
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "mg-sleepy-10ta-lil-a-rich-christian",
+   "when": "Nov 12 19:19"
+  },
+  {
+   "slug": "mg-sleepy-awm-quaze-liltae2-vegan-feast",
+   "when": "Nov 12 19:19"
+  },
   {
    "slug": "3200-tre-deposits",
    "when": "Nov 12 18:01"
@@ -81,24 +89,22 @@
   {
    "slug": "juice-wrld-everlasting-love",
    "when": "Nov 12 10:58"
-  },
-  {
-   "slug": "juice-wrld-challenger-juice",
-   "when": "Nov 12 09:59"
-  },
-  {
-   "slug": "juice-wrld-heart-clean",
-   "when": "Nov 12 08:53"
   }
  ],
- "transcribing_now": [
-  "mg sleepy awm quaze liltae2 vegan feast"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
    "slug": "juice-wrld-boss-of-me",
    "title": "Boss Of Me",
    "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "bfb-da-packman-ddg-delulu",
+   "title": "Delulu",
+   "artist": "Bfb Da Packman, DDG",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -128,14 +134,6 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "mg-sleepy-10ta-lil-a-rich-christian",
-   "title": "Rich Christian",
-   "artist": "Mg Sleepy, 10TA Lil A",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
    "slug": "fonzo-6700-sticks",
    "title": "Sticks",
    "artist": "Fonzo 6700",
@@ -144,9 +142,9 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "mg-sleepy-awm-quaze-liltae2-vegan-feast",
-   "title": "Vegan Feast",
-   "artist": "Mg Sleepy, Awm Quaze, Liltae2",
+   "slug": "greenlightt-jdot-breezy-what-i-m-on",
+   "title": "What I'm On",
+   "artist": "Greenlightt, Jdot Breezy",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -155,6 +153,14 @@
    "slug": "juice-wrld-denial-3-demo",
    "title": "DENIAL </3 (demo)",
    "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Transcription paused",
+   "detail": "1 of 3 passes in \u2014 more transcription queued"
+  },
+  {
+   "slug": "jdot-breezy-dope-slangin",
+   "title": "Dope Slangin",
+   "artist": "Jdot Breezy",
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
    "detail": "1 of 3 passes in \u2014 more transcription queued"
