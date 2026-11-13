@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T23:13:27Z",
- "count": 1468,
+ "generated_at": "2026-11-13T23:56:29Z",
+ "count": 1470,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -2626,6 +2626,13 @@
    "file": "future-worst-day.lrc",
    "kind": "synced",
    "sha": "e8979cd8b0740d6de38f4936715b26e99f3be1498b8e9b425e7362fc61cef8ff"
+  },
+  {
+   "title": "NYC @ 2am (feat. 392 Lil Head)",
+   "artist": "FWC Big Key, 392 Lil Head",
+   "file": "fwc-big-key-392-lil-head-nyc-2am-feat-392-lil-head.lrc",
+   "kind": "synced",
+   "sha": "29b33b62d2e8fe5c049b46bdca9e52228639f0fe75ec453a8b5e56d6f0596cbf"
   },
   {
    "title": "Pressure",
@@ -8450,6 +8457,13 @@
    "file": "sob-odee-boom.lrc",
    "kind": "synced",
    "sha": "a2cc0b7bd76deeef40cfd2d831e97cf195cb2a7a771074d51086aa56aaf262a8"
+  },
+  {
+   "title": "Glocktober",
+   "artist": "Sobmeech",
+   "file": "sobmeech-glocktober.lrc",
+   "kind": "synced",
+   "sha": "8dbeb761214380928495d09f2cd7c7bc8db3f149263ed8b0ada3f14905027d06"
   },
   {
    "title": "Black Fingernails",
