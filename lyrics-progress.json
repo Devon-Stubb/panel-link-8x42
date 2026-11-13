@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13 17:26 CST",
- "updated_epoch": 1794612381,
+ "updated": "2026-11-13 17:30 CST",
+ "updated_epoch": 1794612637,
  "library_songs": 1474,
  "total": 889,
  "done": 170,
@@ -91,19 +91,8 @@
    "when": "Nov 12 20:40"
   }
  ],
- "transcribing_now": [
-  "fwc big key 392 lil head nyc 2am feat 392 lil head",
-  "sobmeech glocktober"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "sobmeech-glocktober",
-   "title": "Glocktober",
-   "artist": "Sobmeech",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 small pass \u00b7 running 00:20"
-  },
   {
    "slug": "mg-sleepy-benihana",
    "title": "Benihana",
@@ -140,6 +129,14 @@
    "slug": "thf-lil-law-gervonta-davis",
    "title": "Gervonta Davis",
    "artist": "THF LIL LAW",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "sobmeech-glocktober",
+   "title": "Glocktober",
+   "artist": "Sobmeech",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
