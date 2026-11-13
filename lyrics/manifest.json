@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-12T21:52:54Z",
- "count": 1449,
+ "generated_at": "2026-11-13T01:05:18Z",
+ "count": 1452,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -218,6 +218,13 @@
    "file": "310babii-soak-city.lrc",
    "kind": "synced",
    "sha": "ce03df9cd2a141e6dea1b6cc2d83b4fc4829f4c2836ac5dba50400dfcb41d374"
+  },
+  {
+   "title": "Deposits",
+   "artist": "3200 TRE",
+   "file": "3200-tre-deposits.lrc",
+   "kind": "synced",
+   "sha": "cd993072c5b1e6232335215f50e3a5ac630fb47ba9f08e9dd301720d3f33ba2b"
   },
   {
    "title": "414bigfrank (Backpack)",
@@ -2425,6 +2432,13 @@
    "sha": "86d26d24631f55f33b68a2841679c3a3020d68dfeb1645da02cdc2f5833852df"
   },
   {
+   "title": "Debo",
+   "artist": "Ftos Twan",
+   "file": "ftos-twan-debo.lrc",
+   "kind": "synced",
+   "sha": "deb99c52633ea6f016f1674d8d638fef69a10a04e9ba7962db634336fa266376"
+  },
+  {
    "title": "Lurkin (feat. Polo G) - Remix",
    "artist": "Funk Flex, King Von, Polo G",
    "file": "funk-flex-lurkin.lrc",
@@ -4229,6 +4243,13 @@
    "file": "krispylife-kidd-juice-world.txt",
    "kind": "plain",
    "sha": "23c97dcecbd5650c2cc746ea91d1491c4b77df5d12666261e5665a482911c461"
+  },
+  {
+   "title": "Sweepstakes",
+   "artist": "KrispyLife Kidd",
+   "file": "krispylife-kidd-sweepstakes.lrc",
+   "kind": "synced",
+   "sha": "17f262030c57e613b7d92eabf3d70e30608ed5e18047f8da903d447ee32a23dc"
   },
   {
    "title": "No Statements (feat. Lil Durk)",
