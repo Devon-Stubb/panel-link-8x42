@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T01:05:18Z",
- "count": 1452,
+ "generated_at": "2026-11-13T03:14:52Z",
+ "count": 1456,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -1205,6 +1205,13 @@
    "file": "benny-blanco-graduation.lrc",
    "kind": "synced",
    "sha": "9a4e94972eca85981b0fed93d9a4be911145caaf95c02a9e85e18a74aca5ec03"
+  },
+  {
+   "title": "Delulu",
+   "artist": "Bfb Da Packman, DDG",
+   "file": "bfb-da-packman-ddg-delulu.lrc",
+   "kind": "synced",
+   "sha": "91019a44da406e088fdfa65b0786e730bdb2272f411edc5462d3df772364d720"
   },
   {
    "title": "On God (feat. Gucci Mane & Cootie)",
@@ -2759,6 +2766,13 @@
    "file": "glokk40spaz-i-choose-violence.lrc",
    "kind": "synced",
    "sha": "178c2533ba9a963827edfc6800f59a65a6e87a67cdc3ef7c275ae606f547be94"
+  },
+  {
+   "title": "What I'm On",
+   "artist": "Greenlightt, Jdot Breezy",
+   "file": "greenlightt-jdot-breezy-what-i-m-on.lrc",
+   "kind": "synced",
+   "sha": "3974bf812e309a031dafe41a4abb311bad5579a32ee4d8ddaede129e523d69cf"
   },
   {
    "title": "Hardly Breathe",
@@ -5895,6 +5909,20 @@
    "file": "metro-boomin-walk-em-down-dont-kill-civilians.txt",
    "kind": "plain",
    "sha": "72f9d8b5cd979fa4639c77a824fcb063fcd6cd00d4f1f13ea32c9fe5a26da7b2"
+  },
+  {
+   "title": "Rich Christian",
+   "artist": "Mg Sleepy, 10TA Lil A",
+   "file": "mg-sleepy-10ta-lil-a-rich-christian.lrc",
+   "kind": "synced",
+   "sha": "f6715a5795e6eb3d9fad41bd91f92643460506bae06eca95da133c2511cf8434"
+  },
+  {
+   "title": "Vegan Feast",
+   "artist": "Mg Sleepy, Awm Quaze, Liltae2",
+   "file": "mg-sleepy-awm-quaze-liltae2-vegan-feast.lrc",
+   "kind": "synced",
+   "sha": "f8c6bb2901495a5dd24dafd409cbdfd5ffd00b6a5d8346828972597981afd62e"
   },
   {
    "title": "Dizzzney Land",
