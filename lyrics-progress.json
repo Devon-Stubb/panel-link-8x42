@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-12 15:55 CST",
- "updated_epoch": 1794520548,
- "library_songs": 1455,
+ "updated": "2026-11-12 19:05 CST",
+ "updated_epoch": 1794531942,
+ "library_songs": 1458,
  "total": 889,
- "done": 151,
- "open": 738,
+ "done": 154,
+ "open": 735,
  "by_status": {
-  "no_lyrics_yet": 514,
-  "has_lyrics_needs_sync": 182,
-  "transcribing": 6,
-  "blocked_on_audio": 14
+  "no_lyrics_yet": 504,
+  "has_lyrics_needs_sync": 186,
+  "transcribing": 8,
+  "blocked_on_audio": 15
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 68,
-   "open": 602
+   "done": 71,
+   "open": 599
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,18 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "3200-tre-deposits",
+   "when": "Nov 12 18:01"
+  },
+  {
+   "slug": "ftos-twan-debo",
+   "when": "Nov 12 17:44"
+  },
+  {
+   "slug": "krispylife-kidd-sweepstakes",
+   "when": "Nov 12 16:38"
+  },
   {
    "slug": "juice-wrld-orange-running-from-me",
    "when": "Nov 12 15:51"
@@ -77,21 +89,11 @@
   {
    "slug": "juice-wrld-heart-clean",
    "when": "Nov 12 08:53"
-  },
-  {
-   "slug": "juice-wrld-rob-a-bank-og",
-   "when": "Nov 12 08:44"
-  },
-  {
-   "slug": "juice-wrld-my-goodness",
-   "when": "Nov 12 08:36"
-  },
-  {
-   "slug": "juice-wrld-spanglish",
-   "when": "Nov 12 07:57"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "mg sleepy 10ta lil a rich christian"
+ ],
  "in_progress": [
   {
    "slug": "juice-wrld-boss-of-me",
@@ -126,6 +128,14 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
+   "slug": "mg-sleepy-10ta-lil-a-rich-christian",
+   "title": "Rich Christian",
+   "artist": "Mg Sleepy, 10TA Lil A",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "fonzo-6700-sticks",
    "title": "Sticks",
    "artist": "Fonzo 6700",
@@ -134,9 +144,9 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "krispylife-kidd-sweepstakes",
-   "title": "Sweepstakes",
-   "artist": "KrispyLife Kidd",
+   "slug": "mg-sleepy-awm-quaze-liltae2-vegan-feast",
+   "title": "Vegan Feast",
+   "artist": "Mg Sleepy, Awm Quaze, Liltae2",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
