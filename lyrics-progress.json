@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13 15:55 CST",
- "updated_epoch": 1794606939,
+ "updated": "2026-11-13 16:00 CST",
+ "updated_epoch": 1794607249,
  "library_songs": 1472,
  "total": 889,
  "done": 168,
@@ -91,7 +91,9 @@
    "when": "Nov 12 19:19"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "thf lil law heat up"
+ ],
  "in_progress": [
   {
    "slug": "mg-sleepy-benihana",
