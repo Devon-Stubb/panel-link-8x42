@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13 17:30 CST",
- "updated_epoch": 1794612637,
+ "updated": "2026-11-13 17:35 CST",
+ "updated_epoch": 1794612939,
  "library_songs": 1474,
  "total": 889,
  "done": 170,
@@ -91,7 +91,9 @@
    "when": "Nov 12 20:40"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "sobmeech glocktober"
+ ],
  "in_progress": [
   {
    "slug": "mg-sleepy-benihana",
