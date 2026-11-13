@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-12 20:34 CST",
- "updated_epoch": 1794537289,
- "library_songs": 1460,
+ "updated": "2026-11-12 21:14 CST",
+ "updated_epoch": 1794539661,
+ "library_songs": 1462,
  "total": 889,
- "done": 156,
- "open": 733,
+ "done": 158,
+ "open": 731,
  "by_status": {
-  "no_lyrics_yet": 502,
+  "no_lyrics_yet": 500,
   "has_lyrics_needs_sync": 186,
   "transcribing": 8,
   "blocked_on_audio": 15
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 73,
-   "open": 597
+   "done": 75,
+   "open": 595
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "bfb-da-packman-ddg-delulu",
+   "when": "Nov 12 20:52"
+  },
+  {
+   "slug": "greenlightt-jdot-breezy-what-i-m-on",
+   "when": "Nov 12 20:40"
+  },
   {
    "slug": "mg-sleepy-10ta-lil-a-rich-christian",
    "when": "Nov 12 19:19"
@@ -81,32 +89,22 @@
   {
    "slug": "juice-wrld-diners-unrelease",
    "when": "Nov 12 11:09"
-  },
-  {
-   "slug": "juice-wrld-alright-rip-juicewrld-999",
-   "when": "Nov 12 11:05"
-  },
-  {
-   "slug": "juice-wrld-everlasting-love",
-   "when": "Nov 12 10:58"
   }
  ],
- "transcribing_now": [
-  "greenlightt jdot breezy what i m on"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
-   "slug": "juice-wrld-boss-of-me",
-   "title": "Boss Of Me",
-   "artist": "Juice WRLD",
+   "slug": "mg-sleepy-a-out",
+   "title": "A$$ Out",
+   "artist": "Mg Sleepy",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "bfb-da-packman-ddg-delulu",
-   "title": "Delulu",
-   "artist": "Bfb Da Packman, DDG",
+   "slug": "juice-wrld-boss-of-me",
+   "title": "Boss Of Me",
+   "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -144,17 +142,17 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "fonzo-6700-sticks",
-   "title": "Sticks",
-   "artist": "Fonzo 6700",
+   "slug": "mg-sleepy-myaap-paint-the-town-red",
+   "title": "Paint The Town Red",
+   "artist": "Mg Sleepy, Myaap",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "greenlightt-jdot-breezy-what-i-m-on",
-   "title": "What I'm On",
-   "artist": "Greenlightt, Jdot Breezy",
+   "slug": "fonzo-6700-sticks",
+   "title": "Sticks",
+   "artist": "Fonzo 6700",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
