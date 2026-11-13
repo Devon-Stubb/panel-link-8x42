@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-13 08:54 CST",
- "updated_epoch": 1794581683,
- "library_songs": 1467,
+ "updated": "2026-11-13 15:47 CST",
+ "updated_epoch": 1794606475,
+ "library_songs": 1472,
  "total": 889,
- "done": 163,
- "open": 726,
+ "done": 168,
+ "open": 721,
  "by_status": {
-  "no_lyrics_yet": 485,
-  "has_lyrics_needs_sync": 188,
-  "transcribing": 6,
-  "blocked_on_audio": 17
+  "no_lyrics_yet": 472,
+  "has_lyrics_needs_sync": 190,
+  "transcribing": 8,
+  "blocked_on_audio": 21
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 80,
-   "open": 590
+   "done": 85,
+   "open": 585
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,26 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "king-hendrick-wait-till-it-get-dry",
+   "when": "Nov 13 10:57"
+  },
+  {
+   "slug": "thf-lil-law-toss-a-4",
+   "when": "Nov 13 10:39"
+  },
+  {
+   "slug": "ysr-gramz-j1hunnit-cb4",
+   "when": "Nov 13 10:39"
+  },
+  {
+   "slug": "flav-home-invasion",
+   "when": "Nov 13 10:35"
+  },
+  {
+   "slug": "krispylife-kidd-bam-got-me-stuttering",
+   "when": "Nov 13 09:20"
+  },
   {
    "slug": "mg-sleepy-punch-me-in",
    "when": "Nov 13 08:37"
@@ -69,38 +89,10 @@
   {
    "slug": "mg-sleepy-awm-quaze-liltae2-vegan-feast",
    "when": "Nov 12 19:19"
-  },
-  {
-   "slug": "3200-tre-deposits",
-   "when": "Nov 12 18:01"
-  },
-  {
-   "slug": "ftos-twan-debo",
-   "when": "Nov 12 17:44"
-  },
-  {
-   "slug": "krispylife-kidd-sweepstakes",
-   "when": "Nov 12 16:38"
-  },
-  {
-   "slug": "juice-wrld-orange-running-from-me",
-   "when": "Nov 12 15:51"
-  },
-  {
-   "slug": "juice-wrld-gelato-and-models-juice-wrld-unreleased-the-party-never-ends",
-   "when": "Nov 12 14:44"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "krispylife-kidd-bam-got-me-stuttering",
-   "title": "Bam Got Me Stuttering",
-   "artist": "KrispyLife Kidd",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
   {
    "slug": "mg-sleepy-benihana",
    "title": "Benihana",
@@ -118,6 +110,22 @@
    "detail": "Passes in: raw, small"
   },
   {
+   "slug": "fwc-big-key-realrichizzo-fbg-feat-realrichizzo",
+   "title": "FBG (feat. RealRichIzzo)",
+   "artist": "FWC Big Key, RealRichIzzo",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "maf-teeski-free-kd",
+   "title": "Free Kd",
+   "artist": "MAF Teeski",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "thf-lil-law-gervonta-davis",
    "title": "Gervonta Davis",
    "artist": "THF LIL LAW",
@@ -126,17 +134,25 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "trapland-pat-gt-real-spill-feat-gt",
-   "title": "Real Spill (feat. GT)",
-   "artist": "Trapland Pat, GT",
+   "slug": "thf-lil-law-heat-up",
+   "title": "HEAT UP",
+   "artist": "THF LIL LAW",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "thf-lil-law-toss-a-4",
-   "title": "TOSS A 4",
-   "artist": "THF LIL LAW",
+   "slug": "rio-da-yung-og-rmc-mike-intellectual",
+   "title": "Intellectual",
+   "artist": "Rio Da Yung Og, Rmc Mike",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "trapland-pat-gt-real-spill-feat-gt",
+   "title": "Real Spill (feat. GT)",
+   "artist": "Trapland Pat, GT",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
