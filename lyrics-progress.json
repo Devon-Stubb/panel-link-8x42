@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-13 06:58 CST",
- "updated_epoch": 1794574731,
+ "updated": "2026-11-13 08:00 CST",
+ "updated_epoch": 1794578426,
  "library_songs": 1465,
  "total": 889,
  "done": 161,
  "open": 728,
  "by_status": {
-  "no_lyrics_yet": 488,
+  "no_lyrics_yet": 485,
   "has_lyrics_needs_sync": 188,
-  "transcribing": 5,
+  "transcribing": 8,
   "blocked_on_audio": 17
  },
  "tiers": {
@@ -94,6 +94,14 @@
  "transcribing_now": [],
  "in_progress": [
   {
+   "slug": "krispylife-kidd-bam-got-me-stuttering",
+   "title": "Bam Got Me Stuttering",
+   "artist": "KrispyLife Kidd",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "mg-sleepy-benihana",
    "title": "Benihana",
    "artist": "Mg Sleepy",
@@ -113,6 +121,22 @@
    "slug": "thf-lil-law-gervonta-davis",
    "title": "Gervonta Davis",
    "artist": "THF LIL LAW",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "mg-sleepy-pink-10",
+   "title": "Pink 10",
+   "artist": "Mg Sleepy",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "mg-sleepy-punch-me-in",
+   "title": "Punch Me In",
+   "artist": "Mg Sleepy",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
