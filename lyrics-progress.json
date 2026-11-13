@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-13 17:35 CST",
- "updated_epoch": 1794612939,
- "library_songs": 1474,
+ "updated": "2026-11-13 17:40 CST",
+ "updated_epoch": 1794613244,
+ "library_songs": 1475,
  "total": 889,
- "done": 170,
- "open": 719,
+ "done": 171,
+ "open": 718,
  "by_status": {
   "no_lyrics_yet": 470,
   "has_lyrics_needs_sync": 190,
-  "transcribing": 8,
+  "transcribing": 7,
   "blocked_on_audio": 21
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 87,
-   "open": 583
+   "done": 88,
+   "open": 582
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "fwc-big-key-392-lil-head-nyc-2am-feat-392-lil-head",
+   "when": "Nov 13 17:36"
+  },
   {
    "slug": "rio-da-yung-og-rmc-mike-intellectual",
    "when": "Nov 13 16:29"
@@ -85,15 +89,9 @@
   {
    "slug": "bfb-da-packman-ddg-delulu",
    "when": "Nov 12 20:52"
-  },
-  {
-   "slug": "greenlightt-jdot-breezy-what-i-m-on",
-   "when": "Nov 12 20:40"
   }
  ],
- "transcribing_now": [
-  "sobmeech glocktober"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
    "slug": "mg-sleepy-benihana",
@@ -139,14 +137,6 @@
    "slug": "sobmeech-glocktober",
    "title": "Glocktober",
    "artist": "Sobmeech",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "fwc-big-key-392-lil-head-nyc-2am-feat-392-lil-head",
-   "title": "NYC @ 2am (feat. 392 Lil Head)",
-   "artist": "FWC Big Key, 392 Lil Head",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
