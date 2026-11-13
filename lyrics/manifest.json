@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T03:14:52Z",
- "count": 1456,
+ "generated_at": "2026-11-13T21:48:50Z",
+ "count": 1466,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -456,6 +456,13 @@
    "file": "952-raq-automatic.lrc",
    "kind": "synced",
    "sha": "3a3ae060b01020348a4e2b432216b637f4c2a58bd4d97ec60c3b4ad9f1b6d389"
+  },
+  {
+   "title": "Fuck my heart",
+   "artist": "9dreamz",
+   "file": "9dreamz-fuck-my-heart.lrc",
+   "kind": "synced",
+   "sha": "663617e2dc5df0038b06bd5556d2f3bd4a7443eee8d5166f1ebbb25f01db4ed9"
   },
   {
    "title": "Crayola",
@@ -2376,6 +2383,13 @@
    "sha": "4b7b60c396346d7c9a831d02ffb932e2379728dba47d05419c36287b3efe33b8"
   },
   {
+   "title": "Home Invasion",
+   "artist": "FLAV",
+   "file": "flav-home-invasion.lrc",
+   "kind": "synced",
+   "sha": "b150c28dabe46d26e1759c443cddafd1aa0f6eab98f0c8a96a350e811500253b"
+  },
+  {
    "title": "How I Move (feat. Lil Baby)",
    "artist": "Flipp Dinero, Lil Baby",
    "file": "flipp-dinero-how-i-move.lrc",
@@ -3881,6 +3895,13 @@
    "sha": "79ac701134b2c02b57c8a5f663198f70c50e22eaf64eac8d8a4c3fe76fd44fbf"
   },
   {
+   "title": "WAIT TILL IT GET DRY",
+   "artist": "King Hendrick$",
+   "file": "king-hendrick-wait-till-it-get-dry.lrc",
+   "kind": "synced",
+   "sha": "132057a2cfb81ed7f213e4e97bbdda00df9d330c3177334f998c89090ac71bb4"
+  },
+  {
    "title": "World Domination",
    "artist": "King Hendrick$",
    "file": "king-hendrick-world-domination.txt",
@@ -4201,6 +4222,13 @@
    "file": "krispylife-kidd-arguing-pt3.lrc",
    "kind": "synced",
    "sha": "fe5a5c69be8394cd72a02e3fab67a2e183e6e312b93833697da0f3c662386b94"
+  },
+  {
+   "title": "Bam Got Me Stuttering",
+   "artist": "KrispyLife Kidd",
+   "file": "krispylife-kidd-bam-got-me-stuttering.lrc",
+   "kind": "synced",
+   "sha": "fe409be95ff853dd7faecf39305518468f5c295f05b4af1fe06ef73dc945873a"
   },
   {
    "title": "Decisions",
@@ -5937,6 +5965,20 @@
    "file": "mg-sleepy-p-diddy.lrc",
    "kind": "synced",
    "sha": "9cb8d2c5453c1383df1c0e3c069d96032da2b8d6ad018539e12e0b33cdd55140"
+  },
+  {
+   "title": "Pink 10",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-pink-10.lrc",
+   "kind": "synced",
+   "sha": "1331ac33345247b0a3b25b6e86d5c268ffaba0395166aec6ae9b57254f0934c4"
+  },
+  {
+   "title": "Punch Me In",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-punch-me-in.lrc",
+   "kind": "synced",
+   "sha": "3015d1a039f7a23451c6a6f9bce99b576f192a7ab6e6dce1e5b37589e1f47c1d"
   },
   {
    "title": "beauty",
@@ -8438,6 +8480,13 @@
    "sha": "105fd683c1e1ae946a27391052c8e1157df139a76a46da6c95d7681381570eb8"
   },
   {
+   "title": "White Bitch",
+   "artist": "Steppa",
+   "file": "steppa-white-bitch.lrc",
+   "kind": "synced",
+   "sha": "9fb23bbabe3f2a4ac49cbb2d2c3807d8b288f676e16129690e99f69f31fc5638"
+  },
+  {
    "title": "Crashouts (feat. BabyChiefDoit & Baby Kia)",
    "artist": "Sugarhill Ddot, BabyChiefDoit, Baby Kia",
    "file": "sugarhill-ddot-crashouts.txt",
@@ -8597,6 +8646,20 @@
    "file": "the-kid-laroi-what-went-wrong.lrc",
    "kind": "synced",
    "sha": "5967003afc2f2c64194537723ba6bf8be1803c487af0757d0be50525983e8ccf"
+  },
+  {
+   "title": "I Slam Doors a Lot",
+   "artist": "THF LIL LAW, Baby Money",
+   "file": "thf-lil-law-baby-money-i-slam-doors-a-lot.lrc",
+   "kind": "synced",
+   "sha": "131dc72f5d9fab22208508e538ef59f905f016b0068ab665bb9a604605173167"
+  },
+  {
+   "title": "TOSS A 4",
+   "artist": "THF LIL LAW",
+   "file": "thf-lil-law-toss-a-4.lrc",
+   "kind": "synced",
+   "sha": "eff715674a8cdd8ea8e58cad6d535371e7da264bab63f4d1a6db736d5c0a3165"
   },
   {
    "title": "Mad Cuz I'm Rich",
@@ -10137,6 +10200,13 @@
    "file": "ysr-gramz-hooty-hoo.txt",
    "kind": "plain",
    "sha": "67603e84553aa30b0151382d5e7e2fcb5027b0a66d7fc20e4c9baca1d8981f4f"
+  },
+  {
+   "title": "CB4",
+   "artist": "Ysr Gramz, J1Hunnit",
+   "file": "ysr-gramz-j1hunnit-cb4.lrc",
+   "kind": "synced",
+   "sha": "c88201028041e38848c9b256d6a1d1a566fe849bc31a4d9ae570c239b94fa7aa"
   },
   {
    "title": "Rap About Violence",
