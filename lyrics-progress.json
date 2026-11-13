@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13 17:06 CST",
- "updated_epoch": 1794611200,
+ "updated": "2026-11-13 17:13 CST",
+ "updated_epoch": 1794611613,
  "library_songs": 1474,
  "total": 889,
  "done": 170,
@@ -91,8 +91,18 @@
    "when": "Nov 12 20:40"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "fwc big key 392 lil head nyc 2am feat 392 lil head"
+ ],
  "in_progress": [
+  {
+   "slug": "fwc-big-key-392-lil-head-nyc-2am-feat-392-lil-head",
+   "title": "NYC @ 2am (feat. 392 Lil Head)",
+   "artist": "FWC Big Key, 392 Lil Head",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 01:50"
+  },
   {
    "slug": "mg-sleepy-benihana",
    "title": "Benihana",
