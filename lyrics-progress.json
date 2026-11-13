@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13 17:25 CST",
- "updated_epoch": 1794612324,
+ "updated": "2026-11-13 17:26 CST",
+ "updated_epoch": 1794612381,
  "library_songs": 1474,
  "total": 889,
  "done": 170,
@@ -102,7 +102,7 @@
    "artist": "Sobmeech",
    "tier": "Rest of playlist",
    "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 03:32"
+   "detail": "pass.py \u00b7 small pass \u00b7 running 00:20"
   },
   {
    "slug": "mg-sleepy-benihana",
