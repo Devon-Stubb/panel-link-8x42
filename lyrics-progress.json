@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-13 03:05 CST",
- "updated_epoch": 1794560746,
- "library_songs": 1462,
+ "updated": "2026-11-13 06:58 CST",
+ "updated_epoch": 1794574731,
+ "library_songs": 1465,
  "total": 889,
- "done": 158,
- "open": 731,
+ "done": 161,
+ "open": 728,
  "by_status": {
-  "no_lyrics_yet": 500,
-  "has_lyrics_needs_sync": 186,
-  "transcribing": 8,
-  "blocked_on_audio": 15
+  "no_lyrics_yet": 488,
+  "has_lyrics_needs_sync": 188,
+  "transcribing": 5,
+  "blocked_on_audio": 17
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 75,
-   "open": 595
+   "done": 78,
+   "open": 592
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,18 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "thf-lil-law-baby-money-i-slam-doors-a-lot",
+   "when": "Nov 13 06:35"
+  },
+  {
+   "slug": "9dreamz-fuck-my-heart",
+   "when": "Nov 13 05:24"
+  },
+  {
+   "slug": "steppa-white-bitch",
+   "when": "Nov 13 04:29"
+  },
   {
    "slug": "bfb-da-packman-ddg-delulu",
    "when": "Nov 12 20:52"
@@ -77,82 +89,46 @@
   {
    "slug": "juice-wrld-couple-pills-prod-colabeats",
    "when": "Nov 12 13:59"
-  },
-  {
-   "slug": "juice-wrld-hurt-you",
-   "when": "Nov 12 13:45"
-  },
-  {
-   "slug": "juice-wrld-back-in-chicago",
-   "when": "Nov 12 11:19"
-  },
-  {
-   "slug": "juice-wrld-diners-unrelease",
-   "when": "Nov 12 11:09"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
   {
-   "slug": "mg-sleepy-a-out",
-   "title": "A$$ Out",
+   "slug": "mg-sleepy-benihana",
+   "title": "Benihana",
    "artist": "Mg Sleepy",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "juice-wrld-boss-of-me",
-   "title": "Boss Of Me",
-   "artist": "Juice WRLD",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "jdot-breezy-dope-slangin",
-   "title": "Dope Slangin",
-   "artist": "Jdot Breezy",
+   "slug": "thf-lil-law-channel-9",
+   "title": "CHANNEL 9",
+   "artist": "THF LIL LAW",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: raw, small"
   },
   {
-   "slug": "juice-wrld-lovely-remix-ft-juice-wrld-khalid",
-   "title": "Lovely (Remix) (ft. Juice WRLD, Khalid)",
-   "artist": "Juice WRLD",
+   "slug": "thf-lil-law-gervonta-davis",
+   "title": "Gervonta Davis",
+   "artist": "THF LIL LAW",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "krispylife-kidd-mann",
-   "title": "Mann",
-   "artist": "KrispyLife Kidd",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, small"
-  },
-  {
-   "slug": "juice-wrld-monsters-in-my-basement",
-   "title": "Monsters In My Basement",
-   "artist": "Juice WRLD",
+   "slug": "trapland-pat-gt-real-spill-feat-gt",
+   "title": "Real Spill (feat. GT)",
+   "artist": "Trapland Pat, GT",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "mg-sleepy-myaap-paint-the-town-red",
-   "title": "Paint The Town Red",
-   "artist": "Mg Sleepy, Myaap",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "fonzo-6700-sticks",
-   "title": "Sticks",
-   "artist": "Fonzo 6700",
+   "slug": "thf-lil-law-toss-a-4",
+   "title": "TOSS A 4",
+   "artist": "THF LIL LAW",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
