@@ -1,25 +1,20 @@
 {
  "v": 1,
- "generated_at": "2026-11-12T14:43:45Z",
+ "generated_at": "2026-11-13T14:43:30Z",
  "brief": {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T14:43:45Z",
-  "headline": "Thursday Nov 12 — Package due today, benefits close Nov 16, launch week live",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T14:43:30Z",
+  "headline": "Friday Nov 13 — Benefits close Mon Nov 16, launch week runs to Nov 17",
   "highlights": [
    {
     "kind": "calendar",
-    "title": "UPS delivery due today Thu Nov 12",
-    "detail": "Loaded for delivery this morning — due 9:45 AM to 12:45 PM, signature needed"
-   },
-   {
-    "kind": "task",
     "title": "Benefits open enrollment closes Nov 16",
     "detail": "In Workday — HSA elections do not roll over, pick fresh ones by Nov 16"
    },
    {
     "kind": "calendar",
     "title": "Trippie Redd trip reminder coming Nov 21",
-    "detail": "Show is Sat Dec 5 in Springfield, MO with TopOppGen — reminder set for Nov 21"
+    "detail": "Show is Sat Dec 5 in Springfield, MO with TopOppGen — nothing booked yet"
    },
    {
     "kind": "fyi",
@@ -28,8 +23,13 @@
    },
    {
     "kind": "fyi",
-    "title": "Site update v84 live",
-    "detail": "New view now leads with the 47 new shirts, verified live Nov 11"
+    "title": "Public Nuisance posts today Nov 13",
+    "detail": "Next posts are set for today at 11:30 AM on Facebook and Instagram"
+   },
+   {
+    "kind": "calendar",
+    "title": "Chicago lookahead — The Neighbourhood Nov 18",
+    "detail": "United Center show Tue Nov 18, part of the daily concert check"
    }
   ],
   "decide_count": 7
@@ -37,7 +37,7 @@
  "house": {
   "mode": null,
   "in_sync": false,
-  "reported_at": "2026-11-12T14:43:45Z",
+  "reported_at": "2026-11-13T14:43:30Z",
   "source": "peanut"
  }
 }
