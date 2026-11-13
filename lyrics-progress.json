@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13 17:13 CST",
- "updated_epoch": 1794611613,
+ "updated": "2026-11-13 17:25 CST",
+ "updated_epoch": 1794612324,
  "library_songs": 1474,
  "total": 889,
  "done": 170,
@@ -92,16 +92,17 @@
   }
  ],
  "transcribing_now": [
-  "fwc big key 392 lil head nyc 2am feat 392 lil head"
+  "fwc big key 392 lil head nyc 2am feat 392 lil head",
+  "sobmeech glocktober"
  ],
  "in_progress": [
   {
-   "slug": "fwc-big-key-392-lil-head-nyc-2am-feat-392-lil-head",
-   "title": "NYC @ 2am (feat. 392 Lil Head)",
-   "artist": "FWC Big Key, 392 Lil Head",
+   "slug": "sobmeech-glocktober",
+   "title": "Glocktober",
+   "artist": "Sobmeech",
    "tier": "Rest of playlist",
    "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 01:50"
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 03:32"
   },
   {
    "slug": "mg-sleepy-benihana",
@@ -139,6 +140,14 @@
    "slug": "thf-lil-law-gervonta-davis",
    "title": "Gervonta Davis",
    "artist": "THF LIL LAW",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "fwc-big-key-392-lil-head-nyc-2am-feat-392-lil-head",
+   "title": "NYC @ 2am (feat. 392 Lil Head)",
+   "artist": "FWC Big Key, 392 Lil Head",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
