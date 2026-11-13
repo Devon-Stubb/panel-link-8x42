@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T21:48:50Z",
- "count": 1466,
+ "generated_at": "2026-11-13T23:13:27Z",
+ "count": 1468,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -7808,6 +7808,13 @@
    "sha": "0066d828c54a276d1032db530f5d3dee3ee1caa08acd9c1e49915a78be6024c8"
   },
   {
+   "title": "Intellectual",
+   "artist": "Rio Da Yung Og, Rmc Mike",
+   "file": "rio-da-yung-og-rmc-mike-intellectual.lrc",
+   "kind": "synced",
+   "sha": "5baaef06af4699d74eb621ff8829d9f46bbf7fd2a9924322dc74204f0b6e83a0"
+  },
+  {
    "title": "Non Cense",
    "artist": "Rio Da Yung Og, Rmc Mike",
    "file": "rio-da-yung-og-rmc-mike-non-cense.lrc",
@@ -8653,6 +8660,13 @@
    "file": "thf-lil-law-baby-money-i-slam-doors-a-lot.lrc",
    "kind": "synced",
    "sha": "131dc72f5d9fab22208508e538ef59f905f016b0068ab665bb9a604605173167"
+  },
+  {
+   "title": "HEAT UP",
+   "artist": "THF LIL LAW",
+   "file": "thf-lil-law-heat-up.lrc",
+   "kind": "synced",
+   "sha": "11e02e3c7d686f1c9394637711f578edd91df3a240f605706d7c6c422faa42b6"
   },
   {
    "title": "TOSS A 4",
