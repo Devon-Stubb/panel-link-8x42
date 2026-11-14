@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13 23:03 CST",
- "updated_epoch": 1794632613,
+ "updated": "2026-11-13 23:34 CST",
+ "updated_epoch": 1794634474,
  "library_songs": 1480,
  "total": 889,
  "done": 176,
@@ -113,6 +113,14 @@
    "slug": "fwc-big-key-realrichizzo-fbg-feat-realrichizzo",
    "title": "FBG (feat. RealRichIzzo)",
    "artist": "FWC Big Key, RealRichIzzo",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "screwly-g-fein-for-murder",
+   "title": "Fein For Murder",
+   "artist": "Screwly G",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
