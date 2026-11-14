@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-14T16:34:41Z",
- "count": 1476,
+ "generated_at": "2026-11-14T22:47:57Z",
+ "count": 1483,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -421,6 +421,13 @@
    "file": "444vlone-something-to-prove.lrc",
    "kind": "synced",
    "sha": "cd455f95f4c12811144c7cc5da1fc85a4f8223038b50c8b0afe944a0a884b518"
+  },
+  {
+   "title": "Tap In",
+   "artist": "448 Fatts",
+   "file": "448-fatts-tap-in.lrc",
+   "kind": "synced",
+   "sha": "a0e362349f33daa32050c71f51ee4b5a47a3373ffd404d7ea63503a55b23053f"
   },
   {
    "title": "Rider - Remix",
@@ -1963,6 +1970,13 @@
    "sha": "311788a89f5f0aa643ca0037e69491e982d770031ca2804c08327de66ca12699"
   },
   {
+   "title": "Agenda",
+   "artist": "DCG BROTHERS, DCG Shun, DCG Bsavv",
+   "file": "dcg-brothers-dcg-shun-dcg-bsavv-agenda.lrc",
+   "kind": "synced",
+   "sha": "ff1f5f1a2351814e2bcad89f4a1dda03f2b4cd63edb793c1936b147dc86a4716"
+  },
+  {
    "title": "gta (feat. Skilla Baby)",
    "artist": "DDG, Skilla Baby",
    "file": "ddg-gta.txt",
@@ -2017,6 +2031,13 @@
    "file": "dee-mula-freestyle-8.lrc",
    "kind": "synced",
    "sha": "65b01a2effe99b446fadfe127b7f1db8552ba3968bf22d14720e2f06f4b14596"
+  },
+  {
+   "title": "Let's Play",
+   "artist": "Dee Mula",
+   "file": "dee-mula-let-s-play.lrc",
+   "kind": "synced",
+   "sha": "22b6c63e321369f18dfab4f4f6a50d22643547cb7d358fb3319f76fb7fbcb381"
   },
   {
    "title": "Mula Franklin",
@@ -2934,6 +2955,13 @@
    "file": "gunna-too-easy.lrc",
    "kind": "synced",
    "sha": "2ce033c0649f048148f41c6982b2f161533abf394efbc3f02a2a4e3da103490b"
+  },
+  {
+   "title": "Real Deal (feat. BabyDrill)",
+   "artist": "Heembeezy, BabyDrill",
+   "file": "heembeezy-babydrill-real-deal-feat-babydrill.lrc",
+   "kind": "synced",
+   "sha": "7437518a172963ac817568bba85750049c7b6dd53f643ddcbfbd1c8b66183dfd"
   },
   {
    "title": "Goat Talk 2",
@@ -5293,6 +5321,13 @@
    "file": "lil-pump-tesla.lrc",
    "kind": "synced",
    "sha": "c94a4efd0afb95bd45da0f0f410722057f147e334fde1786d3b809ef02392714"
+  },
+  {
+   "title": "Stand On Business",
+   "artist": "Lil Rae",
+   "file": "lil-rae-stand-on-business.lrc",
+   "kind": "synced",
+   "sha": "13989e2b747eaa68d2650889fd10326ec27a8d64537ec1de220a781e06651f0c"
   },
   {
    "title": "Jakes",
@@ -8424,6 +8459,13 @@
    "sha": "d385fb7de51c5e0a316950806d743c7e484d051e768651cff8d44cfe3c04ccab"
   },
   {
+   "title": "Bouncin",
+   "artist": "Skrilla",
+   "file": "skrilla-bouncin.lrc",
+   "kind": "synced",
+   "sha": "8b2ca8bd2b90537f89af3adf3d52884ad0216e9fd0163dd17e24c04c483671c0"
+  },
+  {
    "title": "Baghdad Flow",
    "artist": "SleazyWorld Go",
    "file": "sleazyworld-go-baghdad-flow.lrc",
@@ -10263,6 +10305,13 @@
    "file": "youngboy-never-broke-again-watchu-sayin.lrc",
    "kind": "synced",
    "sha": "e553aa426b4d02c71345815216827a419ebea38a1e62bde8f567048dc47f1d9e"
+  },
+  {
+   "title": "Neiman or Saks (feat. BabyTron)",
+   "artist": "Ysr Gramz, Enrgy Beats, BabyTron",
+   "file": "ysr-gramz-enrgy-beats-babytron-neiman-or-saks-feat-babytron.lrc",
+   "kind": "synced",
+   "sha": "c2c85b17358357092268df8d3f5c0f9234f5f9c5ef9c4c77149fefb606d61812"
   },
   {
    "title": "Hooty Hoo",
