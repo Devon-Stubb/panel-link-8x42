@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-14 07:42 CST",
- "updated_epoch": 1794663743,
+ "updated": "2026-11-14 08:14 CST",
+ "updated_epoch": 1794665644,
  "library_songs": 1481,
  "total": 889,
  "done": 177,
  "open": 712,
  "by_status": {
-  "no_lyrics_yet": 462,
-  "has_lyrics_needs_sync": 191,
-  "transcribing": 8,
-  "blocked_on_audio": 21
+  "no_lyrics_yet": 454,
+  "has_lyrics_needs_sync": 192,
+  "transcribing": 6,
+  "blocked_on_audio": 22
  },
  "tiers": {
   "Rest of playlist": {
@@ -91,60 +91,22 @@
    "when": "Nov 13 09:20"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "dcg brothers dcg shun dcg bsavv agenda"
+ ],
  "in_progress": [
   {
-   "slug": "mg-sleepy-benihana",
-   "title": "Benihana",
-   "artist": "Mg Sleepy",
+   "slug": "dcg-brothers-dcg-shun-dcg-bsavv-agenda",
+   "title": "Agenda",
+   "artist": "DCG BROTHERS, DCG Shun, DCG Bsavv",
    "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 04:48"
   },
   {
-   "slug": "thf-lil-law-channel-9",
-   "title": "CHANNEL 9",
-   "artist": "THF LIL LAW",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: raw, small"
-  },
-  {
-   "slug": "fwc-big-key-realrichizzo-fbg-feat-realrichizzo",
-   "title": "FBG (feat. RealRichIzzo)",
-   "artist": "FWC Big Key, RealRichIzzo",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "maf-teeski-free-kd",
-   "title": "Free Kd",
-   "artist": "MAF Teeski",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "thf-lil-law-gervonta-davis",
-   "title": "Gervonta Davis",
-   "artist": "THF LIL LAW",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "fwc-big-key-opps-can-t-make-a-diss",
-   "title": "OPPS CAN'T MAKE A DISS",
-   "artist": "FWC Big Key",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "trapland-pat-gt-real-spill-feat-gt",
-   "title": "Real Spill (feat. GT)",
-   "artist": "Trapland Pat, GT",
+   "slug": "krispylife-kidd-ysr-gramz-who-at-the-door",
+   "title": "Who at the Door",
+   "artist": "KrispyLife Kidd, Ysr Gramz",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
