@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-14 10:40 CST",
- "updated_epoch": 1794674448,
- "library_songs": 1482,
+ "updated": "2026-11-14 11:36 CST",
+ "updated_epoch": 1794677796,
+ "library_songs": 1483,
  "total": 889,
- "done": 178,
- "open": 711,
+ "done": 179,
+ "open": 710,
  "by_status": {
-  "no_lyrics_yet": 451,
-  "has_lyrics_needs_sync": 193,
-  "transcribing": 7,
+  "no_lyrics_yet": 448,
+  "has_lyrics_needs_sync": 194,
+  "transcribing": 8,
   "blocked_on_audio": 22
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 95,
-   "open": 575
+   "done": 96,
+   "open": 574
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "skrilla-bouncin",
+   "when": "Nov 14 10:47"
+  },
   {
    "slug": "krispylife-kidd-ysr-gramz-who-at-the-door",
    "when": "Nov 14 09:50"
@@ -85,15 +89,9 @@
   {
    "slug": "ysr-gramz-j1hunnit-cb4",
    "when": "Nov 13 10:39"
-  },
-  {
-   "slug": "flav-home-invasion",
-   "when": "Nov 13 10:35"
   }
  ],
- "transcribing_now": [
-  "skrilla bouncin"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
    "slug": "dee-mula-38118",
@@ -107,14 +105,6 @@
    "slug": "dcg-brothers-dcg-shun-dcg-bsavv-agenda",
    "title": "Agenda",
    "artist": "DCG BROTHERS, DCG Shun, DCG Bsavv",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "skrilla-bouncin",
-   "title": "Bouncin",
-   "artist": "Skrilla",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -147,6 +137,22 @@
    "slug": "dee-mula-quit-cappin",
    "title": "Quit Cappin",
    "artist": "Dee Mula",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "lil-rae-stand-on-business",
+   "title": "Stand On Business",
+   "artist": "Lil Rae",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "448-fatts-tap-in",
+   "title": "Tap In",
+   "artist": "448 Fatts",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
