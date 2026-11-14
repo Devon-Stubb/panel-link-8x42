@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-13 21:42 CST",
- "updated_epoch": 1794627767,
+ "updated": "2026-11-13 22:19 CST",
+ "updated_epoch": 1794629976,
  "library_songs": 1479,
  "total": 889,
  "done": 175,
  "open": 714,
  "by_status": {
-  "no_lyrics_yet": 465,
+  "no_lyrics_yet": 464,
   "has_lyrics_needs_sync": 191,
-  "transcribing": 7,
+  "transcribing": 8,
   "blocked_on_audio": 21
  },
  "tiers": {
@@ -91,7 +91,9 @@
    "when": "Nov 13 08:29"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "the big homie gmo stax diddyda don ybn lil bro mia feat gmo stax diddyda don ybn lil bro"
+ ],
  "in_progress": [
   {
    "slug": "mg-sleepy-benihana",
