@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T23:56:29Z",
- "count": 1470,
+ "generated_at": "2026-11-14T03:42:47Z",
+ "count": 1473,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -7486,6 +7486,13 @@
    "sha": "4d8907f7d0adb7bea788e5571e88882be693f040883b76eca653767df3c17a3e"
   },
   {
+   "title": "Punch Finatic",
+   "artist": "Punchmade Dev",
+   "file": "punchmade-dev-punch-finatic.lrc",
+   "kind": "synced",
+   "sha": "7c2774a40053f51b300373e9f3be445d30e0e58974934742b38b8a8f5fe31302"
+  },
+  {
    "title": "Punch Story",
    "artist": "Punchmade Dev",
    "file": "punchmade-dev-punch-story.lrc",
@@ -8527,6 +8534,13 @@
    "file": "takeoff-last-memory.lrc",
    "kind": "synced",
    "sha": "1e8777c4d3ec28fc37b52b306c9687e068cf1945d527f7a4ef73e004891cb834"
+  },
+  {
+   "title": "Boyz (feat. Rio Da Yung Og & Rmc Mike)",
+   "artist": "Talibando, Rio Da Yung Og, Rmc Mike",
+   "file": "talibando-rio-da-yung-og-rmc-mike-boyz-feat-rio-da-yung-og-rmc-mike.lrc",
+   "kind": "synced",
+   "sha": "5c34f15c3b949b7d0ac29b98f6da6dba949b369419db3f522f74f35501adc296"
   },
   {
    "title": "5 STAR",
@@ -9584,6 +9598,13 @@
    "file": "vonoff1700-vonno-da-fox.txt",
    "kind": "plain",
    "sha": "8dfa7c7afc206864e476f53538787a8e0fcf91301c92d1aee5cc7671ff337b5a"
+  },
+  {
+   "title": "FAKE SLEEP",
+   "artist": "Wayne616, Rio Da Yung Og, Rmc Mike, GrindHard E",
+   "file": "wayne616-rio-da-yung-og-rmc-mike-grindhard-e-fake-sleep.lrc",
+   "kind": "synced",
+   "sha": "957fff58c078b603af14d429d2e184d656a6c7de3e33c7eb421fa0084dcbb13b"
   },
   {
    "title": "The Letter",
