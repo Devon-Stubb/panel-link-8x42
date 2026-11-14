@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-14 16:10 CST",
- "updated_epoch": 1794694242,
- "library_songs": 1486,
+ "updated": "2026-11-14 17:01 CST",
+ "updated_epoch": 1794697305,
+ "library_songs": 1489,
  "total": 889,
- "done": 182,
- "open": 707,
+ "done": 185,
+ "open": 704,
  "by_status": {
   "no_lyrics_yet": 445,
   "has_lyrics_needs_sync": 194,
-  "transcribing": 8,
+  "transcribing": 5,
   "blocked_on_audio": 22
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 99,
-   "open": 571
+   "done": 102,
+   "open": 568
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,18 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "heembeezy-babydrill-real-deal-feat-babydrill",
+   "when": "Nov 14 16:37"
+  },
+  {
+   "slug": "448-fatts-tap-in",
+   "when": "Nov 14 16:27"
+  },
+  {
+   "slug": "dee-mula-let-s-play",
+   "when": "Nov 14 16:13"
+  },
   {
    "slug": "lil-rae-stand-on-business",
    "when": "Nov 14 14:50"
@@ -77,18 +89,6 @@
   {
    "slug": "sobmeech-glocktober",
    "when": "Nov 13 17:45"
-  },
-  {
-   "slug": "fwc-big-key-392-lil-head-nyc-2am-feat-392-lil-head",
-   "when": "Nov 13 17:36"
-  },
-  {
-   "slug": "rio-da-yung-og-rmc-mike-intellectual",
-   "when": "Nov 13 16:29"
-  },
-  {
-   "slug": "thf-lil-law-heat-up",
-   "when": "Nov 13 16:23"
   }
  ],
  "transcribing_now": [],
@@ -118,33 +118,9 @@
    "detail": "Passes in: small"
   },
   {
-   "slug": "dee-mula-let-s-play",
-   "title": "Let's Play",
-   "artist": "Dee Mula",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
    "slug": "dee-mula-quit-cappin",
    "title": "Quit Cappin",
    "artist": "Dee Mula",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "heembeezy-babydrill-real-deal-feat-babydrill",
-   "title": "Real Deal (feat. BabyDrill)",
-   "artist": "Heembeezy, BabyDrill",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "448-fatts-tap-in",
-   "title": "Tap In",
-   "artist": "448 Fatts",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
