@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-14 08:00 UTC",
- "updated_epoch": 1794643245,
+ "updated": "2026-11-14 02:31 CST",
+ "updated_epoch": 1794645113,
  "library_songs": 1481,
  "total": 889,
  "done": 177,
  "open": 712,
  "by_status": {
-  "no_lyrics_yet": 463,
+  "no_lyrics_yet": 462,
   "has_lyrics_needs_sync": 191,
-  "transcribing": 7,
+  "transcribing": 8,
   "blocked_on_audio": 21
  },
  "tiers": {
@@ -36,59 +36,59 @@
  "finished_recently": [
   {
    "slug": "screwly-g-fein-for-murder",
-   "when": "Nov 14 07:22"
+   "when": "Nov 14 01:22"
   },
   {
    "slug": "the-big-homie-gmo-stax-diddyda-don-ybn-lil-bro-mia-feat-gmo-stax-diddyda-don-ybn-lil-bro",
-   "when": "Nov 14 04:29"
-  },
-  {
-   "slug": "talibando-rio-da-yung-og-rmc-mike-boyz-feat-rio-da-yung-og-rmc-mike",
-   "when": "Nov 14 02:59"
-  },
-  {
-   "slug": "wayne616-rio-da-yung-og-rmc-mike-grindhard-e-fake-sleep",
-   "when": "Nov 14 02:45"
-  },
-  {
-   "slug": "punchmade-dev-punch-finatic",
-   "when": "Nov 14 00:25"
-  },
-  {
-   "slug": "sobmeech-glocktober",
-   "when": "Nov 13 23:45"
-  },
-  {
-   "slug": "fwc-big-key-392-lil-head-nyc-2am-feat-392-lil-head",
-   "when": "Nov 13 23:36"
-  },
-  {
-   "slug": "rio-da-yung-og-rmc-mike-intellectual",
    "when": "Nov 13 22:29"
   },
   {
+   "slug": "talibando-rio-da-yung-og-rmc-mike-boyz-feat-rio-da-yung-og-rmc-mike",
+   "when": "Nov 13 20:59"
+  },
+  {
+   "slug": "wayne616-rio-da-yung-og-rmc-mike-grindhard-e-fake-sleep",
+   "when": "Nov 13 20:45"
+  },
+  {
+   "slug": "punchmade-dev-punch-finatic",
+   "when": "Nov 13 18:25"
+  },
+  {
+   "slug": "sobmeech-glocktober",
+   "when": "Nov 13 17:45"
+  },
+  {
+   "slug": "fwc-big-key-392-lil-head-nyc-2am-feat-392-lil-head",
+   "when": "Nov 13 17:36"
+  },
+  {
+   "slug": "rio-da-yung-og-rmc-mike-intellectual",
+   "when": "Nov 13 16:29"
+  },
+  {
    "slug": "thf-lil-law-heat-up",
-   "when": "Nov 13 22:23"
+   "when": "Nov 13 16:23"
   },
   {
    "slug": "king-hendrick-wait-till-it-get-dry",
-   "when": "Nov 13 16:57"
+   "when": "Nov 13 10:57"
   },
   {
    "slug": "thf-lil-law-toss-a-4",
-   "when": "Nov 13 16:39"
+   "when": "Nov 13 10:39"
   },
   {
    "slug": "ysr-gramz-j1hunnit-cb4",
-   "when": "Nov 13 16:39"
+   "when": "Nov 13 10:39"
   },
   {
    "slug": "flav-home-invasion",
-   "when": "Nov 13 16:35"
+   "when": "Nov 13 10:35"
   },
   {
    "slug": "krispylife-kidd-bam-got-me-stuttering",
-   "when": "Nov 13 15:20"
+   "when": "Nov 13 09:20"
   }
  ],
  "transcribing_now": [],
