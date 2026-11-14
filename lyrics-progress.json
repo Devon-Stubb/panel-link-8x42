@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14 12:00 CST",
- "updated_epoch": 1794679242,
+ "updated": "2026-11-14 12:10 CST",
+ "updated_epoch": 1794679842,
  "library_songs": 1483,
  "total": 889,
  "done": 179,
@@ -91,7 +91,9 @@
    "when": "Nov 13 10:39"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "dcg brothers dcg shun dcg bsavv agenda"
+ ],
  "in_progress": [
   {
    "slug": "dee-mula-38118",
