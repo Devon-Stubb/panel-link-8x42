@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-13 22:21 CST",
- "updated_epoch": 1794630086,
- "library_songs": 1479,
+ "updated": "2026-11-13 23:00 CST",
+ "updated_epoch": 1794632424,
+ "library_songs": 1480,
  "total": 889,
- "done": 175,
- "open": 714,
+ "done": 176,
+ "open": 713,
  "by_status": {
-  "no_lyrics_yet": 464,
+  "no_lyrics_yet": 463,
   "has_lyrics_needs_sync": 191,
   "transcribing": 8,
   "blocked_on_audio": 21
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 92,
-   "open": 578
+   "done": 93,
+   "open": 577
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "the-big-homie-gmo-stax-diddyda-don-ybn-lil-bro-mia-feat-gmo-stax-diddyda-don-ybn-lil-bro",
+   "when": "Nov 13 22:29"
+  },
   {
    "slug": "talibando-rio-da-yung-og-rmc-mike-boyz-feat-rio-da-yung-og-rmc-mike",
    "when": "Nov 13 20:59"
@@ -85,15 +89,9 @@
   {
    "slug": "mg-sleepy-punch-me-in",
    "when": "Nov 13 08:37"
-  },
-  {
-   "slug": "mg-sleepy-pink-10",
-   "when": "Nov 13 08:29"
   }
  ],
- "transcribing_now": [
-  "the big homie gmo stax diddyda don ybn lil bro mia feat gmo stax diddyda don ybn lil bro"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
    "slug": "mg-sleepy-benihana",
