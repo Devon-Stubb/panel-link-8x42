@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-14T05:05:13Z",
- "count": 1474,
+ "generated_at": "2026-11-14T07:56:22Z",
+ "count": 1475,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -8219,6 +8219,13 @@
    "file": "sauce-walka-rules.txt",
    "kind": "plain",
    "sha": "e4088fb8d47d6c1e31e62d12bfe797f3168f79307070db417bd77b5c9ee821dc"
+  },
+  {
+   "title": "Fein For Murder",
+   "artist": "Screwly G",
+   "file": "screwly-g-fein-for-murder.lrc",
+   "kind": "synced",
+   "sha": "2d7c304cd3ae9483ae79c9190125866f24aeef18202c137b979e41196359d804"
   },
   {
    "title": "Hellcats SRTs",
