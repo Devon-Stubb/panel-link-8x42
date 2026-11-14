@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-13 17:59 CST",
- "updated_epoch": 1794614374,
- "library_songs": 1476,
+ "updated": "2026-11-13 18:34 CST",
+ "updated_epoch": 1794616462,
+ "library_songs": 1477,
  "total": 889,
- "done": 172,
- "open": 717,
+ "done": 173,
+ "open": 716,
  "by_status": {
-  "no_lyrics_yet": 470,
-  "has_lyrics_needs_sync": 190,
-  "transcribing": 6,
+  "no_lyrics_yet": 467,
+  "has_lyrics_needs_sync": 191,
+  "transcribing": 7,
   "blocked_on_audio": 21
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 89,
-   "open": 581
+   "done": 90,
+   "open": 580
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "punchmade-dev-punch-finatic",
+   "when": "Nov 13 18:25"
+  },
   {
    "slug": "sobmeech-glocktober",
    "when": "Nov 13 17:45"
@@ -85,10 +89,6 @@
   {
    "slug": "9dreamz-fuck-my-heart",
    "when": "Nov 13 05:24"
-  },
-  {
-   "slug": "steppa-white-bitch",
-   "when": "Nov 13 04:29"
   }
  ],
  "transcribing_now": [],
