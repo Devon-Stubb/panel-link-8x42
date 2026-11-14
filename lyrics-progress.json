@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14 09:05 CST",
- "updated_epoch": 1794668746,
+ "updated": "2026-11-14 09:24 CST",
+ "updated_epoch": 1794669892,
  "library_songs": 1481,
  "total": 889,
  "done": 177,
@@ -92,16 +92,24 @@
   }
  ],
  "transcribing_now": [
-  "dee mula 38118"
+  "dee mula let s play"
  ],
  "in_progress": [
+  {
+   "slug": "dee-mula-let-s-play",
+   "title": "Let's Play",
+   "artist": "Dee Mula",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 02:31"
+  },
   {
    "slug": "dee-mula-38118",
    "title": "38118",
    "artist": "Dee Mula",
    "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 00:52"
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
   },
   {
    "slug": "dcg-brothers-dcg-shun-dcg-bsavv-agenda",
@@ -131,6 +139,14 @@
    "slug": "ysr-gramz-enrgy-beats-babytron-neiman-or-saks-feat-babytron",
    "title": "Neiman or Saks (feat. BabyTron)",
    "artist": "Ysr Gramz, Enrgy Beats, BabyTron",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "dee-mula-quit-cappin",
+   "title": "Quit Cappin",
+   "artist": "Dee Mula",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
