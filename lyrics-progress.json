@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14 09:24 CST",
- "updated_epoch": 1794669892,
+ "updated": "2026-11-14 09:45 CST",
+ "updated_epoch": 1794671115,
  "library_songs": 1481,
  "total": 889,
  "done": 177,
@@ -92,17 +92,9 @@
   }
  ],
  "transcribing_now": [
-  "dee mula let s play"
+  "krispylife kidd ysr gramz who at the door"
  ],
  "in_progress": [
-  {
-   "slug": "dee-mula-let-s-play",
-   "title": "Let's Play",
-   "artist": "Dee Mula",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 02:31"
-  },
   {
    "slug": "dee-mula-38118",
    "title": "38118",
@@ -134,6 +126,14 @@
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: small"
+  },
+  {
+   "slug": "dee-mula-let-s-play",
+   "title": "Let's Play",
+   "artist": "Dee Mula",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
   },
   {
    "slug": "ysr-gramz-enrgy-beats-babytron-neiman-or-saks-feat-babytron",
