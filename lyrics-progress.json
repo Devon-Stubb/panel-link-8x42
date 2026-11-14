@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-14 14:07 CST",
- "updated_epoch": 1794686823,
- "library_songs": 1484,
+ "updated": "2026-11-14 16:10 CST",
+ "updated_epoch": 1794694242,
+ "library_songs": 1486,
  "total": 889,
- "done": 180,
- "open": 709,
+ "done": 182,
+ "open": 707,
  "by_status": {
-  "no_lyrics_yet": 447,
+  "no_lyrics_yet": 445,
   "has_lyrics_needs_sync": 194,
   "transcribing": 8,
   "blocked_on_audio": 22
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 97,
-   "open": 573
+   "done": 99,
+   "open": 571
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "lil-rae-stand-on-business",
+   "when": "Nov 14 14:50"
+  },
+  {
+   "slug": "ysr-gramz-enrgy-beats-babytron-neiman-or-saks-feat-babytron",
+   "when": "Nov 14 14:36"
+  },
   {
    "slug": "dcg-brothers-dcg-shun-dcg-bsavv-agenda",
    "when": "Nov 14 12:28"
@@ -81,14 +89,6 @@
   {
    "slug": "thf-lil-law-heat-up",
    "when": "Nov 13 16:23"
-  },
-  {
-   "slug": "king-hendrick-wait-till-it-get-dry",
-   "when": "Nov 13 10:57"
-  },
-  {
-   "slug": "thf-lil-law-toss-a-4",
-   "when": "Nov 13 10:39"
   }
  ],
  "transcribing_now": [],
@@ -97,6 +97,14 @@
    "slug": "dee-mula-38118",
    "title": "38118",
    "artist": "Dee Mula",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "dcg-brothers-skilla-baby-and-is-feat-skilla-baby",
+   "title": "And Is (feat. Skilla Baby)",
+   "artist": "DCG BROTHERS, Skilla Baby",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -118,14 +126,6 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "ysr-gramz-enrgy-beats-babytron-neiman-or-saks-feat-babytron",
-   "title": "Neiman or Saks (feat. BabyTron)",
-   "artist": "Ysr Gramz, Enrgy Beats, BabyTron",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
    "slug": "dee-mula-quit-cappin",
    "title": "Quit Cappin",
    "artist": "Dee Mula",
@@ -137,14 +137,6 @@
    "slug": "heembeezy-babydrill-real-deal-feat-babydrill",
    "title": "Real Deal (feat. BabyDrill)",
    "artist": "Heembeezy, BabyDrill",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "lil-rae-stand-on-business",
-   "title": "Stand On Business",
-   "artist": "Lil Rae",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
