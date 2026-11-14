@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14 09:01 CST",
- "updated_epoch": 1794668491,
+ "updated": "2026-11-14 09:05 CST",
+ "updated_epoch": 1794668746,
  "library_songs": 1481,
  "total": 889,
  "done": 177,
@@ -92,21 +92,29 @@
   }
  ],
  "transcribing_now": [
-  "skrilla bouncin"
+  "dee mula 38118"
  ],
  "in_progress": [
   {
-   "slug": "skrilla-bouncin",
-   "title": "Bouncin",
-   "artist": "Skrilla",
+   "slug": "dee-mula-38118",
+   "title": "38118",
+   "artist": "Dee Mula",
    "tier": "Rest of playlist",
    "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 07:54"
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 00:52"
   },
   {
    "slug": "dcg-brothers-dcg-shun-dcg-bsavv-agenda",
    "title": "Agenda",
    "artist": "DCG BROTHERS, DCG Shun, DCG Bsavv",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "skrilla-bouncin",
+   "title": "Bouncin",
+   "artist": "Skrilla",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
