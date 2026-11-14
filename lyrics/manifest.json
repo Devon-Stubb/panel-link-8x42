@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-14T07:56:22Z",
- "count": 1475,
+ "generated_at": "2026-11-14T16:34:41Z",
+ "count": 1476,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -4299,6 +4299,13 @@
    "file": "krispylife-kidd-sweepstakes.lrc",
    "kind": "synced",
    "sha": "17f262030c57e613b7d92eabf3d70e30608ed5e18047f8da903d447ee32a23dc"
+  },
+  {
+   "title": "Who at the Door",
+   "artist": "KrispyLife Kidd, Ysr Gramz",
+   "file": "krispylife-kidd-ysr-gramz-who-at-the-door.lrc",
+   "kind": "synced",
+   "sha": "e6f92ff487efa898cfb2ca275a69bdfed51c1273d6e86c8d1cee37546a9a7319"
   },
   {
    "title": "No Statements (feat. Lil Durk)",
