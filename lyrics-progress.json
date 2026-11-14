@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-14 09:45 CST",
- "updated_epoch": 1794671115,
- "library_songs": 1481,
+ "updated": "2026-11-14 09:55 CST",
+ "updated_epoch": 1794671732,
+ "library_songs": 1482,
  "total": 889,
- "done": 177,
- "open": 712,
+ "done": 178,
+ "open": 711,
  "by_status": {
   "no_lyrics_yet": 452,
   "has_lyrics_needs_sync": 192,
-  "transcribing": 8,
+  "transcribing": 7,
   "blocked_on_audio": 22
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 94,
-   "open": 576
+   "done": 95,
+   "open": 575
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "krispylife-kidd-ysr-gramz-who-at-the-door",
+   "when": "Nov 14 09:50"
+  },
   {
    "slug": "screwly-g-fein-for-murder",
    "when": "Nov 14 01:22"
@@ -85,15 +89,9 @@
   {
    "slug": "flav-home-invasion",
    "when": "Nov 13 10:35"
-  },
-  {
-   "slug": "krispylife-kidd-bam-got-me-stuttering",
-   "when": "Nov 13 09:20"
   }
  ],
- "transcribing_now": [
-  "krispylife kidd ysr gramz who at the door"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
    "slug": "dee-mula-38118",
@@ -147,14 +145,6 @@
    "slug": "dee-mula-quit-cappin",
    "title": "Quit Cappin",
    "artist": "Dee Mula",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "krispylife-kidd-ysr-gramz-who-at-the-door",
-   "title": "Who at the Door",
-   "artist": "KrispyLife Kidd, Ysr Gramz",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
