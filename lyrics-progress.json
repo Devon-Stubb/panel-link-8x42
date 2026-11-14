@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-14 09:55 CST",
- "updated_epoch": 1794671732,
+ "updated": "2026-11-14 10:34 CST",
+ "updated_epoch": 1794674099,
  "library_songs": 1482,
  "total": 889,
  "done": 178,
  "open": 711,
  "by_status": {
-  "no_lyrics_yet": 452,
-  "has_lyrics_needs_sync": 192,
+  "no_lyrics_yet": 451,
+  "has_lyrics_needs_sync": 193,
   "transcribing": 7,
   "blocked_on_audio": 22
  },
@@ -91,7 +91,9 @@
    "when": "Nov 13 10:35"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "skrilla bouncin"
+ ],
  "in_progress": [
   {
    "slug": "dee-mula-38118",
