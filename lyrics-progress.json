@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-13 19:42 CST",
- "updated_epoch": 1794620538,
- "library_songs": 1477,
+ "updated": "2026-11-13 21:15 CST",
+ "updated_epoch": 1794626134,
+ "library_songs": 1479,
  "total": 889,
- "done": 173,
- "open": 716,
+ "done": 175,
+ "open": 714,
  "by_status": {
-  "no_lyrics_yet": 466,
+  "no_lyrics_yet": 465,
   "has_lyrics_needs_sync": 191,
-  "transcribing": 8,
+  "transcribing": 7,
   "blocked_on_audio": 21
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 90,
-   "open": 580
+   "done": 92,
+   "open": 578
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "talibando-rio-da-yung-og-rmc-mike-boyz-feat-rio-da-yung-og-rmc-mike",
+   "when": "Nov 13 20:59"
+  },
+  {
+   "slug": "wayne616-rio-da-yung-og-rmc-mike-grindhard-e-fake-sleep",
+   "when": "Nov 13 20:45"
+  },
   {
    "slug": "punchmade-dev-punch-finatic",
    "when": "Nov 13 18:25"
@@ -81,14 +89,6 @@
   {
    "slug": "mg-sleepy-pink-10",
    "when": "Nov 13 08:29"
-  },
-  {
-   "slug": "thf-lil-law-baby-money-i-slam-doors-a-lot",
-   "when": "Nov 13 06:35"
-  },
-  {
-   "slug": "9dreamz-fuck-my-heart",
-   "when": "Nov 13 05:24"
   }
  ],
  "transcribing_now": [],
@@ -129,6 +129,14 @@
    "slug": "thf-lil-law-gervonta-davis",
    "title": "Gervonta Davis",
    "artist": "THF LIL LAW",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "fwc-big-key-opps-can-t-make-a-diss",
+   "title": "OPPS CAN'T MAKE A DISS",
+   "artist": "FWC Big Key",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
