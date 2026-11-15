@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-15T01:11:37Z",
- "count": 1485,
+ "generated_at": "2026-11-15T07:39:20Z",
+ "count": 1486,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -2080,6 +2080,13 @@
    "file": "destroy-lonely-in-the-air.lrc",
    "kind": "synced",
    "sha": "b0d6b62e0a747fcadb5a1329b80966bb49597d48472a71582b855a6e1229f2d3"
+  },
+  {
+   "title": "Badu Freestyle",
+   "artist": "Devo B",
+   "file": "devo-b-badu-freestyle.lrc",
+   "kind": "synced",
+   "sha": "08dbc3d5cff17cdeda6248537da15197bda1195bfa66548f3a5ff62920154d25"
   },
   {
    "title": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
