@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-15 02:05 CST",
- "updated_epoch": 1794729926,
- "library_songs": 1492,
+ "updated": "2026-11-15 10:13 CST",
+ "updated_epoch": 1794759196,
+ "library_songs": 1502,
  "total": 889,
- "done": 188,
- "open": 701,
+ "done": 198,
+ "open": 691,
  "by_status": {
-  "no_lyrics_yet": 427,
+  "no_lyrics_yet": 414,
   "has_lyrics_needs_sync": 197,
-  "transcribing": 5,
+  "transcribing": 8,
   "blocked_on_audio": 26
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 105,
-   "open": 565
+   "done": 115,
+   "open": 555
   },
   "TopOppGen": {
    "done": 50,
@@ -35,6 +35,46 @@
  },
  "finished_recently": [
   {
+   "slug": "mg-sleepy-bentayga",
+   "when": "Nov 15 09:10"
+  },
+  {
+   "slug": "mg-sleepy-punch-session",
+   "when": "Nov 15 09:10"
+  },
+  {
+   "slug": "mg-sleepy-ohio-s-most-wanted",
+   "when": "Nov 15 09:09"
+  },
+  {
+   "slug": "mg-sleepy-call-my-bluff",
+   "when": "Nov 15 06:59"
+  },
+  {
+   "slug": "mg-sleepy-lob-city",
+   "when": "Nov 15 06:44"
+  },
+  {
+   "slug": "mg-sleepy-playing-stupid",
+   "when": "Nov 15 06:33"
+  },
+  {
+   "slug": "vonoff1700-vonoff1700-lil-yachty-s-coffin-ogm-freestyle",
+   "when": "Nov 15 04:50"
+  },
+  {
+   "slug": "mg-sleepy-all-chrome",
+   "when": "Nov 15 04:36"
+  },
+  {
+   "slug": "vonoff1700-sbgbrick-stuck-dea",
+   "when": "Nov 15 04:17"
+  },
+  {
+   "slug": "bando-kd-vonoff1700-duck",
+   "when": "Nov 15 02:48"
+  },
+  {
    "slug": "devo-b-badu-freestyle",
    "when": "Nov 15 01:31"
   },
@@ -49,57 +89,65 @@
   {
    "slug": "heembeezy-babydrill-real-deal-feat-babydrill",
    "when": "Nov 14 16:37"
-  },
-  {
-   "slug": "448-fatts-tap-in",
-   "when": "Nov 14 16:27"
-  },
-  {
-   "slug": "dee-mula-let-s-play",
-   "when": "Nov 14 16:13"
-  },
-  {
-   "slug": "lil-rae-stand-on-business",
-   "when": "Nov 14 14:50"
-  },
-  {
-   "slug": "ysr-gramz-enrgy-beats-babytron-neiman-or-saks-feat-babytron",
-   "when": "Nov 14 14:36"
-  },
-  {
-   "slug": "dcg-brothers-dcg-shun-dcg-bsavv-agenda",
-   "when": "Nov 14 12:28"
-  },
-  {
-   "slug": "skrilla-bouncin",
-   "when": "Nov 14 10:47"
-  },
-  {
-   "slug": "krispylife-kidd-ysr-gramz-who-at-the-door",
-   "when": "Nov 14 09:50"
-  },
-  {
-   "slug": "screwly-g-fein-for-murder",
-   "when": "Nov 14 01:22"
-  },
-  {
-   "slug": "the-big-homie-gmo-stax-diddyda-don-ybn-lil-bro-mia-feat-gmo-stax-diddyda-don-ybn-lil-bro",
-   "when": "Nov 13 22:29"
-  },
-  {
-   "slug": "talibando-rio-da-yung-og-rmc-mike-boyz-feat-rio-da-yung-og-rmc-mike",
-   "when": "Nov 13 20:59"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
   {
-   "slug": "bando-kd-vonoff1700-duck",
-   "title": "duck",
-   "artist": "Bando KD, VonOff1700",
+   "slug": "mg-sleepy-3am-in-ohio",
+   "title": "3am in Ohio",
+   "artist": "Mg Sleepy",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "mg-sleepy-tse-e2-jay-juice-black-cursive",
+   "title": "Black Cursive",
+   "artist": "Mg Sleepy, Tse E2, Jay Juice",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "mg-sleepy-ghost-gun",
+   "title": "Ghost Gun",
+   "artist": "Mg Sleepy",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "mg-sleepy-liltae2-good-friday",
+   "title": "Good Friday",
+   "artist": "Mg Sleepy, Liltae2",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "mg-sleepy-j-reed",
+   "title": "J Reed",
+   "artist": "Mg Sleepy",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "mg-sleepy-made-it-count",
+   "title": "Made It Count",
+   "artist": "Mg Sleepy",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "vonoff1700-sbgbrick-stuck-dea",
+   "title": "Stuck Dea",
+   "artist": "VonOff1700, Sbgbrick",
+   "tier": "Rest of playlist",
+   "stage": "Fix in progress",
+   "detail": "Re-checking specific lines against the audio"
   },
   {
    "slug": "juice-wrld-denial-3-demo",
