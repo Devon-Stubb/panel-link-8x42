@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-14 19:40 CST",
- "updated_epoch": 1794706842,
+ "updated": "2026-11-14 20:04 CST",
+ "updated_epoch": 1794708257,
  "library_songs": 1491,
  "total": 889,
  "done": 187,
  "open": 702,
  "by_status": {
-  "no_lyrics_yet": 440,
+  "no_lyrics_yet": 436,
   "has_lyrics_needs_sync": 196,
-  "transcribing": 6,
-  "blocked_on_audio": 22
+  "transcribing": 7,
+  "blocked_on_audio": 25
  },
  "tiers": {
   "Rest of playlist": {
@@ -91,8 +91,18 @@
    "when": "Nov 13 20:45"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "414bigfrank oh shi"
+ ],
  "in_progress": [
+  {
+   "slug": "414bigfrank-oh-shi",
+   "title": "Oh Shi",
+   "artist": "414bigfrank",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 00:04"
+  },
   {
    "slug": "dee-mula-38118",
    "title": "38118",
