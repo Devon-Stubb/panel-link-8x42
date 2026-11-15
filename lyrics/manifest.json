@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-15T07:39:20Z",
- "count": 1486,
+ "generated_at": "2026-11-15T16:48:33Z",
+ "count": 1496,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -1184,6 +1184,13 @@
    "file": "bak-jay-what-s-wrong-wit-em.txt",
    "kind": "plain",
    "sha": "b18ed3eba2197369f9a9f58611bb8d48e4c875dd5447ad3dc245a05f279015b1"
+  },
+  {
+   "title": "duck",
+   "artist": "Bando KD, VonOff1700",
+   "file": "bando-kd-vonoff1700-duck.lrc",
+   "kind": "synced",
+   "sha": "c4a8f5e8a6b0f2c26572a27823a34d9a7c941168ded50f08750b87cf5b1471ec"
   },
   {
    "title": "Flights",
@@ -6009,6 +6016,13 @@
    "sha": "f6715a5795e6eb3d9fad41bd91f92643460506bae06eca95da133c2511cf8434"
   },
   {
+   "title": "All Chrome",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-all-chrome.lrc",
+   "kind": "synced",
+   "sha": "eacc562e85f219a8cf9d227ddca57227ac55362ac1ae85505d93f2ce6eaf11c1"
+  },
+  {
    "title": "Vegan Feast",
    "artist": "Mg Sleepy, Awm Quaze, Liltae2",
    "file": "mg-sleepy-awm-quaze-liltae2-vegan-feast.lrc",
@@ -6016,11 +6030,39 @@
    "sha": "f8c6bb2901495a5dd24dafd409cbdfd5ffd00b6a5d8346828972597981afd62e"
   },
   {
+   "title": "Bentayga",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-bentayga.lrc",
+   "kind": "synced",
+   "sha": "8fbe907951cf8ff458b21918637af3d014d448a0b73448711f36bd9436d8d78f"
+  },
+  {
+   "title": "Call My Bluff",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-call-my-bluff.lrc",
+   "kind": "synced",
+   "sha": "7ec581ad3260af0f696b758990ed8353ff325f169f856d92f8c6848af5ed4dcf"
+  },
+  {
    "title": "Dizzzney Land",
    "artist": "Mg Sleepy",
    "file": "mg-sleepy-dizzzney-land.lrc",
    "kind": "synced",
    "sha": "99940badf40685117c6107567f0aaf3e5a8134d0ac8a711783615aefc0124522"
+  },
+  {
+   "title": "Lob City",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-lob-city.lrc",
+   "kind": "synced",
+   "sha": "155a24ba47b958c3265e51af4889f1d817b5d731d89a10dd781395d939d4b6d6"
+  },
+  {
+   "title": "Ohio's Most Wanted",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-ohio-s-most-wanted.lrc",
+   "kind": "synced",
+   "sha": "fd5841ec953ce9971c02a1d607ce11b6a92ead830b247d4aad4c78f36368aa2f"
   },
   {
    "title": "P Diddy",
@@ -6037,11 +6079,25 @@
    "sha": "1331ac33345247b0a3b25b6e86d5c268ffaba0395166aec6ae9b57254f0934c4"
   },
   {
+   "title": "Playing Stupid",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-playing-stupid.lrc",
+   "kind": "synced",
+   "sha": "d50e8f74cad77ad9c066d2befb8bc5ff40cffedae6dc979ab56f9106659c1cdf"
+  },
+  {
    "title": "Punch Me In",
    "artist": "Mg Sleepy",
    "file": "mg-sleepy-punch-me-in.lrc",
    "kind": "synced",
    "sha": "3015d1a039f7a23451c6a6f9bce99b576f192a7ab6e6dce1e5b37589e1f47c1d"
+  },
+  {
+   "title": "Punch Session",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-punch-session.lrc",
+   "kind": "synced",
+   "sha": "ab4a461299f597f85eaf3d3abef9b8b131d1ceac7838e4a4b9edcd46a2e0c34c"
   },
   {
    "title": "beauty",
@@ -9635,6 +9691,13 @@
    "sha": "9cf71f2e113c930b31b71120e9fb176ce24e5d919d739337b0630a07f7637b27"
   },
   {
+   "title": "Stuck Dea",
+   "artist": "VonOff1700, Sbgbrick",
+   "file": "vonoff1700-sbgbrick-stuck-dea.lrc",
+   "kind": "synced",
+   "sha": "da9df1b6fa518a58d26e8ea50196c1836bf2597f2dc3027893aee6fb96b0618e"
+  },
+  {
    "title": "Slide (feat. Rob49)",
    "artist": "VonOff1700, Rob49",
    "file": "vonoff1700-slide.txt",
@@ -9682,6 +9745,13 @@
    "file": "vonoff1700-vonno-da-fox.txt",
    "kind": "plain",
    "sha": "8dfa7c7afc206864e476f53538787a8e0fcf91301c92d1aee5cc7671ff337b5a"
+  },
+  {
+   "title": "Vonoff1700 |Lil Yachty's \"Coffin\" | OGM Freestyle",
+   "artist": "VonOff1700",
+   "file": "vonoff1700-vonoff1700-lil-yachty-s-coffin-ogm-freestyle.lrc",
+   "kind": "synced",
+   "sha": "49feab67e7f2d67fb00bf6699291db8618ca9f61cc25e60e1a9b10dfd8e15bd8"
   },
   {
    "title": "FAKE SLEEP",
