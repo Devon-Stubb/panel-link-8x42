@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-14 20:04 CST",
- "updated_epoch": 1794708257,
+ "updated": "2026-11-14 22:10 CST",
+ "updated_epoch": 1794715836,
  "library_songs": 1491,
  "total": 889,
  "done": 187,
  "open": 702,
  "by_status": {
-  "no_lyrics_yet": 436,
+  "no_lyrics_yet": 435,
   "has_lyrics_needs_sync": 196,
-  "transcribing": 7,
+  "transcribing": 8,
   "blocked_on_audio": 25
  },
  "tiers": {
@@ -91,22 +91,20 @@
    "when": "Nov 13 20:45"
   }
  ],
- "transcribing_now": [
-  "414bigfrank oh shi"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "414bigfrank-oh-shi",
-   "title": "Oh Shi",
-   "artist": "414bigfrank",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 00:04"
-  },
   {
    "slug": "dee-mula-38118",
    "title": "38118",
    "artist": "Dee Mula",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "gallery-provence-rio-da-yung-og-da-ghetto",
+   "title": "Da Ghetto",
+   "artist": "Gallery Provence, Rio Da Yung Og",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -126,6 +124,14 @@
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: small"
+  },
+  {
+   "slug": "414bigfrank-oh-shi",
+   "title": "Oh Shi",
+   "artist": "414bigfrank",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
   },
   {
    "slug": "dee-mula-quit-cappin",
