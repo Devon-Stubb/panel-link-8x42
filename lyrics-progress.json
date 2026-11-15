@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14 18:07 CST",
- "updated_epoch": 1794701239,
+ "updated": "2026-11-14 18:13 CST",
+ "updated_epoch": 1794701589,
  "library_songs": 1489,
  "total": 889,
  "done": 185,
@@ -129,6 +129,14 @@
    "slug": "dee-mula-quit-cappin",
    "title": "Quit Cappin",
    "artist": "Dee Mula",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "rio-da-yung-og-rmc-mike-testers-feat-rmc-mike",
+   "title": "Testers (feat. Rmc Mike)",
+   "artist": "Rio Da Yung Og, Rmc Mike",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
