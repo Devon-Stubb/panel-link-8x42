@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15 01:17 CST",
- "updated_epoch": 1794727070,
+ "updated": "2026-11-15 01:20 CST",
+ "updated_epoch": 1794727237,
  "library_songs": 1491,
  "total": 889,
  "done": 187,
@@ -92,21 +92,21 @@
   }
  ],
  "transcribing_now": [
-  "bando kd vonoff1700 duck"
+  "devo b badu freestyle"
  ],
  "in_progress": [
-  {
-   "slug": "bando-kd-vonoff1700-duck",
-   "title": "duck",
-   "artist": "Bando KD, VonOff1700",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 02:15"
-  },
   {
    "slug": "devo-b-badu-freestyle",
    "title": "Badu Freestyle",
    "artist": "Devo B",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "bando-kd-vonoff1700-duck",
+   "title": "duck",
+   "artist": "Bando KD, VonOff1700",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
