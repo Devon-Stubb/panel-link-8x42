@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-15 10:13 CST",
- "updated_epoch": 1794759196,
+ "updated": "2026-11-15 11:02 CST",
+ "updated_epoch": 1794762170,
  "library_songs": 1502,
- "total": 889,
+ "total": 890,
  "done": 198,
- "open": 691,
+ "open": 692,
  "by_status": {
-  "no_lyrics_yet": 414,
+  "no_lyrics_yet": 415,
   "has_lyrics_needs_sync": 197,
   "transcribing": 8,
   "blocked_on_audio": 26
@@ -30,7 +30,7 @@
   },
   "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)": {
    "done": 11,
-   "open": 52
+   "open": 53
   }
  },
  "finished_recently": [
@@ -110,6 +110,14 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
+   "slug": "mg-sleepy-euphoria",
+   "title": "Euphoria",
+   "artist": "Mg Sleepy",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "mg-sleepy-ghost-gun",
    "title": "Ghost Gun",
    "artist": "Mg Sleepy",
@@ -136,6 +144,14 @@
   {
    "slug": "mg-sleepy-made-it-count",
    "title": "Made It Count",
+   "artist": "Mg Sleepy",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "mg-sleepy-poppin-my-collar",
+   "title": "Poppin My Collar",
    "artist": "Mg Sleepy",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
