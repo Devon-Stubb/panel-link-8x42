@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-14 18:46 CST",
- "updated_epoch": 1794703576,
- "library_songs": 1489,
+ "updated": "2026-11-14 19:21 CST",
+ "updated_epoch": 1794705662,
+ "library_songs": 1491,
  "total": 889,
- "done": 185,
- "open": 704,
+ "done": 187,
+ "open": 702,
  "by_status": {
   "no_lyrics_yet": 440,
   "has_lyrics_needs_sync": 196,
-  "transcribing": 8,
+  "transcribing": 6,
   "blocked_on_audio": 22
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 102,
-   "open": 568
+   "done": 104,
+   "open": 566
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "dcg-brothers-skilla-baby-and-is-feat-skilla-baby",
+   "when": "Nov 14 18:56"
+  },
+  {
+   "slug": "sqweez-black-forces-ski-masks",
+   "when": "Nov 14 18:55"
+  },
   {
    "slug": "heembeezy-babydrill-real-deal-feat-babydrill",
    "when": "Nov 14 16:37"
@@ -81,32 +89,14 @@
   {
    "slug": "wayne616-rio-da-yung-og-rmc-mike-grindhard-e-fake-sleep",
    "when": "Nov 13 20:45"
-  },
-  {
-   "slug": "punchmade-dev-punch-finatic",
-   "when": "Nov 13 18:25"
-  },
-  {
-   "slug": "sobmeech-glocktober",
-   "when": "Nov 13 17:45"
   }
  ],
- "transcribing_now": [
-  "dcg brothers skilla baby and is feat skilla baby"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
    "slug": "dee-mula-38118",
    "title": "38118",
    "artist": "Dee Mula",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "dcg-brothers-skilla-baby-and-is-feat-skilla-baby",
-   "title": "And Is (feat. Skilla Baby)",
-   "artist": "DCG BROTHERS, Skilla Baby",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
