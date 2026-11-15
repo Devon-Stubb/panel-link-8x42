@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-15 11:02 CST",
- "updated_epoch": 1794762170,
- "library_songs": 1502,
+ "updated": "2026-11-15 11:27 CST",
+ "updated_epoch": 1794763623,
+ "library_songs": 1504,
  "total": 890,
- "done": 198,
- "open": 692,
+ "done": 200,
+ "open": 690,
  "by_status": {
   "no_lyrics_yet": 415,
   "has_lyrics_needs_sync": 197,
-  "transcribing": 8,
+  "transcribing": 6,
   "blocked_on_audio": 26
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 115,
-   "open": 555
+   "done": 117,
+   "open": 553
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "mg-sleepy-euphoria",
+   "when": "Nov 15 11:22"
+  },
+  {
+   "slug": "mg-sleepy-3am-in-ohio",
+   "when": "Nov 15 11:05"
+  },
   {
    "slug": "mg-sleepy-bentayga",
    "when": "Nov 15 09:10"
@@ -81,38 +89,14 @@
   {
    "slug": "dcg-brothers-skilla-baby-and-is-feat-skilla-baby",
    "when": "Nov 14 18:56"
-  },
-  {
-   "slug": "sqweez-black-forces-ski-masks",
-   "when": "Nov 14 18:55"
-  },
-  {
-   "slug": "heembeezy-babydrill-real-deal-feat-babydrill",
-   "when": "Nov 14 16:37"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
   {
-   "slug": "mg-sleepy-3am-in-ohio",
-   "title": "3am in Ohio",
-   "artist": "Mg Sleepy",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
    "slug": "mg-sleepy-tse-e2-jay-juice-black-cursive",
    "title": "Black Cursive",
    "artist": "Mg Sleepy, Tse E2, Jay Juice",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "mg-sleepy-euphoria",
-   "title": "Euphoria",
-   "artist": "Mg Sleepy",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
