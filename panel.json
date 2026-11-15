@@ -1,10 +1,10 @@
 {
  "v": 1,
- "generated_at": "2026-11-14T14:44:03Z",
+ "generated_at": "2026-11-15T14:43:22Z",
  "brief": {
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T14:44:03Z",
-  "headline": "Saturday Nov 14 — Benefits close Mon Nov 16, Home Link arrives Wed Nov 18",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T14:43:22Z",
+  "headline": "Sunday Nov 15 — Redesign live, benefits close Mon Nov 16, Home Link Wed Nov 18",
   "highlights": [
    {
     "kind": "calendar",
@@ -18,18 +18,18 @@
    },
    {
     "kind": "fyi",
-    "title": "New shirts launch week runs to Nov 17",
-    "detail": "Daily posts on Facebook and Instagram, with hoodie posts Sun Nov 15 and Tue Nov 17"
+    "title": "publicnu.de redesign is live",
+    "detail": "Slashc-style homepage went live overnight Nov 15 after a full backup first"
+   },
+   {
+    "kind": "fyi",
+    "title": "Social posts today at 11:30 AM",
+    "detail": "Next posts land Sun Nov 15 at 11:30 AM; launch week runs to Tue Nov 17"
    },
    {
     "kind": "calendar",
     "title": "Trippie Redd trip reminder coming Nov 21",
     "detail": "Show is Sat Dec 5 in Springfield, MO with TopOppGen — nothing booked yet"
-   },
-   {
-    "kind": "calendar",
-    "title": "Chicago lookahead — The Neighbourhood Nov 18",
-    "detail": "United Center show Wed Nov 18, part of the daily concert check"
    }
   ],
   "decide_count": 8
@@ -37,7 +37,7 @@
  "house": {
   "mode": null,
   "in_sync": false,
-  "reported_at": "2026-11-14T14:44:03Z",
+  "reported_at": "2026-11-15T14:43:22Z",
   "source": "peanut"
  }
 }
