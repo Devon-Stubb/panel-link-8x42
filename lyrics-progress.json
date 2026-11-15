@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14 18:13 CST",
- "updated_epoch": 1794701589,
+ "updated": "2026-11-14 18:32 CST",
+ "updated_epoch": 1794702732,
  "library_songs": 1489,
  "total": 889,
  "done": 185,
@@ -91,7 +91,9 @@
    "when": "Nov 13 17:45"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "dcg brothers skilla baby and is feat skilla baby"
+ ],
  "in_progress": [
   {
    "slug": "dee-mula-38118",
