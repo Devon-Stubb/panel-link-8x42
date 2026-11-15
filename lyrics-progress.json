@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-15 11:27 CST",
- "updated_epoch": 1794763623,
+ "updated": "2026-11-15 13:06 CST",
+ "updated_epoch": 1794769560,
  "library_songs": 1504,
  "total": 890,
  "done": 200,
  "open": 690,
  "by_status": {
-  "no_lyrics_yet": 415,
+  "no_lyrics_yet": 413,
   "has_lyrics_needs_sync": 197,
-  "transcribing": 6,
+  "transcribing": 8,
   "blocked_on_audio": 26
  },
  "tiers": {
@@ -94,6 +94,14 @@
  "transcribing_now": [],
  "in_progress": [
   {
+   "slug": "mg-sleepy-5-pockets",
+   "title": "5 Pockets",
+   "artist": "Mg Sleepy",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "mg-sleepy-tse-e2-jay-juice-black-cursive",
    "title": "Black Cursive",
    "artist": "Mg Sleepy, Tse E2, Jay Juice",
@@ -105,6 +113,14 @@
    "slug": "mg-sleepy-ghost-gun",
    "title": "Ghost Gun",
    "artist": "Mg Sleepy",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "vampviolence-ghost-ride",
+   "title": "Ghost Ride",
+   "artist": "VampViolence",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
