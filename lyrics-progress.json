@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-15 01:20 CST",
- "updated_epoch": 1794727237,
- "library_songs": 1491,
+ "updated": "2026-11-15 01:32 CST",
+ "updated_epoch": 1794727961,
+ "library_songs": 1492,
  "total": 889,
- "done": 187,
- "open": 702,
+ "done": 188,
+ "open": 701,
  "by_status": {
   "no_lyrics_yet": 431,
   "has_lyrics_needs_sync": 197,
-  "transcribing": 2,
+  "transcribing": 1,
   "blocked_on_audio": 26
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 104,
-   "open": 566
+   "done": 105,
+   "open": 565
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "devo-b-badu-freestyle",
+   "when": "Nov 15 01:31"
+  },
   {
    "slug": "dcg-brothers-skilla-baby-and-is-feat-skilla-baby",
    "when": "Nov 14 18:56"
@@ -85,24 +89,10 @@
   {
    "slug": "talibando-rio-da-yung-og-rmc-mike-boyz-feat-rio-da-yung-og-rmc-mike",
    "when": "Nov 13 20:59"
-  },
-  {
-   "slug": "wayne616-rio-da-yung-og-rmc-mike-grindhard-e-fake-sleep",
-   "when": "Nov 13 20:45"
   }
  ],
- "transcribing_now": [
-  "devo b badu freestyle"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "devo-b-badu-freestyle",
-   "title": "Badu Freestyle",
-   "artist": "Devo B",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
   {
    "slug": "bando-kd-vonoff1700-duck",
    "title": "duck",
