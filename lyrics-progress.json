@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-14 17:01 CST",
- "updated_epoch": 1794697305,
+ "updated": "2026-11-14 18:05 CST",
+ "updated_epoch": 1794701129,
  "library_songs": 1489,
  "total": 889,
  "done": 185,
  "open": 704,
  "by_status": {
-  "no_lyrics_yet": 445,
-  "has_lyrics_needs_sync": 194,
-  "transcribing": 5,
+  "no_lyrics_yet": 440,
+  "has_lyrics_needs_sync": 196,
+  "transcribing": 8,
   "blocked_on_audio": 22
  },
  "tiers": {
@@ -110,6 +110,14 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
+   "slug": "krispylife-kidd-forreal-forreal",
+   "title": "Forreal Forreal",
+   "artist": "KrispyLife Kidd",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "dcg-brothers-dcg-shun-dcg-bsavv-moneysign-suede-get-money-feat-moneysign-suede",
    "title": "Get Money (feat. MoneySign Suede)",
    "artist": "DCG BROTHERS, DCG Shun, DCG Bsavv, MoneySign Suede",
@@ -121,6 +129,14 @@
    "slug": "dee-mula-quit-cappin",
    "title": "Quit Cappin",
    "artist": "Dee Mula",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "krispylife-kidd-webbie-life",
+   "title": "Webbie Life",
+   "artist": "KrispyLife Kidd",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
