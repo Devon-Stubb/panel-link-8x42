@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-15 00:10 CST",
- "updated_epoch": 1794723048,
+ "updated": "2026-11-15 01:17 CST",
+ "updated_epoch": 1794727070,
  "library_songs": 1491,
  "total": 889,
  "done": 187,
  "open": 702,
  "by_status": {
-  "no_lyrics_yet": 435,
-  "has_lyrics_needs_sync": 196,
-  "transcribing": 8,
-  "blocked_on_audio": 25
+  "no_lyrics_yet": 431,
+  "has_lyrics_needs_sync": 197,
+  "transcribing": 2,
+  "blocked_on_audio": 26
  },
  "tiers": {
   "Rest of playlist": {
@@ -91,68 +91,22 @@
    "when": "Nov 13 20:45"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "bando kd vonoff1700 duck"
+ ],
  "in_progress": [
   {
-   "slug": "dee-mula-38118",
-   "title": "38118",
-   "artist": "Dee Mula",
+   "slug": "bando-kd-vonoff1700-duck",
+   "title": "duck",
+   "artist": "Bando KD, VonOff1700",
    "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 02:15"
   },
   {
-   "slug": "gallery-provence-rio-da-yung-og-da-ghetto",
-   "title": "Da Ghetto",
-   "artist": "Gallery Provence, Rio Da Yung Og",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "krispylife-kidd-forreal-forreal",
-   "title": "Forreal Forreal",
-   "artist": "KrispyLife Kidd",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "dcg-brothers-dcg-shun-dcg-bsavv-moneysign-suede-get-money-feat-moneysign-suede",
-   "title": "Get Money (feat. MoneySign Suede)",
-   "artist": "DCG BROTHERS, DCG Shun, DCG Bsavv, MoneySign Suede",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: small"
-  },
-  {
-   "slug": "414bigfrank-oh-shi",
-   "title": "Oh Shi",
-   "artist": "414bigfrank",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "dee-mula-quit-cappin",
-   "title": "Quit Cappin",
-   "artist": "Dee Mula",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "rio-da-yung-og-rmc-mike-testers-feat-rmc-mike",
-   "title": "Testers (feat. Rmc Mike)",
-   "artist": "Rio Da Yung Og, Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "krispylife-kidd-webbie-life",
-   "title": "Webbie Life",
-   "artist": "KrispyLife Kidd",
+   "slug": "devo-b-badu-freestyle",
+   "title": "Badu Freestyle",
+   "artist": "Devo B",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
