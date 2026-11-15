@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-15T16:48:33Z",
- "count": 1496,
+ "generated_at": "2026-11-15T17:27:06Z",
+ "count": 1498,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -6016,6 +6016,13 @@
    "sha": "f6715a5795e6eb3d9fad41bd91f92643460506bae06eca95da133c2511cf8434"
   },
   {
+   "title": "3am in Ohio",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-3am-in-ohio.lrc",
+   "kind": "synced",
+   "sha": "c2adbe684a76f9e257378d5776fe5558b16bc46de686481a6ae6a0d9db07d97c"
+  },
+  {
    "title": "All Chrome",
    "artist": "Mg Sleepy",
    "file": "mg-sleepy-all-chrome.lrc",
@@ -6049,6 +6056,13 @@
    "file": "mg-sleepy-dizzzney-land.lrc",
    "kind": "synced",
    "sha": "99940badf40685117c6107567f0aaf3e5a8134d0ac8a711783615aefc0124522"
+  },
+  {
+   "title": "Euphoria",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-euphoria.lrc",
+   "kind": "synced",
+   "sha": "d894f83af5ded435a8cb347cc910d4f673ce3416959e33a34744e08dbcc46540"
   },
   {
    "title": "Lob City",
