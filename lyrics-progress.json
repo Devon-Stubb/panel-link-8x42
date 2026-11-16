@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16 15:17 CST",
- "updated_epoch": 1794863835,
+ "updated": "2026-11-16 15:21 CST",
+ "updated_epoch": 1794864060,
  "library_songs": 1519,
  "total": 890,
  "done": 215,
@@ -8,7 +8,7 @@
  "by_status": {
   "no_lyrics_yet": 386,
   "has_lyrics_needs_sync": 203,
-  "transcribing": 9,
+  "transcribing": 0,
   "blocked_on_audio": 31
  },
  "tiers": {
@@ -91,79 +91,17 @@
    "when": "Nov 15 20:09"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "krispylife kidd gucci jogger"
+ ],
  "in_progress": [
-  {
-   "slug": "babyru78-sum-bout-u",
-   "title": "Sum Bout U",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "b7-57-b-tches",
-   "title": "57 B!TCHES",
-   "artist": "B7!",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "mg-sleepy-blade-runner",
-   "title": "Blade Runner",
-   "artist": "Mg Sleepy",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "dcg-brothers-screwly-g-bounce-out",
-   "title": "Bounce Out",
-   "artist": "DCG BROTHERS, Screwly G",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: raw, small"
-  },
-  {
-   "slug": "ookbarm-s-vault-codeine-cobain",
-   "title": "Codeine Cobain",
-   "artist": "Ookbarm\u2019s Vault",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "bak-jay-double",
-   "title": "Double",
-   "artist": "BAK Jay",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
   {
    "slug": "krispylife-kidd-gucci-jogger",
    "title": "Gucci Jogger",
    "artist": "KrispyLife Kidd",
    "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "mg-sleepy-made-it-count",
-   "title": "Made It Count",
-   "artist": "Mg Sleepy",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "biz-od",
-   "title": "OD",
-   "artist": "biz",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, small"
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 00:49"
   },
   {
    "slug": "vonoff1700-sbgbrick-stuck-dea",
