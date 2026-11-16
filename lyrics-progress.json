@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-15 21:00 CST",
- "updated_epoch": 1794798039,
+ "updated": "2026-11-15 21:05 CST",
+ "updated_epoch": 1794798342,
  "library_songs": 1507,
  "total": 890,
  "done": 203,
  "open": 687,
  "by_status": {
-  "no_lyrics_yet": 413,
-  "has_lyrics_needs_sync": 197,
-  "transcribing": 5,
+  "no_lyrics_yet": 409,
+  "has_lyrics_needs_sync": 198,
+  "transcribing": 8,
   "blocked_on_audio": 26
  },
  "tiers": {
@@ -91,8 +91,18 @@
    "when": "Nov 15 04:17"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "dcg brothers screwly g bounce out"
+ ],
  "in_progress": [
+  {
+   "slug": "dcg-brothers-screwly-g-bounce-out",
+   "title": "Bounce Out",
+   "artist": "DCG BROTHERS, Screwly G",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 01:38"
+  },
   {
    "slug": "mg-sleepy-5-pockets",
    "title": "5 Pockets",
