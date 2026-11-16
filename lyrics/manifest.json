@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-16T07:22:29Z",
- "count": 1509,
+ "generated_at": "2026-11-16T15:08:05Z",
+ "count": 1512,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -4343,6 +4343,20 @@
    "sha": "23c97dcecbd5650c2cc746ea91d1491c4b77df5d12666261e5665a482911c461"
   },
   {
+   "title": "96 Bulls",
+   "artist": "KrispyLife Kidd, Rio Da Yung Og",
+   "file": "krispylife-kidd-rio-da-yung-og-96-bulls.lrc",
+   "kind": "synced",
+   "sha": "91d756b5bee46e0d6f045879abd61d4da0121699a7b3f8de44c4825c663b72c2"
+  },
+  {
+   "title": "Run That Down",
+   "artist": "KrispyLife Kidd",
+   "file": "krispylife-kidd-run-that-down.lrc",
+   "kind": "synced",
+   "sha": "679b5eb4145ff213e343be51dc9b98462d48b24b7544a04efca2d27e6538b8f8"
+  },
+  {
    "title": "Sweepstakes",
    "artist": "KrispyLife Kidd",
    "file": "krispylife-kidd-sweepstakes.lrc",
@@ -6168,6 +6182,13 @@
    "file": "mgk-my-ex-s-best-friend.lrc",
    "kind": "synced",
    "sha": "cc6078088c6013ee91da5daa14dc67060d82ce86aee47d965ef16bfce9c60f7e"
+  },
+  {
+   "title": "Supafly",
+   "artist": "Mhc Cj",
+   "file": "mhc-cj-supafly.lrc",
+   "kind": "synced",
+   "sha": "14036aabce01eecfd67b323eb662baa618b7190922d37ab9b68467929ef8a891"
   },
   {
    "title": "Having Our Way (feat. Drake)",
