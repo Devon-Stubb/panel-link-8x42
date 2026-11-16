@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-16T02:57:13Z",
- "count": 1501,
+ "generated_at": "2026-11-16T06:28:13Z",
+ "count": 1507,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -6023,6 +6023,13 @@
    "sha": "c2adbe684a76f9e257378d5776fe5558b16bc46de686481a6ae6a0d9db07d97c"
   },
   {
+   "title": "5 Pockets",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-5-pockets.lrc",
+   "kind": "synced",
+   "sha": "81d22603f9ebe087017d98021efc47f4004b8f3e3a54710e472cd576ffcaa284"
+  },
+  {
    "title": "All Chrome",
    "artist": "Mg Sleepy",
    "file": "mg-sleepy-all-chrome.lrc",
@@ -6079,6 +6086,13 @@
    "sha": "872b022c99bc03e09a9ff6c5b4d813faa59fc629b947ddfa06af3f969be27d78"
   },
   {
+   "title": "Good Friday",
+   "artist": "Mg Sleepy, Liltae2",
+   "file": "mg-sleepy-liltae2-good-friday.lrc",
+   "kind": "synced",
+   "sha": "f17530409ee1ee7eb627e3560610b4149107b8c91ab6e84fff2993436de72188"
+  },
+  {
    "title": "Lob City",
    "artist": "Mg Sleepy",
    "file": "mg-sleepy-lob-city.lrc",
@@ -6112,6 +6126,13 @@
    "file": "mg-sleepy-playing-stupid.lrc",
    "kind": "synced",
    "sha": "d50e8f74cad77ad9c066d2befb8bc5ff40cffedae6dc979ab56f9106659c1cdf"
+  },
+  {
+   "title": "Poppin My Collar",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-poppin-my-collar.lrc",
+   "kind": "synced",
+   "sha": "eb93a0be716382391e1ad335a9fae5ca431295cfbf5838a0d859723ebd1b4890"
   },
   {
    "title": "Punch Me In",
@@ -9621,6 +9642,13 @@
    "sha": "9836f59fbaa816b92c2800e3f63931f5db2252a36f4c739976126b55c13fd4d2"
   },
   {
+   "title": "Ghost Ride",
+   "artist": "VampViolence",
+   "file": "vampviolence-ghost-ride.lrc",
+   "kind": "synced",
+   "sha": "dba16b6eecc0110b886314fa771d254b509a904325282ff564b535fde6c4d14c"
+  },
+  {
    "title": "1 Of Them",
    "artist": "VonOff1700",
    "file": "vonoff1700-1-of-them.lrc",
@@ -9691,6 +9719,13 @@
    "sha": "7e0f1527a53fce208aa03a5165a457bba0beafba472e788c787d5490398feee5"
   },
   {
+   "title": "Mama I Told U",
+   "artist": "VonOff1700",
+   "file": "vonoff1700-mama-i-told-u.lrc",
+   "kind": "synced",
+   "sha": "f0559e10d17fce2b596f130a8acd59ee63505f2265018eeca4bb5c7e1bacd514"
+  },
+  {
    "title": "More Than a Ton",
    "artist": "VonOff1700, Screwly G",
    "file": "vonoff1700-more-than-a-ton.lrc",
@@ -9724,6 +9759,13 @@
    "file": "vonoff1700-pop-out.lrc",
    "kind": "synced",
    "sha": "9cf71f2e113c930b31b71120e9fb176ce24e5d919d739337b0630a07f7637b27"
+  },
+  {
+   "title": "20K",
+   "artist": "VonOff1700, Sbgbrick",
+   "file": "vonoff1700-sbgbrick-20k.lrc",
+   "kind": "synced",
+   "sha": "1214f92b07a91b823d5dfdb68e9c5c140c335f0084a762aa4c8d3d7fb3720c67"
   },
   {
    "title": "Stuck Dea",
