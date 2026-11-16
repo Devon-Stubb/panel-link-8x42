@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16 07:05 CST",
- "updated_epoch": 1794834335,
+ "updated": "2026-11-16 09:06 CST",
+ "updated_epoch": 1794841618,
  "library_songs": 1518,
  "total": 890,
  "done": 214,
@@ -129,6 +129,14 @@
    "slug": "bak-jay-double",
    "title": "Double",
    "artist": "BAK Jay",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "krispylife-kidd-gucci-jogger",
+   "title": "Gucci Jogger",
+   "artist": "KrispyLife Kidd",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
