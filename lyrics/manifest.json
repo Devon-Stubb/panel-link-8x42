@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-16T06:28:13Z",
- "count": 1507,
+ "generated_at": "2026-11-16T07:22:29Z",
+ "count": 1509,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -9766,6 +9766,20 @@
    "file": "vonoff1700-sbgbrick-20k.lrc",
    "kind": "synced",
    "sha": "1214f92b07a91b823d5dfdb68e9c5c140c335f0084a762aa4c8d3d7fb3720c67"
+  },
+  {
+   "title": "Active",
+   "artist": "VonOff1700, Sbgbrick",
+   "file": "vonoff1700-sbgbrick-active.lrc",
+   "kind": "synced",
+   "sha": "eaa9202aa451e73085520fe629ddc36392184d1c0f67ffbd74d945927f1fea29"
+  },
+  {
+   "title": "For A Minute",
+   "artist": "VonOff1700, Sbgbrick, SLG Chapo",
+   "file": "vonoff1700-sbgbrick-slg-chapo-for-a-minute.lrc",
+   "kind": "synced",
+   "sha": "54a8c17ac2d2dcb04b05f7de0817461e5d7feb22f01bd9f475b2c9f7e2b03bc9"
   },
   {
    "title": "Stuck Dea",
