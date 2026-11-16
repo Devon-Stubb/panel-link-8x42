@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-16 01:22 CST",
- "updated_epoch": 1794813770,
- "library_songs": 1515,
+ "updated": "2026-11-16 05:17 CST",
+ "updated_epoch": 1794827828,
+ "library_songs": 1516,
  "total": 890,
- "done": 211,
- "open": 679,
+ "done": 212,
+ "open": 678,
  "by_status": {
-  "no_lyrics_yet": 397,
+  "no_lyrics_yet": 392,
   "has_lyrics_needs_sync": 203,
-  "transcribing": 5,
-  "blocked_on_audio": 28
+  "transcribing": 8,
+  "blocked_on_audio": 29
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 128,
-   "open": 542
+   "done": 129,
+   "open": 541
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "mhc-cj-supafly",
+   "when": "Nov 16 03:42"
+  },
   {
    "slug": "vonoff1700-sbgbrick-slg-chapo-for-a-minute",
    "when": "Nov 16 00:53"
@@ -85,14 +89,18 @@
   {
    "slug": "mg-sleepy-3am-in-ohio",
    "when": "Nov 15 11:05"
-  },
-  {
-   "slug": "mg-sleepy-bentayga",
-   "when": "Nov 15 09:10"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
+  {
+   "slug": "b7-57-b-tches",
+   "title": "57 B!TCHES",
+   "artist": "B7!",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
   {
    "slug": "mg-sleepy-blade-runner",
    "title": "Blade Runner",
@@ -118,6 +126,14 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
+   "slug": "bak-jay-double",
+   "title": "Double",
+   "artist": "BAK Jay",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "mg-sleepy-made-it-count",
    "title": "Made It Count",
    "artist": "Mg Sleepy",
@@ -132,6 +148,14 @@
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, small"
+  },
+  {
+   "slug": "krispylife-kidd-run-that-down",
+   "title": "Run That Down",
+   "artist": "KrispyLife Kidd",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
   },
   {
    "slug": "vonoff1700-sbgbrick-stuck-dea",
