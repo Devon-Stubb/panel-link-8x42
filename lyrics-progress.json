@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-16 12:09 CST",
- "updated_epoch": 1794852581,
- "library_songs": 1518,
+ "updated": "2026-11-16 13:20 CST",
+ "updated_epoch": 1794856849,
+ "library_songs": 1519,
  "total": 890,
- "done": 214,
- "open": 676,
+ "done": 215,
+ "open": 675,
  "by_status": {
   "no_lyrics_yet": 386,
   "has_lyrics_needs_sync": 203,
-  "transcribing": 10,
+  "transcribing": 9,
   "blocked_on_audio": 31
  },
  "tiers": {
@@ -21,8 +21,8 @@
    "open": 0
   },
   "BabyRu78": {
-   "done": 18,
-   "open": 67
+   "done": 19,
+   "open": 66
   },
   "AZIEDOESNTEXIST": {
    "done": 4,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "babyru78-no-ring",
+   "when": "Nov 16 12:51"
+  },
   {
    "slug": "krispylife-kidd-rio-da-yung-og-96-bulls",
    "when": "Nov 16 06:38"
@@ -85,22 +89,10 @@
   {
    "slug": "mg-sleepy-j-reed",
    "when": "Nov 15 20:09"
-  },
-  {
-   "slug": "mg-sleepy-ghost-gun",
-   "when": "Nov 15 20:08"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "babyru78-no-ring",
-   "title": "No Ring",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
   {
    "slug": "babyru78-sum-bout-u",
    "title": "Sum Bout U",
