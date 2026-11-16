@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-15 23:15 CST",
- "updated_epoch": 1794806116,
- "library_songs": 1510,
+ "updated": "2026-11-16 00:01 CST",
+ "updated_epoch": 1794808901,
+ "library_songs": 1513,
  "total": 890,
- "done": 206,
- "open": 684,
+ "done": 209,
+ "open": 681,
  "by_status": {
-  "no_lyrics_yet": 405,
-  "has_lyrics_needs_sync": 198,
-  "transcribing": 8,
+  "no_lyrics_yet": 403,
+  "has_lyrics_needs_sync": 199,
+  "transcribing": 6,
   "blocked_on_audio": 27
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 123,
-   "open": 547
+   "done": 126,
+   "open": 544
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,18 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "vonoff1700-sbgbrick-20k",
+   "when": "Nov 15 23:48"
+  },
+  {
+   "slug": "vonoff1700-mama-i-told-u",
+   "when": "Nov 15 23:37"
+  },
+  {
+   "slug": "mg-sleepy-5-pockets",
+   "when": "Nov 15 23:22"
+  },
   {
    "slug": "mg-sleepy-poppin-my-collar",
    "when": "Nov 15 22:51"
@@ -77,34 +89,24 @@
   {
    "slug": "mg-sleepy-ohio-s-most-wanted",
    "when": "Nov 15 09:09"
-  },
-  {
-   "slug": "mg-sleepy-call-my-bluff",
-   "when": "Nov 15 06:59"
-  },
-  {
-   "slug": "mg-sleepy-lob-city",
-   "when": "Nov 15 06:44"
-  },
-  {
-   "slug": "mg-sleepy-playing-stupid",
-   "when": "Nov 15 06:33"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "vonoff1700 sbgbrick slg chapo for a minute"
+ ],
  "in_progress": [
   {
-   "slug": "vonoff1700-sbgbrick-20k",
-   "title": "20K",
-   "artist": "VonOff1700, Sbgbrick",
+   "slug": "vonoff1700-sbgbrick-slg-chapo-for-a-minute",
+   "title": "For A Minute",
+   "artist": "VonOff1700, Sbgbrick, SLG Chapo",
    "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 02:38"
   },
   {
-   "slug": "mg-sleepy-5-pockets",
-   "title": "5 Pockets",
-   "artist": "Mg Sleepy",
+   "slug": "vonoff1700-sbgbrick-active",
+   "title": "Active",
+   "artist": "VonOff1700, Sbgbrick",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -129,14 +131,6 @@
    "slug": "mg-sleepy-made-it-count",
    "title": "Made It Count",
    "artist": "Mg Sleepy",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "vonoff1700-mama-i-told-u",
-   "title": "Mama I Told U",
-   "artist": "VonOff1700",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
