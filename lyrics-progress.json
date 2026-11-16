@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-15 18:06 CST",
- "updated_epoch": 1794787577,
- "library_songs": 1504,
+ "updated": "2026-11-15 20:11 CST",
+ "updated_epoch": 1794795113,
+ "library_songs": 1507,
  "total": 890,
- "done": 200,
- "open": 690,
+ "done": 203,
+ "open": 687,
  "by_status": {
   "no_lyrics_yet": 413,
   "has_lyrics_needs_sync": 197,
-  "transcribing": 8,
+  "transcribing": 5,
   "blocked_on_audio": 26
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 117,
-   "open": 553
+   "done": 120,
+   "open": 550
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,18 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "mg-sleepy-tse-e2-jay-juice-black-cursive",
+   "when": "Nov 15 20:09"
+  },
+  {
+   "slug": "mg-sleepy-j-reed",
+   "when": "Nov 15 20:09"
+  },
+  {
+   "slug": "mg-sleepy-ghost-gun",
+   "when": "Nov 15 20:08"
+  },
   {
    "slug": "mg-sleepy-euphoria",
    "when": "Nov 15 11:22"
@@ -77,18 +89,6 @@
   {
    "slug": "vonoff1700-sbgbrick-stuck-dea",
    "when": "Nov 15 04:17"
-  },
-  {
-   "slug": "bando-kd-vonoff1700-duck",
-   "when": "Nov 15 02:48"
-  },
-  {
-   "slug": "devo-b-badu-freestyle",
-   "when": "Nov 15 01:31"
-  },
-  {
-   "slug": "dcg-brothers-skilla-baby-and-is-feat-skilla-baby",
-   "when": "Nov 14 18:56"
   }
  ],
  "transcribing_now": [],
@@ -96,22 +96,6 @@
   {
    "slug": "mg-sleepy-5-pockets",
    "title": "5 Pockets",
-   "artist": "Mg Sleepy",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "mg-sleepy-tse-e2-jay-juice-black-cursive",
-   "title": "Black Cursive",
-   "artist": "Mg Sleepy, Tse E2, Jay Juice",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "mg-sleepy-ghost-gun",
-   "title": "Ghost Gun",
    "artist": "Mg Sleepy",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
@@ -129,14 +113,6 @@
    "slug": "mg-sleepy-liltae2-good-friday",
    "title": "Good Friday",
    "artist": "Mg Sleepy, Liltae2",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "mg-sleepy-j-reed",
-   "title": "J Reed",
-   "artist": "Mg Sleepy",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
