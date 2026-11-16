@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-16T15:08:05Z",
- "count": 1512,
+ "generated_at": "2026-11-16T19:11:21Z",
+ "count": 1513,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -925,6 +925,13 @@
    "file": "babyru78-no-glock.lrc",
    "kind": "synced",
    "sha": "fa1c80d2ace28e95aa96ff3a06cce05c756cbc1662a4e9ef03f647b854cef949"
+  },
+  {
+   "title": "No Ring",
+   "artist": "BabyRu78",
+   "file": "babyru78-no-ring.lrc",
+   "kind": "synced",
+   "sha": "e5d7f12d445088b1db160f30e6f4353cec63669ff982fb875d7467597ae12554"
   },
   {
    "title": "Onna Backend",
