@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-16 05:17 CST",
- "updated_epoch": 1794827828,
- "library_songs": 1516,
+ "updated": "2026-11-16 07:05 CST",
+ "updated_epoch": 1794834335,
+ "library_songs": 1518,
  "total": 890,
- "done": 212,
- "open": 678,
+ "done": 214,
+ "open": 676,
  "by_status": {
-  "no_lyrics_yet": 392,
+  "no_lyrics_yet": 389,
   "has_lyrics_needs_sync": 203,
   "transcribing": 8,
-  "blocked_on_audio": 29
+  "blocked_on_audio": 30
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 129,
-   "open": 541
+   "done": 131,
+   "open": 539
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "krispylife-kidd-rio-da-yung-og-96-bulls",
+   "when": "Nov 16 06:38"
+  },
+  {
+   "slug": "krispylife-kidd-run-that-down",
+   "when": "Nov 16 05:18"
+  },
   {
    "slug": "mhc-cj-supafly",
    "when": "Nov 16 03:42"
@@ -81,14 +89,6 @@
   {
    "slug": "mg-sleepy-ghost-gun",
    "when": "Nov 15 20:08"
-  },
-  {
-   "slug": "mg-sleepy-euphoria",
-   "when": "Nov 15 11:22"
-  },
-  {
-   "slug": "mg-sleepy-3am-in-ohio",
-   "when": "Nov 15 11:05"
   }
  ],
  "transcribing_now": [],
@@ -148,14 +148,6 @@
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, small"
-  },
-  {
-   "slug": "krispylife-kidd-run-that-down",
-   "title": "Run That Down",
-   "artist": "KrispyLife Kidd",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
   },
   {
    "slug": "vonoff1700-sbgbrick-stuck-dea",
