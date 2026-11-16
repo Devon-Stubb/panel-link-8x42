@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-15T17:27:06Z",
- "count": 1498,
+ "generated_at": "2026-11-16T02:57:13Z",
+ "count": 1501,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -6065,6 +6065,20 @@
    "sha": "d894f83af5ded435a8cb347cc910d4f673ce3416959e33a34744e08dbcc46540"
   },
   {
+   "title": "Ghost Gun",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-ghost-gun.lrc",
+   "kind": "synced",
+   "sha": "8d4639652cdc26fd003173f0d6f2df6e7cb343558666eeb62b6b2262f31148cd"
+  },
+  {
+   "title": "J Reed",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-j-reed.lrc",
+   "kind": "synced",
+   "sha": "872b022c99bc03e09a9ff6c5b4d813faa59fc629b947ddfa06af3f969be27d78"
+  },
+  {
    "title": "Lob City",
    "artist": "Mg Sleepy",
    "file": "mg-sleepy-lob-city.lrc",
@@ -6112,6 +6126,13 @@
    "file": "mg-sleepy-punch-session.lrc",
    "kind": "synced",
    "sha": "ab4a461299f597f85eaf3d3abef9b8b131d1ceac7838e4a4b9edcd46a2e0c34c"
+  },
+  {
+   "title": "Black Cursive",
+   "artist": "Mg Sleepy, Tse E2, Jay Juice",
+   "file": "mg-sleepy-tse-e2-jay-juice-black-cursive.lrc",
+   "kind": "synced",
+   "sha": "49b962ca76f98dc82f0dd2149f1641f826f2f0e03353e96539b4da815e5b74ef"
   },
   {
    "title": "beauty",
