@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-15 21:05 CST",
- "updated_epoch": 1794798342,
- "library_songs": 1507,
+ "updated": "2026-11-15 23:15 CST",
+ "updated_epoch": 1794806116,
+ "library_songs": 1510,
  "total": 890,
- "done": 203,
- "open": 687,
+ "done": 206,
+ "open": 684,
  "by_status": {
-  "no_lyrics_yet": 409,
+  "no_lyrics_yet": 405,
   "has_lyrics_needs_sync": 198,
   "transcribing": 8,
-  "blocked_on_audio": 26
+  "blocked_on_audio": 27
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 120,
-   "open": 550
+   "done": 123,
+   "open": 547
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,18 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "mg-sleepy-poppin-my-collar",
+   "when": "Nov 15 22:51"
+  },
+  {
+   "slug": "vampviolence-ghost-ride",
+   "when": "Nov 15 22:38"
+  },
+  {
+   "slug": "mg-sleepy-liltae2-good-friday",
+   "when": "Nov 15 21:30"
+  },
   {
    "slug": "mg-sleepy-tse-e2-jay-juice-black-cursive",
    "when": "Nov 15 20:09"
@@ -77,31 +89,17 @@
   {
    "slug": "mg-sleepy-playing-stupid",
    "when": "Nov 15 06:33"
-  },
-  {
-   "slug": "vonoff1700-vonoff1700-lil-yachty-s-coffin-ogm-freestyle",
-   "when": "Nov 15 04:50"
-  },
-  {
-   "slug": "mg-sleepy-all-chrome",
-   "when": "Nov 15 04:36"
-  },
-  {
-   "slug": "vonoff1700-sbgbrick-stuck-dea",
-   "when": "Nov 15 04:17"
   }
  ],
- "transcribing_now": [
-  "dcg brothers screwly g bounce out"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
-   "slug": "dcg-brothers-screwly-g-bounce-out",
-   "title": "Bounce Out",
-   "artist": "DCG BROTHERS, Screwly G",
+   "slug": "vonoff1700-sbgbrick-20k",
+   "title": "20K",
+   "artist": "VonOff1700, Sbgbrick",
    "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 01:38"
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
   },
   {
    "slug": "mg-sleepy-5-pockets",
@@ -112,20 +110,20 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "vampviolence-ghost-ride",
-   "title": "Ghost Ride",
-   "artist": "VampViolence",
+   "slug": "mg-sleepy-blade-runner",
+   "title": "Blade Runner",
+   "artist": "Mg Sleepy",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "mg-sleepy-liltae2-good-friday",
-   "title": "Good Friday",
-   "artist": "Mg Sleepy, Liltae2",
+   "slug": "dcg-brothers-screwly-g-bounce-out",
+   "title": "Bounce Out",
+   "artist": "DCG BROTHERS, Screwly G",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
+   "detail": "Passes in: raw, small"
   },
   {
    "slug": "mg-sleepy-made-it-count",
@@ -136,12 +134,20 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "mg-sleepy-poppin-my-collar",
-   "title": "Poppin My Collar",
-   "artist": "Mg Sleepy",
+   "slug": "vonoff1700-mama-i-told-u",
+   "title": "Mama I Told U",
+   "artist": "VonOff1700",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "biz-od",
+   "title": "OD",
+   "artist": "biz",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, small"
   },
   {
    "slug": "vonoff1700-sbgbrick-stuck-dea",
