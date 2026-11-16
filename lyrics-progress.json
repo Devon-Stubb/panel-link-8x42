@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-16 00:01 CST",
- "updated_epoch": 1794808901,
+ "updated": "2026-11-16 00:27 CST",
+ "updated_epoch": 1794810420,
  "library_songs": 1513,
  "total": 890,
  "done": 209,
  "open": 681,
  "by_status": {
-  "no_lyrics_yet": 403,
-  "has_lyrics_needs_sync": 199,
-  "transcribing": 6,
+  "no_lyrics_yet": 401,
+  "has_lyrics_needs_sync": 200,
+  "transcribing": 7,
   "blocked_on_audio": 27
  },
  "tiers": {
@@ -96,14 +96,6 @@
  ],
  "in_progress": [
   {
-   "slug": "vonoff1700-sbgbrick-slg-chapo-for-a-minute",
-   "title": "For A Minute",
-   "artist": "VonOff1700, Sbgbrick, SLG Chapo",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 02:38"
-  },
-  {
    "slug": "vonoff1700-sbgbrick-active",
    "title": "Active",
    "artist": "VonOff1700, Sbgbrick",
@@ -126,6 +118,22 @@
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: raw, small"
+  },
+  {
+   "slug": "ookbarm-s-vault-codeine-cobain",
+   "title": "Codeine Cobain",
+   "artist": "Ookbarm\u2019s Vault",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "vonoff1700-sbgbrick-slg-chapo-for-a-minute",
+   "title": "For A Minute",
+   "artist": "VonOff1700, Sbgbrick, SLG Chapo",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
   },
   {
    "slug": "mg-sleepy-made-it-count",
