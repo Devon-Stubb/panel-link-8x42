@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17 07:27 CST",
- "updated_epoch": 1794922024,
+ "updated": "2026-11-17 07:40 CST",
+ "updated_epoch": 1794922834,
  "library_songs": 1549,
  "total": 890,
  "done": 245,
@@ -91,7 +91,9 @@
    "when": "Nov 17 01:11"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "dcg brothers dcg shun dcg bsavv moneysign suede get money feat moneysign suede"
+ ],
  "in_progress": [
   {
    "slug": "babyru78-skip-town",
