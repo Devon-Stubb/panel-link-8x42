@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-17 07:41 CST",
- "updated_epoch": 1794922894,
- "library_songs": 1549,
+ "updated": "2026-11-17 09:26 CST",
+ "updated_epoch": 1794929219,
+ "library_songs": 1555,
  "total": 890,
- "done": 245,
- "open": 645,
+ "done": 251,
+ "open": 639,
  "by_status": {
   "no_lyrics_yet": 386,
   "has_lyrics_needs_sync": 203,
-  "transcribing": 25,
+  "transcribing": 19,
   "blocked_on_audio": 31
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 161,
-   "open": 509
+   "done": 167,
+   "open": 503
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,30 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "krispylife-kidd-forreal-forreal",
+   "when": "Nov 17 08:54"
+  },
+  {
+   "slug": "krispylife-kidd-webbie-life",
+   "when": "Nov 17 08:54"
+  },
+  {
+   "slug": "dee-mula-quit-cappin",
+   "when": "Nov 17 08:54"
+  },
+  {
+   "slug": "dee-mula-38118",
+   "when": "Nov 17 07:52"
+  },
+  {
+   "slug": "dcg-brothers-dcg-shun-dcg-bsavv-moneysign-suede-get-money-feat-moneysign-suede",
+   "when": "Nov 17 07:52"
+  },
+  {
+   "slug": "mg-sleepy-fast-simple",
+   "when": "Nov 17 07:52"
+  },
   {
    "slug": "fwc-big-key-opps-can-t-make-a-diss",
    "when": "Nov 17 07:00"
@@ -65,35 +89,9 @@
   {
    "slug": "mg-sleepy-a-out",
    "when": "Nov 17 02:57"
-  },
-  {
-   "slug": "mg-sleepy-myaap-paint-the-town-red",
-   "when": "Nov 17 02:57"
-  },
-  {
-   "slug": "fonzo-6700-sticks",
-   "when": "Nov 17 02:57"
-  },
-  {
-   "slug": "krispylife-kidd-mann",
-   "when": "Nov 17 02:16"
-  },
-  {
-   "slug": "juice-wrld-lovely-remix-ft-juice-wrld-khalid",
-   "when": "Nov 17 02:16"
-  },
-  {
-   "slug": "juice-wrld-monsters-in-my-basement",
-   "when": "Nov 17 02:16"
-  },
-  {
-   "slug": "juice-wrld-down-bad-prod-sbeatz",
-   "when": "Nov 17 01:11"
   }
  ],
- "transcribing_now": [
-  "dcg brothers dcg shun dcg bsavv moneysign suede get money feat moneysign suede"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
    "slug": "babyru78-skip-town",
@@ -108,14 +106,6 @@
    "title": "Sum Bout U",
    "artist": "BabyRu78",
    "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "dee-mula-38118",
-   "title": "38118",
-   "artist": "Dee Mula",
-   "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
@@ -160,22 +150,6 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "krispylife-kidd-forreal-forreal",
-   "title": "Forreal Forreal",
-   "artist": "KrispyLife Kidd",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "dcg-brothers-dcg-shun-dcg-bsavv-moneysign-suede-get-money-feat-moneysign-suede",
-   "title": "Get Money (feat. MoneySign Suede)",
-   "artist": "DCG BROTHERS, DCG Shun, DCG Bsavv, MoneySign Suede",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
    "slug": "krispylife-kidd-gucci-jogger",
    "title": "Gucci Jogger",
    "artist": "KrispyLife Kidd",
@@ -208,12 +182,36 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "dee-mula-quit-cappin",
-   "title": "Quit Cappin",
-   "artist": "Dee Mula",
+   "slug": "rio-da-yung-og-rmc-mike-testers-feat-rmc-mike",
+   "title": "Testers (feat. Rmc Mike)",
+   "artist": "Rio Da Yung Og, Rmc Mike",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "vonoff1700-sbgbrick-stuck-dea",
+   "title": "Stuck Dea",
+   "artist": "VonOff1700, Sbgbrick",
+   "tier": "Rest of playlist",
+   "stage": "Fix in progress",
+   "detail": "Re-checking specific lines against the audio"
+  },
+  {
+   "slug": "rio-da-yung-og-grindhard-e-rmc-mike-alot-to-say",
+   "title": "Alot To Say",
+   "artist": "Rio Da Yung Og, GrindHard E, Rmc Mike",
+   "tier": "Rest of playlist",
+   "stage": "Transcription paused",
+   "detail": "1 of 3 passes in \u2014 more transcription queued"
+  },
+  {
+   "slug": "juice-wrld-boss-of-me",
+   "title": "Boss Of Me",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Transcription paused",
+   "detail": "2 of 3 passes in \u2014 more transcription queued"
   }
  ]
 }
