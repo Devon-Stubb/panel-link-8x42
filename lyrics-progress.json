@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16 22:13 CST",
- "updated_epoch": 1794888790,
+ "updated": "2026-11-16 22:42 CST",
+ "updated_epoch": 1794890562,
  "library_songs": 1530,
  "total": 890,
  "done": 226,
@@ -91,8 +91,18 @@
    "when": "Nov 16 05:18"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "fonzo 6700 sticks"
+ ],
  "in_progress": [
+  {
+   "slug": "fonzo-6700-sticks",
+   "title": "Sticks",
+   "artist": "Fonzo 6700",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 06:48"
+  },
   {
    "slug": "juice-wrld-codeine-cobain-1-00",
    "title": "Codeine Cobain (1:00)",
@@ -129,6 +139,22 @@
    "slug": "juice-wrld-down-bad-prod-sbeatz",
    "title": "Down Bad (Prod.SBeatz)",
    "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "juice-wrld-lovely-remix-ft-juice-wrld-khalid",
+   "title": "Lovely (Remix) (ft. Juice WRLD, Khalid)",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "krispylife-kidd-mann",
+   "title": "Mann",
+   "artist": "KrispyLife Kidd",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -188,30 +214,6 @@
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
    "detail": "1 of 3 passes in \u2014 more transcription queued"
-  },
-  {
-   "slug": "krispylife-kidd-gucci-jogger",
-   "title": "Gucci Jogger",
-   "artist": "KrispyLife Kidd",
-   "tier": "Rest of playlist",
-   "stage": "Transcription paused",
-   "detail": "1 of 3 passes in \u2014 more transcription queued"
-  },
-  {
-   "slug": "rio-da-yung-og-grindhard-e-rmc-mike-lost-a-person",
-   "title": "Lost A Person",
-   "artist": "Rio Da Yung Og, GrindHard E, Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Transcription paused",
-   "detail": "1 of 3 passes in \u2014 more transcription queued"
-  },
-  {
-   "slug": "juice-wrld-lovely-remix-ft-juice-wrld-khalid",
-   "title": "Lovely (Remix) (ft. Juice WRLD, Khalid)",
-   "artist": "Juice WRLD",
-   "tier": "Rest of playlist",
-   "stage": "Transcription paused",
-   "detail": "2 of 3 passes in \u2014 more transcription queued"
   }
  ]
 }
