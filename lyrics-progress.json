@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17 02:31 CST",
- "updated_epoch": 1794904288,
+ "updated": "2026-11-17 02:35 CST",
+ "updated_epoch": 1794904545,
  "library_songs": 1539,
  "total": 890,
  "done": 235,
@@ -93,7 +93,7 @@
  ],
  "transcribing_now": [
   "dee mula quit cappin",
-  "mg sleepy myaap paint the town red"
+  "mg sleepy a out"
  ],
  "in_progress": [
   {
@@ -102,7 +102,7 @@
    "artist": "Dee Mula",
    "tier": "Rest of playlist",
    "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 02:25"
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 02:30"
   },
   {
    "slug": "dee-mula-38118",
