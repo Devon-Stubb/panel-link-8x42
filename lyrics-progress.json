@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16 22:42 CST",
- "updated_epoch": 1794890562,
+ "updated": "2026-11-16 22:46 CST",
+ "updated_epoch": 1794890801,
  "library_songs": 1530,
  "total": 890,
  "done": 226,
@@ -92,16 +92,17 @@
   }
  ],
  "transcribing_now": [
-  "fonzo 6700 sticks"
+  "jdot breezy dope slangin",
+  "juice wrld codeine cobain 1 00"
  ],
  "in_progress": [
   {
-   "slug": "fonzo-6700-sticks",
-   "title": "Sticks",
-   "artist": "Fonzo 6700",
+   "slug": "jdot-breezy-dope-slangin",
+   "title": "Dope Slangin",
+   "artist": "Jdot Breezy",
    "tier": "Rest of playlist",
    "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 06:48"
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 00:05"
   },
   {
    "slug": "juice-wrld-codeine-cobain-1-00",
@@ -168,6 +169,14 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
+   "slug": "fonzo-6700-sticks",
+   "title": "Sticks",
+   "artist": "Fonzo 6700",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "juice-wrld-tropical-storm",
    "title": "Tropical Storm",
    "artist": "Juice WRLD",
@@ -202,14 +211,6 @@
   {
    "slug": "juice-wrld-denial-3-demo",
    "title": "DENIAL </3 (demo)",
-   "artist": "Juice WRLD",
-   "tier": "Rest of playlist",
-   "stage": "Transcription paused",
-   "detail": "1 of 3 passes in \u2014 more transcription queued"
-  },
-  {
-   "slug": "juice-wrld-forever",
-   "title": "Forever",
    "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
