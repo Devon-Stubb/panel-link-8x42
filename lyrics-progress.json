@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17 03:25 CST",
- "updated_epoch": 1794907538,
+ "updated": "2026-11-17 03:30 CST",
+ "updated_epoch": 1794907845,
  "library_songs": 1542,
  "total": 890,
  "done": 238,
@@ -91,18 +91,8 @@
    "when": "Nov 16 20:45"
   }
  ],
- "transcribing_now": [
-  "rio da yung og rmc mike testers feat rmc mike"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "rio-da-yung-og-rmc-mike-testers-feat-rmc-mike",
-   "title": "Testers (feat. Rmc Mike)",
-   "artist": "Rio Da Yung Og, Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 01:33"
-  },
   {
    "slug": "dee-mula-38118",
    "title": "38118",
@@ -187,6 +177,14 @@
    "slug": "trapland-pat-gt-real-spill-feat-gt",
    "title": "Real Spill (feat. GT)",
    "artist": "Trapland Pat, GT",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "rio-da-yung-og-rmc-mike-testers-feat-rmc-mike",
+   "title": "Testers (feat. Rmc Mike)",
+   "artist": "Rio Da Yung Og, Rmc Mike",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
