@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16 18:49 CST",
- "updated_epoch": 1794876561,
+ "updated": "2026-11-16 18:54 CST",
+ "updated_epoch": 1794876895,
  "library_songs": 1523,
  "total": 890,
  "done": 219,
@@ -92,8 +92,7 @@
   }
  ],
  "transcribing_now": [
-  "krispylife kidd i was done",
-  "krispylife kidd rmc mike gall dept"
+  "krispylife kidd i was done"
  ],
  "in_progress": [
   {
@@ -102,7 +101,7 @@
    "artist": "KrispyLife Kidd",
    "tier": "Rest of playlist",
    "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 12:47"
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 00:50"
   },
   {
    "slug": "mcn-music-rmc-mike-100-blues",
