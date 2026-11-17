@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16 18:54 CST",
- "updated_epoch": 1794876895,
+ "updated": "2026-11-16 19:00 CST",
+ "updated_epoch": 1794877259,
  "library_songs": 1523,
  "total": 890,
  "done": 219,
@@ -91,18 +91,8 @@
    "when": "Nov 15 22:51"
   }
  ],
- "transcribing_now": [
-  "krispylife kidd i was done"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "krispylife-kidd-i-was-done",
-   "title": "I Was Done",
-   "artist": "KrispyLife Kidd",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 00:50"
-  },
   {
    "slug": "mcn-music-rmc-mike-100-blues",
    "title": "100 Blues",
@@ -131,6 +121,14 @@
    "slug": "krispylife-kidd-rmc-mike-gall-dept",
    "title": "Gall Dept",
    "artist": "KrispyLife Kidd, Rmc Mike",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "krispylife-kidd-i-was-done",
+   "title": "I Was Done",
+   "artist": "KrispyLife Kidd",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
