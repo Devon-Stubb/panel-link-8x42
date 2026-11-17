@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-16 19:05 CST",
- "updated_epoch": 1794877554,
- "library_songs": 1524,
+ "updated": "2026-11-16 22:13 CST",
+ "updated_epoch": 1794888790,
+ "library_songs": 1530,
  "total": 890,
- "done": 220,
- "open": 670,
+ "done": 226,
+ "open": 664,
  "by_status": {
   "no_lyrics_yet": 386,
   "has_lyrics_needs_sync": 203,
-  "transcribing": 50,
+  "transcribing": 44,
   "blocked_on_audio": 31
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 136,
-   "open": 534
+   "done": 142,
+   "open": 528
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,30 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "krispylife-kidd-i-was-done",
+   "when": "Nov 16 22:10"
+  },
+  {
+   "slug": "yusmb-rio-da-yung-og-same-day-out",
+   "when": "Nov 16 20:45"
+  },
+  {
+   "slug": "mcn-music-rmc-mike-100-blues",
+   "when": "Nov 16 20:33"
+  },
+  {
+   "slug": "ysr-gramz-enrgy-beats-scatz-krispylife-kidd-bakin-fish",
+   "when": "Nov 16 20:22"
+  },
+  {
+   "slug": "ysr-gramz-enrgy-beats-rmc-mike-baglife-tee-cant-be-stopped",
+   "when": "Nov 16 19:20"
+  },
+  {
+   "slug": "krispylife-kidd-grindhard-e-on-2-sum",
+   "when": "Nov 16 19:09"
+  },
   {
    "slug": "krispylife-kidd-rmc-mike-gall-dept",
    "when": "Nov 16 19:01"
@@ -65,88 +89,62 @@
   {
    "slug": "krispylife-kidd-run-that-down",
    "when": "Nov 16 05:18"
-  },
-  {
-   "slug": "mhc-cj-supafly",
-   "when": "Nov 16 03:42"
-  },
-  {
-   "slug": "vonoff1700-sbgbrick-slg-chapo-for-a-minute",
-   "when": "Nov 16 00:53"
-  },
-  {
-   "slug": "vonoff1700-sbgbrick-active",
-   "when": "Nov 16 00:53"
-  },
-  {
-   "slug": "vonoff1700-sbgbrick-20k",
-   "when": "Nov 15 23:48"
-  },
-  {
-   "slug": "vonoff1700-mama-i-told-u",
-   "when": "Nov 15 23:37"
-  },
-  {
-   "slug": "mg-sleepy-5-pockets",
-   "when": "Nov 15 23:22"
   }
  ],
- "transcribing_now": [
-  "juice wrld codeine cobain 1 00"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
    "slug": "juice-wrld-codeine-cobain-1-00",
    "title": "Codeine Cobain (1:00)",
    "artist": "Juice WRLD",
    "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 01:48"
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "mcn-music-rmc-mike-100-blues",
-   "title": "100 Blues",
-   "artist": "MCN Music, Rmc Mike",
+   "slug": "juice-wrld-cutting-it-too-close",
+   "title": "Cutting It Too Close",
+   "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "ysr-gramz-enrgy-beats-scatz-krispylife-kidd-bakin-fish",
-   "title": "Bakin Fish",
-   "artist": "Ysr Gramz, Enrgy Beats, Scatz, KrispyLife Kidd",
+   "slug": "juice-wrld-dark-side",
+   "title": "Dark Side",
+   "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "ysr-gramz-enrgy-beats-rmc-mike-baglife-tee-cant-be-stopped",
-   "title": "Cant Be Stopped",
-   "artist": "Ysr Gramz, Enrgy Beats, Rmc Mike, Baglife Tee",
+   "slug": "juice-wrld-deja-vu",
+   "title": "Deja Vu",
+   "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "krispylife-kidd-i-was-done",
-   "title": "I Was Done",
-   "artist": "KrispyLife Kidd",
+   "slug": "juice-wrld-down-bad-prod-sbeatz",
+   "title": "Down Bad (Prod.SBeatz)",
+   "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "krispylife-kidd-grindhard-e-on-2-sum",
-   "title": "On 2 Sum",
-   "artist": "KrispyLife Kidd, Grindhard E",
+   "slug": "juice-wrld-monsters-in-my-basement",
+   "title": "Monsters In My Basement",
+   "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "yusmb-rio-da-yung-og-same-day-out",
-   "title": "Same Day Out",
-   "artist": "YUSMB, Rio Da Yung Og",
+   "slug": "juice-wrld-tropical-storm",
+   "title": "Tropical Storm",
+   "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -166,6 +164,14 @@
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
    "detail": "1 of 3 passes in \u2014 more transcription queued"
+  },
+  {
+   "slug": "juice-wrld-boss-of-me",
+   "title": "Boss Of Me",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Transcription paused",
+   "detail": "2 of 3 passes in \u2014 more transcription queued"
   },
   {
    "slug": "juice-wrld-denial-3-demo",
@@ -198,6 +204,14 @@
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
    "detail": "1 of 3 passes in \u2014 more transcription queued"
+  },
+  {
+   "slug": "juice-wrld-lovely-remix-ft-juice-wrld-khalid",
+   "title": "Lovely (Remix) (ft. Juice WRLD, Khalid)",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Transcription paused",
+   "detail": "2 of 3 passes in \u2014 more transcription queued"
   }
  ]
 }
