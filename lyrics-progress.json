@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-17 16:25 CST",
- "updated_epoch": 1794954342,
- "library_songs": 1569,
+ "updated": "2026-11-17 16:30 CST",
+ "updated_epoch": 1794954657,
+ "library_songs": 1570,
  "total": 891,
- "done": 265,
- "open": 626,
+ "done": 266,
+ "open": 625,
  "by_status": {
   "no_lyrics_yet": 383,
   "has_lyrics_needs_sync": 204,
-  "transcribing": 8,
+  "transcribing": 7,
   "blocked_on_audio": 31
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 178,
-   "open": 492
+   "done": 179,
+   "open": 491
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "grindhard-e-abolished",
+   "when": "Nov 17 16:30"
+  },
   {
    "slug": "krispylife-kidd-rmc-mike-icewear-vezzo-babyfxce-e-ysr-gramz-just-talking",
    "when": "Nov 17 14:33"
@@ -85,24 +89,10 @@
   {
    "slug": "414bigfrank-oh-shi",
    "when": "Nov 17 09:55"
-  },
-  {
-   "slug": "rio-da-yung-og-rmc-mike-testers-feat-rmc-mike",
-   "when": "Nov 17 09:55"
   }
  ],
- "transcribing_now": [
-  "grindhard e abolished"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "grindhard-e-abolished",
-   "title": "Abolished",
-   "artist": "GrindHard E",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
   {
    "slug": "vonoff1700-sbgbrick-stuck-dea",
    "title": "Stuck Dea",
