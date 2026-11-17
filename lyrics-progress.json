@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16 23:21 CST",
- "updated_epoch": 1794892863,
+ "updated": "2026-11-16 23:25 CST",
+ "updated_epoch": 1794893140,
  "library_songs": 1530,
  "total": 890,
  "done": 226,
@@ -92,17 +92,17 @@
   }
  ],
  "transcribing_now": [
-  "jdot breezy dope slangin",
-  "juice wrld codeine cobain 1 00"
+  "juice wrld dark side",
+  "mg sleepy myaap paint the town red"
  ],
  "in_progress": [
   {
-   "slug": "jdot-breezy-dope-slangin",
-   "title": "Dope Slangin",
-   "artist": "Jdot Breezy",
+   "slug": "mg-sleepy-myaap-paint-the-town-red",
+   "title": "Paint The Town Red",
+   "artist": "Mg Sleepy, Myaap",
    "tier": "Rest of playlist",
    "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 04:53"
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 01:35"
   },
   {
    "slug": "juice-wrld-codeine-cobain-1-00",
