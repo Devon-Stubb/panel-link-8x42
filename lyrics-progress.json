@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-17 01:40 CST",
- "updated_epoch": 1794901239,
- "library_songs": 1536,
+ "updated": "2026-11-17 02:31 CST",
+ "updated_epoch": 1794904288,
+ "library_songs": 1539,
  "total": 890,
- "done": 232,
- "open": 658,
+ "done": 235,
+ "open": 655,
  "by_status": {
   "no_lyrics_yet": 386,
   "has_lyrics_needs_sync": 203,
-  "transcribing": 38,
+  "transcribing": 35,
   "blocked_on_audio": 31
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 148,
-   "open": 522
+   "done": 151,
+   "open": 519
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,18 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "krispylife-kidd-mann",
+   "when": "Nov 17 02:16"
+  },
+  {
+   "slug": "juice-wrld-lovely-remix-ft-juice-wrld-khalid",
+   "when": "Nov 17 02:16"
+  },
+  {
+   "slug": "juice-wrld-monsters-in-my-basement",
+   "when": "Nov 17 02:16"
+  },
   {
    "slug": "juice-wrld-down-bad-prod-sbeatz",
    "when": "Nov 17 01:11"
@@ -77,31 +89,28 @@
   {
    "slug": "ysr-gramz-enrgy-beats-rmc-mike-baglife-tee-cant-be-stopped",
    "when": "Nov 16 19:20"
-  },
-  {
-   "slug": "krispylife-kidd-grindhard-e-on-2-sum",
-   "when": "Nov 16 19:09"
-  },
-  {
-   "slug": "krispylife-kidd-rmc-mike-gall-dept",
-   "when": "Nov 16 19:01"
-  },
-  {
-   "slug": "realrichizzo-whoop-dat",
-   "when": "Nov 16 17:34"
   }
  ],
  "transcribing_now": [
-  "dcg brothers dcg shun dcg bsavv moneysign suede get money feat moneysign suede"
+  "dee mula quit cappin",
+  "mg sleepy myaap paint the town red"
  ],
  "in_progress": [
   {
-   "slug": "dcg-brothers-dcg-shun-dcg-bsavv-moneysign-suede-get-money-feat-moneysign-suede",
-   "title": "Get Money (feat. MoneySign Suede)",
-   "artist": "DCG BROTHERS, DCG Shun, DCG Bsavv, MoneySign Suede",
+   "slug": "dee-mula-quit-cappin",
+   "title": "Quit Cappin",
+   "artist": "Dee Mula",
    "tier": "Rest of playlist",
    "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 00:43"
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 02:25"
+  },
+  {
+   "slug": "dee-mula-38118",
+   "title": "38118",
+   "artist": "Dee Mula",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
   },
   {
    "slug": "mg-sleepy-a-out",
@@ -152,25 +161,9 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "juice-wrld-lovely-remix-ft-juice-wrld-khalid",
-   "title": "Lovely (Remix) (ft. Juice WRLD, Khalid)",
-   "artist": "Juice WRLD",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "krispylife-kidd-mann",
-   "title": "Mann",
-   "artist": "KrispyLife Kidd",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "juice-wrld-monsters-in-my-basement",
-   "title": "Monsters In My Basement",
-   "artist": "Juice WRLD",
+   "slug": "dcg-brothers-dcg-shun-dcg-bsavv-moneysign-suede-get-money-feat-moneysign-suede",
+   "title": "Get Money (feat. MoneySign Suede)",
+   "artist": "DCG BROTHERS, DCG Shun, DCG Bsavv, MoneySign Suede",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -214,6 +207,14 @@
    "tier": "Rest of playlist",
    "stage": "Fix in progress",
    "detail": "Re-checking specific lines against the audio"
+  },
+  {
+   "slug": "rio-da-yung-og-grindhard-e-rmc-mike-alot-to-say",
+   "title": "Alot To Say",
+   "artist": "Rio Da Yung Og, GrindHard E, Rmc Mike",
+   "tier": "Rest of playlist",
+   "stage": "Transcription paused",
+   "detail": "1 of 3 passes in \u2014 more transcription queued"
   }
  ]
 }
