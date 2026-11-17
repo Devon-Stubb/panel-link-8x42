@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17 03:15 CST",
- "updated_epoch": 1794906920,
+ "updated": "2026-11-17 03:25 CST",
+ "updated_epoch": 1794907538,
  "library_songs": 1542,
  "total": 890,
  "done": 238,
@@ -91,8 +91,18 @@
    "when": "Nov 16 20:45"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "rio da yung og rmc mike testers feat rmc mike"
+ ],
  "in_progress": [
+  {
+   "slug": "rio-da-yung-og-rmc-mike-testers-feat-rmc-mike",
+   "title": "Testers (feat. Rmc Mike)",
+   "artist": "Rio Da Yung Og, Rmc Mike",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 01:33"
+  },
   {
    "slug": "dee-mula-38118",
    "title": "38118",
@@ -121,6 +131,14 @@
    "slug": "fwc-big-key-realrichizzo-fbg-feat-realrichizzo",
    "title": "FBG (feat. RealRichIzzo)",
    "artist": "FWC Big Key, RealRichIzzo",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "krispylife-kidd-forreal-forreal",
+   "title": "Forreal Forreal",
+   "artist": "KrispyLife Kidd",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -193,22 +211,6 @@
    "slug": "rio-da-yung-og-grindhard-e-rmc-mike-alot-to-say",
    "title": "Alot To Say",
    "artist": "Rio Da Yung Og, GrindHard E, Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Transcription paused",
-   "detail": "1 of 3 passes in \u2014 more transcription queued"
-  },
-  {
-   "slug": "juice-wrld-boss-of-me",
-   "title": "Boss Of Me",
-   "artist": "Juice WRLD",
-   "tier": "Rest of playlist",
-   "stage": "Transcription paused",
-   "detail": "2 of 3 passes in \u2014 more transcription queued"
-  },
-  {
-   "slug": "juice-wrld-denial-3-demo",
-   "title": "DENIAL </3 (demo)",
-   "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
    "detail": "1 of 3 passes in \u2014 more transcription queued"
