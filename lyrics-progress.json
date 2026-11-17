@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17 01:26 CST",
- "updated_epoch": 1794900388,
+ "updated": "2026-11-17 01:37 CST",
+ "updated_epoch": 1794901067,
  "library_songs": 1536,
  "total": 890,
  "done": 232,
@@ -91,8 +91,18 @@
    "when": "Nov 16 17:34"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "dcg brothers dcg shun dcg bsavv moneysign suede get money feat moneysign suede"
+ ],
  "in_progress": [
+  {
+   "slug": "dcg-brothers-dcg-shun-dcg-bsavv-moneysign-suede-get-money-feat-moneysign-suede",
+   "title": "Get Money (feat. MoneySign Suede)",
+   "artist": "DCG BROTHERS, DCG Shun, DCG Bsavv, MoneySign Suede",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 03:43"
+  },
   {
    "slug": "mg-sleepy-a-out",
    "title": "A$$ Out",
@@ -204,14 +214,6 @@
    "tier": "Rest of playlist",
    "stage": "Fix in progress",
    "detail": "Re-checking specific lines against the audio"
-  },
-  {
-   "slug": "rio-da-yung-og-grindhard-e-rmc-mike-alot-to-say",
-   "title": "Alot To Say",
-   "artist": "Rio Da Yung Og, GrindHard E, Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Transcription paused",
-   "detail": "1 of 3 passes in \u2014 more transcription queued"
   }
  ]
 }
