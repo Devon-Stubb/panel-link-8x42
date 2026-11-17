@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-16 19:00 CST",
- "updated_epoch": 1794877259,
- "library_songs": 1523,
+ "updated": "2026-11-16 19:05 CST",
+ "updated_epoch": 1794877554,
+ "library_songs": 1524,
  "total": 890,
- "done": 219,
- "open": 671,
+ "done": 220,
+ "open": 670,
  "by_status": {
   "no_lyrics_yet": 386,
   "has_lyrics_needs_sync": 203,
-  "transcribing": 51,
+  "transcribing": 50,
   "blocked_on_audio": 31
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 135,
-   "open": 535
+   "done": 136,
+   "open": 534
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "krispylife-kidd-rmc-mike-gall-dept",
+   "when": "Nov 16 19:01"
+  },
   {
    "slug": "realrichizzo-whoop-dat",
    "when": "Nov 16 17:34"
@@ -85,14 +89,20 @@
   {
    "slug": "mg-sleepy-5-pockets",
    "when": "Nov 15 23:22"
-  },
-  {
-   "slug": "mg-sleepy-poppin-my-collar",
-   "when": "Nov 15 22:51"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "juice wrld codeine cobain 1 00"
+ ],
  "in_progress": [
+  {
+   "slug": "juice-wrld-codeine-cobain-1-00",
+   "title": "Codeine Cobain (1:00)",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 01:48"
+  },
   {
    "slug": "mcn-music-rmc-mike-100-blues",
    "title": "100 Blues",
@@ -113,14 +123,6 @@
    "slug": "ysr-gramz-enrgy-beats-rmc-mike-baglife-tee-cant-be-stopped",
    "title": "Cant Be Stopped",
    "artist": "Ysr Gramz, Enrgy Beats, Rmc Mike, Baglife Tee",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "krispylife-kidd-rmc-mike-gall-dept",
-   "title": "Gall Dept",
-   "artist": "KrispyLife Kidd, Rmc Mike",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
