@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-17T20:35:04Z",
- "count": 1563,
+ "generated_at": "2026-11-17T23:19:21Z",
+ "count": 1564,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -2934,6 +2934,13 @@
    "file": "greenlightt-jdot-breezy-what-i-m-on.lrc",
    "kind": "synced",
    "sha": "3974bf812e309a031dafe41a4abb311bad5579a32ee4d8ddaede129e523d69cf"
+  },
+  {
+   "title": "Abolished",
+   "artist": "GrindHard E",
+   "file": "grindhard-e-abolished.lrc",
+   "kind": "synced",
+   "sha": "0a27a4143b9df4167e38ff1e5969fd974613988e8ed28e27c231db881a040838"
   },
   {
    "title": "Hardly Breathe",
