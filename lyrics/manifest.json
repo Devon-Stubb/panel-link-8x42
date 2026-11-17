@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-16T19:11:21Z",
- "count": 1513,
+ "generated_at": "2026-11-17T09:24:01Z",
+ "count": 1536,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -2467,6 +2467,13 @@
    "sha": "25ee227c18c912c2fd8872317a001f9042544f9a03eef1fb714ef19be428df53"
   },
   {
+   "title": "Sticks",
+   "artist": "Fonzo 6700",
+   "file": "fonzo-6700-sticks.lrc",
+   "kind": "synced",
+   "sha": "eed6f795c692c675366ab19df83244d4771510cd183173a8dda486a191b9c439"
+  },
+  {
    "title": "Maserati (feat. YNW Melly)",
    "artist": "Foolie, YNW Melly",
    "file": "foolie-maserati.lrc",
@@ -3426,6 +3433,13 @@
    "sha": "11ea1327073febd8412fa044228f09271ce72c93c2ae72ce17eab455d77660c9"
   },
   {
+   "title": "Codeine Cobain (1:00)",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-codeine-cobain-1-00.lrc",
+   "kind": "synced",
+   "sha": "14aa7081f2c9a6438c1ec43356073fcde5e8829c112e8aacb32678a1b48baef0"
+  },
+  {
    "title": "Conversations",
    "artist": "Juice WRLD",
    "file": "juice-wrld-conversations.lrc",
@@ -3447,6 +3461,27 @@
    "sha": "15ed9c2f79a24f795c3c8e50df8ba15c67027f8f646f2e9a9cce4a2b0f0e4c9d"
   },
   {
+   "title": "Cutting It Too Close",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-cutting-it-too-close.lrc",
+   "kind": "synced",
+   "sha": "bfaaacbc1e45be95ea3e7e1303ac25c1e4b76be050902e62b338d4f024905d75"
+  },
+  {
+   "title": "Dark Side",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-dark-side.lrc",
+   "kind": "synced",
+   "sha": "55c4630d73f0ba95249f46d09815a764f2089cc0e55fb07edd23aabeb037071d"
+  },
+  {
+   "title": "Deja Vu",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-deja-vu.lrc",
+   "kind": "synced",
+   "sha": "63de274d4c897e1b5543cb7b35cbb487ff791837330570b9af5a2603a18ff7b2"
+  },
+  {
    "title": "Demon Girl",
    "artist": "Juice WRLD",
    "file": "juice-wrld-demon-girl.lrc",
@@ -3466,6 +3501,13 @@
    "file": "juice-wrld-dont-forget-me1-4.lrc",
    "kind": "synced",
    "sha": "d2f6c80635b9f0e9d05acd5c1c901ee1ebe133d9f116c4abad7ddc5748e40472"
+  },
+  {
+   "title": "Down Bad (Prod.SBeatz)",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-down-bad-prod-sbeatz.lrc",
+   "kind": "synced",
+   "sha": "7dedd99dc27606838d9c5025700a3da929751de1de5aa53a3aa536d3a9aad958"
   },
   {
    "title": "Empty Out Your Pockets",
@@ -3601,6 +3643,13 @@
    "sha": "748201659a6dfe22af2e462c7ae61e48cea58b246e302c45f5501c9a0264ed99"
   },
   {
+   "title": "Lovely (Remix) (ft. Juice WRLD, Khalid)",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-lovely-remix-ft-juice-wrld-khalid.lrc",
+   "kind": "synced",
+   "sha": "e5e91009906d7b6738caefcb3e122f4badec9a4b3a5da1a520a174512b7128e5"
+  },
+  {
    "title": "Make Believe",
    "artist": "Juice WRLD",
    "file": "juice-wrld-make-believe.lrc",
@@ -3613,6 +3662,13 @@
    "file": "juice-wrld-make-it-back.lrc",
    "kind": "synced",
    "sha": "e0b14bdec83a3a227fa326757b8d8c5558b31300c7ec4759a5df94855d684fb1"
+  },
+  {
+   "title": "Monsters In My Basement",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-monsters-in-my-basement.lrc",
+   "kind": "synced",
+   "sha": "e8ad214b587297f9888bd345b15aa3e031e0ae676a793e603160cfc81e542ff8"
   },
   {
    "title": "My Fault </3 [prod. nick mira]",
@@ -3767,6 +3823,13 @@
    "file": "juice-wrld-the-way.lrc",
    "kind": "synced",
    "sha": "d10bc8ed953bbfbffd72c689c22f7d968148ff19913abf7c49ce70dbc7e52918"
+  },
+  {
+   "title": "Tropical Storm",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-tropical-storm.lrc",
+   "kind": "synced",
+   "sha": "3cc1372c01087d67ca63b54199ac5ecb82076af46a2f604b2b2cc62e143983da"
   },
   {
    "title": "Until The Plug Comes Back Around",
@@ -4315,6 +4378,13 @@
    "sha": "416686b0dbae5f5e5a62f59c8a78afdaa1f805602959f73d5265de54ea5dad8d"
   },
   {
+   "title": "On 2 Sum",
+   "artist": "KrispyLife Kidd, Grindhard E",
+   "file": "krispylife-kidd-grindhard-e-on-2-sum.lrc",
+   "kind": "synced",
+   "sha": "97b799f0c2934daec7376a3f1a09403023de79f0d0e92b73c92344f464d7173a"
+  },
+  {
    "title": "Ham Behavior",
    "artist": "KrispyLife Kidd",
    "file": "krispylife-kidd-ham-behavior.lrc",
@@ -4327,6 +4397,13 @@
    "file": "krispylife-kidd-hooty-hoo.txt",
    "kind": "plain",
    "sha": "67603e84553aa30b0151382d5e7e2fcb5027b0a66d7fc20e4c9baca1d8981f4f"
+  },
+  {
+   "title": "I Was Done",
+   "artist": "KrispyLife Kidd",
+   "file": "krispylife-kidd-i-was-done.lrc",
+   "kind": "synced",
+   "sha": "01f55275c8961c3e975ec526af09b68f8d0b536ee9f93d86c81fd161e15ad82f"
   },
   {
    "title": "Inna Bag (feat. Lil Yachty, Rio Da Young Og & Rmc Mike) [Remix]",
@@ -4350,11 +4427,25 @@
    "sha": "23c97dcecbd5650c2cc746ea91d1491c4b77df5d12666261e5665a482911c461"
   },
   {
+   "title": "Mann",
+   "artist": "KrispyLife Kidd",
+   "file": "krispylife-kidd-mann.lrc",
+   "kind": "synced",
+   "sha": "8b2bff009decbe0c9ab5d12a199f9f63a3835db93f0dc3f9da97a068fc842925"
+  },
+  {
    "title": "96 Bulls",
    "artist": "KrispyLife Kidd, Rio Da Yung Og",
    "file": "krispylife-kidd-rio-da-yung-og-96-bulls.lrc",
    "kind": "synced",
    "sha": "91d756b5bee46e0d6f045879abd61d4da0121699a7b3f8de44c4825c663b72c2"
+  },
+  {
+   "title": "Gall Dept",
+   "artist": "KrispyLife Kidd, Rmc Mike",
+   "file": "krispylife-kidd-rmc-mike-gall-dept.lrc",
+   "kind": "synced",
+   "sha": "1945957a3231560fe70377797338223f29d53f9dd4040f68bd74444d2934d025"
   },
   {
    "title": "Run That Down",
@@ -5967,6 +6058,13 @@
    "sha": "5989d23bd5fd29444b221497a12f6c1ac18e41540272404482bac7353c56cf68"
   },
   {
+   "title": "100 Blues",
+   "artist": "MCN Music, Rmc Mike",
+   "file": "mcn-music-rmc-mike-100-blues.lrc",
+   "kind": "synced",
+   "sha": "4909ac77f884697c08882c67c9a51d5da3f7d5999a93a3d61172cf939dcbc237"
+  },
+  {
    "title": "Blue Notes 2 (feat. Lil Uzi Vert)",
    "artist": "Meek Mill, Lil Uzi Vert",
    "file": "meek-mill-blue-notes-2.lrc",
@@ -6051,6 +6149,13 @@
    "sha": "81d22603f9ebe087017d98021efc47f4004b8f3e3a54710e472cd576ffcaa284"
   },
   {
+   "title": "A$$ Out",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-a-out.lrc",
+   "kind": "synced",
+   "sha": "0d556127a6c1195a6c3798f0cfb63ef9b1a898334172e901f42bd5263f07d187"
+  },
+  {
    "title": "All Chrome",
    "artist": "Mg Sleepy",
    "file": "mg-sleepy-all-chrome.lrc",
@@ -6119,6 +6224,13 @@
    "file": "mg-sleepy-lob-city.lrc",
    "kind": "synced",
    "sha": "155a24ba47b958c3265e51af4889f1d817b5d731d89a10dd781395d939d4b6d6"
+  },
+  {
+   "title": "Paint The Town Red",
+   "artist": "Mg Sleepy, Myaap",
+   "file": "mg-sleepy-myaap-paint-the-town-red.lrc",
+   "kind": "synced",
+   "sha": "385c2aa0f419a71baacab6fdff6035d42b95ea59edb8aa35c9a142a638bfde73"
   },
   {
    "title": "Ohio's Most Wanted",
@@ -7808,6 +7920,13 @@
    "sha": "abd42b71a09d63a124680ebde3de6266e6255fdc2d800d7deea13b191fd5dd14"
   },
   {
+   "title": "Whoop Dat",
+   "artist": "RealRichIzzo",
+   "file": "realrichizzo-whoop-dat.lrc",
+   "kind": "synced",
+   "sha": "82c5fda3a769d9dc1eaf643b5fc78ca1660d79b6c295aad500423bbb55c9008a"
+  },
+  {
    "title": "Nose Ring",
    "artist": "Resentvul",
    "file": "resentvul-nose-ring.lrc",
@@ -8163,6 +8282,13 @@
    "file": "rmc-mike-elegant.lrc",
    "kind": "synced",
    "sha": "bac9437e9d7d2b5c88fb48561099c2250be7c34f06fd6d3125e23465f7b6d217"
+  },
+  {
+   "title": "Love Live Dee",
+   "artist": "Rmc Mike",
+   "file": "rmc-mike-love-live-dee.lrc",
+   "kind": "synced",
+   "sha": "c8caf581b4ef0c997cbae381170b3f108d7fe57177a38c76c6fd5e49c2dece19"
   },
   {
    "title": "Paranoid",
@@ -10524,6 +10650,20 @@
    "sha": "c2c85b17358357092268df8d3f5c0f9234f5f9c5ef9c4c77149fefb606d61812"
   },
   {
+   "title": "Cant Be Stopped",
+   "artist": "Ysr Gramz, Enrgy Beats, Rmc Mike, Baglife Tee",
+   "file": "ysr-gramz-enrgy-beats-rmc-mike-baglife-tee-cant-be-stopped.lrc",
+   "kind": "synced",
+   "sha": "8e6a35657939ca0492276d152f3dd72a026e6412c85e4b98bd5c1bfc2a9164e5"
+  },
+  {
+   "title": "Bakin Fish",
+   "artist": "Ysr Gramz, Enrgy Beats, Scatz, KrispyLife Kidd",
+   "file": "ysr-gramz-enrgy-beats-scatz-krispylife-kidd-bakin-fish.lrc",
+   "kind": "synced",
+   "sha": "c0f2041ec627945bb19b38994d9ab481e50164d30c0152f975f15262ead7444d"
+  },
+  {
    "title": "Hooty Hoo",
    "artist": "Ysr Gramz, KrispyLife Kidd",
    "file": "ysr-gramz-hooty-hoo.txt",
@@ -10538,11 +10678,25 @@
    "sha": "c88201028041e38848c9b256d6a1d1a566fe849bc31a4d9ae570c239b94fa7aa"
   },
   {
+   "title": "Promoting Violence",
+   "artist": "Ysr Gramz, KrispyLife Kidd, GlockBoy Tez",
+   "file": "ysr-gramz-krispylife-kidd-glockboy-tez-promoting-violence.lrc",
+   "kind": "synced",
+   "sha": "d19ebad3e0e0e4cd0742f81fd6419683e37d198e61e390c2402137b30412bd95"
+  },
+  {
    "title": "Rap About Violence",
    "artist": "Ysr Gramz, KrispyLife Kidd",
    "file": "ysr-gramz-krispylife-kidd-rap-about-violence.lrc",
    "kind": "synced",
    "sha": "eb72e7dd9dff1571f69a6fc5e7f9f7cc40278c2054390790312cdd5f44951fe5"
+  },
+  {
+   "title": "Welcome to Lebeau City",
+   "artist": "Ysr Gramz, KrispyLife Kidd",
+   "file": "ysr-gramz-krispylife-kidd-welcome-to-lebeau-city.lrc",
+   "kind": "synced",
+   "sha": "cd74d0a733ceb42c9aef94595e6b8a1d1aaacbe2055bab260839bf88f84c4b8d"
   },
   {
    "title": "Street Fighter",
@@ -10592,6 +10746,13 @@
    "file": "yusmb-rio-da-yung-og-flintiac.lrc",
    "kind": "synced",
    "sha": "fd5059f15031bf546e3c061d712a00c65cc7ac7d3a31e34e94006b78adaa7696"
+  },
+  {
+   "title": "Same Day Out",
+   "artist": "YUSMB, Rio Da Yung Og",
+   "file": "yusmb-rio-da-yung-og-same-day-out.lrc",
+   "kind": "synced",
+   "sha": "23a673c8671f27b45b84102dfeee9c9e5085793f3c07f5af1ed56f890768523c"
   }
  ]
 }
