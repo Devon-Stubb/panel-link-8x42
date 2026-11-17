@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17 02:35 CST",
- "updated_epoch": 1794904545,
+ "updated": "2026-11-17 02:43 CST",
+ "updated_epoch": 1794905013,
  "library_songs": 1539,
  "total": 890,
  "done": 235,
@@ -92,18 +92,9 @@
   }
  ],
  "transcribing_now": [
-  "dee mula quit cappin",
-  "mg sleepy a out"
+  "fonzo 6700 sticks"
  ],
  "in_progress": [
-  {
-   "slug": "dee-mula-quit-cappin",
-   "title": "Quit Cappin",
-   "artist": "Dee Mula",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 02:30"
-  },
   {
    "slug": "dee-mula-38118",
    "title": "38118",
@@ -215,6 +206,14 @@
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
    "detail": "1 of 3 passes in \u2014 more transcription queued"
+  },
+  {
+   "slug": "juice-wrld-boss-of-me",
+   "title": "Boss Of Me",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Transcription paused",
+   "detail": "2 of 3 passes in \u2014 more transcription queued"
   }
  ]
 }
