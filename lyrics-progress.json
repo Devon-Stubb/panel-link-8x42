@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-16 16:23 CST",
- "updated_epoch": 1794867819,
- "library_songs": 1519,
+ "updated": "2026-11-16 18:49 CST",
+ "updated_epoch": 1794876561,
+ "library_songs": 1523,
  "total": 890,
- "done": 215,
- "open": 675,
+ "done": 219,
+ "open": 671,
  "by_status": {
   "no_lyrics_yet": 386,
   "has_lyrics_needs_sync": 203,
-  "transcribing": 55,
+  "transcribing": 51,
   "blocked_on_audio": 31
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 131,
-   "open": 539
+   "done": 135,
+   "open": 535
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,22 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "realrichizzo-whoop-dat",
+   "when": "Nov 16 17:34"
+  },
+  {
+   "slug": "rmc-mike-love-live-dee",
+   "when": "Nov 16 17:11"
+  },
+  {
+   "slug": "ysr-gramz-krispylife-kidd-glockboy-tez-promoting-violence",
+   "when": "Nov 16 16:58"
+  },
+  {
+   "slug": "ysr-gramz-krispylife-kidd-welcome-to-lebeau-city",
+   "when": "Nov 16 16:32"
+  },
   {
    "slug": "babyru78-no-ring",
    "when": "Nov 16 12:51"
@@ -73,56 +89,65 @@
   {
    "slug": "mg-sleepy-poppin-my-collar",
    "when": "Nov 15 22:51"
-  },
-  {
-   "slug": "vampviolence-ghost-ride",
-   "when": "Nov 15 22:38"
-  },
-  {
-   "slug": "mg-sleepy-liltae2-good-friday",
-   "when": "Nov 15 21:30"
-  },
-  {
-   "slug": "mg-sleepy-tse-e2-jay-juice-black-cursive",
-   "when": "Nov 15 20:09"
-  },
-  {
-   "slug": "mg-sleepy-j-reed",
-   "when": "Nov 15 20:09"
   }
  ],
  "transcribing_now": [
-  "ysr gramz krispylife kidd welcome to lebeau city"
+  "krispylife kidd i was done",
+  "krispylife kidd rmc mike gall dept"
  ],
  "in_progress": [
   {
-   "slug": "rmc-mike-love-live-dee",
-   "title": "Love Live Dee",
-   "artist": "Rmc Mike",
+   "slug": "krispylife-kidd-i-was-done",
+   "title": "I Was Done",
+   "artist": "KrispyLife Kidd",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 12:47"
+  },
+  {
+   "slug": "mcn-music-rmc-mike-100-blues",
+   "title": "100 Blues",
+   "artist": "MCN Music, Rmc Mike",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "ysr-gramz-krispylife-kidd-glockboy-tez-promoting-violence",
-   "title": "Promoting Violence",
-   "artist": "Ysr Gramz, KrispyLife Kidd, GlockBoy Tez",
+   "slug": "ysr-gramz-enrgy-beats-scatz-krispylife-kidd-bakin-fish",
+   "title": "Bakin Fish",
+   "artist": "Ysr Gramz, Enrgy Beats, Scatz, KrispyLife Kidd",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "ysr-gramz-krispylife-kidd-welcome-to-lebeau-city",
-   "title": "Welcome to Lebeau City",
-   "artist": "Ysr Gramz, KrispyLife Kidd",
+   "slug": "ysr-gramz-enrgy-beats-rmc-mike-baglife-tee-cant-be-stopped",
+   "title": "Cant Be Stopped",
+   "artist": "Ysr Gramz, Enrgy Beats, Rmc Mike, Baglife Tee",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "realrichizzo-whoop-dat",
-   "title": "Whoop Dat",
-   "artist": "RealRichIzzo",
+   "slug": "krispylife-kidd-rmc-mike-gall-dept",
+   "title": "Gall Dept",
+   "artist": "KrispyLife Kidd, Rmc Mike",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "krispylife-kidd-grindhard-e-on-2-sum",
+   "title": "On 2 Sum",
+   "artist": "KrispyLife Kidd, Grindhard E",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "yusmb-rio-da-yung-og-same-day-out",
+   "title": "Same Day Out",
+   "artist": "YUSMB, Rio Da Yung Og",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -134,6 +159,14 @@
    "tier": "Rest of playlist",
    "stage": "Fix in progress",
    "detail": "Re-checking specific lines against the audio"
+  },
+  {
+   "slug": "rio-da-yung-og-grindhard-e-rmc-mike-alot-to-say",
+   "title": "Alot To Say",
+   "artist": "Rio Da Yung Og, GrindHard E, Rmc Mike",
+   "tier": "Rest of playlist",
+   "stage": "Transcription paused",
+   "detail": "1 of 3 passes in \u2014 more transcription queued"
   },
   {
    "slug": "juice-wrld-denial-3-demo",
