@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16 22:46 CST",
- "updated_epoch": 1794890801,
+ "updated": "2026-11-16 23:07 CST",
+ "updated_epoch": 1794892078,
  "library_songs": 1530,
  "total": 890,
  "done": 226,
@@ -91,19 +91,8 @@
    "when": "Nov 16 05:18"
   }
  ],
- "transcribing_now": [
-  "jdot breezy dope slangin",
-  "juice wrld codeine cobain 1 00"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "jdot-breezy-dope-slangin",
-   "title": "Dope Slangin",
-   "artist": "Jdot Breezy",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 00:05"
-  },
   {
    "slug": "juice-wrld-codeine-cobain-1-00",
    "title": "Codeine Cobain (1:00)",
@@ -212,6 +201,14 @@
    "slug": "juice-wrld-denial-3-demo",
    "title": "DENIAL </3 (demo)",
    "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Transcription paused",
+   "detail": "1 of 3 passes in \u2014 more transcription queued"
+  },
+  {
+   "slug": "jdot-breezy-dope-slangin",
+   "title": "Dope Slangin",
+   "artist": "Jdot Breezy",
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
    "detail": "1 of 3 passes in \u2014 more transcription queued"
