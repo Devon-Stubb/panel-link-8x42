@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-17 02:45 CST",
- "updated_epoch": 1794905157,
- "library_songs": 1539,
+ "updated": "2026-11-17 03:15 CST",
+ "updated_epoch": 1794906920,
+ "library_songs": 1542,
  "total": 890,
- "done": 235,
- "open": 655,
+ "done": 238,
+ "open": 652,
  "by_status": {
   "no_lyrics_yet": 386,
   "has_lyrics_needs_sync": 203,
-  "transcribing": 35,
+  "transcribing": 32,
   "blocked_on_audio": 31
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 151,
-   "open": 519
+   "done": 154,
+   "open": 516
   },
   "TopOppGen": {
    "done": 50,
@@ -34,6 +34,18 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "mg-sleepy-a-out",
+   "when": "Nov 17 02:57"
+  },
+  {
+   "slug": "mg-sleepy-myaap-paint-the-town-red",
+   "when": "Nov 17 02:57"
+  },
+  {
+   "slug": "fonzo-6700-sticks",
+   "when": "Nov 17 02:57"
+  },
   {
    "slug": "krispylife-kidd-mann",
    "when": "Nov 17 02:16"
@@ -77,36 +89,14 @@
   {
    "slug": "yusmb-rio-da-yung-og-same-day-out",
    "when": "Nov 16 20:45"
-  },
-  {
-   "slug": "mcn-music-rmc-mike-100-blues",
-   "when": "Nov 16 20:33"
-  },
-  {
-   "slug": "ysr-gramz-enrgy-beats-scatz-krispylife-kidd-bakin-fish",
-   "when": "Nov 16 20:22"
-  },
-  {
-   "slug": "ysr-gramz-enrgy-beats-rmc-mike-baglife-tee-cant-be-stopped",
-   "when": "Nov 16 19:20"
   }
  ],
- "transcribing_now": [
-  "mg sleepy a out"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
    "slug": "dee-mula-38118",
    "title": "38118",
    "artist": "Dee Mula",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "mg-sleepy-a-out",
-   "title": "A$$ Out",
-   "artist": "Mg Sleepy",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -168,9 +158,9 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "mg-sleepy-myaap-paint-the-town-red",
-   "title": "Paint The Town Red",
-   "artist": "Mg Sleepy, Myaap",
+   "slug": "dee-mula-quit-cappin",
+   "title": "Quit Cappin",
+   "artist": "Dee Mula",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -184,9 +174,9 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "fonzo-6700-sticks",
-   "title": "Sticks",
-   "artist": "Fonzo 6700",
+   "slug": "krispylife-kidd-webbie-life",
+   "title": "Webbie Life",
+   "artist": "KrispyLife Kidd",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -214,6 +204,14 @@
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
    "detail": "2 of 3 passes in \u2014 more transcription queued"
+  },
+  {
+   "slug": "juice-wrld-denial-3-demo",
+   "title": "DENIAL </3 (demo)",
+   "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Transcription paused",
+   "detail": "1 of 3 passes in \u2014 more transcription queued"
   }
  ]
 }
