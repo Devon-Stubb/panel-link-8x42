@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17 11:29 CST",
- "updated_epoch": 1794936560,
+ "updated": "2026-11-17 11:42 CST",
+ "updated_epoch": 1794937350,
  "library_songs": 1561,
  "total": 891,
  "done": 257,
@@ -91,7 +91,9 @@
    "when": "Nov 17 06:56"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "bak jay double"
+ ],
  "in_progress": [
   {
    "slug": "topoppgen-to-me-she-a-10",
