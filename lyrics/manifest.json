@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-17T09:24:01Z",
- "count": 1536,
+ "generated_at": "2026-11-17T20:35:04Z",
+ "count": 1563,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -239,6 +239,13 @@
    "file": "414bigfrank-eat-her-up.lrc",
    "kind": "synced",
    "sha": "55bdf9fda401dcdac56e5328c95b590fac8210d72da63ef781e358511ff8097c"
+  },
+  {
+   "title": "Oh Shi",
+   "artist": "414bigfrank",
+   "file": "414bigfrank-oh-shi.lrc",
+   "kind": "synced",
+   "sha": "775f9052fcbf7114287053d5cccc286e5ff6f4f2b9b2e91c7fb82b43812943af"
   },
   {
    "title": "4 Da Gang (with Roddy Ricch)",
@@ -682,6 +689,13 @@
    "sha": "34a4dc475c7af4575e8586a4599bf3c8de2660aae7944a476fbde847d969a048"
   },
   {
+   "title": "57 B!TCHES",
+   "artist": "B7!",
+   "file": "b7-57-b-tches.lrc",
+   "kind": "synced",
+   "sha": "f33854cc820a949ab2fc24483b5282707a7b868e8fbef7f0201d74364d792fcc"
+  },
+  {
    "title": "Cyclone (feat. T-Pain) - Main",
    "artist": "Baby Bash, T-Pain",
    "file": "baby-bash-cyclone.lrc",
@@ -962,6 +976,20 @@
    "sha": "e290eb1c43072d185c03c3ea117d0608924ada197c1fa7f8a2ae6500a8e88b89"
   },
   {
+   "title": "Skip Town",
+   "artist": "BabyRu78",
+   "file": "babyru78-skip-town.lrc",
+   "kind": "synced",
+   "sha": "68f87f934874b63a75d12377b0ce9c827f099e65e568588ac81d2a059711c905"
+  },
+  {
+   "title": "Sum Bout U",
+   "artist": "BabyRu78",
+   "file": "babyru78-sum-bout-u.lrc",
+   "kind": "synced",
+   "sha": "d12be726a07dd7103481a3afe3141ac479a9f8168aa6a15b054abf9341f9239f"
+  },
+  {
    "title": "Who Tf is GetEmGone",
    "artist": "BabyRu78",
    "file": "babyru78-who-tf-is-getemgone.lrc",
@@ -1093,6 +1121,13 @@
    "file": "bak-jay-d-to-da-murda.txt",
    "kind": "plain",
    "sha": "4c99d0d8792979739a4585712ab6fff8346d91da92fe654f0ac60fc30db37d96"
+  },
+  {
+   "title": "Double",
+   "artist": "BAK Jay",
+   "file": "bak-jay-double.lrc",
+   "kind": "synced",
+   "sha": "3f8011d849e394fc275a9fd34c727fef9a702a9dcd8f185150e7b3ace49e0f04"
   },
   {
    "title": "Drive Da Boat (feat. BabyChiefDoit)",
@@ -1457,6 +1492,13 @@
    "file": "bigxthaplug-texas.txt",
    "kind": "plain",
    "sha": "8f16e540daf434dac8c566b10b06d0804b386865ad8d29298f08a2f5135acda7"
+  },
+  {
+   "title": "OD",
+   "artist": "biz",
+   "file": "biz-od.lrc",
+   "kind": "synced",
+   "sha": "60b4b7c0ab1ca191e05faaa4ace2086cf64824a532e38ee7d0f65ff10dbc5fd3"
   },
   {
    "title": "SANTANNY",
@@ -1991,6 +2033,20 @@
    "sha": "ff1f5f1a2351814e2bcad89f4a1dda03f2b4cd63edb793c1936b147dc86a4716"
   },
   {
+   "title": "Get Money (feat. MoneySign Suede)",
+   "artist": "DCG BROTHERS, DCG Shun, DCG Bsavv, MoneySign Suede",
+   "file": "dcg-brothers-dcg-shun-dcg-bsavv-moneysign-suede-get-money-feat-moneysign-suede.lrc",
+   "kind": "synced",
+   "sha": "f5815bce34d86b0a31f3fa7d29a43e5303727f8be885bfc4b3f55689149bcdc8"
+  },
+  {
+   "title": "Bounce Out",
+   "artist": "DCG BROTHERS, Screwly G",
+   "file": "dcg-brothers-screwly-g-bounce-out.lrc",
+   "kind": "synced",
+   "sha": "dcf4eb684b8035ba74d0e4a9b181dfd5cd605474c64e33d61ca8cdd1d2e0443b"
+  },
+  {
    "title": "And Is (feat. Skilla Baby)",
    "artist": "DCG BROTHERS, Skilla Baby",
    "file": "dcg-brothers-skilla-baby-and-is-feat-skilla-baby.lrc",
@@ -2033,6 +2089,13 @@
    "sha": "ac8f4ef1252ac1c9590868f398454a5b37ee89026add6837f7a9e1e37d4bf14d"
   },
   {
+   "title": "38118",
+   "artist": "Dee Mula",
+   "file": "dee-mula-38118.lrc",
+   "kind": "synced",
+   "sha": "f772381f904de80887ef8d3b9e6212b8e9e58f2e7802c7013df179b81a6d876f"
+  },
+  {
    "title": "Blow My High",
    "artist": "Dee Mula",
    "file": "dee-mula-blow-my-high.lrc",
@@ -2066,6 +2129,13 @@
    "file": "dee-mula-mula-franklin.txt",
    "kind": "plain",
    "sha": "f9514fbde55005e38365710be38d472020abeda74a737276c0b10e44036bc039"
+  },
+  {
+   "title": "Quit Cappin",
+   "artist": "Dee Mula",
+   "file": "dee-mula-quit-cappin.lrc",
+   "kind": "synced",
+   "sha": "ba4f556adbe34cd92978cce99bfba60860501069f00a1b2b95da60b3daf1ec28"
   },
   {
    "title": "Str8 On Ha",
@@ -2691,11 +2761,25 @@
    "sha": "29b33b62d2e8fe5c049b46bdca9e52228639f0fe75ec453a8b5e56d6f0596cbf"
   },
   {
+   "title": "OPPS CAN'T MAKE A DISS",
+   "artist": "FWC Big Key",
+   "file": "fwc-big-key-opps-can-t-make-a-diss.lrc",
+   "kind": "synced",
+   "sha": "57d90f3e791b111a51f0bf57b6ba4ab2cab062bb4831206fc6dc4e3447f6103b"
+  },
+  {
    "title": "Pressure",
    "artist": "FWC Big Key, Rio Da Yung Og",
    "file": "fwc-big-key-pressure.lrc",
    "kind": "synced",
    "sha": "73f8b3e45d657e99274ced42b5c172c62e006eb0d2ef25726d4311b1f7f9bd96"
+  },
+  {
+   "title": "FBG (feat. RealRichIzzo)",
+   "artist": "FWC Big Key, RealRichIzzo",
+   "file": "fwc-big-key-realrichizzo-fbg-feat-realrichizzo.lrc",
+   "kind": "synced",
+   "sha": "0ed9e1865b88ae330e653000658648d5f4b1daaabe913958efeb19a40263b278"
   },
   {
    "title": "Wife Beater",
@@ -4371,6 +4455,13 @@
    "sha": "bd2c3f875c8353953bf99bb10de13ac6965f8e06cb84b7f6f7d4d1d119f11095"
   },
   {
+   "title": "Forreal Forreal",
+   "artist": "KrispyLife Kidd",
+   "file": "krispylife-kidd-forreal-forreal.lrc",
+   "kind": "synced",
+   "sha": "68ddc81cff809c2eb27eb0d09dd8b439779e0c4662eb5c4ec5fe5e74fc5b4ea7"
+  },
+  {
    "title": "Genre of Spice Talk",
    "artist": "KrispyLife Kidd, Rmc Mike",
    "file": "krispylife-kidd-genre-of-spice-talk.lrc",
@@ -4383,6 +4474,13 @@
    "file": "krispylife-kidd-grindhard-e-on-2-sum.lrc",
    "kind": "synced",
    "sha": "97b799f0c2934daec7376a3f1a09403023de79f0d0e92b73c92344f464d7173a"
+  },
+  {
+   "title": "Gucci Jogger",
+   "artist": "KrispyLife Kidd",
+   "file": "krispylife-kidd-gucci-jogger.lrc",
+   "kind": "synced",
+   "sha": "0de520f207a9b7e571064075691b75c892b1f7a6ee01b1ee32fec9a11b779990"
   },
   {
    "title": "Ham Behavior",
@@ -4448,6 +4546,13 @@
    "sha": "1945957a3231560fe70377797338223f29d53f9dd4040f68bd74444d2934d025"
   },
   {
+   "title": "Just Talking",
+   "artist": "KrispyLife Kidd, Rmc Mike, Icewear Vezzo, Babyfxce E, Ysr Gramz",
+   "file": "krispylife-kidd-rmc-mike-icewear-vezzo-babyfxce-e-ysr-gramz-just-talking.lrc",
+   "kind": "synced",
+   "sha": "a2ae88ae4d446acbf9494ef42415768a8321ce2e870e613e8bad2ee6e88d53f5"
+  },
+  {
    "title": "Run That Down",
    "artist": "KrispyLife Kidd",
    "file": "krispylife-kidd-run-that-down.lrc",
@@ -4460,6 +4565,13 @@
    "file": "krispylife-kidd-sweepstakes.lrc",
    "kind": "synced",
    "sha": "17f262030c57e613b7d92eabf3d70e30608ed5e18047f8da903d447ee32a23dc"
+  },
+  {
+   "title": "Webbie Life",
+   "artist": "KrispyLife Kidd",
+   "file": "krispylife-kidd-webbie-life.lrc",
+   "kind": "synced",
+   "sha": "8e401ee18d9e814e12b2ed6701937f088438b66716e19432844833a6317d13c6"
   },
   {
    "title": "Who at the Door",
@@ -6009,6 +6121,13 @@
    "sha": "8df9537eb270c430409256d6f9d4ce77ea1c1e330c49e88aea3380ef3cdc89c8"
   },
   {
+   "title": "Free Kd",
+   "artist": "MAF Teeski",
+   "file": "maf-teeski-free-kd.lrc",
+   "kind": "synced",
+   "sha": "ee142547101de07b650dd45379f9a6040fd6ca7b643cf2ab10d9c7fc28c609db"
+  },
+  {
    "title": "Gucci",
    "artist": "MAF Teeski",
    "file": "maf-teeski-gucci.lrc",
@@ -6170,11 +6289,25 @@
    "sha": "f8c6bb2901495a5dd24dafd409cbdfd5ffd00b6a5d8346828972597981afd62e"
   },
   {
+   "title": "Benihana",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-benihana.lrc",
+   "kind": "synced",
+   "sha": "baeb0246b4d34806ba11ae3634f4bce8d367d4e524b668b618a68fc198a5ff2a"
+  },
+  {
    "title": "Bentayga",
    "artist": "Mg Sleepy",
    "file": "mg-sleepy-bentayga.lrc",
    "kind": "synced",
    "sha": "8fbe907951cf8ff458b21918637af3d014d448a0b73448711f36bd9436d8d78f"
+  },
+  {
+   "title": "Blade Runner",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-blade-runner.lrc",
+   "kind": "synced",
+   "sha": "4b0017f2a7295769e615461047714f654922c2282a7bc465da45ee13e9fb7288"
   },
   {
    "title": "Call My Bluff",
@@ -6196,6 +6329,13 @@
    "file": "mg-sleepy-euphoria.lrc",
    "kind": "synced",
    "sha": "d894f83af5ded435a8cb347cc910d4f673ce3416959e33a34744e08dbcc46540"
+  },
+  {
+   "title": "Fast & Simple",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-fast-simple.lrc",
+   "kind": "synced",
+   "sha": "1dbba871d551d884427975d25723a43e96d1d5686271f957cb762525d70bb1cd"
   },
   {
    "title": "Ghost Gun",
@@ -6224,6 +6364,13 @@
    "file": "mg-sleepy-lob-city.lrc",
    "kind": "synced",
    "sha": "155a24ba47b958c3265e51af4889f1d817b5d731d89a10dd781395d939d4b6d6"
+  },
+  {
+   "title": "Made It Count",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-made-it-count.lrc",
+   "kind": "synced",
+   "sha": "615c6e76b4ecfe1a8589a690efe6e1d59de722ae7d667d7788663736fa2ac95b"
   },
   {
    "title": "Paint The Town Red",
@@ -7155,6 +7302,13 @@
    "file": "only-the-family-turkey-season.lrc",
    "kind": "synced",
    "sha": "14cd05387e71f037d7ab186897c535a466ed37d14023978637767cbf985dd8a4"
+  },
+  {
+   "title": "Codeine Cobain",
+   "artist": "Ookbarm’s Vault",
+   "file": "ookbarm-s-vault-codeine-cobain.lrc",
+   "kind": "synced",
+   "sha": "b991a097f53c7d5d3753252f76b70a009c4cfcd6418435b791d0a3df6df7ef6b"
   },
   {
    "title": "Talking To My Scale",
@@ -8165,6 +8319,13 @@
    "sha": "999054458d6f998a20e57c863c41961ac1e65ab081ec92c65de8b26a084ea240"
   },
   {
+   "title": "Testers (feat. Rmc Mike)",
+   "artist": "Rio Da Yung Og, Rmc Mike",
+   "file": "rio-da-yung-og-rmc-mike-testers-feat-rmc-mike.lrc",
+   "kind": "synced",
+   "sha": "528a699142895dcef7e2f8d0d37389fd7ff993884601039042ba172a7e16ed81"
+  },
+  {
    "title": "S.O.T.B.",
    "artist": "Rio Da Yung Og, Rmc Mike",
    "file": "rio-da-yung-og-s-o-t-b.txt",
@@ -9040,6 +9201,20 @@
    "sha": "131dc72f5d9fab22208508e538ef59f905f016b0068ab665bb9a604605173167"
   },
   {
+   "title": "CHANNEL 9",
+   "artist": "THF LIL LAW",
+   "file": "thf-lil-law-channel-9.lrc",
+   "kind": "synced",
+   "sha": "82758943f477ad1e89dff01a7c3646e20de36d9fb5bded5d33301b77d68491f2"
+  },
+  {
+   "title": "Gervonta Davis",
+   "artist": "THF LIL LAW",
+   "file": "thf-lil-law-gervonta-davis.lrc",
+   "kind": "synced",
+   "sha": "b972a87435a9f68d6538a1c74601d2550c75d571017af97acde038a39b308f3d"
+  },
+  {
    "title": "HEAT UP",
    "artist": "THF LIL LAW",
    "file": "thf-lil-law-heat-up.lrc",
@@ -9488,6 +9663,13 @@
    "sha": "bfb7ff2cff9c9577a222ba0be5deb358b6d8265c7a4788173c3aee90c9860686"
   },
   {
+   "title": "To Me She a 10",
+   "artist": "TopOppGen",
+   "file": "topoppgen-to-me-she-a-10.lrc",
+   "kind": "synced",
+   "sha": "e7eb43c0d685d488541bc1b31ce4da231156e5649013001b9be4f1b34d53dfeb"
+  },
+  {
    "title": "twin towers",
    "artist": "TopOppGen",
    "file": "topoppgen-twin-towers.lrc",
@@ -9549,6 +9731,13 @@
    "file": "trap-dickey-down-south.lrc",
    "kind": "synced",
    "sha": "431df9babd1fe7e55442fee756234a751776c88624f5c839edc54a21bdcb2971"
+  },
+  {
+   "title": "Real Spill (feat. GT)",
+   "artist": "Trapland Pat, GT",
+   "file": "trapland-pat-gt-real-spill-feat-gt.lrc",
+   "kind": "synced",
+   "sha": "dc6ece9d3f0e2055226be8259a63fd9baa398002611629bb34e8453b280527ff"
   },
   {
    "title": "FRANCHISE (feat. Young Thug & M.I.A.)",
