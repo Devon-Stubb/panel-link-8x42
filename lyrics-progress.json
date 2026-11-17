@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16 15:21 CST",
- "updated_epoch": 1794864060,
+ "updated": "2026-11-16 16:23 CST",
+ "updated_epoch": 1794867819,
  "library_songs": 1519,
  "total": 890,
  "done": 215,
@@ -8,7 +8,7 @@
  "by_status": {
   "no_lyrics_yet": 386,
   "has_lyrics_needs_sync": 203,
-  "transcribing": 0,
+  "transcribing": 55,
   "blocked_on_audio": 31
  },
  "tiers": {
@@ -92,16 +92,40 @@
   }
  ],
  "transcribing_now": [
-  "krispylife kidd gucci jogger"
+  "ysr gramz krispylife kidd welcome to lebeau city"
  ],
  "in_progress": [
   {
-   "slug": "krispylife-kidd-gucci-jogger",
-   "title": "Gucci Jogger",
-   "artist": "KrispyLife Kidd",
+   "slug": "rmc-mike-love-live-dee",
+   "title": "Love Live Dee",
+   "artist": "Rmc Mike",
    "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 00:49"
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "ysr-gramz-krispylife-kidd-glockboy-tez-promoting-violence",
+   "title": "Promoting Violence",
+   "artist": "Ysr Gramz, KrispyLife Kidd, GlockBoy Tez",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "ysr-gramz-krispylife-kidd-welcome-to-lebeau-city",
+   "title": "Welcome to Lebeau City",
+   "artist": "Ysr Gramz, KrispyLife Kidd",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "realrichizzo-whoop-dat",
+   "title": "Whoop Dat",
+   "artist": "RealRichIzzo",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
   },
   {
    "slug": "vonoff1700-sbgbrick-stuck-dea",
@@ -123,6 +147,22 @@
    "slug": "juice-wrld-forever",
    "title": "Forever",
    "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Transcription paused",
+   "detail": "1 of 3 passes in \u2014 more transcription queued"
+  },
+  {
+   "slug": "krispylife-kidd-gucci-jogger",
+   "title": "Gucci Jogger",
+   "artist": "KrispyLife Kidd",
+   "tier": "Rest of playlist",
+   "stage": "Transcription paused",
+   "detail": "1 of 3 passes in \u2014 more transcription queued"
+  },
+  {
+   "slug": "rio-da-yung-og-grindhard-e-rmc-mike-lost-a-person",
+   "title": "Lost A Person",
+   "artist": "Rio Da Yung Og, GrindHard E, Rmc Mike",
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
    "detail": "1 of 3 passes in \u2014 more transcription queued"
