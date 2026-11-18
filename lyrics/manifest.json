@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-18T18:14:53Z",
- "count": 1568,
+ "generated_at": "2026-11-18T18:58:59Z",
+ "count": 1571,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -871,6 +871,20 @@
    "sha": "1c6c7c9c776a1d02c584c62e56ff41a8fe9aedbb0e6a1dcae4d5d7f35c4f0750"
   },
   {
+   "title": "Ash Ketchum",
+   "artist": "BabyRu78",
+   "file": "babyru78-ash-ketchum.lrc",
+   "kind": "synced",
+   "sha": "3b806eaa1fc13e888eb3fb3f8751c68a330dc8e315912651840a3c60481f7093"
+  },
+  {
+   "title": "Bad Habit",
+   "artist": "BabyRu78",
+   "file": "babyru78-bad-habit.lrc",
+   "kind": "synced",
+   "sha": "40ceaf8d4ebac42036d4fa429899df8aee6b37d970c6d64021ce7285071db5a4"
+  },
+  {
    "title": "BHOT",
    "artist": "BabyRu78",
    "file": "babyru78-bhot.lrc",
@@ -911,6 +925,13 @@
    "file": "babyru78-jay-montana-krossfire.lrc",
    "kind": "synced",
    "sha": "4fa0752906acb4dc471f3f48978abe09ae9767f130aa3ef3d11cee0b78d528d4"
+  },
+  {
+   "title": "Kung Fu",
+   "artist": "BabyRu78",
+   "file": "babyru78-kung-fu.lrc",
+   "kind": "synced",
+   "sha": "b6950453e520011f35e1fd1f48531899660615bb4ce3309eaddd253c711ae52a"
   },
   {
    "title": "LOVE ME Rumix",
