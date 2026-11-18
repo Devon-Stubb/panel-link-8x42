@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-18 10:18 CST",
- "updated_epoch": 1795018710,
- "library_songs": 1573,
+ "updated": "2026-11-18 12:07 CST",
+ "updated_epoch": 1795025226,
+ "library_songs": 1574,
  "total": 891,
- "done": 269,
- "open": 622,
+ "done": 270,
+ "open": 621,
  "by_status": {
-  "no_lyrics_yet": 375,
+  "no_lyrics_yet": 370,
   "has_lyrics_needs_sync": 206,
-  "transcribing": 8,
+  "transcribing": 12,
   "blocked_on_audio": 33
  },
  "tiers": {
@@ -21,8 +21,8 @@
    "open": 0
   },
   "BabyRu78": {
-   "done": 21,
-   "open": 64
+   "done": 22,
+   "open": 63
   },
   "AZIEDOESNTEXIST": {
    "done": 4,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "babyru78-jay-montana-krossfire",
+   "when": "Nov 18 11:18"
+  },
   {
    "slug": "big-opp-vonoff1700-send-this-bitch-up",
    "when": "Nov 17 20:42"
@@ -85,14 +89,34 @@
   {
    "slug": "biz-od",
    "when": "Nov 17 10:56"
-  },
-  {
-   "slug": "dcg-brothers-screwly-g-bounce-out",
-   "when": "Nov 17 10:56"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
+  {
+   "slug": "babyru78-ash-ketchum",
+   "title": "Ash Ketchum",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babyru78-bad-habit",
+   "title": "Bad Habit",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babyru78-kung-fu",
+   "title": "Kung Fu",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
   {
    "slug": "vonoff1700-sbgbrick-stuck-dea",
    "title": "Stuck Dea",
