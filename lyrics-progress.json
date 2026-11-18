@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-17 18:20 CST",
- "updated_epoch": 1794961252,
- "library_songs": 1570,
+ "updated": "2026-11-17 18:31 CST",
+ "updated_epoch": 1794961891,
+ "library_songs": 1571,
  "total": 891,
- "done": 266,
- "open": 625,
+ "done": 267,
+ "open": 624,
  "by_status": {
   "no_lyrics_yet": 378,
   "has_lyrics_needs_sync": 206,
-  "transcribing": 8,
+  "transcribing": 7,
   "blocked_on_audio": 33
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 179,
-   "open": 491
+   "done": 180,
+   "open": 490
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "rio-da-yung-og-rmc-mike-8-ounces",
+   "when": "Nov 17 18:26"
+  },
   {
    "slug": "grindhard-e-abolished",
    "when": "Nov 17 16:30"
@@ -85,24 +89,10 @@
   {
    "slug": "mg-sleepy-made-it-count",
    "when": "Nov 17 09:55"
-  },
-  {
-   "slug": "414bigfrank-oh-shi",
-   "when": "Nov 17 09:55"
   }
  ],
- "transcribing_now": [
-  "rio da yung og rmc mike 8 ounces"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "rio-da-yung-og-rmc-mike-8-ounces",
-   "title": "8 Ounces",
-   "artist": "Rio Da Yung Og, Rmc Mike",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
   {
    "slug": "vonoff1700-sbgbrick-stuck-dea",
    "title": "Stuck Dea",
