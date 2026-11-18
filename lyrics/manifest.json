@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-17T23:19:21Z",
- "count": 1564,
+ "generated_at": "2026-11-18T00:31:15Z",
+ "count": 1565,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -8296,6 +8296,13 @@
    "file": "rio-da-yung-og-rio-free.lrc",
    "kind": "synced",
    "sha": "0066d828c54a276d1032db530f5d3dee3ee1caa08acd9c1e49915a78be6024c8"
+  },
+  {
+   "title": "8 Ounces",
+   "artist": "Rio Da Yung Og, Rmc Mike",
+   "file": "rio-da-yung-og-rmc-mike-8-ounces.lrc",
+   "kind": "synced",
+   "sha": "c86e824631520455d8c12bd40ca86f7d62ad7db03fd22d1ad49911c46e55b954"
   },
   {
    "title": "Intellectual",
