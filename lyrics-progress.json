@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-18 12:17 CST",
- "updated_epoch": 1795025851,
- "library_songs": 1574,
+ "updated": "2026-11-18 12:34 CST",
+ "updated_epoch": 1795026841,
+ "library_songs": 1576,
  "total": 891,
- "done": 270,
- "open": 621,
+ "done": 272,
+ "open": 619,
  "by_status": {
   "no_lyrics_yet": 370,
   "has_lyrics_needs_sync": 206,
-  "transcribing": 12,
+  "transcribing": 10,
   "blocked_on_audio": 33
  },
  "tiers": {
@@ -21,8 +21,8 @@
    "open": 0
   },
   "BabyRu78": {
-   "done": 22,
-   "open": 63
+   "done": 24,
+   "open": 61
   },
   "AZIEDOESNTEXIST": {
    "done": 4,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "babyru78-kung-fu",
+   "when": "Nov 18 12:30"
+  },
+  {
+   "slug": "babyru78-bad-habit",
+   "when": "Nov 18 12:23"
+  },
   {
    "slug": "babyru78-jay-montana-krossfire",
    "when": "Nov 18 11:18"
@@ -81,37 +89,23 @@
   {
    "slug": "bak-jay-double",
    "when": "Nov 17 11:59"
-  },
-  {
-   "slug": "ookbarm-s-vault-codeine-cobain",
-   "when": "Nov 17 11:58"
-  },
-  {
-   "slug": "biz-od",
-   "when": "Nov 17 10:56"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "babyru78 on and on"
+ ],
  "in_progress": [
+  {
+   "slug": "babyru78-on-and-on",
+   "title": "On and On",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 04:51"
+  },
   {
    "slug": "babyru78-ash-ketchum",
    "title": "Ash Ketchum",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "babyru78-bad-habit",
-   "title": "Bad Habit",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "babyru78-kung-fu",
-   "title": "Kung Fu",
    "artist": "BabyRu78",
    "tier": "BabyRu78",
    "stage": "Finishing \u2014 checking lines & timing",
@@ -124,14 +118,6 @@
    "tier": "Rest of playlist",
    "stage": "Fix in progress",
    "detail": "Re-checking specific lines against the audio"
-  },
-  {
-   "slug": "babyru78-on-and-on",
-   "title": "On and On",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Transcription paused",
-   "detail": "1 of 3 passes in \u2014 more transcription queued"
   },
   {
    "slug": "rio-da-yung-og-grindhard-e-rmc-mike-alot-to-say",
