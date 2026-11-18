@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-18T00:31:15Z",
- "count": 1565,
+ "generated_at": "2026-11-18T18:14:53Z",
+ "count": 1568,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -906,6 +906,13 @@
    "sha": "a05c03ccda723deb0ea0a520b094e03a7609e33060cd5757656f82a13fef6430"
   },
   {
+   "title": "Krossfire",
+   "artist": "BabyRu78, Jay Montana",
+   "file": "babyru78-jay-montana-krossfire.lrc",
+   "kind": "synced",
+   "sha": "4fa0752906acb4dc471f3f48978abe09ae9767f130aa3ef3d11cee0b78d528d4"
+  },
+  {
    "title": "LOVE ME Rumix",
    "artist": "BabyRu78",
    "file": "babyru78-love-me-rumix.lrc",
@@ -1324,6 +1331,13 @@
    "file": "big-boogie-take-her-down.lrc",
    "kind": "synced",
    "sha": "1f3c1d032a337e44bed4935bd24239b73311d4abfdd4bea49d1f1f0e58536b6c"
+  },
+  {
+   "title": "Send This Bitch Up",
+   "artist": "Big Opp, VonOff1700",
+   "file": "big-opp-vonoff1700-send-this-bitch-up.lrc",
+   "kind": "synced",
+   "sha": "b75d3acbe988061f4f3f35430a11c031edfd11825945639a58bf38f5af17cf64"
   },
   {
    "title": "Ballin in LA (feat. Gucci Mane & Pooh Shiesty)",
@@ -10060,6 +10074,13 @@
    "file": "vonoff1700-free-brick-freestyle.lrc",
    "kind": "synced",
    "sha": "a61b819addfa5a9a317f424777566c92b9f5edcf1a137ce5b2239d242a1b551c"
+  },
+  {
+   "title": "Automatic (feat. JillaOff1500)",
+   "artist": "VonOff1700, JillaOff1500",
+   "file": "vonoff1700-jillaoff1500-automatic-feat-jillaoff1500.lrc",
+   "kind": "synced",
+   "sha": "e377c94f9fa1c3152225cc84c8bc7edad03399ec433389384cddb4958780d376"
   },
   {
    "title": "Just Listen",
