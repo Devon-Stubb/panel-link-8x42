@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-18 13:25 CST",
- "updated_epoch": 1795029940,
- "library_songs": 1577,
+ "updated": "2026-11-18 13:30 CST",
+ "updated_epoch": 1795030244,
+ "library_songs": 1578,
  "total": 891,
- "done": 273,
- "open": 618,
+ "done": 274,
+ "open": 617,
  "by_status": {
   "no_lyrics_yet": 370,
   "has_lyrics_needs_sync": 206,
-  "transcribing": 9,
+  "transcribing": 8,
   "blocked_on_audio": 33
  },
  "tiers": {
@@ -21,8 +21,8 @@
    "open": 0
   },
   "BabyRu78": {
-   "done": 25,
-   "open": 60
+   "done": 26,
+   "open": 59
   },
   "AZIEDOESNTEXIST": {
    "done": 4,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "babyru78-on-and-on",
+   "when": "Nov 18 13:26"
+  },
   {
    "slug": "babyru78-ash-ketchum",
    "when": "Nov 18 12:45"
@@ -85,22 +89,10 @@
   {
    "slug": "krispylife-kidd-gucci-jogger",
    "when": "Nov 17 12:39"
-  },
-  {
-   "slug": "b7-57-b-tches",
-   "when": "Nov 17 11:59"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "babyru78-on-and-on",
-   "title": "On and On",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
   {
    "slug": "vonoff1700-sbgbrick-stuck-dea",
    "title": "Stuck Dea",
