@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-18T18:58:59Z",
- "count": 1571,
+ "generated_at": "2026-11-18T19:29:10Z",
+ "count": 1572,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -974,6 +974,13 @@
    "file": "babyru78-no-ring.lrc",
    "kind": "synced",
    "sha": "e5d7f12d445088b1db160f30e6f4353cec63669ff982fb875d7467597ae12554"
+  },
+  {
+   "title": "On and On",
+   "artist": "BabyRu78",
+   "file": "babyru78-on-and-on.lrc",
+   "kind": "synced",
+   "sha": "e27e5d3d041bea7dccf36fc00095beb2b65f5fedbe4666b28be50dbb39ecc3df"
   },
   {
    "title": "Onna Backend",
