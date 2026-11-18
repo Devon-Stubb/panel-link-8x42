@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-17 20:33 CST",
- "updated_epoch": 1794969234,
- "library_songs": 1572,
+ "updated": "2026-11-17 21:59 CST",
+ "updated_epoch": 1794974372,
+ "library_songs": 1573,
  "total": 891,
- "done": 268,
- "open": 623,
+ "done": 269,
+ "open": 622,
  "by_status": {
-  "no_lyrics_yet": 376,
+  "no_lyrics_yet": 375,
   "has_lyrics_needs_sync": 206,
   "transcribing": 8,
   "blocked_on_audio": 33
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 181,
-   "open": 489
+   "done": 182,
+   "open": 488
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,10 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "big-opp-vonoff1700-send-this-bitch-up",
+   "when": "Nov 17 20:42"
+  },
   {
    "slug": "vonoff1700-jillaoff1500-automatic-feat-jillaoff1500",
    "when": "Nov 17 19:27"
@@ -85,24 +89,10 @@
   {
    "slug": "dcg-brothers-screwly-g-bounce-out",
    "when": "Nov 17 10:56"
-  },
-  {
-   "slug": "mg-sleepy-blade-runner",
-   "when": "Nov 17 10:56"
   }
  ],
- "transcribing_now": [
-  "big opp vonoff1700 send this bitch up"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "big-opp-vonoff1700-send-this-bitch-up",
-   "title": "Send This Bitch Up",
-   "artist": "Big Opp, VonOff1700",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
   {
    "slug": "vonoff1700-sbgbrick-stuck-dea",
    "title": "Stuck Dea",
@@ -123,6 +113,14 @@
    "slug": "juice-wrld-boss-of-me",
    "title": "Boss Of Me",
    "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Transcription paused",
+   "detail": "2 of 3 passes in \u2014 more transcription queued"
+  },
+  {
+   "slug": "rio-da-yung-og-crash-dummy",
+   "title": "Crash Dummy",
+   "artist": "Rio Da Yung Og",
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
    "detail": "2 of 3 passes in \u2014 more transcription queued"
