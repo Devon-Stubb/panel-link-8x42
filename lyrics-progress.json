@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-17 18:45 CST",
- "updated_epoch": 1794962737,
+ "updated": "2026-11-17 19:09 CST",
+ "updated_epoch": 1794964173,
  "library_songs": 1571,
  "total": 891,
  "done": 267,
  "open": 624,
  "by_status": {
-  "no_lyrics_yet": 378,
+  "no_lyrics_yet": 377,
   "has_lyrics_needs_sync": 206,
-  "transcribing": 7,
+  "transcribing": 8,
   "blocked_on_audio": 33
  },
  "tiers": {
@@ -93,6 +93,14 @@
  ],
  "transcribing_now": [],
  "in_progress": [
+  {
+   "slug": "vonoff1700-jillaoff1500-automatic-feat-jillaoff1500",
+   "title": "Automatic (feat. JillaOff1500)",
+   "artist": "VonOff1700, JillaOff1500",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
   {
    "slug": "vonoff1700-sbgbrick-stuck-dea",
    "title": "Stuck Dea",
