@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-17 19:57 CST",
- "updated_epoch": 1794967051,
+ "updated": "2026-11-17 20:00 CST",
+ "updated_epoch": 1794967256,
  "library_songs": 1572,
  "total": 891,
  "done": 268,
  "open": 623,
  "by_status": {
-  "no_lyrics_yet": 377,
+  "no_lyrics_yet": 376,
   "has_lyrics_needs_sync": 206,
-  "transcribing": 7,
+  "transcribing": 8,
   "blocked_on_audio": 33
  },
  "tiers": {
@@ -91,8 +91,18 @@
    "when": "Nov 17 10:56"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "big opp vonoff1700 send this bitch up"
+ ],
  "in_progress": [
+  {
+   "slug": "big-opp-vonoff1700-send-this-bitch-up",
+   "title": "Send This Bitch Up",
+   "artist": "Big Opp, VonOff1700",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 01:42"
+  },
   {
    "slug": "vonoff1700-sbgbrick-stuck-dea",
    "title": "Stuck Dea",
