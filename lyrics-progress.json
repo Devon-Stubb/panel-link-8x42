@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17 18:10 CST",
- "updated_epoch": 1794960642,
+ "updated": "2026-11-17 18:16 CST",
+ "updated_epoch": 1794960974,
  "library_songs": 1570,
  "total": 891,
  "done": 266,
@@ -91,7 +91,9 @@
    "when": "Nov 17 09:55"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "rio da yung og rmc mike 8 ounces"
+ ],
  "in_progress": [
   {
    "slug": "rio-da-yung-og-rmc-mike-8-ounces",
