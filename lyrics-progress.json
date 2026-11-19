@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19 16:20 CST",
- "updated_epoch": 1795126841,
+ "updated": "2026-11-19 16:42 CST",
+ "updated_epoch": 1795128155,
  "library_songs": 1596,
  "total": 891,
  "done": 293,
@@ -91,18 +91,8 @@
    "when": "Nov 19 10:58"
   }
  ],
- "transcribing_now": [
-  "rio da yung og rmc mike appreciate the hay"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "rio-da-yung-og-rmc-mike-appreciate-the-hay",
-   "title": "Rio Da Yung Og Rmc Mike Appreciate The Hay",
-   "artist": "",
-   "tier": "",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 02:12"
-  },
   {
    "slug": "this-one-life-beginning-of-the-downfall",
    "title": "Beginning Of The Downfall",
