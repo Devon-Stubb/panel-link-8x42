@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-19 14:00 CST",
- "updated_epoch": 1795118439,
- "library_songs": 1593,
+ "updated": "2026-11-19 15:49 CST",
+ "updated_epoch": 1795124987,
+ "library_songs": 1596,
  "total": 891,
- "done": 290,
- "open": 601,
+ "done": 293,
+ "open": 598,
  "by_status": {
-  "no_lyrics_yet": 345,
+  "no_lyrics_yet": 339,
   "has_lyrics_needs_sync": 211,
-  "transcribing": 2,
+  "transcribing": 5,
   "blocked_on_audio": 35
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 197,
-   "open": 473
+   "done": 200,
+   "open": 470
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,18 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "bak-jay-him-i-m-is",
+   "when": "Nov 19 15:21"
+  },
+  {
+   "slug": "bak-jay-dead-benjamins",
+   "when": "Nov 19 15:21"
+  },
+  {
+   "slug": "krispylife-kidd-babyfxce-e-the-world-famous-d-boy-president-run",
+   "when": "Nov 19 15:21"
+  },
   {
    "slug": "mg-sleepy-roadrunner-tb-honey-pack",
    "when": "Nov 19 13:34"
@@ -77,34 +89,46 @@
   {
    "slug": "mg-sleepy-trick-different",
    "when": "Nov 19 10:58"
-  },
-  {
-   "slug": "mg-sleepy-chicken-p-abortion-baby",
-   "when": "Nov 19 10:15"
-  },
-  {
-   "slug": "thf-lil-law-made-the-opps-link-up",
-   "when": "Nov 19 10:08"
-  },
-  {
-   "slug": "rmc-mike-fisher-price",
-   "when": "Nov 19 10:07"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
   {
-   "slug": "bak-jay-dead-benjamins",
-   "title": "Dead Benjamins",
-   "artist": "BAK Jay",
+   "slug": "this-one-life-beginning-of-the-downfall",
+   "title": "Beginning Of The Downfall",
+   "artist": "This One Life",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "krispylife-kidd-babyfxce-e-the-world-famous-d-boy-president-run",
-   "title": "President Run",
-   "artist": "KrispyLife Kidd, Babyfxce E, The World Famous D-Boy",
+   "slug": "bak-jay-ytb-fatt-nobody-feat-ytb-fatt",
+   "title": "Nobody (feat. YTB Fatt)",
+   "artist": "BAK Jay, YTB Fatt",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babytron-danny-g-beats-jakesand-pause",
+   "title": "Pause",
+   "artist": "BabyTron, Danny G Beats, jakesand",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babyfxce-e-rotel",
+   "title": "Rotel",
+   "artist": "Babyfxce E",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "reason-cozz-tears-over-rose-petals",
+   "title": "Tears Over Rose Petals",
+   "artist": "REASON, Cozz",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
