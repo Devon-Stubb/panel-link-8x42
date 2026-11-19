@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-18T19:29:10Z",
- "count": 1572,
+ "generated_at": "2026-11-19T22:18:41Z",
+ "count": 1590,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -507,6 +507,27 @@
    "sha": "1ff89366766ea484c947d6fc60df6d866c6ca4125f188b60423a541b5322f8cb"
   },
   {
+   "title": "Seconds Later (Freestyle)",
+   "artist": "9lokknine",
+   "file": "9lokknine-seconds-later-freestyle.lrc",
+   "kind": "synced",
+   "sha": "7baa78035386c3f7b9a5e41aeb139c83e6f89a61fe0a31d1cf93cb5eb5b5de13"
+  },
+  {
+   "title": "No Relay",
+   "artist": "9lokknine, Soldier Kidd",
+   "file": "9lokknine-soldier-kidd-no-relay.lrc",
+   "kind": "synced",
+   "sha": "00a83b49ca364c34d0e0c798b9f6a334dde90ba7d3b84534ea05bd1792e4de4a"
+  },
+  {
+   "title": "Walkkin",
+   "artist": "9lokknine",
+   "file": "9lokknine-walkkin.lrc",
+   "kind": "synced",
+   "sha": "5c7400f8235a49379ec6cb38c692c89138140fd0251b335160fd04efd6ed3216"
+  },
+  {
    "title": "Why You Lying",
    "artist": "9lokknine",
    "file": "9lokknine-why-you-lying.lrc",
@@ -631,6 +652,13 @@
    "file": "akon-lonely.lrc",
    "kind": "synced",
    "sha": "3471dec6e7dd3736f46dfa1db61ca789dcfa5be814479b9343500df5f9d3df72"
+  },
+  {
+   "title": "IDC",
+   "artist": "$AM",
+   "file": "am-idc.lrc",
+   "kind": "synced",
+   "sha": "a1d9aeeac08926657cc2e62cb22367c5f4f49b974aad0f018f46ee8eba0beb20"
   },
   {
    "title": "Bodybagz Briccz",
@@ -1158,6 +1186,13 @@
    "sha": "4c99d0d8792979739a4585712ab6fff8346d91da92fe654f0ac60fc30db37d96"
   },
   {
+   "title": "Dead Benjamins",
+   "artist": "BAK Jay",
+   "file": "bak-jay-dead-benjamins.lrc",
+   "kind": "synced",
+   "sha": "651b614eb38775f0b20d0c0227432bbd59be64a293d496de1f4181072d42a6b5"
+  },
+  {
    "title": "Double",
    "artist": "BAK Jay",
    "file": "bak-jay-double.lrc",
@@ -1191,6 +1226,13 @@
    "file": "bak-jay-feeling-good.lrc",
    "kind": "synced",
    "sha": "01f62c2ad0568e82c0808dabd69048526086a5a4be10d98cae9f3844336b77a8"
+  },
+  {
+   "title": "Him I'm Is",
+   "artist": "BAK Jay",
+   "file": "bak-jay-him-i-m-is.lrc",
+   "kind": "synced",
+   "sha": "006a12246b0ee4a83c101e2281ba7f460d1f237583feb12d68041c9483b05222"
   },
   {
    "title": "Junkie Money",
@@ -2992,6 +3034,13 @@
    "sha": "1aa2632a561159d5a51addec01e05469a6408e093e219dd4e783708c29606730"
   },
   {
+   "title": "Neverr",
+   "artist": "GrindHard E",
+   "file": "grindhard-e-neverr.lrc",
+   "kind": "synced",
+   "sha": "e87947fbc8ca9058964f12c04fd66d9324f0bd7657ecafa3728c4f27f808dc61"
+  },
+  {
    "title": "Out The Way",
    "artist": "GrindHard E, Tony Rose, Ysr Gramz",
    "file": "grindhard-e-tony-rose-ysr-gramz-out-the-way.lrc",
@@ -3445,6 +3494,13 @@
    "file": "jorjiana-shark.lrc",
    "kind": "synced",
    "sha": "a9e1102e6fd8d498ede2ef37884346705f99ff12dae2274c6f6d38771d8fe3d1"
+  },
+  {
+   "title": "Lost File",
+   "artist": "JuggFitz, Ysr Gramz",
+   "file": "juggfitz-ysr-gramz-lost-file.lrc",
+   "kind": "synced",
+   "sha": "dc497f7dfa4e92cd0a887a88793261688199673bb7b1791504cb8cae62fbc55b"
   },
   {
    "title": "Purple Moncler",
@@ -4483,11 +4539,25 @@
    "sha": "fe5a5c69be8394cd72a02e3fab67a2e183e6e312b93833697da0f3c662386b94"
   },
   {
+   "title": "President Run",
+   "artist": "KrispyLife Kidd, Babyfxce E, The World Famous D-Boy",
+   "file": "krispylife-kidd-babyfxce-e-the-world-famous-d-boy-president-run.lrc",
+   "kind": "synced",
+   "sha": "ffc7bbca148228601e73e1378859de1b078aa16a06a293f8b1145ff78b1225bc"
+  },
+  {
    "title": "Bam Got Me Stuttering",
    "artist": "KrispyLife Kidd",
    "file": "krispylife-kidd-bam-got-me-stuttering.lrc",
    "kind": "synced",
    "sha": "fe409be95ff853dd7faecf39305518468f5c295f05b4af1fe06ef73dc945873a"
+  },
+  {
+   "title": "Certified Motion",
+   "artist": "KrispyLife Kidd",
+   "file": "krispylife-kidd-certified-motion.lrc",
+   "kind": "synced",
+   "sha": "be74a4093fcc4436babdfd84ea859a0e2fe22d99d590724de7138eedc5829f7e"
   },
   {
    "title": "Decisions",
@@ -6366,6 +6436,13 @@
    "sha": "7ec581ad3260af0f696b758990ed8353ff325f169f856d92f8c6848af5ed4dcf"
   },
   {
+   "title": "Abortion Baby",
+   "artist": "Mg Sleepy, Chicken P",
+   "file": "mg-sleepy-chicken-p-abortion-baby.lrc",
+   "kind": "synced",
+   "sha": "7cb6856bf26630024873de6d62390c23dcd0764a4479006e065dcfc67a2b3e57"
+  },
+  {
    "title": "Dizzzney Land",
    "artist": "Mg Sleepy",
    "file": "mg-sleepy-dizzzney-land.lrc",
@@ -6399,6 +6476,13 @@
    "file": "mg-sleepy-j-reed.lrc",
    "kind": "synced",
    "sha": "872b022c99bc03e09a9ff6c5b4d813faa59fc629b947ddfa06af3f969be27d78"
+  },
+  {
+   "title": "Dope Smoke",
+   "artist": "Mg Sleepy, Liltae2",
+   "file": "mg-sleepy-liltae2-dope-smoke.lrc",
+   "kind": "synced",
+   "sha": "de15619c685092a7ab83c12b8248b8885602963c808b749412fb138b5eaaec5a"
   },
   {
    "title": "Good Friday",
@@ -6476,6 +6560,20 @@
    "file": "mg-sleepy-punch-session.lrc",
    "kind": "synced",
    "sha": "ab4a461299f597f85eaf3d3abef9b8b131d1ceac7838e4a4b9edcd46a2e0c34c"
+  },
+  {
+   "title": "Honey Pack",
+   "artist": "Mg Sleepy, Roadrunner TB",
+   "file": "mg-sleepy-roadrunner-tb-honey-pack.lrc",
+   "kind": "synced",
+   "sha": "67f0c32a7227ce8d19b17d51b90cfa28e912cbfda80a1f87446c3d39d3dc2ca9"
+  },
+  {
+   "title": "Trick Different",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-trick-different.lrc",
+   "kind": "synced",
+   "sha": "9be6a04678ef4550ffc62a508fa65c4f48366df64852890558ccd6ea66aed8f1"
   },
   {
    "title": "Black Cursive",
@@ -8501,6 +8599,13 @@
    "sha": "bac9437e9d7d2b5c88fb48561099c2250be7c34f06fd6d3125e23465f7b6d217"
   },
   {
+   "title": "Fisher Price",
+   "artist": "Rmc Mike",
+   "file": "rmc-mike-fisher-price.lrc",
+   "kind": "synced",
+   "sha": "102f8903fec9974bebe64db646324655719aeb89d02ac02ad1b62446072e51bb"
+  },
+  {
    "title": "Love Live Dee",
    "artist": "Rmc Mike",
    "file": "rmc-mike-love-live-dee.lrc",
@@ -9250,6 +9355,20 @@
    "sha": "5967003afc2f2c64194537723ba6bf8be1803c487af0757d0be50525983e8ccf"
   },
   {
+   "title": "Get Yo Roll On",
+   "artist": "The World Famous D-Boy, Rmc Mike, KrispyLife Kidd",
+   "file": "the-world-famous-d-boy-rmc-mike-krispylife-kidd-get-yo-roll-on.lrc",
+   "kind": "synced",
+   "sha": "0713c986a0f59627176337500d1e022a37d9ce3970f719cc82a2ee54785e50a2"
+  },
+  {
+   "title": "Venting, Pt. 1",
+   "artist": "The World Famous D-Boy, Rmc Mike",
+   "file": "the-world-famous-d-boy-rmc-mike-venting-pt-1.lrc",
+   "kind": "synced",
+   "sha": "e1331a54a5012b5707d1678285faeecd8042c8c80d613f0ac39fc92efd9fafae"
+  },
+  {
    "title": "I Slam Doors a Lot",
    "artist": "THF LIL LAW, Baby Money",
    "file": "thf-lil-law-baby-money-i-slam-doors-a-lot.lrc",
@@ -9276,6 +9395,13 @@
    "file": "thf-lil-law-heat-up.lrc",
    "kind": "synced",
    "sha": "11e02e3c7d686f1c9394637711f578edd91df3a240f605706d7c6c422faa42b6"
+  },
+  {
+   "title": "Made The Opps Link Up",
+   "artist": "THF LIL LAW",
+   "file": "thf-lil-law-made-the-opps-link-up.lrc",
+   "kind": "synced",
+   "sha": "a6ff6ff3750f1c7356c0282602afbea91843ef9ff7fd2cc07b0ec39860fc9841"
   },
   {
    "title": "TOSS A 4",
