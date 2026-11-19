@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-19 15:49 CST",
- "updated_epoch": 1795124987,
+ "updated": "2026-11-19 16:17 CST",
+ "updated_epoch": 1795126639,
  "library_songs": 1596,
  "total": 891,
  "done": 293,
  "open": 598,
  "by_status": {
-  "no_lyrics_yet": 339,
-  "has_lyrics_needs_sync": 211,
-  "transcribing": 5,
+  "no_lyrics_yet": 335,
+  "has_lyrics_needs_sync": 213,
+  "transcribing": 7,
   "blocked_on_audio": 35
  },
  "tiers": {
@@ -91,8 +91,18 @@
    "when": "Nov 19 10:58"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "rio da yung og rmc mike appreciate the hay"
+ ],
  "in_progress": [
+  {
+   "slug": "rio-da-yung-og-rmc-mike-appreciate-the-hay",
+   "title": "Rio Da Yung Og Rmc Mike Appreciate The Hay",
+   "artist": "",
+   "tier": "",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 03:18"
+  },
   {
    "slug": "this-one-life-beginning-of-the-downfall",
    "title": "Beginning Of The Downfall",
@@ -113,6 +123,14 @@
    "slug": "babytron-danny-g-beats-jakesand-pause",
    "title": "Pause",
    "artist": "BabyTron, Danny G Beats, jakesand",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babychiefdoit-dthang-rat-4-rat",
+   "title": "RAT 4 RAT",
+   "artist": "BabyChiefDoit, DThang",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
