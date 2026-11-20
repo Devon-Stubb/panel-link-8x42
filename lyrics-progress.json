@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-20 00:46 CST",
- "updated_epoch": 1795157219,
- "library_songs": 1614,
+ "updated": "2026-11-20 01:19 CST",
+ "updated_epoch": 1795159181,
+ "library_songs": 1617,
  "total": 891,
- "done": 311,
- "open": 580,
+ "done": 314,
+ "open": 577,
  "by_status": {
-  "no_lyrics_yet": 308,
+  "no_lyrics_yet": 305,
   "has_lyrics_needs_sync": 217,
   "transcribing": 5,
   "blocked_on_audio": 42
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 218,
-   "open": 452
+   "done": 221,
+   "open": 449
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,18 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "grindhard-e-back-up",
+   "when": "Nov 20 01:19"
+  },
+  {
+   "slug": "bak-jay-money-problems",
+   "when": "Nov 20 01:19"
+  },
+  {
+   "slug": "bak-jay-deebaby-my-fault-feat-deebaby",
+   "when": "Nov 20 01:19"
+  },
   {
    "slug": "bak-jay-fattmack-fan-hoes-feat-fattmack",
    "when": "Nov 20 00:32"
@@ -77,22 +89,20 @@
   {
    "slug": "thf-lil-law-took-a-break",
    "when": "Nov 19 20:05"
-  },
-  {
-   "slug": "rio-da-yung-og-rmc-mike-appreciate-the-hay",
-   "when": "Nov 19 20:05"
-  },
-  {
-   "slug": "babychiefdoit-dthang-rat-4-rat",
-   "when": "Nov 19 18:16"
-  },
-  {
-   "slug": "babytron-danny-g-beats-jakesand-pause",
-   "when": "Nov 19 18:16"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "babychiefdoit how u doin"
+ ],
  "in_progress": [
+  {
+   "slug": "babychiefdoit-how-u-doin",
+   "title": "HOW U DOIN",
+   "artist": "BabyChiefDoit",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 05:42"
+  },
   {
    "slug": "bo-billy-4-inda-morning",
    "title": "4 Inda Morning",
@@ -102,17 +112,9 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "grindhard-e-back-up",
-   "title": "Back Up",
-   "artist": "GrindHard E",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "bak-jay-deebaby-my-fault-feat-deebaby",
-   "title": "My Fault (feat. DeeBaby)",
-   "artist": "BAK Jay, DeeBaby",
+   "slug": "babychiefdoit-cash-cobain-attitude-problems",
+   "title": "ATTITUDE PROBLEMS",
+   "artist": "BabyChiefDoit, Cash Cobain",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
