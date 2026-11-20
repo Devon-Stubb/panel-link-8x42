@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-19 16:42 CST",
- "updated_epoch": 1795128155,
- "library_songs": 1596,
+ "updated": "2026-11-19 19:44 CST",
+ "updated_epoch": 1795139097,
+ "library_songs": 1602,
  "total": 891,
- "done": 293,
- "open": 598,
+ "done": 299,
+ "open": 592,
  "by_status": {
-  "no_lyrics_yet": 335,
-  "has_lyrics_needs_sync": 213,
-  "transcribing": 7,
-  "blocked_on_audio": 35
+  "no_lyrics_yet": 325,
+  "has_lyrics_needs_sync": 215,
+  "transcribing": 5,
+  "blocked_on_audio": 39
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 200,
-   "open": 470
+   "done": 206,
+   "open": 464
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,30 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "babychiefdoit-dthang-rat-4-rat",
+   "when": "Nov 19 18:16"
+  },
+  {
+   "slug": "babytron-danny-g-beats-jakesand-pause",
+   "when": "Nov 19 18:16"
+  },
+  {
+   "slug": "bak-jay-ytb-fatt-nobody-feat-ytb-fatt",
+   "when": "Nov 19 18:16"
+  },
+  {
+   "slug": "reason-cozz-tears-over-rose-petals",
+   "when": "Nov 19 17:03"
+  },
+  {
+   "slug": "babyfxce-e-rotel",
+   "when": "Nov 19 17:03"
+  },
+  {
+   "slug": "this-one-life-beginning-of-the-downfall",
+   "when": "Nov 19 17:03"
+  },
   {
    "slug": "bak-jay-him-i-m-is",
    "when": "Nov 19 15:21"
@@ -65,78 +89,40 @@
   {
    "slug": "the-world-famous-d-boy-rmc-mike-krispylife-kidd-get-yo-roll-on",
    "when": "Nov 19 12:22"
-  },
-  {
-   "slug": "9lokknine-walkkin",
-   "when": "Nov 19 12:22"
-  },
-  {
-   "slug": "mg-sleepy-liltae2-dope-smoke",
-   "when": "Nov 19 11:01"
-  },
-  {
-   "slug": "9lokknine-seconds-later-freestyle",
-   "when": "Nov 19 11:00"
-  },
-  {
-   "slug": "9lokknine-soldier-kidd-no-relay",
-   "when": "Nov 19 10:59"
-  },
-  {
-   "slug": "krispylife-kidd-certified-motion",
-   "when": "Nov 19 10:59"
-  },
-  {
-   "slug": "mg-sleepy-trick-different",
-   "when": "Nov 19 10:58"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "rio da yung og rmc mike appreciate the hay"
+ ],
  "in_progress": [
   {
-   "slug": "this-one-life-beginning-of-the-downfall",
-   "title": "Beginning Of The Downfall",
-   "artist": "This One Life",
+   "slug": "sauce-walka-peso-peso-ogdberry-4-pints",
+   "title": "4 Pints",
+   "artist": "Sauce Walka, Peso Peso, OgDBerry",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "bak-jay-ytb-fatt-nobody-feat-ytb-fatt",
-   "title": "Nobody (feat. YTB Fatt)",
-   "artist": "BAK Jay, YTB Fatt",
+   "slug": "saltyngget-ma-beats-autograph-v3",
+   "title": "Autograph V3",
+   "artist": "Saltyngget, MA Beats",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "babytron-danny-g-beats-jakesand-pause",
-   "title": "Pause",
-   "artist": "BabyTron, Danny G Beats, jakesand",
+   "slug": "ynw-bslime-ynw-melly-ynw4l-love-is-pain",
+   "title": "Love is Pain",
+   "artist": "YNW BSlime, YNW Melly, Ynw4L",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "babychiefdoit-dthang-rat-4-rat",
-   "title": "RAT 4 RAT",
-   "artist": "BabyChiefDoit, DThang",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "babyfxce-e-rotel",
-   "title": "Rotel",
-   "artist": "Babyfxce E",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "reason-cozz-tears-over-rose-petals",
-   "title": "Tears Over Rose Petals",
-   "artist": "REASON, Cozz",
+   "slug": "thf-lil-law-took-a-break",
+   "title": "TOOK A BREAK",
+   "artist": "THF LIL LAW",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
