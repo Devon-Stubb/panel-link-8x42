@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T17:50:39Z",
- "count": 1653,
+ "generated_at": "2026-11-20T18:04:15Z",
+ "count": 1656,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -1004,6 +1004,13 @@
    "sha": "d7135bee3570d5cda8c17bdbf1c2f20bed5bf34614a56e94dc023e8ec63e705e"
   },
   {
+   "title": "HELLSTAR FIT",
+   "artist": "BabyRu78",
+   "file": "babyru78-hellstar-fit.lrc",
+   "kind": "synced",
+   "sha": "eac7df7ba82e07257298276bf189dbefdf38efe4b58fadf6003b49f300c83603"
+  },
+  {
    "title": "How It Go",
    "artist": "BabyRu78",
    "file": "babyru78-how-it-go.lrc",
@@ -1765,6 +1772,13 @@
    "file": "bloodhound-q50-don-t-blink-or-stare.lrc",
    "kind": "synced",
    "sha": "215d0513e48e5bfd70c3911c0096e02d456aa8b89bad7bd26d455feb34dd6877"
+  },
+  {
+   "title": "Boring (feat. Nino Paid)",
+   "artist": "BloodHound Q50, Nino Paid",
+   "file": "bloodhound-q50-nino-paid-boring-feat-nino-paid.lrc",
+   "kind": "synced",
+   "sha": "ebec88a0afd0dc1c7393192216f71e550065de94f4135629f64cbc2ea09a9629"
   },
   {
    "title": "Splash Bros",
@@ -10767,6 +10781,13 @@
    "file": "vonoff1700-tg-run-it.lrc",
    "kind": "synced",
    "sha": "72a7405a3d9ef5508af90a1ef2394715d6c61d772a52a77f16853d7266680343"
+  },
+  {
+   "title": "Threw",
+   "artist": "VonOff1700",
+   "file": "vonoff1700-threw.lrc",
+   "kind": "synced",
+   "sha": "2cdb093bb65728be80963dafb41272f4931e83a637d73b3f39d93e72de588f4d"
   },
   {
    "title": "Too Ez",
