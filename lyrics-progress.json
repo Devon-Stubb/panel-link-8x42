@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-20 15:42 CST",
- "updated_epoch": 1795210976,
- "library_songs": 1674,
+ "updated": "2026-11-20 15:59 CST",
+ "updated_epoch": 1795211942,
+ "library_songs": 1677,
  "total": 891,
- "done": 371,
- "open": 520,
+ "done": 374,
+ "open": 517,
  "by_status": {
-  "no_lyrics_yet": 244,
+  "no_lyrics_yet": 242,
   "has_lyrics_needs_sync": 220,
-  "transcribing": 2,
+  "transcribing": 1,
   "blocked_on_audio": 46
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 273,
-   "open": 397
+   "done": 276,
+   "open": 394
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,18 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "chief-keef-ian-video-shoot",
+   "when": "Nov 20 15:57"
+  },
+  {
+   "slug": "lil-durk-pass-the-water",
+   "when": "Nov 20 15:57"
+  },
+  {
+   "slug": "1900rugrat-aretha-franklin-freestyle",
+   "when": "Nov 20 15:53"
+  },
   {
    "slug": "lil-baby-emotionally-scarred",
    "when": "Nov 20 14:57"
@@ -77,32 +89,12 @@
   {
    "slug": "babyru78-chmc",
    "when": "Nov 20 12:35"
-  },
-  {
-   "slug": "bak-jay-nino-paid-hood-feat-nino-paid",
-   "when": "Nov 20 12:35"
-  },
-  {
-   "slug": "babyru78-hellstar-fit",
-   "when": "Nov 20 12:00"
-  },
-  {
-   "slug": "bloodhound-q50-nino-paid-boring-feat-nino-paid",
-   "when": "Nov 20 11:57"
   }
  ],
  "transcribing_now": [
-  "1900rugrat aretha franklin freestyle"
+  "bak jay dream"
  ],
  "in_progress": [
-  {
-   "slug": "1900rugrat-aretha-franklin-freestyle",
-   "title": "Aretha Franklin Freestyle",
-   "artist": "1900Rugrat",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
   {
    "slug": "bak-jay-dream",
    "title": "Dream",
