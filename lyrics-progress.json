@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-20 09:29 CST",
- "updated_epoch": 1795188594,
- "library_songs": 1650,
+ "updated": "2026-11-20 11:11 CST",
+ "updated_epoch": 1795194706,
+ "library_songs": 1657,
  "total": 891,
- "done": 347,
- "open": 544,
+ "done": 354,
+ "open": 537,
  "by_status": {
-  "no_lyrics_yet": 273,
+  "no_lyrics_yet": 260,
   "has_lyrics_needs_sync": 219,
-  "transcribing": 0,
-  "blocked_on_audio": 44
+  "transcribing": 5,
+  "blocked_on_audio": 45
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 254,
-   "open": 416
+   "done": 261,
+   "open": 409
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,34 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "big30-opp-pacc",
+   "when": "Nov 20 10:57"
+  },
+  {
+   "slug": "juice-wrld-10-feet",
+   "when": "Nov 20 10:57"
+  },
+  {
+   "slug": "dababy-pootie-tang",
+   "when": "Nov 20 10:57"
+  },
+  {
+   "slug": "lil-double-0-message",
+   "when": "Nov 20 10:21"
+  },
+  {
+   "slug": "42-dugg-rylo-rodriguez-lil-baby-it-is-what-it-is-feat-lil-baby-rylo-rodriguez",
+   "when": "Nov 20 09:57"
+  },
+  {
+   "slug": "lil-uzi-vert-what-you-saying",
+   "when": "Nov 20 09:57"
+  },
+  {
+   "slug": "pluto-nanaski-sexyy-red-motion-feat-sexyy-red-nanaski",
+   "when": "Nov 20 09:57"
+  },
   {
    "slug": "1900rugrat-both-my-bruddas",
    "when": "Nov 20 09:22"
@@ -61,34 +89,6 @@
   {
    "slug": "tyler-the-creator-glorilla-sexyy-red-lil-wayne-sticky-feat-glorilla-sexyy-red-lil-wayne",
    "when": "Nov 20 07:56"
-  },
-  {
-   "slug": "designerdon-belt",
-   "when": "Nov 20 07:30"
-  },
-  {
-   "slug": "designerdon-draft-day",
-   "when": "Nov 20 06:56"
-  },
-  {
-   "slug": "chief-keef-mike-will-made-it-sexyy-red-damn-shorty-feat-sexyy-red",
-   "when": "Nov 20 06:56"
-  },
-  {
-   "slug": "dababy-gimme-a-reason",
-   "when": "Nov 20 05:56"
-  },
-  {
-   "slug": "king-von-war-with-us",
-   "when": "Nov 20 05:56"
-  },
-  {
-   "slug": "playboi-carti-hba",
-   "when": "Nov 20 04:56"
-  },
-  {
-   "slug": "lackvill-flexing-all-summer",
-   "when": "Nov 20 04:56"
   }
  ],
  "transcribing_now": [],
@@ -108,6 +108,14 @@
    "tier": "Rest of playlist",
    "stage": "Fix in progress",
    "detail": "Re-checking specific lines against the audio"
+  },
+  {
+   "slug": "babyru78-wallet-chains",
+   "title": "Wallet Chains",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Transcription paused",
+   "detail": "1 of 3 passes in \u2014 more transcription queued"
   },
   {
    "slug": "juice-wrld-denial-3-demo",
