@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20 14:25 CST",
- "updated_epoch": 1795206349,
+ "updated": "2026-11-20 14:30 CST",
+ "updated_epoch": 1795206645,
  "library_songs": 1667,
  "total": 891,
  "done": 364,
@@ -92,8 +92,7 @@
   }
  ],
  "transcribing_now": [
-  "1900rugrat aspen freestyle",
-  "babyru78 boomin"
+  "1900rugrat aspen freestyle"
  ],
  "in_progress": [
   {
@@ -102,7 +101,7 @@
    "artist": "1900Rugrat",
    "tier": "Rest of playlist",
    "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 01:44"
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 01:35"
   },
   {
    "slug": "babyru78-boomin",
