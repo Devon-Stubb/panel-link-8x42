@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20 11:11 CST",
- "updated_epoch": 1795194706,
+ "updated": "2026-11-20 11:43 CST",
+ "updated_epoch": 1795196638,
  "library_songs": 1657,
  "total": 891,
  "done": 354,
@@ -94,6 +94,22 @@
  "transcribing_now": [],
  "in_progress": [
   {
+   "slug": "babyru78-wallet-chains",
+   "title": "Wallet Chains",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babyru78-you-dont-like-it",
+   "title": "YOU DONT LIKE IT",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "krispylife-kidd-certified-motion",
    "title": "Certified Motion",
    "artist": "KrispyLife Kidd",
@@ -108,14 +124,6 @@
    "tier": "Rest of playlist",
    "stage": "Fix in progress",
    "detail": "Re-checking specific lines against the audio"
-  },
-  {
-   "slug": "babyru78-wallet-chains",
-   "title": "Wallet Chains",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Transcription paused",
-   "detail": "1 of 3 passes in \u2014 more transcription queued"
   },
   {
    "slug": "juice-wrld-denial-3-demo",
