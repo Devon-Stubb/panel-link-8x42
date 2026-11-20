@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-20 00:00 CST",
- "updated_epoch": 1795154439,
- "library_songs": 1611,
+ "updated": "2026-11-20 00:46 CST",
+ "updated_epoch": 1795157219,
+ "library_songs": 1614,
  "total": 891,
- "done": 308,
- "open": 583,
+ "done": 311,
+ "open": 580,
  "by_status": {
   "no_lyrics_yet": 308,
   "has_lyrics_needs_sync": 217,
-  "transcribing": 8,
+  "transcribing": 5,
   "blocked_on_audio": 42
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 215,
-   "open": 455
+   "done": 218,
+   "open": 452
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,18 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "bak-jay-fattmack-fan-hoes-feat-fattmack",
+   "when": "Nov 20 00:32"
+  },
+  {
+   "slug": "rio-da-yung-og-easy-kill",
+   "when": "Nov 20 00:32"
+  },
+  {
+   "slug": "lane-gang-wells-rio-da-yung-og-ticket-droppin",
+   "when": "Nov 20 00:17"
+  },
   {
    "slug": "dotcomnirvan-1900rugrat-vice-city-blues",
    "when": "Nov 19 23:54"
@@ -77,44 +89,22 @@
   {
    "slug": "babytron-danny-g-beats-jakesand-pause",
    "when": "Nov 19 18:16"
-  },
-  {
-   "slug": "bak-jay-ytb-fatt-nobody-feat-ytb-fatt",
-   "when": "Nov 19 18:16"
-  },
-  {
-   "slug": "reason-cozz-tears-over-rose-petals",
-   "when": "Nov 19 17:03"
-  },
-  {
-   "slug": "babyfxce-e-rotel",
-   "when": "Nov 19 17:03"
   }
  ],
- "transcribing_now": [
-  "grindhard e back up"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
-   "slug": "grindhard-e-back-up",
-   "title": "Back Up",
-   "artist": "GrindHard E",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 01:37"
-  },
-  {
-   "slug": "rio-da-yung-og-easy-kill",
-   "title": "Easy Kill",
-   "artist": "Rio Da Yung Og",
+   "slug": "bo-billy-4-inda-morning",
+   "title": "4 Inda Morning",
+   "artist": "Bo Billy",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "bak-jay-fattmack-fan-hoes-feat-fattmack",
-   "title": "Fan Hoes (feat. FattMack)",
-   "artist": "BAK Jay, FattMack",
+   "slug": "grindhard-e-back-up",
+   "title": "Back Up",
+   "artist": "GrindHard E",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -128,9 +118,9 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "lane-gang-wells-rio-da-yung-og-ticket-droppin",
-   "title": "Ticket Droppin",
-   "artist": "Lane Gang Wells, Rio Da Yung Og",
+   "slug": "babychiefdoit-til-the-whole-world-zoo",
+   "title": "TIL THE WHOLE WORLD ZOO",
+   "artist": "BabyChiefDoit",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
