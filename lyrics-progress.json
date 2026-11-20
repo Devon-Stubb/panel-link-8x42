@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-19 19:44 CST",
- "updated_epoch": 1795139097,
- "library_songs": 1602,
+ "updated": "2026-11-19 21:50 CST",
+ "updated_epoch": 1795146638,
+ "library_songs": 1608,
  "total": 891,
- "done": 299,
- "open": 592,
+ "done": 305,
+ "open": 586,
  "by_status": {
-  "no_lyrics_yet": 325,
-  "has_lyrics_needs_sync": 215,
+  "no_lyrics_yet": 318,
+  "has_lyrics_needs_sync": 216,
   "transcribing": 5,
   "blocked_on_audio": 39
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 206,
-   "open": 464
+   "done": 212,
+   "open": 458
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,30 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "bezz-believe-pedo-files-epstein-island-diss",
+   "when": "Nov 19 21:10"
+  },
+  {
+   "slug": "ynw-bslime-ynw-melly-ynw4l-love-is-pain",
+   "when": "Nov 19 21:10"
+  },
+  {
+   "slug": "saltyngget-ma-beats-autograph-v3",
+   "when": "Nov 19 21:10"
+  },
+  {
+   "slug": "sauce-walka-peso-peso-ogdberry-4-pints",
+   "when": "Nov 19 20:05"
+  },
+  {
+   "slug": "thf-lil-law-took-a-break",
+   "when": "Nov 19 20:05"
+  },
+  {
+   "slug": "rio-da-yung-og-rmc-mike-appreciate-the-hay",
+   "when": "Nov 19 20:05"
+  },
   {
    "slug": "babychiefdoit-dthang-rat-4-rat",
    "when": "Nov 19 18:16"
@@ -65,64 +89,46 @@
   {
    "slug": "bak-jay-dead-benjamins",
    "when": "Nov 19 15:21"
-  },
-  {
-   "slug": "krispylife-kidd-babyfxce-e-the-world-famous-d-boy-president-run",
-   "when": "Nov 19 15:21"
-  },
-  {
-   "slug": "mg-sleepy-roadrunner-tb-honey-pack",
-   "when": "Nov 19 13:34"
-  },
-  {
-   "slug": "grindhard-e-neverr",
-   "when": "Nov 19 13:34"
-  },
-  {
-   "slug": "juggfitz-ysr-gramz-lost-file",
-   "when": "Nov 19 13:33"
-  },
-  {
-   "slug": "the-world-famous-d-boy-rmc-mike-venting-pt-1",
-   "when": "Nov 19 12:22"
-  },
-  {
-   "slug": "the-world-famous-d-boy-rmc-mike-krispylife-kidd-get-yo-roll-on",
-   "when": "Nov 19 12:22"
   }
  ],
- "transcribing_now": [
-  "rio da yung og rmc mike appreciate the hay"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
-   "slug": "sauce-walka-peso-peso-ogdberry-4-pints",
-   "title": "4 Pints",
-   "artist": "Sauce Walka, Peso Peso, OgDBerry",
+   "slug": "wakko-the-kidd-rio-da-yung-og-back-n-forth",
+   "title": "Back N Forth",
+   "artist": "Wakko The Kidd, Rio Da Yung Og",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "saltyngget-ma-beats-autograph-v3",
-   "title": "Autograph V3",
-   "artist": "Saltyngget, MA Beats",
+   "slug": "bak-jay-come-down-2-it",
+   "title": "Come Down 2 It",
+   "artist": "BAK Jay",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "ynw-bslime-ynw-melly-ynw4l-love-is-pain",
-   "title": "Love is Pain",
-   "artist": "YNW BSlime, YNW Melly, Ynw4L",
+   "slug": "rio-da-yung-og-easy-kill",
+   "title": "Easy Kill",
+   "artist": "Rio Da Yung Og",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "thf-lil-law-took-a-break",
-   "title": "TOOK A BREAK",
-   "artist": "THF LIL LAW",
+   "slug": "bak-jay-fattmack-fan-hoes-feat-fattmack",
+   "title": "Fan Hoes (feat. FattMack)",
+   "artist": "BAK Jay, FattMack",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "dotcomnirvan-1900rugrat-vice-city-blues",
+   "title": "Vice City Blues",
+   "artist": "DotComNirvan, 1900Rugrat",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
