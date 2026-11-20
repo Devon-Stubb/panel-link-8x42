@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T05:57:27Z",
- "count": 1605,
+ "generated_at": "2026-11-20T06:46:39Z",
+ "count": 1608,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -1240,6 +1240,13 @@
    "file": "bak-jay-f-what-you-heard.lrc",
    "kind": "synced",
    "sha": "1e779be5d399f1b11d1128fc442f0b31389443aff8ead3e4806be0f57435745e"
+  },
+  {
+   "title": "Fan Hoes (feat. FattMack)",
+   "artist": "BAK Jay, FattMack",
+   "file": "bak-jay-fattmack-fan-hoes-feat-fattmack.lrc",
+   "kind": "synced",
+   "sha": "c8ad55c56ac1d4b54b4b49ebbe4a1666c8b9d09506dbec87ff41b5c867eb1359"
   },
   {
    "title": "Fatty Fatty",
@@ -4761,6 +4768,13 @@
    "file": "lady2x-klouxt-yams.lrc",
    "kind": "synced",
    "sha": "d3deda74d0c381eecf5977f45bd2ff7a9a695d3ccb767b435c545b8bd5581422"
+  },
+  {
+   "title": "Ticket Droppin",
+   "artist": "Lane Gang Wells, Rio Da Yung Og",
+   "file": "lane-gang-wells-rio-da-yung-og-ticket-droppin.lrc",
+   "kind": "synced",
+   "sha": "181bd541b9a9719b554fc1655a6bb1797b3a215458623c7286966a90417ea563"
   },
   {
    "title": "Stepper (feat. Nardo Wick)",
@@ -8380,6 +8394,13 @@
    "file": "rio-da-yung-og-dumb-n-dumber-flo.txt",
    "kind": "plain",
    "sha": "afd3136029ac5b74dae0fa0db46ed92d80c0d98de272c55b7a6a4c04cc41d1c1"
+  },
+  {
+   "title": "Easy Kill",
+   "artist": "Rio Da Yung Og",
+   "file": "rio-da-yung-og-easy-kill.lrc",
+   "kind": "synced",
+   "sha": "8bd0db922dfcf409984a4f30e797c1a4740311a85293d9ace99eb866b1b10ec5"
   },
   {
    "title": "Gheto Philosophy",
