@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-20 14:01 CST",
- "updated_epoch": 1795204886,
+ "updated": "2026-11-20 14:05 CST",
+ "updated_epoch": 1795205142,
  "library_songs": 1667,
  "total": 891,
  "done": 364,
  "open": 527,
  "by_status": {
-  "no_lyrics_yet": 249,
-  "has_lyrics_needs_sync": 219,
+  "no_lyrics_yet": 248,
+  "has_lyrics_needs_sync": 220,
   "transcribing": 5,
   "blocked_on_audio": 46
  },
@@ -101,7 +101,7 @@
    "artist": "VonOff1700",
    "tier": "Rest of playlist",
    "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 02:21"
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 01:52"
   },
   {
    "slug": "babyru78-boomin",
