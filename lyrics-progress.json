@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20 15:29 CST",
- "updated_epoch": 1795210198,
+ "updated": "2026-11-20 15:42 CST",
+ "updated_epoch": 1795210976,
  "library_songs": 1674,
  "total": 891,
  "done": 371,
@@ -91,7 +91,9 @@
    "when": "Nov 20 11:57"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "1900rugrat aretha franklin freestyle"
+ ],
  "in_progress": [
   {
    "slug": "1900rugrat-aretha-franklin-freestyle",
