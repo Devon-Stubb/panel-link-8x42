@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-19T22:18:41Z",
- "count": 1590,
+ "generated_at": "2026-11-20T03:46:27Z",
+ "count": 1602,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -780,6 +780,13 @@
    "sha": "1e57b1c21a3f5bef8443da42d6db880f140f9576e72655eee70c1c8f58df4259"
   },
   {
+   "title": "RAT 4 RAT",
+   "artist": "BabyChiefDoit, DThang",
+   "file": "babychiefdoit-dthang-rat-4-rat.lrc",
+   "kind": "synced",
+   "sha": "d0dd01e9e5bdd127cfbe894ecc62cce049496f8c995d04a7f3cf5fc2ef607621"
+  },
+  {
    "title": "EBGDITB",
    "artist": "BabyChiefDoit",
    "file": "babychiefdoit-ebgditb.lrc",
@@ -890,6 +897,13 @@
    "file": "babyfxce-e-ptp.lrc",
    "kind": "synced",
    "sha": "ef87692303c190bbba824cf933ca5286cb862cdce7fcc5e302f6844597ff3cd3"
+  },
+  {
+   "title": "Rotel",
+   "artist": "Babyfxce E",
+   "file": "babyfxce-e-rotel.lrc",
+   "kind": "synced",
+   "sha": "6d3359da4df7e91ffdf436477649cdbedc15c99e3d89f7aa786d01edeeffc11e"
   },
   {
    "title": "Boys Don't Cry",
@@ -1123,6 +1137,13 @@
    "sha": "e3bfc5ad7a30d968a57f251dd32c0410f184304f80dfedadd8d7ef633542acbf"
   },
   {
+   "title": "Pause",
+   "artist": "BabyTron, Danny G Beats, jakesand",
+   "file": "babytron-danny-g-beats-jakesand-pause.lrc",
+   "kind": "synced",
+   "sha": "845ecc8cef0289f7f6545fa15d8492edc670b0aa9dd57b4e07106861f1a892a0"
+  },
+  {
    "title": "Dookie Season",
    "artist": "BabyTron, Rmc Mike",
    "file": "babytron-dookie-season.lrc",
@@ -1305,6 +1326,13 @@
    "sha": "b18ed3eba2197369f9a9f58611bb8d48e4c875dd5447ad3dc245a05f279015b1"
   },
   {
+   "title": "Nobody (feat. YTB Fatt)",
+   "artist": "BAK Jay, YTB Fatt",
+   "file": "bak-jay-ytb-fatt-nobody-feat-ytb-fatt.lrc",
+   "kind": "synced",
+   "sha": "70a3ab33b52b7aba19879cc86707791d1e7c21e4043e670d85cad9c569bf276d"
+  },
+  {
    "title": "duck",
    "artist": "Bando KD, VonOff1700",
    "file": "bando-kd-vonoff1700-duck.lrc",
@@ -1345,6 +1373,13 @@
    "file": "benny-blanco-graduation.lrc",
    "kind": "synced",
    "sha": "9a4e94972eca85981b0fed93d9a4be911145caaf95c02a9e85e18a74aca5ec03"
+  },
+  {
+   "title": "Pedo Files - Epstein Island Diss",
+   "artist": "Bezz Believe",
+   "file": "bezz-believe-pedo-files-epstein-island-diss.lrc",
+   "kind": "synced",
+   "sha": "0a50168de4b5c304b90181091853d28d75daf36016656f764da6f6e832ad1c74"
   },
   {
    "title": "Delulu",
@@ -8228,6 +8263,13 @@
    "sha": "82c5fda3a769d9dc1eaf643b5fc78ca1660d79b6c295aad500423bbb55c9008a"
   },
   {
+   "title": "Tears Over Rose Petals",
+   "artist": "REASON, Cozz",
+   "file": "reason-cozz-tears-over-rose-petals.lrc",
+   "kind": "synced",
+   "sha": "4a3b5134b652fe00cb0e52dd0f265c93e79d9f765b855312f57db8125c9eedfc"
+  },
+  {
    "title": "Nose Ring",
    "artist": "Resentvul",
    "file": "resentvul-nose-ring.lrc",
@@ -8443,6 +8485,13 @@
    "file": "rio-da-yung-og-rmc-mike-8-ounces.lrc",
    "kind": "synced",
    "sha": "c86e824631520455d8c12bd40ca86f7d62ad7db03fd22d1ad49911c46e55b954"
+  },
+  {
+   "title": "Appreciate the Hay",
+   "artist": "Rio Da Yung Og & RMC Mike",
+   "file": "rio-da-yung-og-rmc-mike-appreciate-the-hay.lrc",
+   "kind": "synced",
+   "sha": "4a32ae794e9c5ffef073b27faf6ce093da4f4e4d3b61a39b245432bbf6722c87"
   },
   {
    "title": "Intellectual",
@@ -8851,11 +8900,25 @@
    "sha": "deaf03753b06b4f54b93fa00bb5c0a2a3d95600c5577066f79faeaf516303087"
   },
   {
+   "title": "Autograph V3",
+   "artist": "Saltyngget, MA Beats",
+   "file": "saltyngget-ma-beats-autograph-v3.lrc",
+   "kind": "synced",
+   "sha": "3581ece99f666e92c6332913bbe3d07888ecf00fa91b6d336952e57123020e07"
+  },
+  {
    "title": "Take Your Time",
    "artist": "Sam Hunt",
    "file": "sam-hunt-take-your-time.lrc",
    "kind": "synced",
    "sha": "62f4c8aa9b213178fc7ad112792d138c5152afbfc920d84bd32bfaf2869762e4"
+  },
+  {
+   "title": "4 Pints",
+   "artist": "Sauce Walka, Peso Peso, OgDBerry",
+   "file": "sauce-walka-peso-peso-ogdberry-4-pints.lrc",
+   "kind": "synced",
+   "sha": "02d03dab5e6a1f3d6fb8bdbda3923748d3b24fe5bc8f00b5afbbadb52bbd6b67"
   },
   {
    "title": "Rules (feat. Bossman Dlow)",
@@ -9404,6 +9467,13 @@
    "sha": "a6ff6ff3750f1c7356c0282602afbea91843ef9ff7fd2cc07b0ec39860fc9841"
   },
   {
+   "title": "TOOK A BREAK",
+   "artist": "THF LIL LAW",
+   "file": "thf-lil-law-took-a-break.lrc",
+   "kind": "synced",
+   "sha": "0f3114fd880b49788e4d6dcfe395b3779248b7479315e4f1039f847b2be90b53"
+  },
+  {
    "title": "TOSS A 4",
    "artist": "THF LIL LAW",
    "file": "thf-lil-law-toss-a-4.lrc",
@@ -9416,6 +9486,13 @@
    "file": "thf-zoo-mad-cuz-i-m-rich.lrc",
    "kind": "synced",
    "sha": "8049f3220d5f1d3b91d0fa856adf5d205e95addf604f8401fcf551cb1ad0e0c0"
+  },
+  {
+   "title": "Beginning Of The Downfall",
+   "artist": "This One Life",
+   "file": "this-one-life-beginning-of-the-downfall.lrc",
+   "kind": "synced",
+   "sha": "f7be8322b7ac42ceb51e0fb2796e596b71a64ad5833c22ff0b7ffdb5e2844f60"
   },
   {
    "title": "MILLION DOLLAR BABY (VHS)",
@@ -10543,6 +10620,13 @@
    "file": "yn-jay-triple-s.lrc",
    "kind": "synced",
    "sha": "ab6023c56530690b61fed91898b23f2d3c8bcbeb21e7c0cec65c74176b81dd9d"
+  },
+  {
+   "title": "Love is Pain",
+   "artist": "YNW BSlime, YNW Melly, Ynw4L",
+   "file": "ynw-bslime-ynw-melly-ynw4l-love-is-pain.lrc",
+   "kind": "synced",
+   "sha": "e617d1b037d5546181391dd1acb2aa1ab4a350f153adf071fb74dd6dd052f7ba"
   },
   {
    "title": "223's (feat. 9lokknine)",
