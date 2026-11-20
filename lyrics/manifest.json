@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T17:45:49Z",
- "count": 1651,
+ "generated_at": "2026-11-20T17:50:39Z",
+ "count": 1653,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -1116,6 +1116,13 @@
    "sha": "d12be726a07dd7103481a3afe3141ac479a9f8168aa6a15b054abf9341f9239f"
   },
   {
+   "title": "Wallet Chains",
+   "artist": "BabyRu78",
+   "file": "babyru78-wallet-chains.lrc",
+   "kind": "synced",
+   "sha": "2c6872c581311224170780b1fb8d1db0f77247a0e5ca8867021d34fb60aa8cf0"
+  },
+  {
    "title": "Who Tf is GetEmGone",
    "artist": "BabyRu78",
    "file": "babyru78-who-tf-is-getemgone.lrc",
@@ -1135,6 +1142,13 @@
    "file": "babyru78-you-dont-like-it-remix.lrc",
    "kind": "synced",
    "sha": "2f73d39dbf2f61815a4f66cfd74dc46c9b257082eb9bd21bc83142776f67bc7a"
+  },
+  {
+   "title": "YOU DONT LIKE IT",
+   "artist": "BabyRu78",
+   "file": "babyru78-you-dont-like-it.lrc",
+   "kind": "synced",
+   "sha": "73d5d9de3802cc711f90dfceac8f1667329a1ea530bbc53c3f8ab4569efb5d23"
   },
   {
    "title": "2-Man",
