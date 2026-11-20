@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20 15:10 CST",
- "updated_epoch": 1795209018,
+ "updated": "2026-11-20 15:29 CST",
+ "updated_epoch": 1795210198,
  "library_songs": 1674,
  "total": 891,
  "done": 371,
@@ -102,6 +102,14 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
+   "slug": "bak-jay-dream",
+   "title": "Dream",
+   "artist": "BAK Jay",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "krispylife-kidd-certified-motion",
    "title": "Certified Motion",
    "artist": "KrispyLife Kidd",
@@ -121,14 +129,6 @@
    "slug": "juice-wrld-denial-3-demo",
    "title": "DENIAL </3 (demo)",
    "artist": "Juice WRLD",
-   "tier": "Rest of playlist",
-   "stage": "Transcription paused",
-   "detail": "1 of 3 passes in \u2014 more transcription queued"
-  },
-  {
-   "slug": "bak-jay-dream",
-   "title": "Dream",
-   "artist": "BAK Jay",
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
    "detail": "1 of 3 passes in \u2014 more transcription queued"
