@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T18:04:15Z",
- "count": 1656,
+ "generated_at": "2026-11-20T20:34:54Z",
+ "count": 1664,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -948,6 +948,13 @@
    "sha": "ef87692303c190bbba824cf933ca5286cb862cdce7fcc5e302f6844597ff3cd3"
   },
   {
+   "title": "Die Bout It (feat. Rio Da Yung Og)",
+   "artist": "Babyfxce E, Rio Da Yung Og",
+   "file": "babyfxce-e-rio-da-yung-og-die-bout-it-feat-rio-da-yung-og.lrc",
+   "kind": "synced",
+   "sha": "dbe5b990a56d1f7fe04ad7cd1779e1a6b7e3b903910b35b3d259d3b4917577d9"
+  },
+  {
    "title": "Rotel",
    "artist": "Babyfxce E",
    "file": "babyfxce-e-rotel.lrc",
@@ -983,6 +990,13 @@
    "sha": "4c822b7a88fffb757527db57ae4a3ae2a36ae471765e46310929d432b24a2b12"
   },
   {
+   "title": "BOOMIN",
+   "artist": "BabyRu78",
+   "file": "babyru78-boomin.lrc",
+   "kind": "synced",
+   "sha": "0bdb6d8d9f1827d1ae6cd84856330b9dc032628cbc501254dd6f5dd654a31cb8"
+  },
+  {
    "title": "Cant Tell Me Nothing",
    "artist": "BabyRu78",
    "file": "babyru78-cant-tell-me-nothing.lrc",
@@ -995,6 +1009,13 @@
    "file": "babyru78-chicken-rubberband.lrc",
    "kind": "synced",
    "sha": "7d8a2124bc1b6636082ca0b2623d006088921cb5e26c6afe26f2af468e1a1c76"
+  },
+  {
+   "title": "CHMC",
+   "artist": "BabyRu78",
+   "file": "babyru78-chmc.lrc",
+   "kind": "synced",
+   "sha": "65da65495203335f3d7ad7a5c7f9f09882d3550af996f7c07b14b91b86a89ec2"
   },
   {
    "title": "GROUPIE HOES",
@@ -1359,6 +1380,13 @@
    "file": "bak-jay-money-problems.lrc",
    "kind": "synced",
    "sha": "41c719461c25632b413a7d1eab6ac7bae03050770831a89686c70d9f95a1276c"
+  },
+  {
+   "title": "Hood (feat. Nino Paid)",
+   "artist": "BAK Jay, Nino Paid",
+   "file": "bak-jay-nino-paid-hood-feat-nino-paid.lrc",
+   "kind": "synced",
+   "sha": "56548f920353053be1db66cdf1ccd6e9d1eb7d1b1a3867b633c251a06c4da1c1"
   },
   {
    "title": "Pop Shii",
@@ -10636,11 +10664,25 @@
    "sha": "10f9aea631deb2561d49bc6fe87597fdfa70220a31ea22a4b4c37caee4d4e870"
   },
   {
+   "title": "B4",
+   "artist": "VonOff1700",
+   "file": "vonoff1700-b4.lrc",
+   "kind": "synced",
+   "sha": "1bd56d2d495e926e90e2eba9965cb3ca15b5786ae24870caeec87d22bfa26051"
+  },
+  {
    "title": "Blam Sum",
    "artist": "VonOff1700",
    "file": "vonoff1700-blam-sum.lrc",
    "kind": "synced",
    "sha": "08e7e8462e0c23482e869f2501f2598dfb4f59fe3c6018ebf83dd61415c4fa96"
+  },
+  {
+   "title": "Bread Winner",
+   "artist": "VonOff1700",
+   "file": "vonoff1700-bread-winner.lrc",
+   "kind": "synced",
+   "sha": "952c078cb941c7fda6b8e4637be49d310adf5eecc823922f79eedbdeea035b37"
   },
   {
    "title": "Dead N****s (feat. Polo G & G Herbo)",
@@ -10727,6 +10769,13 @@
    "sha": "0a52cbfa536669d2769856f9d5ea3931ecbad5a6f3e375ee456e06e527e058fa"
   },
   {
+   "title": "Turn Me Up (G.K.S.Y.W.T.M.U) (feat. Polo G)",
+   "artist": "VonOff1700, Polo G",
+   "file": "vonoff1700-polo-g-turn-me-up-g-k-s-y-w-t-m-u-feat-polo-g.lrc",
+   "kind": "synced",
+   "sha": "cb41d1391a442c663a3940e2bad8c4ee946dd00652e96ec4efa1604b3981e393"
+  },
+  {
    "title": "Pop Out",
    "artist": "VonOff1700, Sbgbrick",
    "file": "vonoff1700-pop-out.lrc",
@@ -10781,6 +10830,13 @@
    "file": "vonoff1700-tg-run-it.lrc",
    "kind": "synced",
    "sha": "72a7405a3d9ef5508af90a1ef2394715d6c61d772a52a77f16853d7266680343"
+  },
+  {
+   "title": "That's Mine",
+   "artist": "VonOff1700",
+   "file": "vonoff1700-that-s-mine.lrc",
+   "kind": "synced",
+   "sha": "2f310f55030b044a1f2f9a44525758b2a6199acdbfe39d7597d10e7c8f083629"
   },
   {
    "title": "Threw",
