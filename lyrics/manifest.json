@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T03:46:27Z",
- "count": 1602,
+ "generated_at": "2026-11-20T05:57:27Z",
+ "count": 1605,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -1200,6 +1200,13 @@
    "sha": "01f0cdaa67756cc1aafa20d154de1944f631c8689dcf3d7e6afa2cf06b9487a1"
   },
   {
+   "title": "Come Down 2 It",
+   "artist": "BAK Jay",
+   "file": "bak-jay-come-down-2-it.lrc",
+   "kind": "synced",
+   "sha": "8d0f7a7fbef7ed6be6b32852609e8044f774fdc7e603c82aba0fd33297b0737d"
+  },
+  {
    "title": "D To Da Murda",
    "artist": "BAK Jay, FBG Murda",
    "file": "bak-jay-d-to-da-murda.txt",
@@ -2388,6 +2395,13 @@
    "file": "doodie-lo-nlmg.lrc",
    "kind": "synced",
    "sha": "2c0416c853a8f7a0c30e1930157949bd6523eee191cf57b50884fc1eab976ae7"
+  },
+  {
+   "title": "Vice City Blues",
+   "artist": "DotComNirvan, 1900Rugrat",
+   "file": "dotcomnirvan-1900rugrat-vice-city-blues.lrc",
+   "kind": "synced",
+   "sha": "9b7e4f46048996e3c11d71d916a0543c697d02f257a9539819b7ab0312b2c948"
   },
   {
    "title": "Bandz (Bye Bye Birdie) (feat. Lil Uzi Vert)",
@@ -10452,6 +10466,13 @@
    "file": "vonoff1700-vonoff1700-lil-yachty-s-coffin-ogm-freestyle.lrc",
    "kind": "synced",
    "sha": "49feab67e7f2d67fb00bf6699291db8618ca9f61cc25e60e1a9b10dfd8e15bd8"
+  },
+  {
+   "title": "Back N Forth",
+   "artist": "Wakko The Kidd, Rio Da Yung Og",
+   "file": "wakko-the-kidd-rio-da-yung-og-back-n-forth.lrc",
+   "kind": "synced",
+   "sha": "d6c53dfdf41e3926e035782805981408dca7dcbb88ff716dc2afd41c2e14dd7b"
   },
   {
    "title": "FAKE SLEEP",
