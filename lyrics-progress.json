@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-19 23:51 CST",
- "updated_epoch": 1795153894,
- "library_songs": 1608,
+ "updated": "2026-11-19 23:57 CST",
+ "updated_epoch": 1795154265,
+ "library_songs": 1611,
  "total": 891,
- "done": 305,
- "open": 586,
+ "done": 308,
+ "open": 583,
  "by_status": {
-  "no_lyrics_yet": 312,
-  "has_lyrics_needs_sync": 216,
-  "transcribing": 8,
+  "no_lyrics_yet": 310,
+  "has_lyrics_needs_sync": 217,
+  "transcribing": 6,
   "blocked_on_audio": 42
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 212,
-   "open": 458
+   "done": 215,
+   "open": 455
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,18 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "dotcomnirvan-1900rugrat-vice-city-blues",
+   "when": "Nov 19 23:54"
+  },
+  {
+   "slug": "wakko-the-kidd-rio-da-yung-og-back-n-forth",
+   "when": "Nov 19 23:54"
+  },
+  {
+   "slug": "bak-jay-come-down-2-it",
+   "when": "Nov 19 23:54"
+  },
   {
    "slug": "bezz-believe-pedo-files-epstein-island-diss",
    "when": "Nov 19 21:10"
@@ -77,38 +89,10 @@
   {
    "slug": "babyfxce-e-rotel",
    "when": "Nov 19 17:03"
-  },
-  {
-   "slug": "this-one-life-beginning-of-the-downfall",
-   "when": "Nov 19 17:03"
-  },
-  {
-   "slug": "bak-jay-him-i-m-is",
-   "when": "Nov 19 15:21"
-  },
-  {
-   "slug": "bak-jay-dead-benjamins",
-   "when": "Nov 19 15:21"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "wakko-the-kidd-rio-da-yung-og-back-n-forth",
-   "title": "Back N Forth",
-   "artist": "Wakko The Kidd, Rio Da Yung Og",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "bak-jay-come-down-2-it",
-   "title": "Come Down 2 It",
-   "artist": "BAK Jay",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
   {
    "slug": "rio-da-yung-og-easy-kill",
    "title": "Easy Kill",
@@ -137,14 +121,6 @@
    "slug": "lane-gang-wells-rio-da-yung-og-ticket-droppin",
    "title": "Ticket Droppin",
    "artist": "Lane Gang Wells, Rio Da Yung Og",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "dotcomnirvan-1900rugrat-vice-city-blues",
-   "title": "Vice City Blues",
-   "artist": "DotComNirvan, 1900Rugrat",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
