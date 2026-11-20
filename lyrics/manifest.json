@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T20:34:54Z",
- "count": 1664,
+ "generated_at": "2026-11-20T21:15:35Z",
+ "count": 1668,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -38,6 +38,13 @@
    "sha": "6963887ed8203f4fe6618d9c337d70c6d1c53e1e0b62715378e0bab4cd24e62c"
   },
   {
+   "title": "Aspen Freestyle",
+   "artist": "1900Rugrat",
+   "file": "1900rugrat-aspen-freestyle.lrc",
+   "kind": "synced",
+   "sha": "4088514d0aea65bfaeda242e4cea60e9620c83b7ff14fe0dc8b95380e9c31ad1"
+  },
+  {
    "title": "Both my Bruddas",
    "artist": "1900Rugrat",
    "file": "1900rugrat-both-my-bruddas.lrc",
@@ -57,6 +64,13 @@
    "file": "1900rugrat-dirty-ahh-soda.lrc",
    "kind": "synced",
    "sha": "34346db8ef0d9344ff08db695a0e1a3ca7c0a5b15e6064c7d2b434b1ddae2dc1"
+  },
+  {
+   "title": "Plane Jane",
+   "artist": "1900Rugrat",
+   "file": "1900rugrat-plane-jane.lrc",
+   "kind": "synced",
+   "sha": "25091d06981e717c09132a476cd45839c257e6e11030f1207cf06ac9e413cd02"
   },
   {
    "title": "Skeeyee - Freestyle",
@@ -5162,6 +5176,13 @@
    "sha": "2e4184abaf52b7056ec8d860bbb788a41b89553c8e8437ed4d895771b79ccdc3"
   },
   {
+   "title": "Emotionally Scarred",
+   "artist": "Lil Baby",
+   "file": "lil-baby-emotionally-scarred.lrc",
+   "kind": "synced",
+   "sha": "3bfc2aa43c46c668ccd54b37f4e8720c693e22602036700fdbbd7ed3b2940566"
+  },
+  {
    "title": "Exotic",
    "artist": "Lil Baby, Starlito",
    "file": "lil-baby-exotic.lrc",
@@ -8947,6 +8968,13 @@
    "file": "rio-da-yung-og-wydt.lrc",
    "kind": "synced",
    "sha": "2e99d4d8dffef82d732dd76e36da3bcd4f917c3a4047dd02dd46d2615eb99bbc"
+  },
+  {
+   "title": "The Big 3",
+   "artist": "Rio Da Yung Og, YN Jay, Babyfxce E",
+   "file": "rio-da-yung-og-yn-jay-babyfxce-e-the-big-3.lrc",
+   "kind": "synced",
+   "sha": "ce61b5497ac20bff770df0f56ab58af4378e3e36146350ca4d418a4a275e7e5c"
   },
   {
    "title": "Yung OGee",
