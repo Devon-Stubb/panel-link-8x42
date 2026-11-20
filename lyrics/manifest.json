@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T06:46:39Z",
- "count": 1608,
+ "generated_at": "2026-11-20T17:45:49Z",
+ "count": 1651,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -36,6 +36,13 @@
    "file": "1900rugrat-ain-t-no-love.lrc",
    "kind": "synced",
    "sha": "6963887ed8203f4fe6618d9c337d70c6d1c53e1e0b62715378e0bab4cd24e62c"
+  },
+  {
+   "title": "Both my Bruddas",
+   "artist": "1900Rugrat",
+   "file": "1900rugrat-both-my-bruddas.lrc",
+   "kind": "synced",
+   "sha": "07436b84e4bd92fd8bb34e6873f4c6832d8e554a43a1eeca823d80a12b023ce4"
   },
   {
    "title": "Clean & Dirty",
@@ -227,6 +234,13 @@
    "sha": "cd993072c5b1e6232335215f50e3a5ac630fb47ba9f08e9dd301720d3f33ba2b"
   },
   {
+   "title": "Shark Szn",
+   "artist": "408 Darwin",
+   "file": "408-darwin-shark-szn.lrc",
+   "kind": "synced",
+   "sha": "ea85e89cb19f9d0626553b46a4149f6a81058d914eacb3b9e1f6fb2c1384947d"
+  },
+  {
    "title": "414bigfrank (Backpack)",
    "artist": "414bigfrank",
    "file": "414bigfrank-414bigfrank.lrc",
@@ -379,6 +393,13 @@
    "file": "42-dugg-palm-angels-in-the-sky.lrc",
    "kind": "synced",
    "sha": "82bdda8bf9e1891645389791644df6d17fe667745b55eac5935a62054c40efb4"
+  },
+  {
+   "title": "It Is What It Is (feat. Lil Baby & Rylo Rodriguez)",
+   "artist": "42 Dugg, Rylo Rodriguez, Lil Baby",
+   "file": "42-dugg-rylo-rodriguez-lil-baby-it-is-what-it-is-feat-lil-baby-rylo-rodriguez.lrc",
+   "kind": "synced",
+   "sha": "df6bd406952c0fc999c80f5a204552fa7d256543268364dfa0f68620433e68b4"
   },
   {
    "title": "SpinDatBac",
@@ -780,6 +801,13 @@
    "sha": "1e57b1c21a3f5bef8443da42d6db880f140f9576e72655eee70c1c8f58df4259"
   },
   {
+   "title": "ATTITUDE PROBLEMS",
+   "artist": "BabyChiefDoit, Cash Cobain",
+   "file": "babychiefdoit-cash-cobain-attitude-problems.lrc",
+   "kind": "synced",
+   "sha": "eb1d0671264dda2037b8f91d9b7b544a3918c4b4533e43947a8bd76423421e96"
+  },
+  {
    "title": "RAT 4 RAT",
    "artist": "BabyChiefDoit, DThang",
    "file": "babychiefdoit-dthang-rat-4-rat.lrc",
@@ -792,6 +820,13 @@
    "file": "babychiefdoit-ebgditb.lrc",
    "kind": "synced",
    "sha": "42b4b5d06f0438b8cffeec9d068c8baf6e4bf6ff916aa11567300f942de64384"
+  },
+  {
+   "title": "HOW U DOIN",
+   "artist": "BabyChiefDoit",
+   "file": "babychiefdoit-how-u-doin.lrc",
+   "kind": "synced",
+   "sha": "116b067200a16ced421b906658ff4da87db644a91aacd062fdf019b693321f89"
   },
   {
    "title": "Laugh Now, Cry Later",
@@ -857,6 +892,13 @@
    "sha": "9a4d80966069b717d61a50f54a22fd6e66c5adb451d18e91e9fa390745db6c6c"
   },
   {
+   "title": "TIL THE WHOLE WORLD ZOO",
+   "artist": "BabyChiefDoit",
+   "file": "babychiefdoit-til-the-whole-world-zoo.lrc",
+   "kind": "synced",
+   "sha": "b3fc134697e36743ff1bdf9ea2ad5fba423425aa1eaa404bf763898ba12e550a"
+  },
+  {
    "title": "WENT WEST",
    "artist": "BabyChiefDoit",
    "file": "babychiefdoit-went-west.lrc",
@@ -890,6 +932,13 @@
    "file": "babyface-ray-wonderful-wayne-jackie-boy.lrc",
    "kind": "synced",
    "sha": "0f826464f00765c6b2a3f5c0c650d370c5ce749a4fa5b9ec138638ffb71b2a4d"
+  },
+  {
+   "title": "Broad Day",
+   "artist": "Babyfxce E",
+   "file": "babyfxce-e-broad-day.lrc",
+   "kind": "synced",
+   "sha": "077c1fefc8ea25641ac6df5c7f6ca36e9da6d69ed3028b402ada628a31175b74"
   },
   {
    "title": "PTP",
@@ -1221,6 +1270,13 @@
    "sha": "651b614eb38775f0b20d0c0227432bbd59be64a293d496de1f4181072d42a6b5"
   },
   {
+   "title": "My Fault (feat. DeeBaby)",
+   "artist": "BAK Jay, DeeBaby",
+   "file": "bak-jay-deebaby-my-fault-feat-deebaby.lrc",
+   "kind": "synced",
+   "sha": "2c66c60de8c374fb9d4b85811b208e64635fb6ad8a16f50d3391d502325e6254"
+  },
+  {
    "title": "Double",
    "artist": "BAK Jay",
    "file": "bak-jay-double.lrc",
@@ -1275,6 +1331,13 @@
    "file": "bak-jay-junkie-money.lrc",
    "kind": "synced",
    "sha": "693cd746298469cc34765795db100dd4ff8d17e223cb7ab35d112156212950c8"
+  },
+  {
+   "title": "Money & Problems",
+   "artist": "BAK Jay",
+   "file": "bak-jay-money-problems.lrc",
+   "kind": "synced",
+   "sha": "41c719461c25632b413a7d1eab6ac7bae03050770831a89686c70d9f95a1276c"
   },
   {
    "title": "Pop Shii",
@@ -1571,6 +1634,13 @@
    "sha": "addb28830a70ac740d2346416075bb0a35c367e71e1792237b55aa5cdbf148ef"
   },
   {
+   "title": "Opp Pacc",
+   "artist": "BIG30",
+   "file": "big30-opp-pacc.lrc",
+   "kind": "synced",
+   "sha": "d626577e595a1293b1f1f36454554f72812c40c17c9b0be8429d61d0e1bfb46f"
+  },
+  {
    "title": "Shots Out the Vette",
    "artist": "BIG30",
    "file": "big30-shots-out-the-vette.lrc",
@@ -1711,6 +1781,13 @@
    "sha": "0d0a1735f086104e5ba519598354e824244a449ad75d28c87fe402c568d8392e"
   },
   {
+   "title": "4 Inda Morning",
+   "artist": "Bo Billy",
+   "file": "bo-billy-4-inda-morning.lrc",
+   "kind": "synced",
+   "sha": "9d2c9a717b1b9426cbf19c334f724c20d9235a7697def85f3e9e024a3c30a5ce"
+  },
+  {
    "title": "Dlow Curry",
    "artist": "BossMan Dlow",
    "file": "bossman-dlow-dlow-curry.lrc",
@@ -1730,6 +1807,13 @@
    "file": "bossman-dlow-heating-up.txt",
    "kind": "plain",
    "sha": "386884358352a9882e8fdf6e4997db109a33070784d172d0f9ddbbf21883d8de"
+  },
+  {
+   "title": "How I'm Livin",
+   "artist": "BossMan Dlow",
+   "file": "bossman-dlow-how-i-m-livin.lrc",
+   "kind": "synced",
+   "sha": "033e1cb4be6110ed0f61b2cc511c874bdf89aa5a81ac886a517fbfa68a36e86f"
   },
   {
    "title": "ION WANNA HEAR IT",
@@ -1928,6 +2012,13 @@
    "sha": "db156705c86047faa92813b5e9ae4e15157499484df8165104f29ffd0525d9b3"
   },
   {
+   "title": "DAMN SHORTY - feat. Sexyy Red",
+   "artist": "Chief Keef, Mike WiLL Made-It, Sexyy Red",
+   "file": "chief-keef-mike-will-made-it-sexyy-red-damn-shorty-feat-sexyy-red.lrc",
+   "kind": "synced",
+   "sha": "c27c3d914b77efba393b919c798c08e536f32f070a658146291f0b6079892e70"
+  },
+  {
    "title": "Tony Montana Flow",
    "artist": "Chief Keef, Akachi",
    "file": "chief-keef-tony-montana-flow.txt",
@@ -1954,6 +2045,27 @@
    "file": "chuckyy-bodiez.lrc",
    "kind": "synced",
    "sha": "c2d2d27b8c7827bb9802778cc18dc751b37ea78d34d82188208a7eb8cfb1f919"
+  },
+  {
+   "title": "F Talkin",
+   "artist": "Chuckyy",
+   "file": "chuckyy-f-talkin.lrc",
+   "kind": "synced",
+   "sha": "71b6d2133a97f65f246b0382abb48ee02e5ddd12f14e6a57469b7ce4a325d695"
+  },
+  {
+   "title": "My World",
+   "artist": "Chuckyy",
+   "file": "chuckyy-my-world.lrc",
+   "kind": "synced",
+   "sha": "d3bf4ffbf59ae768d6bbd4c7a95ae1b35753a61e682af051e1fcb1984437f885"
+  },
+  {
+   "title": "No Blickout",
+   "artist": "Chuckyy",
+   "file": "chuckyy-no-blickout.lrc",
+   "kind": "synced",
+   "sha": "718bd9615b3ae6227a231e07a1e13bfc4c175066cdd607cf077dc85334229e5c"
   },
   {
    "title": "Plenty",
@@ -2054,6 +2166,13 @@
    "sha": "db195e243a0983d4c810e0e50c0156ac13c85f14514057865e28148e35403471"
   },
   {
+   "title": "Gimme A Reason",
+   "artist": "DaBaby",
+   "file": "dababy-gimme-a-reason.lrc",
+   "kind": "synced",
+   "sha": "44ea6e67b3e6756e4f6693baa7f3c7a486429fdd4f7148c20f7110555195bae7"
+  },
+  {
    "title": "Goin Baby",
    "artist": "DaBaby",
    "file": "dababy-goin-baby.lrc",
@@ -2101,6 +2220,13 @@
    "file": "dababy-on-this-line.lrc",
    "kind": "synced",
    "sha": "2f97723223d21b789f1c1615a174f462b8d46193863d4fcca4f846dfc16aa4f9"
+  },
+  {
+   "title": "POOTIE TANG",
+   "artist": "DaBaby",
+   "file": "dababy-pootie-tang.lrc",
+   "kind": "synced",
+   "sha": "9c8af0eb553691d41afd26561bcba2d54527ccc494455b12715c44e1e4ba8b8c"
   },
   {
    "title": "PRACTICE",
@@ -2290,6 +2416,20 @@
    "file": "dee-watkins-fresh-off-a-lick.txt",
    "kind": "plain",
    "sha": "8c6927a40ce2dfbfdc673010459794bc8a1ad1215e6fcec4694dd0cd74a2e316"
+  },
+  {
+   "title": "Belt",
+   "artist": "DesignerDon",
+   "file": "designerdon-belt.lrc",
+   "kind": "synced",
+   "sha": "a5c09e48b3796b5b46aeb19cf2ee37b539c374a15d0d8f4b9f8bac1a25f56ee1"
+  },
+  {
+   "title": "Draft Day",
+   "artist": "DesignerDon",
+   "file": "designerdon-draft-day.lrc",
+   "kind": "synced",
+   "sha": "3b5ad986902ce2ab428acee3c4b53c1e196ca836ff91cfc45095db096fddc77e"
   },
   {
    "title": "In The Air",
@@ -2549,6 +2689,13 @@
    "file": "eminem-tobey.lrc",
    "kind": "synced",
    "sha": "96110144bb77f66f56aff12f64f3b2584edb3a478696ad79e93f783d492268b8"
+  },
+  {
+   "title": "Valet (feat. Fetty Wap and 2 Chainz)",
+   "artist": "Eric Bellinger, Fetty Wap, 2 Chainz",
+   "file": "eric-bellinger-fetty-wap-2-chainz-valet-feat-fetty-wap-and-2-chainz.lrc",
+   "kind": "synced",
+   "sha": "e39a4d90984c264331257c6b1106b074e6328eaad9a671ccdce6d7eaf7534303"
   },
   {
    "title": "5500 Degrees (feat. Lil Baby, 42 Dugg & Rylo Rodriguez)",
@@ -3083,6 +3230,13 @@
    "sha": "0a27a4143b9df4167e38ff1e5969fd974613988e8ed28e27c231db881a040838"
   },
   {
+   "title": "Back Up",
+   "artist": "GrindHard E",
+   "file": "grindhard-e-back-up.lrc",
+   "kind": "synced",
+   "sha": "0cbaf5dd34e55d17ee6576d0588a4b7d6692bede2b7af7d13c60a86965a5e73c"
+  },
+  {
    "title": "Hardly Breathe",
    "artist": "GrindHard E, Rio Da Yung Og",
    "file": "grindhard-e-hardly-breathe.lrc",
@@ -3095,6 +3249,13 @@
    "file": "grindhard-e-neverr.lrc",
    "kind": "synced",
    "sha": "e87947fbc8ca9058964f12c04fd66d9324f0bd7657ecafa3728c4f27f808dc61"
+  },
+  {
+   "title": "STD",
+   "artist": "GrindHard E",
+   "file": "grindhard-e-std.lrc",
+   "kind": "synced",
+   "sha": "c18dddafdeda6bdbd057b9a6b96c67806cc95503856384881226e66ad8a49776"
   },
   {
    "title": "Out The Way",
@@ -3564,6 +3725,13 @@
    "file": "juice-the-kid-w-purple-moncler.lrc",
    "kind": "synced",
    "sha": "2748409720e3d145c062ee6270452e49b6bff8a3449360336ab17994fc6c8408"
+  },
+  {
+   "title": "10 Feet",
+   "artist": "Juice WRLD",
+   "file": "juice-wrld-10-feet.lrc",
+   "kind": "synced",
+   "sha": "5d3fe48f48f932c4675ac230bcf759ad1a50e6d54da365976449ed039ef3c689"
   },
   {
    "title": "4th quarter shawty freestyle",
@@ -4420,6 +4588,13 @@
    "sha": "6cb224678c4d2892fd786de9a9f40ccc256ab8c862ae822102b9439d74d89ba2"
   },
   {
+   "title": "War With Us",
+   "artist": "King Von",
+   "file": "king-von-war-with-us.lrc",
+   "kind": "synced",
+   "sha": "84e15897ba96bc711fa0971eda2880ec2538814f78bccb16b506061c0ab73ece"
+  },
+  {
    "title": "War",
    "artist": "King Von",
    "file": "king-von-war.lrc",
@@ -4763,6 +4938,13 @@
    "sha": "5991b91a796855a0f11f2ba381103a6aa8bbec04734d3677366d0371938e439d"
   },
   {
+   "title": "Flexing All Summer",
+   "artist": "Lackvill",
+   "file": "lackvill-flexing-all-summer.lrc",
+   "kind": "synced",
+   "sha": "8006d97b263518773a8da8a820410d6169eca09fb5d6f6b63e7a3c411bb509db"
+  },
+  {
    "title": "YAMS",
    "artist": "lady2x, Klouxt",
    "file": "lady2x-klouxt-yams.lrc",
@@ -5057,6 +5239,13 @@
    "sha": "f2afad0f74447f67d5c26871b51e6d0cb5d62bcc82c0318a2784271ff5c082d5"
   },
   {
+   "title": "Mrs. Trendsetter",
+   "artist": "Lil Baby",
+   "file": "lil-baby-mrs-trendsetter.lrc",
+   "kind": "synced",
+   "sha": "c7807e1b1e9a156ee79001940dd8666b8267ef98454ca3cdc60110007f2e7620"
+  },
+  {
    "title": "Narcs",
    "artist": "Lil Baby",
    "file": "lil-baby-narcs.lrc",
@@ -5267,6 +5456,13 @@
    "sha": "38ede64ab5f7d0eb6d734defbfb55aa4308b1bcc381e797f6fffa2efc7605bcd"
   },
   {
+   "title": "Message",
+   "artist": "Lil Double 0",
+   "file": "lil-double-0-message.lrc",
+   "kind": "synced",
+   "sha": "ee225962f24b9c6f1f1ff3ddd33c0a09920e6456f5e635ff879fa7f6afe44c35"
+  },
+  {
    "title": "Percocet & Stripper Joint",
    "artist": "Lil Double 0",
    "file": "lil-double-0-percocet-stripper-joint.txt",
@@ -5398,6 +5594,13 @@
    "file": "lil-durk-fuck-it.lrc",
    "kind": "synced",
    "sha": "025fc013836bb8d0aafa079588fd91e212ecf2a267ffaccc83adee0bdc441d67"
+  },
+  {
+   "title": "Spin The Block (feat. Future)",
+   "artist": "Lil Durk, Future",
+   "file": "lil-durk-future-spin-the-block-feat-future.lrc",
+   "kind": "synced",
+   "sha": "e0196cf3815effb0ac9dd57b258ef670bcb8a37439ecebceb9988f6da98e7bdb"
   },
   {
    "title": "Hanging With Wolves",
@@ -6023,6 +6226,13 @@
    "sha": "5af041a1b6e0d38b4deef73477cb20ffdea00a601c930df1f74d36cccb41417e"
   },
   {
+   "title": "New Patek",
+   "artist": "Lil Uzi Vert",
+   "file": "lil-uzi-vert-new-patek.lrc",
+   "kind": "synced",
+   "sha": "d20db030c912176df55bd43aa1913e01da09773519cb9a420af98aa7d01f36f9"
+  },
+  {
    "title": "No Auto (feat. Lil Durk)",
    "artist": "Lil Uzi Vert, Lil Durk",
    "file": "lil-uzi-vert-no-auto.lrc",
@@ -6091,6 +6301,13 @@
    "file": "lil-uzi-vert-watch-this.lrc",
    "kind": "synced",
    "sha": "71bbbb78d81432393921c02e9d6a766bd8b1021a54e1b3d56d0010d6892fde8b"
+  },
+  {
+   "title": "What You Saying",
+   "artist": "Lil Uzi Vert",
+   "file": "lil-uzi-vert-what-you-saying.lrc",
+   "kind": "synced",
+   "sha": "d3052e9ea57f50879349723b6156111e0107215a835333c509e6b40dbac03b3b"
   },
   {
    "title": "x2",
@@ -6329,6 +6546,13 @@
    "file": "maf-teeski-pursuit.lrc",
    "kind": "synced",
    "sha": "241ceee0fdb8434a681b6b6d8c715ed6c7c289884008e183545b387be4012619"
+  },
+  {
+   "title": "Smile",
+   "artist": "MAF Teeski",
+   "file": "maf-teeski-smile.lrc",
+   "kind": "synced",
+   "sha": "3905101f8eccdb1afd061b20f647babbcfaf5bb29dfeef3a8b04228809ca9182"
   },
   {
    "title": "Tips On How To Catch A Murder",
@@ -6644,6 +6868,13 @@
    "file": "mg-sleepy-tse-e2-jay-juice-black-cursive.lrc",
    "kind": "synced",
    "sha": "49b962ca76f98dc82f0dd2149f1641f826f2f0e03353e96539b4da815e5b74ef"
+  },
+  {
+   "title": "Where My Glock @",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-where-my-glock.lrc",
+   "kind": "synced",
+   "sha": "849341113e183cbd5fbc4a405cf4658e61cc5bd5e775fc4d9b47a6e456302313"
   },
   {
    "title": "beauty",
@@ -7598,6 +7829,13 @@
    "sha": "6a0e8a83364fc50b8c662987058952592294f6d25a90a041975c5030809b10ff"
   },
   {
+   "title": "HBA",
+   "artist": "Playboi Carti",
+   "file": "playboi-carti-hba.lrc",
+   "kind": "synced",
+   "sha": "a137cc2a6bfd4c54beb8b0f321a0bf86eed51aec12010f35d46166ba6806de22"
+  },
+  {
    "title": "Love Hurts (feat. Travis Scott)",
    "artist": "Playboi Carti, Travis Scott",
    "file": "playboi-carti-love-hurts.lrc",
@@ -7617,6 +7855,13 @@
    "file": "playboi-carti-wokeuplikethis.lrc",
    "kind": "synced",
    "sha": "5216d14e7e7e69a449b8b91ada5cf4425e1dc45e72df3a75253b303c248574b2"
+  },
+  {
+   "title": "Motion (feat. Sexyy Red & NaNaski)",
+   "artist": "PLUTO, NaNaski, Sexyy Red",
+   "file": "pluto-nanaski-sexyy-red-motion-feat-sexyy-red-nanaski.lrc",
+   "kind": "synced",
+   "sha": "c839a683a80dc01ea09b26c25c492bf052fc7b32e13199e3d31d9e039bd05a33"
   },
   {
    "title": "I Like Girls (feat. Lil Skies)",
@@ -7780,6 +8025,13 @@
    "sha": "6b97dadeead1dba9be17437fcb15f0ab0e41594f83d71fc9eb1b19dcc1f7bf9e"
   },
   {
+   "title": "Gangsta Graduation (feat. G Herbo)",
+   "artist": "Polo G, G Herbo",
+   "file": "polo-g-g-herbo-gangsta-graduation-feat-g-herbo.lrc",
+   "kind": "synced",
+   "sha": "47a7a2ff649d899535380e23af8ad49ad66fab1f5f26f24c104263fb61562871"
+  },
+  {
    "title": "G63 (feat. Offset)",
    "artist": "Polo G, Offset",
    "file": "polo-g-g63.txt",
@@ -7815,6 +8067,13 @@
    "sha": "661a0e70734d681e76fa9d55b2c99a75dffa750cd2de6ff8d5f5ebfb4af49240"
   },
   {
+   "title": "Hard Body",
+   "artist": "Polo G",
+   "file": "polo-g-hard-body.lrc",
+   "kind": "synced",
+   "sha": "f516d2326ea182c5033e79f6046e0ccf5227703e7afe132e2ef12b59bab8e16b"
+  },
+  {
    "title": "Heart of a Giant (with Rod Wave)",
    "artist": "Polo G, Rod Wave",
    "file": "polo-g-heart-of-a-giant.lrc",
@@ -7834,6 +8093,13 @@
    "file": "polo-g-heating-up.lrc",
    "kind": "synced",
    "sha": "74ea5cd3d55e9e92b88a220b49344914f86cf151a611b6a52a4bb5b8b3c9d41d"
+  },
+  {
+   "title": "High Tolerance",
+   "artist": "Polo G",
+   "file": "polo-g-high-tolerance.lrc",
+   "kind": "synced",
+   "sha": "8b5e57ffd76a3611d21e5c08f427877bcbca6d02556db146956e4fbf0dc53665"
   },
   {
    "title": "Hollywood",
@@ -8984,11 +9250,25 @@
    "sha": "c2a38ef12f099829d312fa69c3d4377a3fa51069e081513e9c2422e388676adc"
   },
   {
+   "title": "If You Want It",
+   "artist": "Sexyy Red",
+   "file": "sexyy-red-if-you-want-it.lrc",
+   "kind": "synced",
+   "sha": "0496457cfcb2f03c22048f75cbf6b8fbb2552567d705d3b5f983a2003ef93b35"
+  },
+  {
    "title": "Sexyy Love Money (feat. VonOff1700)",
    "artist": "Sexyy Red, VonOff1700",
    "file": "sexyy-red-sexyy-love-money.lrc",
    "kind": "synced",
    "sha": "c82a62e5a907ddd53e1d20ef59fb56b50478a5e629f003556d9850ee757e043e"
+  },
+  {
+   "title": "Hood Rats (with Sukihana)",
+   "artist": "Sexyy Red, Sukihana",
+   "file": "sexyy-red-sukihana-hood-rats-with-sukihana.lrc",
+   "kind": "synced",
+   "sha": "9435eb243f40da12464742ea35887fb84f058eba0de79f1bfe63537509592993"
   },
   {
    "title": "On Go (feat. Polo G)",
@@ -9276,6 +9556,13 @@
    "file": "steppa-white-bitch.lrc",
    "kind": "synced",
    "sha": "9fb23bbabe3f2a4ac49cbb2d2c3807d8b288f676e16129690e99f69f31fc5638"
+  },
+  {
+   "title": "Go Crazy",
+   "artist": "Stunthard Hotboyz",
+   "file": "stunthard-hotboyz-go-crazy.lrc",
+   "kind": "synced",
+   "sha": "2fe8521b5b4f0aa648f0c906d05431d29f511f56d20f05334891749f56a72f3e"
   },
   {
    "title": "Crashouts (feat. BabyChiefDoit & Baby Kia)",
@@ -10132,6 +10419,13 @@
    "sha": "9fcb33cb48a9c9329ab120bb74c7c8b90ea0a440e2b27a595f9808a8323e01c9"
   },
   {
+   "title": "Can't Count Me Out",
+   "artist": "Trippie Redd",
+   "file": "trippie-redd-can-t-count-me-out.lrc",
+   "kind": "synced",
+   "sha": "0ec41dc693f4a7baeff9512d87a617aa5c209bd578292999feabbb5d962d46ee"
+  },
+  {
    "title": "DARK BROTHERHOOD (feat. Lil Baby)",
    "artist": "Trippie Redd, Lil Baby",
    "file": "trippie-redd-dark-brotherhood.txt",
@@ -10256,6 +10550,13 @@
    "file": "tyga-splash.lrc",
    "kind": "synced",
    "sha": "f9b9daa612e5521d3a1735993c3506d30e613cc8939949709d08746d1c4626a0"
+  },
+  {
+   "title": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+   "artist": "Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne",
+   "file": "tyler-the-creator-glorilla-sexyy-red-lil-wayne-sticky-feat-glorilla-sexyy-red-lil-wayne.lrc",
+   "kind": "synced",
+   "sha": "b713e02949d1bb35b7ad9b3196d21f1a6842a4e93dc0ec82d26e6a6da54d6d61"
   },
   {
    "title": "1000 Blunts",
