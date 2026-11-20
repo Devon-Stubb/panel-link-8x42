@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-20 12:24 CST",
- "updated_epoch": 1795199078,
- "library_songs": 1662,
+ "updated": "2026-11-20 13:30 CST",
+ "updated_epoch": 1795203001,
+ "library_songs": 1667,
  "total": 891,
- "done": 359,
- "open": 532,
+ "done": 364,
+ "open": 527,
  "by_status": {
-  "no_lyrics_yet": 256,
+  "no_lyrics_yet": 252,
   "has_lyrics_needs_sync": 219,
-  "transcribing": 3,
+  "transcribing": 2,
   "blocked_on_audio": 46
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 263,
-   "open": 407
+   "done": 267,
+   "open": 403
   },
   "TopOppGen": {
    "done": 51,
    "open": 0
   },
   "BabyRu78": {
-   "done": 30,
-   "open": 55
+   "done": 31,
+   "open": 54
   },
   "AZIEDOESNTEXIST": {
    "done": 4,
@@ -34,6 +34,26 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "vonoff1700-b4",
+   "when": "Nov 20 12:57"
+  },
+  {
+   "slug": "vonoff1700-bread-winner",
+   "when": "Nov 20 12:57"
+  },
+  {
+   "slug": "babyfxce-e-rio-da-yung-og-die-bout-it-feat-rio-da-yung-og",
+   "when": "Nov 20 12:57"
+  },
+  {
+   "slug": "babyru78-chmc",
+   "when": "Nov 20 12:35"
+  },
+  {
+   "slug": "bak-jay-nino-paid-hood-feat-nino-paid",
+   "when": "Nov 20 12:35"
+  },
   {
    "slug": "babyru78-hellstar-fit",
    "when": "Nov 20 12:00"
@@ -69,45 +89,23 @@
   {
    "slug": "lil-double-0-message",
    "when": "Nov 20 10:21"
-  },
-  {
-   "slug": "42-dugg-rylo-rodriguez-lil-baby-it-is-what-it-is-feat-lil-baby-rylo-rodriguez",
-   "when": "Nov 20 09:57"
-  },
-  {
-   "slug": "lil-uzi-vert-what-you-saying",
-   "when": "Nov 20 09:57"
-  },
-  {
-   "slug": "pluto-nanaski-sexyy-red-motion-feat-sexyy-red-nanaski",
-   "when": "Nov 20 09:57"
-  },
-  {
-   "slug": "1900rugrat-both-my-bruddas",
-   "when": "Nov 20 09:22"
-  },
-  {
-   "slug": "babyfxce-e-broad-day",
-   "when": "Nov 20 08:58"
   }
  ],
- "transcribing_now": [
-  "bak jay nino paid hood feat nino paid"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
-   "slug": "bak-jay-nino-paid-hood-feat-nino-paid",
-   "title": "Hood (feat. Nino Paid)",
-   "artist": "BAK Jay, Nino Paid",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 01:31"
-  },
-  {
-   "slug": "babyru78-chmc",
-   "title": "CHMC",
+   "slug": "babyru78-boomin",
+   "title": "BOOMIN",
    "artist": "BabyRu78",
    "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "vonoff1700-polo-g-turn-me-up-g-k-s-y-w-t-m-u-feat-polo-g",
+   "title": "Turn Me Up (G.K.S.Y.W.T.M.U) (feat. Polo G)",
+   "artist": "VonOff1700, Polo G",
+   "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
