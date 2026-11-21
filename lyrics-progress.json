@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-20 17:20 CST",
- "updated_epoch": 1795216839,
- "library_songs": 1679,
+ "updated": "2026-11-20 19:15 CST",
+ "updated_epoch": 1795223714,
+ "library_songs": 1688,
  "total": 891,
- "done": 376,
- "open": 515,
+ "done": 385,
+ "open": 506,
  "by_status": {
-  "no_lyrics_yet": 236,
+  "no_lyrics_yet": 228,
   "has_lyrics_needs_sync": 221,
-  "transcribing": 2,
+  "transcribing": 1,
   "blocked_on_audio": 48
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 278,
-   "open": 392
+   "done": 287,
+   "open": 383
   },
   "TopOppGen": {
    "done": 51,
@@ -35,6 +35,42 @@
  },
  "finished_recently": [
   {
+   "slug": "lil-king-crying-on-the-floor",
+   "when": "Nov 20 18:56"
+  },
+  {
+   "slug": "sleepypuppy77-painkillers",
+   "when": "Nov 20 18:56"
+  },
+  {
+   "slug": "david-kushner-daylight",
+   "when": "Nov 20 18:56"
+  },
+  {
+   "slug": "t-choppa-piano",
+   "when": "Nov 20 18:47"
+  },
+  {
+   "slug": "fadess-1900rugrat-fairly-odd",
+   "when": "Nov 20 18:40"
+  },
+  {
+   "slug": "1900rugrat-hollaback-girl-remix",
+   "when": "Nov 20 18:35"
+  },
+  {
+   "slug": "chief-keef-macoroni-time",
+   "when": "Nov 20 17:56"
+  },
+  {
+   "slug": "king-von-hoes-ain-t-shit",
+   "when": "Nov 20 17:56"
+  },
+  {
+   "slug": "1900rugrat-sexyback-remix",
+   "when": "Nov 20 17:21"
+  },
+  {
    "slug": "pooh-shiesty-big30-hell-night",
    "when": "Nov 20 16:59"
   },
@@ -53,53 +89,19 @@
   {
    "slug": "1900rugrat-aretha-franklin-freestyle",
    "when": "Nov 20 15:53"
-  },
-  {
-   "slug": "lil-baby-emotionally-scarred",
-   "when": "Nov 20 14:57"
-  },
-  {
-   "slug": "rio-da-yung-og-yn-jay-babyfxce-e-the-big-3",
-   "when": "Nov 20 14:57"
-  },
-  {
-   "slug": "1900rugrat-plane-jane",
-   "when": "Nov 20 14:57"
-  },
-  {
-   "slug": "1900rugrat-aspen-freestyle",
-   "when": "Nov 20 14:56"
-  },
-  {
-   "slug": "babyru78-boomin",
-   "when": "Nov 20 14:33"
-  },
-  {
-   "slug": "vonoff1700-that-s-mine",
-   "when": "Nov 20 14:33"
-  },
-  {
-   "slug": "vonoff1700-polo-g-turn-me-up-g-k-s-y-w-t-m-u-feat-polo-g",
-   "when": "Nov 20 14:32"
-  },
-  {
-   "slug": "vonoff1700-b4",
-   "when": "Nov 20 12:57"
-  },
-  {
-   "slug": "vonoff1700-bread-winner",
-   "when": "Nov 20 12:57"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "b jack babychiefdoit break it"
+ ],
  "in_progress": [
   {
-   "slug": "1900rugrat-sexyback-remix",
-   "title": "SexyBack Remix",
-   "artist": "1900Rugrat, -",
+   "slug": "b-jack-babychiefdoit-break-it",
+   "title": "Break It",
+   "artist": "B Jack$, BabyChiefDoit",
    "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 16:10"
   },
   {
    "slug": "krispylife-kidd-certified-motion",
