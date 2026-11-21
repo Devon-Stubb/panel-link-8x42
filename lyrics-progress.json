@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20 21:12 CST",
- "updated_epoch": 1795230751,
+ "updated": "2026-11-20 21:29 CST",
+ "updated_epoch": 1795231774,
  "library_songs": 1693,
  "total": 891,
  "done": 390,
@@ -91,17 +91,15 @@
    "when": "Nov 20 17:21"
   }
  ],
- "transcribing_now": [
-  "bak jay intro ain t right"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
    "slug": "bak-jay-intro-ain-t-right",
    "title": "Intro (Ain't Right)",
    "artist": "BAK Jay",
    "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 04:34"
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
   },
   {
    "slug": "krispylife-kidd-certified-motion",
@@ -142,6 +140,14 @@
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
    "detail": "1 of 3 passes in \u2014 more transcription queued"
+  },
+  {
+   "slug": "vonoff1700-time-again",
+   "title": "Time Again",
+   "artist": "VonOff1700",
+   "tier": "Rest of playlist",
+   "stage": "Transcription paused",
+   "detail": "2 of 3 passes in \u2014 more transcription queued"
   }
  ]
 }
