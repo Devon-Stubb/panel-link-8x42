@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-20 21:29 CST",
- "updated_epoch": 1795231774,
- "library_songs": 1693,
+ "updated": "2026-11-20 23:34 CST",
+ "updated_epoch": 1795239252,
+ "library_songs": 1699,
  "total": 891,
- "done": 390,
- "open": 501,
+ "done": 396,
+ "open": 495,
  "by_status": {
-  "no_lyrics_yet": 220,
-  "has_lyrics_needs_sync": 221,
+  "no_lyrics_yet": 213,
+  "has_lyrics_needs_sync": 222,
   "transcribing": 4,
   "blocked_on_audio": 48
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 292,
-   "open": 378
+   "done": 298,
+   "open": 372
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,30 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "babychiefdoit-game-six",
+   "when": "Nov 20 22:59"
+  },
+  {
+   "slug": "bak-jay-money-b-s",
+   "when": "Nov 20 22:42"
+  },
+  {
+   "slug": "babytron-manute-bol",
+   "when": "Nov 20 21:57"
+  },
+  {
+   "slug": "lil-twin-letter-to-jack",
+   "when": "Nov 20 21:57"
+  },
+  {
+   "slug": "lil-scoom89-blood-in-blood-out",
+   "when": "Nov 20 21:57"
+  },
+  {
+   "slug": "bak-jay-intro-ain-t-right",
+   "when": "Nov 20 21:48"
+  },
   {
    "slug": "b-jack-babychiefdoit-break-it",
    "when": "Nov 20 20:58"
@@ -65,38 +89,16 @@
   {
    "slug": "david-kushner-daylight",
    "when": "Nov 20 18:56"
-  },
-  {
-   "slug": "t-choppa-piano",
-   "when": "Nov 20 18:47"
-  },
-  {
-   "slug": "fadess-1900rugrat-fairly-odd",
-   "when": "Nov 20 18:40"
-  },
-  {
-   "slug": "1900rugrat-hollaback-girl-remix",
-   "when": "Nov 20 18:35"
-  },
-  {
-   "slug": "chief-keef-macoroni-time",
-   "when": "Nov 20 17:56"
-  },
-  {
-   "slug": "king-von-hoes-ain-t-shit",
-   "when": "Nov 20 17:56"
-  },
-  {
-   "slug": "1900rugrat-sexyback-remix",
-   "when": "Nov 20 17:21"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "paygotti bak jay onnat tymin"
+ ],
  "in_progress": [
   {
-   "slug": "bak-jay-intro-ain-t-right",
-   "title": "Intro (Ain't Right)",
-   "artist": "BAK Jay",
+   "slug": "paygotti-bak-jay-onnat-tymin",
+   "title": "Onnat Tymin",
+   "artist": "PayGotti, BAK Jay",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
