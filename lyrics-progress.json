@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21 01:08 CST",
- "updated_epoch": 1795244907,
+ "updated": "2026-11-21 01:17 CST",
+ "updated_epoch": 1795245428,
  "library_songs": 1707,
  "total": 891,
  "done": 404,
@@ -91,9 +91,7 @@
    "when": "Nov 20 21:48"
   }
  ],
- "transcribing_now": [
-  "hottyboyzstitch run em over"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
    "slug": "hottyboyzstitch-run-em-over",
