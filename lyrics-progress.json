@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-21 04:36 CST",
- "updated_epoch": 1795257365,
- "library_songs": 1715,
+ "updated": "2026-11-21 08:51 CST",
+ "updated_epoch": 1795272709,
+ "library_songs": 1726,
  "total": 891,
- "done": 412,
- "open": 479,
+ "done": 423,
+ "open": 468,
  "by_status": {
-  "no_lyrics_yet": 193,
+  "no_lyrics_yet": 180,
   "has_lyrics_needs_sync": 223,
   "transcribing": 7,
-  "blocked_on_audio": 48
+  "blocked_on_audio": 50
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 314,
-   "open": 356
+   "done": 325,
+   "open": 345
   },
   "TopOppGen": {
    "done": 51,
@@ -35,6 +35,50 @@
  },
  "finished_recently": [
   {
+   "slug": "bloodhound-q50-vonoff1700-shoot-out",
+   "when": "Nov 21 07:58"
+  },
+  {
+   "slug": "mg-sleepy-acapella",
+   "when": "Nov 21 07:27"
+  },
+  {
+   "slug": "mg-sleepy-3-5s-all-7s",
+   "when": "Nov 21 07:20"
+  },
+  {
+   "slug": "mg-sleepy-connoisseur",
+   "when": "Nov 21 07:20"
+  },
+  {
+   "slug": "the-kid-laroi-selfish",
+   "when": "Nov 21 06:57"
+  },
+  {
+   "slug": "fattmack-polo-g-lay-it-down",
+   "when": "Nov 21 06:57"
+  },
+  {
+   "slug": "youngboy-never-broke-again-badder-than-yours",
+   "when": "Nov 21 06:56"
+  },
+  {
+   "slug": "vonoff1700-sbgbrick-key-first-day-out",
+   "when": "Nov 21 05:56"
+  },
+  {
+   "slug": "mg-sleepy-issa",
+   "when": "Nov 21 04:59"
+  },
+  {
+   "slug": "mg-sleepy-activated",
+   "when": "Nov 21 04:59"
+  },
+  {
+   "slug": "mg-sleepy-maui-wowie",
+   "when": "Nov 21 04:59"
+  },
+  {
    "slug": "babychiefdoit-get-high",
    "when": "Nov 21 03:38"
   },
@@ -45,74 +89,48 @@
   {
    "slug": "oliver-tree-life-goes-on",
    "when": "Nov 21 02:56"
-  },
-  {
-   "slug": "babychiefdoit-y-all-can-t-kill-me",
-   "when": "Nov 21 01:57"
-  },
-  {
-   "slug": "1900rugrat-pissed-me-off",
-   "when": "Nov 21 01:57"
-  },
-  {
-   "slug": "nino-paid-old-me",
-   "when": "Nov 21 01:57"
-  },
-  {
-   "slug": "babychiefdoit-apple-of-my-eye",
-   "when": "Nov 21 01:56"
-  },
-  {
-   "slug": "hottyboyzstitch-run-em-over",
-   "when": "Nov 21 01:18"
-  },
-  {
-   "slug": "babychiefdoit-jabriel-dear-jonathan",
-   "when": "Nov 21 00:56"
-  },
-  {
-   "slug": "babychiefdoit-ghetto-love-story",
-   "when": "Nov 21 00:56"
-  },
-  {
-   "slug": "babychiefdoit-rambo",
-   "when": "Nov 21 00:56"
-  },
-  {
-   "slug": "drake-what-did-i-miss",
-   "when": "Nov 21 00:56"
-  },
-  {
-   "slug": "nino-paid-vonoff1700-nun-but-drums-feat-vonoff1700",
-   "when": "Nov 20 23:57"
-  },
-  {
-   "slug": "katy-perry-chief-keef-legendary-lovers-save-me-feat-chief-keef",
-   "when": "Nov 20 23:57"
   }
  ],
- "transcribing_now": [],
+ "transcribing_now": [
+  "mg sleepy jay juice glockboy k3 s550"
+ ],
  "in_progress": [
   {
-   "slug": "mg-sleepy-activated",
-   "title": "Activated",
-   "artist": "Mg Sleepy",
+   "slug": "mg-sleepy-jay-juice-glockboy-k3-s550",
+   "title": "S550",
+   "artist": "Mg Sleepy, Jay Juice, Glockboy K3",
+   "tier": "Rest of playlist",
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 07:42"
+  },
+  {
+   "slug": "krispylife-kidd-just-like-that",
+   "title": "Just Like That",
+   "artist": "KrispyLife Kidd",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "mg-sleepy-issa",
-   "title": "Issa",
-   "artist": "Mg Sleepy",
+   "slug": "fattmack-shit-change",
+   "title": "Shit Change",
+   "artist": "FattMack",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "mg-sleepy-maui-wowie",
-   "title": "Maui Wowie",
-   "artist": "Mg Sleepy",
+   "slug": "rio-da-yung-og-lil-e-str8-drop-too",
+   "title": "Str8 Drop Too",
+   "artist": "Rio Da Yung Og, Lil E",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "jdot-breezy-who-am-i-pleasing",
+   "title": "Who Am I Pleasing",
+   "artist": "Jdot Breezy",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
@@ -132,14 +150,6 @@
    "tier": "Rest of playlist",
    "stage": "Fix in progress",
    "detail": "Re-checking specific lines against the audio"
-  },
-  {
-   "slug": "mg-sleepy-connoisseur",
-   "title": "Connoisseur",
-   "artist": "Mg Sleepy",
-   "tier": "Rest of playlist",
-   "stage": "Transcription paused",
-   "detail": "1 of 3 passes in \u2014 more transcription queued"
   },
   {
    "slug": "juice-wrld-denial-3-demo",
