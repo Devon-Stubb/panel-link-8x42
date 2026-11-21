@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T21:15:35Z",
- "count": 1668,
+ "generated_at": "2026-11-21T03:12:04Z",
+ "count": 1687,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -31,11 +31,25 @@
    "sha": "3b50de991eab2ba11d89ca48dcb51adc47ba104327d0f72d8c8eed4e8ab54c92"
   },
   {
+   "title": "100 Bowls",
+   "artist": "1900Rugrat",
+   "file": "1900rugrat-100-bowls.lrc",
+   "kind": "synced",
+   "sha": "f4e12089acdd8c30f114dad44f871582332f4589bbb2604f27ffd91c2b7d1d63"
+  },
+  {
    "title": "Ain't No Love (feat. BabyChiefDoit & BAK Jay)",
    "artist": "1900Rugrat, BabyChiefDoit, BAK Jay",
    "file": "1900rugrat-ain-t-no-love.lrc",
    "kind": "synced",
    "sha": "6963887ed8203f4fe6618d9c337d70c6d1c53e1e0b62715378e0bab4cd24e62c"
+  },
+  {
+   "title": "Aretha Franklin Freestyle",
+   "artist": "1900Rugrat",
+   "file": "1900rugrat-aretha-franklin-freestyle.lrc",
+   "kind": "synced",
+   "sha": "f6c641a79cdc90ce59b979e3d16f33ba7fc828c2d5e6bb6f27427212522639d8"
   },
   {
    "title": "Aspen Freestyle",
@@ -66,11 +80,25 @@
    "sha": "34346db8ef0d9344ff08db695a0e1a3ca7c0a5b15e6064c7d2b434b1ddae2dc1"
   },
   {
+   "title": "Hollaback Girl Remix",
+   "artist": "1900Rugrat",
+   "file": "1900rugrat-hollaback-girl-remix.lrc",
+   "kind": "synced",
+   "sha": "dcf37dd5b4f7cca8e647f05c92fdbb9066b62c8dbcc9ec4352a7e1fcaef22a3c"
+  },
+  {
    "title": "Plane Jane",
    "artist": "1900Rugrat",
    "file": "1900rugrat-plane-jane.lrc",
    "kind": "synced",
    "sha": "25091d06981e717c09132a476cd45839c257e6e11030f1207cf06ac9e413cd02"
+  },
+  {
+   "title": "SexyBack Remix",
+   "artist": "1900Rugrat",
+   "file": "1900rugrat-sexyback-remix.lrc",
+   "kind": "synced",
+   "sha": "b8942d38f884202b2634fe21c48c0a1aabe9dbd49eb2bf4c618a8ba5dfe6801a"
   },
   {
    "title": "Skeeyee - Freestyle",
@@ -752,6 +780,13 @@
    "sha": "34a4dc475c7af4575e8586a4599bf3c8de2660aae7944a476fbde847d969a048"
   },
   {
+   "title": "Break It",
+   "artist": "B Jack$, BabyChiefDoit",
+   "file": "b-jack-babychiefdoit-break-it.lrc",
+   "kind": "synced",
+   "sha": "d6fde9e0d5ee3652d6bb402734c0c9c4192911d72792e731774770a646ff746a"
+  },
+  {
    "title": "57 B!TCHES",
    "artist": "B7!",
    "file": "b7-57-b-tches.lrc",
@@ -1338,6 +1373,13 @@
    "file": "bak-jay-double.lrc",
    "kind": "synced",
    "sha": "3f8011d849e394fc275a9fd34c727fef9a702a9dcd8f185150e7b3ace49e0f04"
+  },
+  {
+   "title": "Dream",
+   "artist": "BAK Jay",
+   "file": "bak-jay-dream.lrc",
+   "kind": "synced",
+   "sha": "93e13101f8ee4bee54347c73ef8507ad44ff16da80139cdd975e7077de6b4d72"
   },
   {
    "title": "Drive Da Boat (feat. BabyChiefDoit)",
@@ -2061,6 +2103,13 @@
    "sha": "85792e130cc0a6c6ce7276204820812c6df5024072b1f342bca9fe73fb166cae"
   },
   {
+   "title": "Video Shoot",
+   "artist": "Chief Keef, ian",
+   "file": "chief-keef-ian-video-shoot.lrc",
+   "kind": "synced",
+   "sha": "680be66df7b4ce2c2cf86ab7328a2640f06d64f3d2d8235f2bd9bc362acf5be5"
+  },
+  {
    "title": "In Love With The Gwop",
    "artist": "Chief Keef, DJ Scream",
    "file": "chief-keef-in-love-with-the-gwop.lrc",
@@ -2080,6 +2129,13 @@
    "file": "chief-keef-love-sosa.lrc",
    "kind": "synced",
    "sha": "db156705c86047faa92813b5e9ae4e15157499484df8165104f29ffd0525d9b3"
+  },
+  {
+   "title": "Macoroni Time",
+   "artist": "Chief Keef",
+   "file": "chief-keef-macoroni-time.lrc",
+   "kind": "synced",
+   "sha": "4b30750b8b0682ea601d36d072d8952a615451b362d5f05a3445f64c63a74a42"
   },
   {
    "title": "DAMN SHORTY - feat. Sexyy Red",
@@ -2353,6 +2409,13 @@
    "file": "danny-towers-paranoid.lrc",
    "kind": "synced",
    "sha": "311788a89f5f0aa643ca0037e69491e982d770031ca2804c08327de66ca12699"
+  },
+  {
+   "title": "Daylight",
+   "artist": "David Kushner",
+   "file": "david-kushner-daylight.lrc",
+   "kind": "synced",
+   "sha": "773e9cc5e6ad7667c50887f5e1de0f2fe7d9392db31fa3d6cada1b386d4aeec7"
   },
   {
    "title": "Agenda",
@@ -2815,6 +2878,13 @@
    "file": "expen-ive-rio-playing-roles.lrc",
    "kind": "synced",
    "sha": "77f5984214c6f501052643675d206a0ed2d3e5a764a273070b8f4a039f3d2628"
+  },
+  {
+   "title": "Fairly Odd",
+   "artist": "Fadess, 1900Rugrat",
+   "file": "fadess-1900rugrat-fairly-odd.lrc",
+   "kind": "synced",
+   "sha": "8bfae3c49fef01d4f6ad5ddd23340e293cd95d56c74dac2d5a65df121c17f5ee"
   },
   {
    "title": "Do or Die",
@@ -4602,6 +4672,13 @@
    "sha": "e7027b827981a3d1fa887d3b84d920a862522959a9f4226c32c205ac93373a7f"
   },
   {
+   "title": "Hoes Ain't Shit",
+   "artist": "King Von",
+   "file": "king-von-hoes-ain-t-shit.lrc",
+   "kind": "synced",
+   "sha": "ee54e9a7b30dab565955bcc6bc9d1dcf09cac6a461884d426cdbb5c4daa50a1c"
+  },
+  {
    "title": "How It Go",
    "artist": "King Von",
    "file": "king-von-how-it-go.lrc",
@@ -5743,6 +5820,13 @@
    "sha": "be5c3a7313e8d995a46824d10bc87bc4c1d896ca9036ac118da76b023cabe7d3"
   },
   {
+   "title": "Pass The Water",
+   "artist": "Lil Durk",
+   "file": "lil-durk-pass-the-water.lrc",
+   "kind": "synced",
+   "sha": "599f541ceac25bfd07ae5904efe0dd217c1db9f5114aba28f07fa3f5955886a0"
+  },
+  {
    "title": "Petty Too (feat. Future)",
    "artist": "Lil Durk, Future",
    "file": "lil-durk-petty-too.lrc",
@@ -5867,6 +5951,13 @@
    "file": "lil-jon-bend-ova.lrc",
    "kind": "synced",
    "sha": "9a2ef07e5ea218b87b6f997c3a7999ee8f820c12e05c2081d6c0d5a234a560b1"
+  },
+  {
+   "title": "Crying On The Floor",
+   "artist": "Lil king",
+   "file": "lil-king-crying-on-the-floor.lrc",
+   "kind": "synced",
+   "sha": "99845a74c07a69f1269f68116cb48be2b90a4a186bf5d41d47a9ec9b91fe4cec"
   },
   {
    "title": "6acc Doe",
@@ -6287,6 +6378,13 @@
    "file": "lil-uzi-vert-mama-i-m-sorry.txt",
    "kind": "plain",
    "sha": "4b6332218625e9bef78588d5d93050a46ce7765e4387f129c617b7af0e9ee5bd"
+  },
+  {
+   "title": "Money Longer",
+   "artist": "Lil Uzi Vert",
+   "file": "lil-uzi-vert-money-longer.lrc",
+   "kind": "synced",
+   "sha": "10f4b0fdfcb475679c9b883ea5585838deeda901d0e49a8c0f995cf6da92bb95"
   },
   {
    "title": "Mr Chow",
@@ -7850,6 +7948,13 @@
    "sha": "d9deb9ec9f2bc226b8c72210ca5b0bbc5c88933acfc5d7be5c33066c2c9995bd"
   },
   {
+   "title": "Intro",
+   "artist": "PayGotti",
+   "file": "paygotti-intro.lrc",
+   "kind": "synced",
+   "sha": "a052681ccf92b1abd49bf7488620c8c258d4d6fe1cf1ec7f786cabca9765ae19"
+  },
+  {
    "title": "My Evil Thoughts",
    "artist": "PayGotti",
    "file": "paygotti-my-evil-thoughts.lrc",
@@ -8401,6 +8506,13 @@
    "file": "pooh-shiesty-back-in-blood.lrc",
    "kind": "synced",
    "sha": "56e23f7046f03201b48d7c120eb5ed2ebf8b4c43b1fdcf8599798d82330e8b21"
+  },
+  {
+   "title": "Hell Night",
+   "artist": "Pooh Shiesty, BIG30",
+   "file": "pooh-shiesty-big30-hell-night.lrc",
+   "kind": "synced",
+   "sha": "e21e060478d1387cbb903b31ed7f81d65a4fc229cbf35a048e09a44df1669b98"
   },
   {
    "title": "FDO",
@@ -9579,6 +9691,13 @@
    "sha": "45000703c72fa2724ba55e701d22eda5a39f4faee51c5262a2bd67ecbd6edea7"
   },
   {
+   "title": "painkillers",
+   "artist": "sleepypuppy77",
+   "file": "sleepypuppy77-painkillers.lrc",
+   "kind": "synced",
+   "sha": "b279839d457fa3f525a20844b407a7b0a968fd841baa960dddee4ce1e4dd3ee4"
+  },
+  {
    "title": "BOOM",
    "artist": "SOB Odee",
    "file": "sob-odee-boom.lrc",
@@ -9654,6 +9773,13 @@
    "file": "sugarhill-ddot-crashouts.txt",
    "kind": "plain",
    "sha": "89f869e70751c7a9f7babfe5990633a35c6424c4bcdb6b698e14412ef58b1ec3"
+  },
+  {
+   "title": "PIANO",
+   "artist": "T-Choppa",
+   "file": "t-choppa-piano.lrc",
+   "kind": "synced",
+   "sha": "045e6d4c2c4364d4b743f33079398e9f7ef3e69e5bfb7c69dbf42fcd46bb26e3"
   },
   {
    "title": "Crypto (feat. Rich The Kid)",
@@ -11565,6 +11691,13 @@
    "file": "youngboy-never-broke-again-watchu-sayin.lrc",
    "kind": "synced",
    "sha": "e553aa426b4d02c71345815216827a419ebea38a1e62bde8f567048dc47f1d9e"
+  },
+  {
+   "title": "GLAH",
+   "artist": "YSN Marrr",
+   "file": "ysn-marrr-glah.lrc",
+   "kind": "synced",
+   "sha": "b97fa389dbb65af6aed126ed236354677a1eb092a2ed0402035c47e5d679cdd9"
   },
   {
    "title": "Neiman or Saks (feat. BabyTron)",
