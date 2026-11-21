@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-20 20:55 CST",
- "updated_epoch": 1795229747,
- "library_songs": 1691,
+ "updated": "2026-11-20 21:01 CST",
+ "updated_epoch": 1795230119,
+ "library_songs": 1693,
  "total": 891,
- "done": 388,
- "open": 503,
+ "done": 390,
+ "open": 501,
  "by_status": {
-  "no_lyrics_yet": 224,
+  "no_lyrics_yet": 220,
   "has_lyrics_needs_sync": 221,
-  "transcribing": 2,
+  "transcribing": 4,
   "blocked_on_audio": 48
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 290,
-   "open": 380
+   "done": 292,
+   "open": 378
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "b-jack-babychiefdoit-break-it",
+   "when": "Nov 20 20:58"
+  },
+  {
+   "slug": "paygotti-intro",
+   "when": "Nov 20 20:56"
+  },
   {
    "slug": "ysn-marrr-glah",
    "when": "Nov 20 20:39"
@@ -81,27 +89,19 @@
   {
    "slug": "1900rugrat-sexyback-remix",
    "when": "Nov 20 17:21"
-  },
-  {
-   "slug": "pooh-shiesty-big30-hell-night",
-   "when": "Nov 20 16:59"
-  },
-  {
-   "slug": "bak-jay-dream",
-   "when": "Nov 20 16:08"
   }
  ],
  "transcribing_now": [
-  "b jack babychiefdoit break it"
+  "bak jay intro ain t right"
  ],
  "in_progress": [
   {
-   "slug": "b-jack-babychiefdoit-break-it",
-   "title": "Break It",
-   "artist": "B Jack$, BabyChiefDoit",
+   "slug": "bak-jay-intro-ain-t-right",
+   "title": "Intro (Ain't Right)",
+   "artist": "BAK Jay",
    "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 raw pass \u00b7 running 02:52"
   },
   {
    "slug": "krispylife-kidd-certified-motion",
