@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-20 15:59 CST",
- "updated_epoch": 1795211942,
- "library_songs": 1677,
+ "updated": "2026-11-20 17:20 CST",
+ "updated_epoch": 1795216839,
+ "library_songs": 1679,
  "total": 891,
- "done": 374,
- "open": 517,
+ "done": 376,
+ "open": 515,
  "by_status": {
-  "no_lyrics_yet": 242,
-  "has_lyrics_needs_sync": 220,
-  "transcribing": 1,
-  "blocked_on_audio": 46
+  "no_lyrics_yet": 236,
+  "has_lyrics_needs_sync": 221,
+  "transcribing": 2,
+  "blocked_on_audio": 48
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 276,
-   "open": 394
+   "done": 278,
+   "open": 392
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "pooh-shiesty-big30-hell-night",
+   "when": "Nov 20 16:59"
+  },
+  {
+   "slug": "bak-jay-dream",
+   "when": "Nov 20 16:08"
+  },
   {
    "slug": "chief-keef-ian-video-shoot",
    "when": "Nov 20 15:57"
@@ -81,24 +89,14 @@
   {
    "slug": "vonoff1700-bread-winner",
    "when": "Nov 20 12:57"
-  },
-  {
-   "slug": "babyfxce-e-rio-da-yung-og-die-bout-it-feat-rio-da-yung-og",
-   "when": "Nov 20 12:57"
-  },
-  {
-   "slug": "babyru78-chmc",
-   "when": "Nov 20 12:35"
   }
  ],
- "transcribing_now": [
-  "bak jay dream"
- ],
+ "transcribing_now": [],
  "in_progress": [
   {
-   "slug": "bak-jay-dream",
-   "title": "Dream",
-   "artist": "BAK Jay",
+   "slug": "1900rugrat-sexyback-remix",
+   "title": "SexyBack Remix",
+   "artist": "1900Rugrat, -",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
