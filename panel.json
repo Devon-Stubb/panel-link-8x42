@@ -1,43 +1,43 @@
 {
  "v": 1,
- "generated_at": "2026-11-15T14:43:22Z",
+ "generated_at": "2026-11-21T14:44:09Z",
  "brief": {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T14:43:22Z",
-  "headline": "Sunday Nov 15 — Redesign live, benefits close Mon Nov 16, Home Link Wed Nov 18",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T14:44:09Z",
+  "headline": "Saturday Nov 21 — Trippie reminder today, PS5 order awaiting store call, posts run to Tue",
   "highlights": [
    {
     "kind": "calendar",
-    "title": "Benefits open enrollment closes Nov 16",
-    "detail": "In Workday — HSA elections do not roll over, pick fresh ones by Nov 16"
+    "title": "Trippie Redd trip reminder today",
+    "detail": "Show is Sat Dec 5 in Springfield, MO with TopOppGen — nothing booked yet"
    },
    {
-    "kind": "home",
-    "title": "Muse Home Link arrives Wed Nov 18",
-    "detail": "Home Assistant is running and ready; first pairing and scan on arrival"
-   },
-   {
-    "kind": "fyi",
-    "title": "publicnu.de redesign is live",
-    "detail": "Slashc-style homepage went live overnight Nov 15 after a full backup first"
-   },
-   {
-    "kind": "fyi",
-    "title": "Social posts today at 11:30 AM",
-    "detail": "Next posts land Sun Nov 15 at 11:30 AM; launch week runs to Tue Nov 17"
+    "kind": "task",
+    "title": "PS5 Rent One order awaiting store call",
+    "detail": "Order placed early today — store to confirm and schedule delivery"
    },
    {
     "kind": "calendar",
-    "title": "Trippie Redd trip reminder coming Nov 21",
-    "detail": "Show is Sat Dec 5 in Springfield, MO with TopOppGen — nothing booked yet"
+    "title": "Daily concerts check today at noon",
+    "detail": "Checking St. Louis, Evansville, Nashville, Joliet and upcoming Chicago shows"
+   },
+   {
+    "kind": "fyi",
+    "title": "Thanksgiving week posts continue",
+    "detail": "Public Nuisance posts run through Tue Nov 24 across the store channels"
+   },
+   {
+    "kind": "task",
+    "title": "SIU bill due Thu Dec 10",
+    "detail": "Due Thu Dec 10 — registration is on hold until it is addressed"
    }
   ],
-  "decide_count": 8
+  "decide_count": 12
  },
  "house": {
   "mode": null,
   "in_sync": false,
-  "reported_at": "2026-11-15T14:43:22Z",
+  "reported_at": "2026-11-21T14:44:09Z",
   "source": "peanut"
  }
 }
