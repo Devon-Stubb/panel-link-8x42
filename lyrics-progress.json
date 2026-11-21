@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-21 08:51 CST",
- "updated_epoch": 1795272709,
- "library_songs": 1726,
+ "updated": "2026-11-21 10:31 CST",
+ "updated_epoch": 1795278662,
+ "library_songs": 1732,
  "total": 891,
- "done": 423,
- "open": 468,
+ "done": 429,
+ "open": 462,
  "by_status": {
-  "no_lyrics_yet": 180,
+  "no_lyrics_yet": 175,
   "has_lyrics_needs_sync": 223,
-  "transcribing": 7,
+  "transcribing": 6,
   "blocked_on_audio": 50
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 325,
-   "open": 345
+   "done": 331,
+   "open": 339
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,30 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "rob49-sexyy-red-in-the-club-feat-sexyy-red",
+   "when": "Nov 21 10:00"
+  },
+  {
+   "slug": "nardo-wick-is-dat-right",
+   "when": "Nov 21 10:00"
+  },
+  {
+   "slug": "boa-qg-boa-hunxho-voodoo",
+   "when": "Nov 21 10:00"
+  },
+  {
+   "slug": "krispylife-kidd-just-like-that",
+   "when": "Nov 21 09:16"
+  },
+  {
+   "slug": "rio-da-yung-og-lil-e-str8-drop-too",
+   "when": "Nov 21 09:16"
+  },
+  {
+   "slug": "fattmack-shit-change",
+   "when": "Nov 21 09:15"
+  },
   {
    "slug": "bloodhound-q50-vonoff1700-shoot-out",
    "when": "Nov 21 07:58"
@@ -65,64 +89,32 @@
   {
    "slug": "vonoff1700-sbgbrick-key-first-day-out",
    "when": "Nov 21 05:56"
-  },
-  {
-   "slug": "mg-sleepy-issa",
-   "when": "Nov 21 04:59"
-  },
-  {
-   "slug": "mg-sleepy-activated",
-   "when": "Nov 21 04:59"
-  },
-  {
-   "slug": "mg-sleepy-maui-wowie",
-   "when": "Nov 21 04:59"
-  },
-  {
-   "slug": "babychiefdoit-get-high",
-   "when": "Nov 21 03:38"
-  },
-  {
-   "slug": "oliver-tree-alien-boy",
-   "when": "Nov 21 02:56"
-  },
-  {
-   "slug": "oliver-tree-life-goes-on",
-   "when": "Nov 21 02:56"
   }
  ],
  "transcribing_now": [
-  "mg sleepy jay juice glockboy k3 s550"
+  "jdot breezy who am i pleasing"
  ],
  "in_progress": [
+  {
+   "slug": "babytron-doo-doo-crew",
+   "title": "Doo-Doo Crew",
+   "artist": "BabyTron",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "rmc-mike-intro",
+   "title": "Intro",
+   "artist": "Rmc Mike",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
   {
    "slug": "mg-sleepy-jay-juice-glockboy-k3-s550",
    "title": "S550",
    "artist": "Mg Sleepy, Jay Juice, Glockboy K3",
-   "tier": "Rest of playlist",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 enh pass \u00b7 running 07:42"
-  },
-  {
-   "slug": "krispylife-kidd-just-like-that",
-   "title": "Just Like That",
-   "artist": "KrispyLife Kidd",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "fattmack-shit-change",
-   "title": "Shit Change",
-   "artist": "FattMack",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "rio-da-yung-og-lil-e-str8-drop-too",
-   "title": "Str8 Drop Too",
-   "artist": "Rio Da Yung Og, Lil E",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
