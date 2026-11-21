@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-20 23:34 CST",
- "updated_epoch": 1795239252,
- "library_songs": 1699,
+ "updated": "2026-11-21 01:08 CST",
+ "updated_epoch": 1795244907,
+ "library_songs": 1707,
  "total": 891,
- "done": 396,
- "open": 495,
+ "done": 404,
+ "open": 487,
  "by_status": {
-  "no_lyrics_yet": 213,
-  "has_lyrics_needs_sync": 222,
-  "transcribing": 4,
+  "no_lyrics_yet": 205,
+  "has_lyrics_needs_sync": 223,
+  "transcribing": 3,
   "blocked_on_audio": 48
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 298,
-   "open": 372
+   "done": 306,
+   "open": 364
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,38 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "babychiefdoit-jabriel-dear-jonathan",
+   "when": "Nov 21 00:56"
+  },
+  {
+   "slug": "babychiefdoit-ghetto-love-story",
+   "when": "Nov 21 00:56"
+  },
+  {
+   "slug": "babychiefdoit-rambo",
+   "when": "Nov 21 00:56"
+  },
+  {
+   "slug": "drake-what-did-i-miss",
+   "when": "Nov 21 00:56"
+  },
+  {
+   "slug": "nino-paid-vonoff1700-nun-but-drums-feat-vonoff1700",
+   "when": "Nov 20 23:57"
+  },
+  {
+   "slug": "katy-perry-chief-keef-legendary-lovers-save-me-feat-chief-keef",
+   "when": "Nov 20 23:57"
+  },
+  {
+   "slug": "polo-g-clap",
+   "when": "Nov 20 23:57"
+  },
+  {
+   "slug": "paygotti-bak-jay-onnat-tymin",
+   "when": "Nov 20 23:39"
+  },
   {
    "slug": "babychiefdoit-game-six",
    "when": "Nov 20 22:59"
@@ -57,48 +89,16 @@
   {
    "slug": "bak-jay-intro-ain-t-right",
    "when": "Nov 20 21:48"
-  },
-  {
-   "slug": "b-jack-babychiefdoit-break-it",
-   "when": "Nov 20 20:58"
-  },
-  {
-   "slug": "paygotti-intro",
-   "when": "Nov 20 20:56"
-  },
-  {
-   "slug": "ysn-marrr-glah",
-   "when": "Nov 20 20:39"
-  },
-  {
-   "slug": "1900rugrat-100-bowls",
-   "when": "Nov 20 19:56"
-  },
-  {
-   "slug": "lil-uzi-vert-money-longer",
-   "when": "Nov 20 19:56"
-  },
-  {
-   "slug": "lil-king-crying-on-the-floor",
-   "when": "Nov 20 18:56"
-  },
-  {
-   "slug": "sleepypuppy77-painkillers",
-   "when": "Nov 20 18:56"
-  },
-  {
-   "slug": "david-kushner-daylight",
-   "when": "Nov 20 18:56"
   }
  ],
  "transcribing_now": [
-  "paygotti bak jay onnat tymin"
+  "hottyboyzstitch run em over"
  ],
  "in_progress": [
   {
-   "slug": "paygotti-bak-jay-onnat-tymin",
-   "title": "Onnat Tymin",
-   "artist": "PayGotti, BAK Jay",
+   "slug": "hottyboyzstitch-run-em-over",
+   "title": "Run Em Over",
+   "artist": "HottyboyzStitch",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
