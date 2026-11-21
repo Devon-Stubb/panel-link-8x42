@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-21 10:31 CST",
- "updated_epoch": 1795278662,
- "library_songs": 1732,
+ "updated": "2026-11-21 11:20 CST",
+ "updated_epoch": 1795281634,
+ "library_songs": 1736,
  "total": 891,
- "done": 429,
- "open": 462,
+ "done": 433,
+ "open": 458,
  "by_status": {
-  "no_lyrics_yet": 175,
-  "has_lyrics_needs_sync": 223,
-  "transcribing": 6,
+  "no_lyrics_yet": 171,
+  "has_lyrics_needs_sync": 224,
+  "transcribing": 5,
   "blocked_on_audio": 50
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 331,
-   "open": 339
+   "done": 335,
+   "open": 335
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,22 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "yelawolf-pop-the-trunk",
+   "when": "Nov 21 11:01"
+  },
+  {
+   "slug": "babytron-doo-doo-crew",
+   "when": "Nov 21 10:47"
+  },
+  {
+   "slug": "mg-sleepy-jay-juice-glockboy-k3-s550",
+   "when": "Nov 21 10:47"
+  },
+  {
+   "slug": "jdot-breezy-who-am-i-pleasing",
+   "when": "Nov 21 10:47"
+  },
   {
    "slug": "rob49-sexyy-red-in-the-club-feat-sexyy-red",
    "when": "Nov 21 10:00"
@@ -73,35 +89,19 @@
   {
    "slug": "mg-sleepy-connoisseur",
    "when": "Nov 21 07:20"
-  },
-  {
-   "slug": "the-kid-laroi-selfish",
-   "when": "Nov 21 06:57"
-  },
-  {
-   "slug": "fattmack-polo-g-lay-it-down",
-   "when": "Nov 21 06:57"
-  },
-  {
-   "slug": "youngboy-never-broke-again-badder-than-yours",
-   "when": "Nov 21 06:56"
-  },
-  {
-   "slug": "vonoff1700-sbgbrick-key-first-day-out",
-   "when": "Nov 21 05:56"
   }
  ],
  "transcribing_now": [
-  "jdot breezy who am i pleasing"
+  "t3ppa the truth"
  ],
  "in_progress": [
   {
-   "slug": "babytron-doo-doo-crew",
-   "title": "Doo-Doo Crew",
-   "artist": "BabyTron",
+   "slug": "t3ppa-the-truth",
+   "title": "The Truth",
+   "artist": "$t3PPA",
    "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
+   "stage": "Transcribing now",
+   "detail": "pass.py \u00b7 enh pass \u00b7 running 02:54"
   },
   {
    "slug": "rmc-mike-intro",
@@ -112,17 +112,9 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "mg-sleepy-jay-juice-glockboy-k3-s550",
-   "title": "S550",
-   "artist": "Mg Sleepy, Jay Juice, Glockboy K3",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "jdot-breezy-who-am-i-pleasing",
-   "title": "Who Am I Pleasing",
-   "artist": "Jdot Breezy",
+   "slug": "t3ppa-therapeutic",
+   "title": "Therapeutic",
+   "artist": "$t3PPA",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
