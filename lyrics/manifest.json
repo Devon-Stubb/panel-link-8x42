@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-21T03:12:04Z",
- "count": 1687,
+ "generated_at": "2026-11-21T17:47:51Z",
+ "count": 1732,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -85,6 +85,13 @@
    "file": "1900rugrat-hollaback-girl-remix.lrc",
    "kind": "synced",
    "sha": "dcf37dd5b4f7cca8e647f05c92fdbb9066b62c8dbcc9ec4352a7e1fcaef22a3c"
+  },
+  {
+   "title": "Pissed Me Off",
+   "artist": "1900Rugrat",
+   "file": "1900rugrat-pissed-me-off.lrc",
+   "kind": "synced",
+   "sha": "d4007d290e7d1a5f5e190f40aea2aa723e7c3356b0b7654dc934eecc5023062a"
   },
   {
    "title": "Plane Jane",
@@ -850,6 +857,13 @@
    "sha": "1e57b1c21a3f5bef8443da42d6db880f140f9576e72655eee70c1c8f58df4259"
   },
   {
+   "title": "Apple Of My Eye",
+   "artist": "BabyChiefDoit",
+   "file": "babychiefdoit-apple-of-my-eye.lrc",
+   "kind": "synced",
+   "sha": "fe296f73063c51b3af4056467646ace781f784b79b002783edfe4c6ac335c601"
+  },
+  {
    "title": "ATTITUDE PROBLEMS",
    "artist": "BabyChiefDoit, Cash Cobain",
    "file": "babychiefdoit-cash-cobain-attitude-problems.lrc",
@@ -871,11 +885,39 @@
    "sha": "42b4b5d06f0438b8cffeec9d068c8baf6e4bf6ff916aa11567300f942de64384"
   },
   {
+   "title": "Game Six",
+   "artist": "BabyChiefDoit",
+   "file": "babychiefdoit-game-six.lrc",
+   "kind": "synced",
+   "sha": "8e640fdf1561814d92ebe5cd6a0820a1938f7ea55ed5a6bc22a190f060229d24"
+  },
+  {
+   "title": "Get High",
+   "artist": "BabyChiefDoit",
+   "file": "babychiefdoit-get-high.lrc",
+   "kind": "synced",
+   "sha": "53097e3352347226b9c0b69cd662a4b6af072ad0147422850a187c5e50964f57"
+  },
+  {
+   "title": "Ghetto Love Story",
+   "artist": "BabyChiefDoit",
+   "file": "babychiefdoit-ghetto-love-story.lrc",
+   "kind": "synced",
+   "sha": "fe7d2a38a19004a63a2eed24d6a4c7723451134efacac18246b9e235d12d7f1f"
+  },
+  {
    "title": "HOW U DOIN",
    "artist": "BabyChiefDoit",
    "file": "babychiefdoit-how-u-doin.lrc",
    "kind": "synced",
    "sha": "116b067200a16ced421b906658ff4da87db644a91aacd062fdf019b693321f89"
+  },
+  {
+   "title": "Dear Jonathan",
+   "artist": "BabyChiefDoit, Jabriel",
+   "file": "babychiefdoit-jabriel-dear-jonathan.lrc",
+   "kind": "synced",
+   "sha": "6dfaa22c64ea9ef0745813c92d328ccadaa81709584ac699be3b88a46b614e36"
   },
   {
    "title": "Laugh Now, Cry Later",
@@ -920,6 +962,13 @@
    "sha": "8af30c32f79255adeaf974e0c26b4adf5675faaf9e368eb495f776575e6eb0fb"
   },
   {
+   "title": "RAMBO",
+   "artist": "BabyChiefDoit",
+   "file": "babychiefdoit-rambo.lrc",
+   "kind": "synced",
+   "sha": "b8963cccea935b8da9b77452e3b5402a0b8d21daa8f55749baf5e32298d612dd"
+  },
+  {
    "title": "The Crib",
    "artist": "BabyChiefDoit",
    "file": "babychiefdoit-the-crib.lrc",
@@ -953,6 +1002,13 @@
    "file": "babychiefdoit-went-west.lrc",
    "kind": "synced",
    "sha": "dc3ea0e7da07beeffb0b7bf3e39e4c55c5bc490c5e1b54747aa93e4415060dd1"
+  },
+  {
+   "title": "Y'all Can't Kill Me",
+   "artist": "BabyChiefDoit",
+   "file": "babychiefdoit-y-all-can-t-kill-me.lrc",
+   "kind": "synced",
+   "sha": "fbef8e79c1b1f015de6860991080f00497cbc7a6dfb11612a2356967e342b16c"
   },
   {
    "title": "Count Money (feat. Bossman Dlow)",
@@ -1284,6 +1340,13 @@
    "sha": "845ecc8cef0289f7f6545fa15d8492edc670b0aa9dd57b4e07106861f1a892a0"
   },
   {
+   "title": "Doo-Doo Crew",
+   "artist": "BabyTron",
+   "file": "babytron-doo-doo-crew.lrc",
+   "kind": "synced",
+   "sha": "3205bed8403c2fa118e450a936e4df502d9d938c8e73431be2e78dad17b64482"
+  },
+  {
    "title": "Dookie Season",
    "artist": "BabyTron, Rmc Mike",
    "file": "babytron-dookie-season.lrc",
@@ -1296,6 +1359,13 @@
    "file": "babytron-luka-magic.lrc",
    "kind": "synced",
    "sha": "4f854181a70feef341026336f1bd46fa05af092307c4a1ac04a80900f51f2326"
+  },
+  {
+   "title": "Manute Bol",
+   "artist": "BabyTron",
+   "file": "babytron-manute-bol.lrc",
+   "kind": "synced",
+   "sha": "df5f6842eaebb06276bb75fa010723841d8282ebcbe9b37e8a4ba264322ff274"
   },
   {
    "title": "Mr. Do The Dash",
@@ -1424,11 +1494,25 @@
    "sha": "006a12246b0ee4a83c101e2281ba7f460d1f237583feb12d68041c9483b05222"
   },
   {
+   "title": "Intro (Ain't Right)",
+   "artist": "BAK Jay",
+   "file": "bak-jay-intro-ain-t-right.lrc",
+   "kind": "synced",
+   "sha": "268feeb19cd925ab2732de94cdd8e84946f83ef504336e8b2e18eb4b25b062d5"
+  },
+  {
    "title": "Junkie Money",
    "artist": "BAK Jay",
    "file": "bak-jay-junkie-money.lrc",
    "kind": "synced",
    "sha": "693cd746298469cc34765795db100dd4ff8d17e223cb7ab35d112156212950c8"
+  },
+  {
+   "title": "Money & B's",
+   "artist": "BAK Jay",
+   "file": "bak-jay-money-b-s.lrc",
+   "kind": "synced",
+   "sha": "d91fb6ead671a21156ee2c0168e910a8c4c637334a154f1a1536274694de1aca"
   },
   {
    "title": "Money & Problems",
@@ -1872,6 +1956,13 @@
    "sha": "df0a28719a9751cbdba5ff6dfe973585599b094dda21e6cc8391fdc00d1941f9"
   },
   {
+   "title": "Shoot Out",
+   "artist": "BloodHound Q50, VonOff1700",
+   "file": "bloodhound-q50-vonoff1700-shoot-out.lrc",
+   "kind": "synced",
+   "sha": "a31ec6b18958583547bf1cff2fc0db572a09df828c31a653d1f26e4c0aba24b2"
+  },
+  {
    "title": "Bdd",
    "artist": "Blueface Baby",
    "file": "blueface-baby-bdd.lrc",
@@ -1898,6 +1989,13 @@
    "file": "bo-billy-4-inda-morning.lrc",
    "kind": "synced",
    "sha": "9d2c9a717b1b9426cbf19c334f724c20d9235a7697def85f3e9e024a3c30a5ce"
+  },
+  {
+   "title": "VooDoo",
+   "artist": "BOA QG, BOA Hunxho",
+   "file": "boa-qg-boa-hunxho-voodoo.lrc",
+   "kind": "synced",
+   "sha": "1b1f14b04c1bac7457a0eb5fcee47c70a7b065c5c390cbbeec023b46624270b2"
   },
   {
    "title": "Dlow Curry",
@@ -2817,6 +2915,13 @@
    "sha": "47761b618a1829b3f22fbcd34a86a9d2ef3ca83377682f65ac4735a1288897a8"
   },
   {
+   "title": "What Did I Miss?",
+   "artist": "Drake",
+   "file": "drake-what-did-i-miss.lrc",
+   "kind": "synced",
+   "sha": "c1e5a4dfb600e1979b4491cb43739bad090acc4a1189cc82228ae0d98fd76ae0"
+  },
+  {
    "title": "Tobey (feat. Big Sean and BabyTron)",
    "artist": "Eminem, Big Sean, BabyTron",
    "file": "eminem-tobey.lrc",
@@ -2885,6 +2990,20 @@
    "file": "fadess-1900rugrat-fairly-odd.lrc",
    "kind": "synced",
    "sha": "8bfae3c49fef01d4f6ad5ddd23340e293cd95d56c74dac2d5a65df121c17f5ee"
+  },
+  {
+   "title": "Lay It Down",
+   "artist": "FattMack, Polo G",
+   "file": "fattmack-polo-g-lay-it-down.lrc",
+   "kind": "synced",
+   "sha": "3d8f13ea129d20463d83cf4b32782acbcaf9d9e60487df962f942ba0f983f60c"
+  },
+  {
+   "title": "Shit Change",
+   "artist": "FattMack",
+   "file": "fattmack-shit-change.lrc",
+   "kind": "synced",
+   "sha": "8b86cd7a68b4ab7421c151a48ecbd117a42c8a29c4dcc1d837c152e0acd6952c"
   },
   {
    "title": "Do or Die",
@@ -3566,6 +3685,13 @@
    "sha": "ff73d11cab673ca648889c9f0ccb11217340296d5c4eabb179ff6bccbd0302ab"
   },
   {
+   "title": "Run Em Over",
+   "artist": "HottyboyzStitch",
+   "file": "hottyboyzstitch-run-em-over.lrc",
+   "kind": "synced",
+   "sha": "9d2b3b8c09573bfdb6545e78d7970c9b9c76cca7ad9692c8c7694df9543afa29"
+  },
+  {
    "title": "Let's Get It (Remix) [feat. 21 Savage]",
    "artist": "Hunxho, 21 Savage",
    "file": "hunxho-let-s-get-it.lrc",
@@ -3816,6 +3942,13 @@
    "file": "jdot-breezy-tweak-shit-pt-2.lrc",
    "kind": "synced",
    "sha": "bf2d9b51719a215e9d1f22422dc1295e67b284ea4a2e1698f3acb2b72b2397c4"
+  },
+  {
+   "title": "Who Am I Pleasing",
+   "artist": "Jdot Breezy",
+   "file": "jdot-breezy-who-am-i-pleasing.lrc",
+   "kind": "synced",
+   "sha": "24cbac464e02eff018da005afdec1d56c78c41c0aaed812cf452d7a547840af3"
   },
   {
    "title": "Peter Grippin",
@@ -4448,6 +4581,13 @@
    "sha": "1b618e5fc8778724f3887a329f23f3fb1dd73b332c12fae514c0480a1e7187c0"
   },
   {
+   "title": "Legendary Lovers (Save Me) (feat. Chief Keef)",
+   "artist": "Katy Perry, Chief Keef",
+   "file": "katy-perry-chief-keef-legendary-lovers-save-me-feat-chief-keef.lrc",
+   "kind": "synced",
+   "sha": "39a25ee78486c251c66d164b55f9682f1082c87f836d3f7e72540ff2d4e95cd4"
+  },
+  {
    "title": "Being Honest",
    "artist": "Kay Flock",
    "file": "kay-flock-being-honest.lrc",
@@ -5020,6 +5160,13 @@
    "file": "krispylife-kidd-juice-world.txt",
    "kind": "plain",
    "sha": "23c97dcecbd5650c2cc746ea91d1491c4b77df5d12666261e5665a482911c461"
+  },
+  {
+   "title": "Just Like That",
+   "artist": "KrispyLife Kidd",
+   "file": "krispylife-kidd-just-like-that.lrc",
+   "kind": "synced",
+   "sha": "dd3b1d9998715c260a9bcb8909769f8462c023fbc42828345415240ef80812e4"
   },
   {
    "title": "Mann",
@@ -6135,6 +6282,13 @@
    "sha": "fd6d4668c66ce6d7d31fa29fa4f535a85adea0e53582e3f438a027112a31fe18"
   },
   {
+   "title": "Blood In Blood Out",
+   "artist": "Lil Scoom89",
+   "file": "lil-scoom89-blood-in-blood-out.lrc",
+   "kind": "synced",
+   "sha": "e187b4392f68aab6c763b16c90a8efaf971bc97ab8d7ca4811dfa5d44486fdc4"
+  },
+  {
    "title": "Mr. Button",
    "artist": "Lil Scoom89",
    "file": "lil-scoom89-mr-button.lrc",
@@ -6266,6 +6420,13 @@
    "file": "lil-tjay-zoo-york.lrc",
    "kind": "synced",
    "sha": "728f6d5c8d72713505985c1cfa41b0b456ae336a93969414ad1d173c75ea9932"
+  },
+  {
+   "title": "Letter To Jack",
+   "artist": "Lil Twin",
+   "file": "lil-twin-letter-to-jack.lrc",
+   "kind": "synced",
+   "sha": "6c956dcd08e03af37e6b7695a861d94cb8fd3f06c55d0cc17ef5ca9008d8d4ba"
   },
   {
    "title": "20 Min",
@@ -6835,6 +6996,13 @@
    "sha": "f6715a5795e6eb3d9fad41bd91f92643460506bae06eca95da133c2511cf8434"
   },
   {
+   "title": "3.5S & All 7S",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-3-5s-all-7s.lrc",
+   "kind": "synced",
+   "sha": "59636cf7d62d12ce3577df11ca63e3f0fa4e8067c09c23852791cd3ac4e7e0e9"
+  },
+  {
    "title": "3am in Ohio",
    "artist": "Mg Sleepy",
    "file": "mg-sleepy-3am-in-ohio.lrc",
@@ -6854,6 +7022,20 @@
    "file": "mg-sleepy-a-out.lrc",
    "kind": "synced",
    "sha": "0d556127a6c1195a6c3798f0cfb63ef9b1a898334172e901f42bd5263f07d187"
+  },
+  {
+   "title": "Acapella",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-acapella.lrc",
+   "kind": "synced",
+   "sha": "7a1d458d7da004264bd253fb7e9f364e448327f1d4db4507c3770d75a1f734e5"
+  },
+  {
+   "title": "Activated",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-activated.lrc",
+   "kind": "synced",
+   "sha": "608148a91fac1e59b612035a4e36b6d9d235838998851a467f135de802691c20"
   },
   {
    "title": "All Chrome",
@@ -6905,6 +7087,13 @@
    "sha": "7cb6856bf26630024873de6d62390c23dcd0764a4479006e065dcfc67a2b3e57"
   },
   {
+   "title": "Connoisseur",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-connoisseur.lrc",
+   "kind": "synced",
+   "sha": "aef59fb20c22c468f13a5ef6b0180772a6ac0d1e463cfae73dd62563f4ec92cd"
+  },
+  {
    "title": "Dizzzney Land",
    "artist": "Mg Sleepy",
    "file": "mg-sleepy-dizzzney-land.lrc",
@@ -6933,11 +7122,25 @@
    "sha": "8d4639652cdc26fd003173f0d6f2df6e7cb343558666eeb62b6b2262f31148cd"
   },
   {
+   "title": "Issa",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-issa.lrc",
+   "kind": "synced",
+   "sha": "770657bd841f1852513300d5cf6e77056a3df1e18039a5b6e67c3394136579b8"
+  },
+  {
    "title": "J Reed",
    "artist": "Mg Sleepy",
    "file": "mg-sleepy-j-reed.lrc",
    "kind": "synced",
    "sha": "872b022c99bc03e09a9ff6c5b4d813faa59fc629b947ddfa06af3f969be27d78"
+  },
+  {
+   "title": "S550",
+   "artist": "Mg Sleepy, Jay Juice, Glockboy K3",
+   "file": "mg-sleepy-jay-juice-glockboy-k3-s550.lrc",
+   "kind": "synced",
+   "sha": "78e2bb45fc19fe5e7a19d7f913b7439ca0681a9443c6ef2e2345c2ea3f3a89e7"
   },
   {
    "title": "Dope Smoke",
@@ -6966,6 +7169,13 @@
    "file": "mg-sleepy-made-it-count.lrc",
    "kind": "synced",
    "sha": "615c6e76b4ecfe1a8589a690efe6e1d59de722ae7d667d7788663736fa2ac95b"
+  },
+  {
+   "title": "Maui Wowie",
+   "artist": "Mg Sleepy",
+   "file": "mg-sleepy-maui-wowie.lrc",
+   "kind": "synced",
+   "sha": "f14d9e5a1df647d0da047bc0c6743c6c1941424df5e51649a38707aa98be9cf1"
   },
   {
    "title": "Paint The Town Red",
@@ -7465,6 +7675,13 @@
    "sha": "5bb13e49cb23818f2a9c0146c2f75b0dbdcc1ce681f0393561de567bd1c4a75e"
   },
   {
+   "title": "Is Dat Right?",
+   "artist": "Nardo Wick",
+   "file": "nardo-wick-is-dat-right.lrc",
+   "kind": "synced",
+   "sha": "dcff0e182e24ba10f9e71d5b2ae98dd2f05d1a949321ff2f8512aa6a7834be40"
+  },
+  {
    "title": "Knock Knock",
    "artist": "Nardo Wick",
    "file": "nardo-wick-knock-knock.lrc",
@@ -7619,6 +7836,13 @@
    "sha": "4f75c92dba8b5cb600e40684be6f4f63a123ca70957f6c1c901ab536a9275966"
   },
   {
+   "title": "Old Me",
+   "artist": "Nino Paid",
+   "file": "nino-paid-old-me.lrc",
+   "kind": "synced",
+   "sha": "201049c7e339644f8ad1144f6a36d808a99be82fdbff1b8664d6e4cf8a274235"
+  },
+  {
    "title": "Play This At My Funeral (feat. Polo G)",
    "artist": "Nino Paid, Polo G",
    "file": "nino-paid-play-this-at-my-funeral.lrc",
@@ -7631,6 +7855,13 @@
    "file": "nino-paid-tomorrow-will-be-better.txt",
    "kind": "plain",
    "sha": "4eea39e7e37393f0fba2b8cd77e284353fc4550557ae484b31e92cd36b2976a9"
+  },
+  {
+   "title": "Nun But Drums (feat. VonOff1700)",
+   "artist": "Nino Paid, VonOff1700",
+   "file": "nino-paid-vonoff1700-nun-but-drums-feat-vonoff1700.lrc",
+   "kind": "synced",
+   "sha": "cbd95d0a9952617ad3d31209566d86a0b4728a3ac1d97e8594e5dcd70a062386"
   },
   {
    "title": "AIN'T GONNA ANSWER",
@@ -7892,6 +8123,20 @@
    "sha": "af6962acde6aec947dc238923e082232021cfc0c360d745084fe74d49d3a505f"
   },
   {
+   "title": "Alien Boy",
+   "artist": "Oliver Tree",
+   "file": "oliver-tree-alien-boy.lrc",
+   "kind": "synced",
+   "sha": "f684da45c726cf8145eace08b5fb76cb6b51b9d82005a4a1bbcc84183cf7294d"
+  },
+  {
+   "title": "Life Goes On",
+   "artist": "Oliver Tree",
+   "file": "oliver-tree-life-goes-on.lrc",
+   "kind": "synced",
+   "sha": "e3d72a5d0ba9a3c1b6570d1e62af0a356b0575cb715e05187cabba237460f537"
+  },
+  {
    "title": "Hellcats & Trackhawks",
    "artist": "Only The Family, Lil Durk",
    "file": "only-the-family-hellcats-trackhawks.lrc",
@@ -7932,6 +8177,13 @@
    "file": "paper-route-empire-talking-to-my-scale.lrc",
    "kind": "synced",
    "sha": "5d98992326de687267820dfc9c817ff2995f380ec785223803d1287ea61b40ce"
+  },
+  {
+   "title": "Onnat Tymin",
+   "artist": "PayGotti, BAK Jay",
+   "file": "paygotti-bak-jay-onnat-tymin.lrc",
+   "kind": "synced",
+   "sha": "d296ff200158e5825fca96d1ab0964b5a5efac92b9bc84bf4240ca02e61394a2"
   },
   {
    "title": "Fire Starter, Pt. 2 (feat. Grim3y)",
@@ -8142,6 +8394,13 @@
    "file": "polo-g-chosen-1.lrc",
    "kind": "synced",
    "sha": "f9b518c0f5b15a224733625e1d573eebf4c00fdf31f52e31bb53862a24db43b5"
+  },
+  {
+   "title": "Clap",
+   "artist": "Polo G",
+   "file": "polo-g-clap.lrc",
+   "kind": "synced",
+   "sha": "e9c3e27e58f34272e823a152d1730032464410a39ef830702f74d2c83fe215ce"
   },
   {
    "title": "Darkside",
@@ -8907,6 +9166,13 @@
    "sha": "80c9cf8fe896d9279782405840d830ddf351185d39e5eb1cecfa0a0ac825463b"
   },
   {
+   "title": "Str8 Drop Too",
+   "artist": "Rio Da Yung Og, Lil E",
+   "file": "rio-da-yung-og-lil-e-str8-drop-too.lrc",
+   "kind": "synced",
+   "sha": "076f448cd2c88ca9e193edd8176c51c7f0828aaf6bb0b5525197c3f1f8d08d6d"
+  },
+  {
    "title": "One Night",
    "artist": "Rio Da Yung OG Louie",
    "file": "rio-da-yung-og-louie-one-night.lrc",
@@ -9152,6 +9418,13 @@
    "sha": "102f8903fec9974bebe64db646324655719aeb89d02ac02ad1b62446072e51bb"
   },
   {
+   "title": "Intro",
+   "artist": "Rmc Mike",
+   "file": "rmc-mike-intro.lrc",
+   "kind": "synced",
+   "sha": "3cfe8b363621c59619939de374edbe3d3ed9ab6e78551cd2d1d8a39ee181081d"
+  },
+  {
    "title": "Love Live Dee",
    "artist": "Rmc Mike",
    "file": "rmc-mike-love-live-dee.lrc",
@@ -9185,6 +9458,13 @@
    "file": "rob49-on-sight.lrc",
    "kind": "synced",
    "sha": "f7757d5ded974d0fc59bbb563649744d9bc9657fb79ad41102f9d3974e91c7dc"
+  },
+  {
+   "title": "IN THE CLUB (feat. Sexyy Red)",
+   "artist": "Rob49, Sexyy Red",
+   "file": "rob49-sexyy-red-in-the-club-feat-sexyy-red.lrc",
+   "kind": "synced",
+   "sha": "961033794a7958c7fab3c99ad0fe8b771460baac58c53d5bece774d9ec9f9b58"
   },
   {
    "title": "Wassam Baby (feat. Lil Wayne)",
@@ -9782,6 +10062,13 @@
    "sha": "045e6d4c2c4364d4b743f33079398e9f7ef3e69e5bfb7c69dbf42fcd46bb26e3"
   },
   {
+   "title": "Therapeutic",
+   "artist": "$t3PPA",
+   "file": "t3ppa-therapeutic.lrc",
+   "kind": "synced",
+   "sha": "5c5f9d05342208b555190691a22b0f32a699bf8763695e6f0cda3de20254d699"
+  },
+  {
    "title": "Crypto (feat. Rich The Kid)",
    "artist": "Takeoff, Rich The Kid",
    "file": "takeoff-crypto.lrc",
@@ -9934,6 +10221,13 @@
    "file": "the-kid-laroi-goodbye.lrc",
    "kind": "synced",
    "sha": "ab55ecf7add117b2e92ec624a14185c191ed7ca879c827b796a6bbec2f648343"
+  },
+  {
+   "title": "SELFISH",
+   "artist": "The Kid LAROI",
+   "file": "the-kid-laroi-selfish.lrc",
+   "kind": "synced",
+   "sha": "3f3935bb978b2bcd5c9ddab4b09822ed2be40fbefb267f249f056d45e17891fb"
   },
   {
    "title": "TRAGIC (feat. Youngboy Never Broke Again & Internet Money)",
@@ -10951,6 +11245,13 @@
    "sha": "eaa9202aa451e73085520fe629ddc36392184d1c0f67ffbd74d945927f1fea29"
   },
   {
+   "title": "Key (First Day Out)",
+   "artist": "VonOff1700, Sbgbrick",
+   "file": "vonoff1700-sbgbrick-key-first-day-out.lrc",
+   "kind": "synced",
+   "sha": "375ed26fe4fe261cb7d6a0576956a449cc011a171a928640be37f4baa1b8e5c5"
+  },
+  {
    "title": "For A Minute",
    "artist": "VonOff1700, Sbgbrick, SLG Chapo",
    "file": "vonoff1700-sbgbrick-slg-chapo-for-a-minute.lrc",
@@ -11152,6 +11453,13 @@
    "file": "yeat-king-tonka.lrc",
    "kind": "synced",
    "sha": "72d50de73afb9746347950afba931477bdb28f261bb45d466522f5337776e465"
+  },
+  {
+   "title": "Pop The Trunk",
+   "artist": "Yelawolf",
+   "file": "yelawolf-pop-the-trunk.lrc",
+   "kind": "synced",
+   "sha": "c8aa9aa481d6b08417bcea2f79d2336df6875021671b4aca3071a406049719b8"
   },
   {
    "title": "Trunk Muzik",
@@ -11488,6 +11796,13 @@
    "file": "youngboy-never-broke-again-act-a-donkey.lrc",
    "kind": "synced",
    "sha": "3e7722a6052b9737d9fd761749820253b2f570fec436a00682e0f3721f11523a"
+  },
+  {
+   "title": "Badder Than Yours",
+   "artist": "YoungBoy Never Broke Again",
+   "file": "youngboy-never-broke-again-badder-than-yours.lrc",
+   "kind": "synced",
+   "sha": "b208a02793e20aa1060d1cb4d122888d74172d238e45ffa02dd192d4eb38a701"
   },
   {
    "title": "Bitch Let's Do It",
