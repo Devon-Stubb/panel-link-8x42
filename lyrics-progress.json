@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-22 18:40 UTC",
- "updated_epoch": 1795372831,
+ "updated": "2026-11-22 19:00 UTC",
+ "updated_epoch": 1795374054,
  "library_songs": 1821,
  "total": 891,
  "done": 518,
  "open": 373,
  "by_status": {
-  "no_lyrics_yet": 83,
+  "no_lyrics_yet": 79,
   "has_lyrics_needs_sync": 224,
   "transcribing": 6,
-  "blocked_on_audio": 52
+  "blocked_on_audio": 56
  },
  "tiers": {
   "Rest of playlist": {
@@ -91,18 +91,8 @@
    "when": "Nov 22 14:19"
   }
  ],
- "transcribing_now": [
-  "babyru78 not a hoe"
- ],
+ "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "babyru78-not-a-hoe",
-   "title": "Not A Hoe",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Transcribing now",
-   "detail": "pass.py \u00b7 raw pass \u00b7 running 06:28"
-  },
   {
    "slug": "babyru78-g2-with-a-drum",
    "title": "G2 with a drum",
@@ -126,6 +116,14 @@
    "tier": "Rest of playlist",
    "stage": "Fix in progress",
    "detail": "Re-checking specific lines against the audio"
+  },
+  {
+   "slug": "babyru78-not-a-hoe",
+   "title": "Not A Hoe",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Transcription paused",
+   "detail": "2 of 3 passes in \u2014 more transcription queued"
   },
   {
    "slug": "juice-wrld-denial-3-demo",
