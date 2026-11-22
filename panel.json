@@ -1,20 +1,15 @@
 {
  "v": 1,
- "generated_at": "2026-11-21T14:44:09Z",
+ "generated_at": "2026-11-22T14:43:45Z",
  "brief": {
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T14:44:09Z",
-  "headline": "Saturday Nov 21 — Trippie reminder today, PS5 order awaiting store call, posts run to Tue",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T14:43:45Z",
+  "headline": "Sunday Nov 22 — quiet Sunday, Thanksgiving week ahead, Trippie show in 13 days",
   "highlights": [
    {
     "kind": "calendar",
-    "title": "Trippie Redd trip reminder today",
-    "detail": "Show is Sat Dec 5 in Springfield, MO with TopOppGen — nothing booked yet"
-   },
-   {
-    "kind": "task",
-    "title": "PS5 Rent One order awaiting store call",
-    "detail": "Order placed early today — store to confirm and schedule delivery"
+    "title": "Trippie Redd in Springfield on Sat Dec 5",
+    "detail": "With TopOppGen at The Regency Live — evening show"
    },
    {
     "kind": "calendar",
@@ -23,13 +18,18 @@
    },
    {
     "kind": "fyi",
-    "title": "Thanksgiving week posts continue",
-    "detail": "Public Nuisance posts run through Tue Nov 24 across the store channels"
+    "title": "Thanksgiving week posts run through Tue Nov 24",
+    "detail": "Public Nuisance posts continue across the store channels through Tuesday"
    },
    {
     "kind": "task",
-    "title": "SIU bill due Thu Dec 10",
-    "detail": "Due Thu Dec 10 — registration is on hold until it is addressed"
+    "title": "PS5 Rent One follow-up on Mon Nov 23",
+    "detail": "Store closed Sunday — confirmation and delivery scheduling resumes Monday"
+   },
+   {
+    "kind": "fyi",
+    "title": "Muse on glasses weekly check Thu Nov 26",
+    "detail": "Watching for a confirmed live date for the Gen 2 glasses"
    }
   ],
   "decide_count": 12
@@ -37,7 +37,7 @@
  "house": {
   "mode": null,
   "in_sync": false,
-  "reported_at": "2026-11-21T14:44:09Z",
+  "reported_at": "2026-11-22T14:43:45Z",
   "source": "peanut"
  }
 }
