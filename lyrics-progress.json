@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-22 05:42 CST",
- "updated_epoch": 1795347740,
- "library_songs": 1801,
+ "updated": "2026-11-22 11:14 CST",
+ "updated_epoch": 1795367698,
+ "library_songs": 1816,
  "total": 891,
- "done": 498,
- "open": 393,
+ "done": 513,
+ "open": 378,
  "by_status": {
-  "no_lyrics_yet": 103,
+  "no_lyrics_yet": 87,
   "has_lyrics_needs_sync": 224,
-  "transcribing": 6,
+  "transcribing": 7,
   "blocked_on_audio": 52
  },
  "tiers": {
@@ -21,8 +21,8 @@
    "open": 0
   },
   "BabyRu78": {
-   "done": 39,
-   "open": 46
+   "done": 54,
+   "open": 31
   },
   "AZIEDOESNTEXIST": {
    "done": 9,
@@ -35,75 +35,67 @@
  },
  "finished_recently": [
   {
-   "slug": "babyru78-exotic-sip",
-   "when": "Nov 22 05:00"
+   "slug": "babyru78-man-down",
+   "when": "Nov 22 10:49"
   },
   {
-   "slug": "babyru78-mixed-feelings",
-   "when": "Nov 22 05:00"
+   "slug": "babyru78-lit-opp",
+   "when": "Nov 22 10:49"
   },
   {
-   "slug": "babyru78-1-00-am",
-   "when": "Nov 22 05:00"
+   "slug": "babyru78-anonymous",
+   "when": "Nov 22 10:49"
   },
   {
-   "slug": "babyru78-late-night",
-   "when": "Nov 22 04:17"
+   "slug": "babyru78-designer-down",
+   "when": "Nov 22 10:49"
   },
   {
-   "slug": "babyru78-love-no-thotties",
-   "when": "Nov 22 04:16"
+   "slug": "babyru78-subway-surfer",
+   "when": "Nov 22 10:49"
   },
   {
-   "slug": "bak-jay-put-it-on-me",
-   "when": "Nov 22 04:16"
+   "slug": "babyru78-300-blackout",
+   "when": "Nov 22 09:20"
   },
   {
-   "slug": "fattmack-done-with-xans",
-   "when": "Nov 22 03:07"
+   "slug": "babyru78-having-cheddar",
+   "when": "Nov 22 09:20"
   },
   {
-   "slug": "vonoff1700-hot-freestyle-on-famous-animal-tv",
-   "when": "Nov 22 03:07"
+   "slug": "babyru78-drop-my-window",
+   "when": "Nov 22 08:19"
   },
   {
-   "slug": "we-heart-gen-klouxt-sippin-syrup",
-   "when": "Nov 22 03:07"
+   "slug": "babyru78-button-on-it",
+   "when": "Nov 22 08:19"
   },
   {
-   "slug": "yfg-fatso-rylo-rod",
-   "when": "Nov 22 02:55"
+   "slug": "babyru78-head-for-grabs-ripbabyslime-radio-edit",
+   "when": "Nov 22 07:19"
   },
   {
-   "slug": "ab-1900rugrat-sauce-in-my-cup-rmx",
-   "when": "Nov 22 02:02"
+   "slug": "babyru78-high-risk",
+   "when": "Nov 22 07:19"
   },
   {
-   "slug": "bak-jay-spank-a-b-tch",
-   "when": "Nov 22 02:02"
+   "slug": "babyru78-chop-it-down",
+   "when": "Nov 22 07:19"
   },
   {
-   "slug": "4block-lil-mari-ok",
-   "when": "Nov 22 01:58"
+   "slug": "babyru78-how-they-want-it",
+   "when": "Nov 22 06:26"
   },
   {
-   "slug": "tae-retro-kino-der-toten",
-   "when": "Nov 22 01:10"
+   "slug": "babyru78-rubber-bands",
+   "when": "Nov 22 06:26"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
   {
-   "slug": "babyru78-rubber-bands",
-   "title": "RUBBER BANDS",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "babyru78-tuxsuit-my-quagen",
-   "title": "TUXSUIT MY QUAGEN",
+   "slug": "babyru78-with-my-ru",
+   "title": "With My Ru",
    "artist": "BabyRu78",
    "tier": "BabyRu78",
    "stage": "Finishing \u2014 checking lines & timing",
@@ -124,6 +116,14 @@
    "tier": "Rest of playlist",
    "stage": "Fix in progress",
    "detail": "Re-checking specific lines against the audio"
+  },
+  {
+   "slug": "babyru78-hold-your-breathe",
+   "title": "Hold Your Breathe",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Transcription paused",
+   "detail": "1 of 3 passes in \u2014 more transcription queued"
   },
   {
    "slug": "juice-wrld-denial-3-demo",
