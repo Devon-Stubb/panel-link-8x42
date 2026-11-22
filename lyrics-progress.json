@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-22 19:00 UTC",
- "updated_epoch": 1795374054,
- "library_songs": 1821,
+ "updated": "2026-11-22 19:37 UTC",
+ "updated_epoch": 1795376234,
+ "library_songs": 1823,
  "total": 891,
- "done": 518,
- "open": 373,
+ "done": 520,
+ "open": 371,
  "by_status": {
   "no_lyrics_yet": 79,
   "has_lyrics_needs_sync": 224,
-  "transcribing": 6,
+  "transcribing": 4,
   "blocked_on_audio": 56
  },
  "tiers": {
@@ -21,8 +21,8 @@
    "open": 0
   },
   "BabyRu78": {
-   "done": 59,
-   "open": 26
+   "done": 61,
+   "open": 24
   },
   "AZIEDOESNTEXIST": {
    "done": 9,
@@ -34,6 +34,14 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "babyru78-not-a-hoe",
+   "when": "Nov 22 19:16"
+  },
+  {
+   "slug": "babyru78-g2-with-a-drum",
+   "when": "Nov 22 19:16"
+  },
   {
    "slug": "babyru78-make-me-sick",
    "when": "Nov 22 18:26"
@@ -81,21 +89,21 @@
   {
    "slug": "babyru78-having-cheddar",
    "when": "Nov 22 15:20"
-  },
-  {
-   "slug": "babyru78-drop-my-window",
-   "when": "Nov 22 14:19"
-  },
-  {
-   "slug": "babyru78-button-on-it",
-   "when": "Nov 22 14:19"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
   {
-   "slug": "babyru78-g2-with-a-drum",
-   "title": "G2 with a drum",
+   "slug": "babyru78-2-door",
+   "title": "2 Door",
+   "artist": "BabyRu78",
+   "tier": "BabyRu78",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "babyru78-from-pab",
+   "title": "From Pab",
    "artist": "BabyRu78",
    "tier": "BabyRu78",
    "stage": "Finishing \u2014 checking lines & timing",
@@ -116,14 +124,6 @@
    "tier": "Rest of playlist",
    "stage": "Fix in progress",
    "detail": "Re-checking specific lines against the audio"
-  },
-  {
-   "slug": "babyru78-not-a-hoe",
-   "title": "Not A Hoe",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
-   "stage": "Transcription paused",
-   "detail": "2 of 3 passes in \u2014 more transcription queued"
   },
   {
    "slug": "juice-wrld-denial-3-demo",
