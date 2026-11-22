@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-21T17:47:51Z",
- "count": 1732,
+ "generated_at": "2026-11-22T06:09:46Z",
+ "count": 1780,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -29,6 +29,13 @@
    "file": "10ta-one-of-us.lrc",
    "kind": "synced",
    "sha": "3b50de991eab2ba11d89ca48dcb51adc47ba104327d0f72d8c8eed4e8ab54c92"
+  },
+  {
+   "title": "Uh Oh Thots!",
+   "artist": "1400 Vault",
+   "file": "1400-vault-uh-oh-thots.lrc",
+   "kind": "synced",
+   "sha": "53b11adb6faa2da4e766cd9db1e14491d4dd6efbf855b7b4cac90cffeb0c6155"
   },
   {
    "title": "100 Bowls",
@@ -766,11 +773,39 @@
    "sha": "83665efe4f0e9628e831e7707fa74206dab23820a9c264c1d275fe7985a74a66"
   },
   {
+   "title": "Fade Away",
+   "artist": "AZIEDOESNTEXIST",
+   "file": "aziedoesntexist-fade-away.lrc",
+   "kind": "synced",
+   "sha": "3370d7f160b3703067102d7d29f572706ad3995bdb7fcbb5ae310ecb6ca261fe"
+  },
+  {
+   "title": "Pretty Brown Eyes",
+   "artist": "AZIEDOESNTEXIST, inmyeyesyoulied",
+   "file": "aziedoesntexist-inmyeyesyoulied-pretty-brown-eyes.lrc",
+   "kind": "synced",
+   "sha": "9f3a8678122e50a3be0fa372ecd91e81917be2fc1894cf8d053b4010c72465c7"
+  },
+  {
+   "title": "M.I.A.",
+   "artist": "AZIEDOESNTEXIST",
+   "file": "aziedoesntexist-m-i-a.lrc",
+   "kind": "synced",
+   "sha": "1b42ec2769e444f8319b6a5bf1f530cdd51fbac88b98bc01b69d88f2ad9e50fe"
+  },
+  {
    "title": "No One Else",
    "artist": "AZIEDOESNTEXIST",
    "file": "aziedoesntexist-no-one-else.lrc",
    "kind": "synced",
    "sha": "77df184d2e5333de86cde4d2fe3b2e3f992ffd416b17d7e460b9687fe8e26d5d"
+  },
+  {
+   "title": "Spoke To A Devil",
+   "artist": "AZIEDOESNTEXIST",
+   "file": "aziedoesntexist-spoke-to-a-devil.lrc",
+   "kind": "synced",
+   "sha": "8608e21154088596d5328028bf7ac86b2e0abe7d8ce7335f6ca8710c6e2b2a32"
   },
   {
    "title": "Strings Attached (feat. TopOppGen)",
@@ -785,6 +820,13 @@
    "file": "aziedoesntexist-strings-attached.lrc",
    "kind": "synced",
    "sha": "34a4dc475c7af4575e8586a4599bf3c8de2660aae7944a476fbde847d969a048"
+  },
+  {
+   "title": "You Instead",
+   "artist": "AZIEDOESNTEXIST",
+   "file": "aziedoesntexist-you-instead.lrc",
+   "kind": "synced",
+   "sha": "36e81f4093963a6fa89c063625b84983bd1fa4732bdeca98f31ed3d9e2bfbb9e"
   },
   {
    "title": "Break It",
@@ -1599,6 +1641,13 @@
    "sha": "70a3ab33b52b7aba19879cc86707791d1e7c21e4043e670d85cad9c569bf276d"
   },
   {
+   "title": "She In Love wit a Dumper",
+   "artist": "Ball Hog q, Tae",
+   "file": "ball-hog-q-tae-she-in-love-wit-a-dumper.lrc",
+   "kind": "synced",
+   "sha": "b5069c69fcd65ca985dfa28158898a549e485fcaa9ccc3cd9160138cefd98f76"
+  },
+  {
    "title": "duck",
    "artist": "Bando KD, VonOff1700",
    "file": "bando-kd-vonoff1700-duck.lrc",
@@ -1632,6 +1681,13 @@
    "file": "bcb-5l-mayhem.lrc",
    "kind": "synced",
    "sha": "9a1015b43930420486c9a9358e92607ac78753259bccaab1d8bb0a8e5c6e5c1a"
+  },
+  {
+   "title": "uber",
+   "artist": "beazy, reen",
+   "file": "beazy-reen-uber.lrc",
+   "kind": "synced",
+   "sha": "5959a9af8bd7595fddcdd609c42f32cc6d0c3376b68aa71e7db75c8fef872036"
   },
   {
    "title": "Graduation (with Juice WRLD)",
@@ -1772,6 +1828,13 @@
    "file": "big-sean-i-know.lrc",
    "kind": "synced",
    "sha": "48902aca8f248bd1118808cb0cf95dd443b22b155a0097738b64f8004b59cdbb"
+  },
+  {
+   "title": "Dance (A$$) Remix",
+   "artist": "Big Sean, Nicki Minaj",
+   "file": "big-sean-nicki-minaj-dance-a-remix.lrc",
+   "kind": "synced",
+   "sha": "55a72b72008aa14e4e53d950b16ade200c74027eadbbedc8bd0794ff4f1e7b7b"
   },
   {
    "title": "Dumb Ass",
@@ -1947,6 +2010,13 @@
    "file": "bloodhound-q50-nino-paid-boring-feat-nino-paid.lrc",
    "kind": "synced",
    "sha": "ebec88a0afd0dc1c7393192216f71e550065de94f4135629f64cbc2ea09a9629"
+  },
+  {
+   "title": "Splash Bros 2",
+   "artist": "BloodHound Q50",
+   "file": "bloodhound-q50-splash-bros-2.lrc",
+   "kind": "synced",
+   "sha": "7a165823e72bb66e4d66a7107f4692761b6e49382432450a4628526d69c2bf09"
   },
   {
    "title": "Splash Bros",
@@ -2810,11 +2880,25 @@
    "sha": "a68506ad101dd567b6a9d6673e73da8891aeaa9d905ca6354d15942f8c3a63bf"
   },
   {
+   "title": "Headlines",
+   "artist": "Drake",
+   "file": "drake-headlines.lrc",
+   "kind": "synced",
+   "sha": "d51c4a9a537ba477225b604f1419b75d4be8f0edabac57d44ed6f3ad63a07b3d"
+  },
+  {
    "title": "IDGAF (feat. Yeat)",
    "artist": "Drake, Yeat",
    "file": "drake-idgaf.lrc",
    "kind": "synced",
    "sha": "548d63b2cbb5c62151ef8a53689a9f587d4da4dc1a02c974304a4b270c110cb7"
+  },
+  {
+   "title": "Janice STFU",
+   "artist": "Drake",
+   "file": "drake-janice-stfu.lrc",
+   "kind": "synced",
+   "sha": "3c63f1ff19a1836f2af599893fd77539fa8289d17bc193d0f85a89409e300690"
   },
   {
    "title": "Jimmy Cooks (feat. 21 Savage)",
@@ -3074,6 +3158,13 @@
    "file": "fly-rich-double-mississippi.txt",
    "kind": "plain",
    "sha": "bb77c21f4c13e83a8008bc72b8d20b2c67bea2075708e59d422fe8a391826af4"
+  },
+  {
+   "title": "Bow",
+   "artist": "Fob Huncho",
+   "file": "fob-huncho-bow.lrc",
+   "kind": "synced",
+   "sha": "d7f4cc7972286685ede86e90a7c6f78a1762ede838dc7825fdacea3f7a93e90a"
   },
   {
    "title": "Ova Viral",
@@ -3650,6 +3741,13 @@
    "sha": "2ce033c0649f048148f41c6982b2f161533abf394efbc3f02a2a4e3da103490b"
   },
   {
+   "title": "BOO",
+   "artist": "H3adband",
+   "file": "h3adband-boo.lrc",
+   "kind": "synced",
+   "sha": "ed58b1012b9807146aa655e1efb3a3f2ad90c240afed20f1a0d431b37d5cabc2"
+  },
+  {
    "title": "Real Deal (feat. BabyDrill)",
    "artist": "Heembeezy, BabyDrill",
    "file": "heembeezy-babydrill-real-deal-feat-babydrill.lrc",
@@ -3832,6 +3930,13 @@
    "sha": "cd5429008fd3b479c793ab40e6dc0b939c030b8e3d3a8de7c375644a9a226a16"
   },
   {
+   "title": "What If",
+   "artist": "Isaiah Wood",
+   "file": "isaiah-wood-what-if.lrc",
+   "kind": "synced",
+   "sha": "76d21199cd5c223dd71bf1e80f2141cf229f15a7951b44866833dca0e8dcd88f"
+  },
+  {
    "title": "a m a r i",
    "artist": "J. Cole",
    "file": "j-cole-a-m-a-r-i.lrc",
@@ -3956,6 +4061,13 @@
    "file": "jdsnevermissin-peter-grippin.lrc",
    "kind": "synced",
    "sha": "9dd0ebf3e3caccac7b61e25366c435ddebaf0778bcd5cea5f7d7608101b8f645"
+  },
+  {
+   "title": "Play In Yo Face",
+   "artist": "JDSnevermissin",
+   "file": "jdsnevermissin-play-in-yo-face.lrc",
+   "kind": "synced",
+   "sha": "7da32ff921d55a593d2f0e4097728f96035e00f5ee3aee9330cb42ef531f3f39"
   },
   {
    "title": "All There",
@@ -4964,6 +5076,13 @@
    "file": "klouxt-yams.lrc",
    "kind": "synced",
    "sha": "d3deda74d0c381eecf5977f45bd2ff7a9a695d3ccb767b435c545b8bd5581422"
+  },
+  {
+   "title": "Nunchucks (feat. 1900Rugrat)",
+   "artist": "Kodak Black, 1900Rugrat",
+   "file": "kodak-black-1900rugrat-nunchucks-feat-1900rugrat.lrc",
+   "kind": "synced",
+   "sha": "7bd17665038afa67f8ad3ea983ca1e26376ca903b750b629ace9d0b27885620f"
   },
   {
    "title": "Already",
@@ -6674,6 +6793,13 @@
    "sha": "ccdc6d62e27e6d12f52e1feab9f070a2d0795c8e9833b9a549aeaf897c18fd31"
   },
   {
+   "title": "Betrayed",
+   "artist": "Lil Xan",
+   "file": "lil-xan-betrayed.lrc",
+   "kind": "synced",
+   "sha": "06cc59a19c29508003b80501d291c440a4f64908be1dd44ef908f4d36b2dec27"
+  },
+  {
    "title": "A Cold Sunday",
    "artist": "Lil Yachty",
    "file": "lil-yachty-a-cold-sunday.lrc",
@@ -6777,6 +6903,13 @@
    "file": "loveslani-die-to-live.lrc",
    "kind": "synced",
    "sha": "ea59c85f4658c118d23910bf84c84e2523861a5be48c96a92aa1354721a54057"
+  },
+  {
+   "title": "Batman",
+   "artist": "LPB Poody",
+   "file": "lpb-poody-batman.lrc",
+   "kind": "synced",
+   "sha": "06031112c925e500b7d6f5efc54057138159c87820cf1f90bc2813ec2b6a3574"
   },
   {
    "title": "Connected (feat. 42 Dugg)",
@@ -7332,6 +7465,13 @@
    "sha": "ee186b0af0add225b7783d6387df69c0295c67dd0951e1beec0c58af8ea660bd"
   },
   {
+   "title": "Next to You",
+   "artist": "Mike Jones",
+   "file": "mike-jones-next-to-you.lrc",
+   "kind": "synced",
+   "sha": "8c326bdddb4f0aa324a6913dfbd6e58105380b3d5b695dfc0f6ca023458ab641"
+  },
+  {
    "title": "Now or Neva",
    "artist": "Mike WiLL Made-It, Moneybagg Yo, YTB Fatt",
    "file": "mike-will-made-it-now-or-neva.lrc",
@@ -7603,6 +7743,20 @@
    "file": "morgan-wallen-love-somebody.lrc",
    "kind": "synced",
    "sha": "ff361ad9e8f1097f33699e8469a2f43e78a9a28cef587fd6ed8feb57fe7fe7bd"
+  },
+  {
+   "title": "Black Truck",
+   "artist": "MudBaby Ru",
+   "file": "mudbaby-ru-black-truck.lrc",
+   "kind": "synced",
+   "sha": "4193b0e14864703882780aee4815152606bc6fd99dc2599ea053ab9f06d798a3"
+  },
+  {
+   "title": "Out The Mud (with Key Glock)",
+   "artist": "MudBaby Ru, Key Glock",
+   "file": "mudbaby-ru-key-glock-out-the-mud-with-key-glock.lrc",
+   "kind": "synced",
+   "sha": "5244623ad73b07fb9ac6167068e631afbed0385465cd0d26a637172356f86f4d"
   },
   {
    "title": "Alright",
@@ -8233,6 +8387,13 @@
    "file": "paygotti-stepping-with-no-guidance.lrc",
    "kind": "synced",
    "sha": "b66c82343734b3129a23aca1f28919b98e67d92e37e95e05e8b8df4e5a5fffec"
+  },
+  {
+   "title": "Switches & Dracs",
+   "artist": "PayGotti",
+   "file": "paygotti-switches-dracs.lrc",
+   "kind": "synced",
+   "sha": "2b76eabd5924829683e1b0ffb1f3a7285e32f1c7ebc392df81deae596b80fcaf"
   },
   {
    "title": "Think Twice",
@@ -9012,6 +9173,69 @@
    "sha": "4a3b5134b652fe00cb0e52dd0f265c93e79d9f765b855312f57db8125c9eedfc"
   },
   {
+   "title": "1st grade",
+   "artist": "reen",
+   "file": "reen-1st-grade.lrc",
+   "kind": "synced",
+   "sha": "68379dc8f8ddf595688e09c0be0be7794f8954c9eb7590bdae7170f7425f8ebc"
+  },
+  {
+   "title": "2004 infiniti coupe",
+   "artist": "reen",
+   "file": "reen-2004-infiniti-coupe.lrc",
+   "kind": "synced",
+   "sha": "b6f248978154b07d88bec1547c43e0422884a08ea7fa2047ddc85d2e29e65a89"
+  },
+  {
+   "title": "baby boy",
+   "artist": "reen",
+   "file": "reen-baby-boy.lrc",
+   "kind": "synced",
+   "sha": "1c687496a13cb8f68b5c7edfc2c9d14e8e1f559be627adf1e1ea4667dbc513a6"
+  },
+  {
+   "title": "durban poison",
+   "artist": "reen",
+   "file": "reen-durban-poison.lrc",
+   "kind": "synced",
+   "sha": "a6afbb5b4ae1da3d8acb3284faa16ee7a9663f819c9927e6c43f723ac85bd4fb"
+  },
+  {
+   "title": "minivan",
+   "artist": "reen",
+   "file": "reen-minivan.lrc",
+   "kind": "synced",
+   "sha": "83e722be0911f671ea47c13e767728f41f565c30c1aef91832d6d1c6ca47ee9e"
+  },
+  {
+   "title": "mr n mrs officer",
+   "artist": "reen",
+   "file": "reen-mr-n-mrs-officer.lrc",
+   "kind": "synced",
+   "sha": "f056319a1a1b834d815750cf5e050a414ad8db9042025c0a2e16bab3f325cf58"
+  },
+  {
+   "title": "obama runtz",
+   "artist": "reen",
+   "file": "reen-obama-runtz.lrc",
+   "kind": "synced",
+   "sha": "acae8b0ade98285fc49f156407b2a00d0b885f59a0a520eedf74dc6ea06010e1"
+  },
+  {
+   "title": "white supremacy",
+   "artist": "reen",
+   "file": "reen-white-supremacy.lrc",
+   "kind": "synced",
+   "sha": "7575996631c17f59b996893ccd472deb7ffe92a8dd9346814e5b2107f437ac4d"
+  },
+  {
+   "title": "wut dat mell",
+   "artist": "reen",
+   "file": "reen-wut-dat-mell.lrc",
+   "kind": "synced",
+   "sha": "de9195e0fbcd704f6ded8e1e24c4f6c1e68826834ab7923e6e0c1eb0943965ae"
+  },
+  {
    "title": "Nose Ring",
    "artist": "Resentvul",
    "file": "resentvul-nose-ring.lrc",
@@ -9061,11 +9285,25 @@
    "sha": "0e5f1496187cd6cecdfd9f2c99146367baf61fb503208c37d3c8f5b13aa2c687"
   },
   {
+   "title": "Stupid Shit - A.T. mixxx",
+   "artist": "Rio Da Yung Og, A.T.",
+   "file": "rio-da-yung-og-a-t-stupid-shit-a-t-mixxx.lrc",
+   "kind": "synced",
+   "sha": "130860f7ca21aaecc74a75230eb0a7c190d689c60aa066607f00d9a61d0b4885"
+  },
+  {
    "title": "Accidental Shit Talking 2",
    "artist": "Rio Da Yung Og",
    "file": "rio-da-yung-og-accidental-shit-talking-2.lrc",
    "kind": "synced",
    "sha": "94fdbba245a4e1187af2597b2d5315aa5efecd54845e2d89f77f0933ee4f324b"
+  },
+  {
+   "title": "Be Like Me",
+   "artist": "Rio Da Yung Og",
+   "file": "rio-da-yung-og-be-like-me.lrc",
+   "kind": "synced",
+   "sha": "1bbb3d4ff280e41cef5511900625b5acc395cc674830a6e44546ac9511bd1283"
   },
   {
    "title": "Big Ben",
@@ -9250,6 +9488,13 @@
    "sha": "4a32ae794e9c5ffef073b27faf6ce093da4f4e4d3b61a39b245432bbf6722c87"
   },
   {
+   "title": "Back 2 Back",
+   "artist": "Rio Da Yung Og, Rmc Mike",
+   "file": "rio-da-yung-og-rmc-mike-back-2-back.lrc",
+   "kind": "synced",
+   "sha": "751e6d1b351ec09c9ce140453900b844e535c03cc973ad1faad29ddea3d22502"
+  },
+  {
    "title": "Intellectual",
    "artist": "Rio Da Yung Og, Rmc Mike",
    "file": "rio-da-yung-og-rmc-mike-intellectual.lrc",
@@ -9332,6 +9577,13 @@
    "file": "rio-da-yung-og-too-legendary.lrc",
    "kind": "synced",
    "sha": "17df0174147c3fc44a20f18d21bcab68ea18108d9fcbac16dbe73fe941e06ae6"
+  },
+  {
+   "title": "Laced Blunts",
+   "artist": "Rio Da Yung Og, Trippie Redd",
+   "file": "rio-da-yung-og-trippie-redd-laced-blunts.lrc",
+   "kind": "synced",
+   "sha": "f04e0a42673f5bcfcaaa31ee5fdf3314165d329fcc1e7b0ec624bf9bed2362fb"
   },
   {
    "title": "Who Made This",
@@ -9444,6 +9696,13 @@
    "file": "rmc-mike-wop.lrc",
    "kind": "synced",
    "sha": "9db5b05fa7f812fa74239feecbbcf3dd95bf67a02fe2189a4961861e96d16776"
+  },
+  {
+   "title": "Homebody",
+   "artist": "Rob49",
+   "file": "rob49-homebody.lrc",
+   "kind": "synced",
+   "sha": "9052d560303b39b51a5d637717589dbdedd546aa8ce0765372017b5092dc0787"
   },
   {
    "title": "Mama (with Skilla Baby feat. GloRilla) - Remix",
@@ -9978,6 +10237,13 @@
    "sha": "b279839d457fa3f525a20844b407a7b0a968fd841baa960dddee4ce1e4dd3ee4"
   },
   {
+   "title": "Baked Chicken",
+   "artist": "So Supa",
+   "file": "so-supa-baked-chicken.lrc",
+   "kind": "synced",
+   "sha": "31e0474fad8a4dc02fd6388959e06770fe8986db6834987a1f601ca9f5f292f8"
+  },
+  {
    "title": "BOOM",
    "artist": "SOB Odee",
    "file": "sob-odee-boom.lrc",
@@ -10062,6 +10328,20 @@
    "sha": "045e6d4c2c4364d4b743f33079398e9f7ef3e69e5bfb7c69dbf42fcd46bb26e3"
   },
   {
+   "title": "Grateful",
+   "artist": "$t3PPA, HeartMoor",
+   "file": "t3ppa-heartmoor-grateful.lrc",
+   "kind": "synced",
+   "sha": "9b32b4e274b6473e7516e549a99f1049b03981e66b55906c338286782775ba6d"
+  },
+  {
+   "title": "The Truth",
+   "artist": "$t3PPA",
+   "file": "t3ppa-the-truth.lrc",
+   "kind": "synced",
+   "sha": "92d10293258628cc6bc6f5f541cba3de377f42e6b7e43540617cbb5b572398c0"
+  },
+  {
    "title": "Therapeutic",
    "artist": "$t3PPA",
    "file": "t3ppa-therapeutic.lrc",
@@ -10123,6 +10403,13 @@
    "file": "tay-k-the-race.lrc",
    "kind": "synced",
    "sha": "b3f4267433868801047ea3829727b5f86c77e01ea4738d856529a3121c31ad82"
+  },
+  {
+   "title": "First Day Out",
+   "artist": "Tee Grizzley",
+   "file": "tee-grizzley-first-day-out.lrc",
+   "kind": "synced",
+   "sha": "b3932eac87d1d333b7f7a3fe94f1075e1ce359002d0a4b42ea49fc2c893f64fb"
   },
   {
    "title": "From The D To The A (feat. Lil Yachty)",
@@ -10916,6 +11203,13 @@
    "sha": "dbb232749c70911f40c9c145dcd5d77cbdefe577d6fecbb1cd4b7254fcd636f8"
   },
   {
+   "title": "BANG!",
+   "artist": "Trippie Redd",
+   "file": "trippie-redd-bang.lrc",
+   "kind": "synced",
+   "sha": "d416a245e5844f52f668723bbdadff4feeab917f95548ffb6b0f909f46b825fb"
+  },
+  {
    "title": "Big 14 (feat. Offset & Moneybagg Yo)",
    "artist": "Trippie Redd, Offset, Moneybagg Yo",
    "file": "trippie-redd-big-14.lrc",
@@ -11182,6 +11476,13 @@
    "sha": "7e0f1527a53fce208aa03a5165a457bba0beafba472e788c787d5490398feee5"
   },
   {
+   "title": "Lie On Mick",
+   "artist": "VonOff1700",
+   "file": "vonoff1700-lie-on-mick.lrc",
+   "kind": "synced",
+   "sha": "2ad989f5b9382bf633078f7cdcfa3f6b823d5bfc8151789fefb07a06b71d1765"
+  },
+  {
    "title": "Mama I Told U",
    "artist": "VonOff1700",
    "file": "vonoff1700-mama-i-told-u.lrc",
@@ -11243,6 +11544,13 @@
    "file": "vonoff1700-sbgbrick-active.lrc",
    "kind": "synced",
    "sha": "eaa9202aa451e73085520fe629ddc36392184d1c0f67ffbd74d945927f1fea29"
+  },
+  {
+   "title": "BIA BIA",
+   "artist": "VonOff1700, Sbgbrick",
+   "file": "vonoff1700-sbgbrick-bia-bia.lrc",
+   "kind": "synced",
+   "sha": "a04c99fcd817392d87764a1b8445b4c2896e2acf02321bcdb604ac74fcc97ec3"
   },
   {
    "title": "Key (First Day Out)",
@@ -11364,6 +11672,13 @@
    "sha": "ef0341ee0c82f6dcca5b38f4ce5870aa9c143eadf60e76cdc44a1e412df5abfe"
   },
   {
+   "title": "No Good 4 Me",
+   "artist": "willcapone",
+   "file": "willcapone-no-good-4-me.lrc",
+   "kind": "synced",
+   "sha": "e0024e87a466bd8cef93a3400c3ad0f5f580d8934eb005b91589d4ae33930374"
+  },
+  {
    "title": "Fr Fr (feat. Lil Skies)",
    "artist": "Wiz Khalifa, Lil Skies",
    "file": "wiz-khalifa-fr-fr.lrc",
@@ -11455,6 +11770,13 @@
    "sha": "72d50de73afb9746347950afba931477bdb28f261bb45d466522f5337776e465"
   },
   {
+   "title": "Daddy's Lambo",
+   "artist": "Yelawolf",
+   "file": "yelawolf-daddy-s-lambo.lrc",
+   "kind": "synced",
+   "sha": "8f0fc65b7d1d0db2cb7adcf08b56ff13ba0613cf8e3d43b0d49d2db29c6ab4e1"
+  },
+  {
    "title": "Pop The Trunk",
    "artist": "Yelawolf",
    "file": "yelawolf-pop-the-trunk.lrc",
@@ -11467,6 +11789,13 @@
    "file": "yelawolf-trunk-muzik.txt",
    "kind": "plain",
    "sha": "1e01e4730fada3ce25e0929cd0861937a21474f73983effdab58f3cef2c433ec"
+  },
+  {
+   "title": "Catfish Billy",
+   "artist": "Yelawolf, WLPWR",
+   "file": "yelawolf-wlpwr-catfish-billy.lrc",
+   "kind": "synced",
+   "sha": "e94fc059fa8820418cf052d31a57e9f39de79775ea5fad7fc6caec747ba804ac"
   },
   {
    "title": "In & Out",
@@ -12097,6 +12426,13 @@
    "file": "ytb-fatt-ghetto-fox.txt",
    "kind": "plain",
    "sha": "3b23d0e14c9cef1102938865973a948e9dc86f0fc78f8a993230e27dfd824a3b"
+  },
+  {
+   "title": "Yessirski",
+   "artist": "YTB Fatt, Rob49",
+   "file": "ytb-fatt-rob49-yessirski.lrc",
+   "kind": "synced",
+   "sha": "a54b3a2490f7662fbdf65da448d59c7aede12721abd609e7ddd864c3a5f02d4c"
   },
   {
    "title": "Gasoline (feat. Young King Dave)",
