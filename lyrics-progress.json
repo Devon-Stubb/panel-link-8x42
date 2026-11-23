@@ -1,127 +1,127 @@
 {
- "updated": "2026-11-23 05:26 UTC",
- "updated_epoch": 1795411588,
- "library_songs": 1834,
+ "updated": "2026-11-23 21:28 UTC",
+ "updated_epoch": 1795469336,
+ "library_songs": 1872,
  "total": 891,
- "done": 531,
- "open": 360,
+ "done": 569,
+ "open": 322,
  "by_status": {
-  "no_lyrics_yet": 50,
+  "no_lyrics_yet": 9,
   "has_lyrics_needs_sync": 224,
   "transcribing": 8,
-  "blocked_on_audio": 70
+  "blocked_on_audio": 73
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 387,
-   "open": 283
+   "done": 388,
+   "open": 282
   },
   "TopOppGen": {
    "done": 51,
    "open": 0
   },
   "BabyRu78": {
-   "done": 63,
-   "open": 22
+   "done": 64,
+   "open": 21
   },
   "AZIEDOESNTEXIST": {
-   "done": 18,
-   "open": 3
+   "done": 21,
+   "open": 0
   },
   "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)": {
-   "done": 12,
-   "open": 52
+   "done": 45,
+   "open": 19
   }
  },
  "finished_recently": [
   {
-   "slug": "aziedoesntexist-who-i-want",
-   "when": "Nov 23 04:32"
+   "slug": "cj-wick-da-realest",
+   "when": "Nov 23 20:27"
   },
   {
-   "slug": "aziedoesntexist-love-relapse",
-   "when": "Nov 23 04:31"
+   "slug": "cj-wick-freedemslimes",
+   "when": "Nov 23 20:22"
   },
   {
-   "slug": "aziedoesntexist-moonlight",
-   "when": "Nov 23 04:30"
+   "slug": "cj-wick-mind-been-gone",
+   "when": "Nov 23 20:22"
   },
   {
-   "slug": "aziedoesntexist-luved-the-bitch",
-   "when": "Nov 23 03:17"
+   "slug": "cj-wick-relations",
+   "when": "Nov 23 19:20"
   },
   {
-   "slug": "aziedoesntexist-i-hate-hoes",
-   "when": "Nov 23 02:39"
+   "slug": "cj-wick-anywhere",
+   "when": "Nov 23 19:20"
   },
   {
-   "slug": "aziedoesntexist-boy-meets-girl",
-   "when": "Nov 23 01:32"
+   "slug": "cj-wick-clerk",
+   "when": "Nov 23 19:20"
   },
   {
-   "slug": "aziedoesntexist-call-me-back",
-   "when": "Nov 23 01:32"
+   "slug": "cj-wick-head-onna-wall",
+   "when": "Nov 23 18:20"
   },
   {
-   "slug": "aziedoesntexist-emotionally-scarred",
-   "when": "Nov 23 01:27"
+   "slug": "cj-wick-wackem",
+   "when": "Nov 23 18:20"
   },
   {
-   "slug": "aziedoesntexist-4real",
-   "when": "Nov 22 23:22"
+   "slug": "cj-wick-seen-nothing",
+   "when": "Nov 23 18:20"
   },
   {
-   "slug": "babyru78-2-door",
-   "when": "Nov 22 20:38"
+   "slug": "cj-wick-liyaegang",
+   "when": "Nov 23 17:36"
   },
   {
-   "slug": "babyru78-from-pab",
-   "when": "Nov 22 20:38"
+   "slug": "cj-wick-run-for-a-min-feat-tttysonnnn",
+   "when": "Nov 23 17:36"
   },
   {
-   "slug": "babyru78-not-a-hoe",
-   "when": "Nov 22 19:16"
+   "slug": "cj-wick-caution",
+   "when": "Nov 23 16:47"
   },
   {
-   "slug": "babyru78-g2-with-a-drum",
-   "when": "Nov 22 19:16"
+   "slug": "cj-wick-headphones",
+   "when": "Nov 23 16:47"
   },
   {
-   "slug": "babyru78-make-me-sick",
-   "when": "Nov 22 18:26"
+   "slug": "cj-wick-depression-is-real",
+   "when": "Nov 23 16:47"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
   {
-   "slug": "babyru78-twitterr",
-   "title": "TWITTERR",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
+   "slug": "cj-wick-laugh",
+   "title": "Laugh",
+   "artist": "Cj Wick",
+   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "aziedoesntexist-3am-freestyle",
-   "title": "3AM Freestyle",
-   "artist": "AZIEDOESNTEXIST",
-   "tier": "AZIEDOESNTEXIST",
+   "slug": "cj-wick-sitback",
+   "title": "Sitback",
+   "artist": "Cj Wick",
+   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "aziedoesntexist-4real-original",
-   "title": "4Real - Original",
-   "artist": "AZIEDOESNTEXIST",
-   "tier": "AZIEDOESNTEXIST",
+   "slug": "cj-wick-slaving",
+   "title": "Slaving",
+   "artist": "Cj Wick",
+   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "aziedoesntexist-already-left",
-   "title": "Already Left",
-   "artist": "AZIEDOESNTEXIST",
-   "tier": "AZIEDOESNTEXIST",
+   "slug": "cj-wick-thought-about-it",
+   "title": "Thought About It",
+   "artist": "Cj Wick",
+   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
@@ -142,9 +142,9 @@
    "detail": "Re-checking specific lines against the audio"
   },
   {
-   "slug": "klouxt-doit4-dthang",
-   "title": "Doit4 Dthang",
-   "artist": "Klouxt",
+   "slug": "cj-wick-that-message",
+   "title": "That Message",
+   "artist": "Cj Wick",
    "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
    "stage": "Transcription paused",
    "detail": "1 of 3 passes in \u2014 more transcription queued"
