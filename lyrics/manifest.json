@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-22T06:09:46Z",
- "count": 1780,
+ "generated_at": "2026-11-23T05:58:29Z",
+ "count": 1829,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -521,6 +521,13 @@
    "sha": "9f254871b8fde35937de813b053ccc758a2ee1629faa51c2221fac313c7c007b"
   },
   {
+   "title": "OK",
+   "artist": "4Block Lil Mari",
+   "file": "4block-lil-mari-ok.lrc",
+   "kind": "synced",
+   "sha": "2cf8a2b4d02affe8450499e081d05c4727ae6847a2f27933a1da11b983d9d955"
+  },
+  {
    "title": "BILLY",
    "artist": "6ix9ine",
    "file": "6ix9ine-billy.lrc",
@@ -710,6 +717,13 @@
    "sha": "be73bbc2f366d2f823adfc2b70ce387cdd3186f9c11ea9553cac0d289f31694a"
   },
   {
+   "title": "SAUCE IN MY CUP RMX",
+   "artist": "AB, 1900Rugrat",
+   "file": "ab-1900rugrat-sauce-in-my-cup-rmx.lrc",
+   "kind": "synced",
+   "sha": "3843c270360d28b214bcda637d9ca916f1b82bfb13e0d688b0865dcf5947f0c0"
+  },
+  {
    "title": "30 Pack (feat. Big 30)",
    "artist": "Action Pack, Big 30",
    "file": "action-pack-30-pack.lrc",
@@ -752,11 +766,39 @@
    "sha": "cb99951f34d049f9e8abf34c86216059a159c4b22f7a8f23dd8524c553825920"
   },
   {
+   "title": "4Real",
+   "artist": "AZIEDOESNTEXIST",
+   "file": "aziedoesntexist-4real.lrc",
+   "kind": "synced",
+   "sha": "8718943f2882f668132e8bde76e37417ea3ccab0133147529d65756b3d0a3a8b"
+  },
+  {
    "title": "Back To Her (Is This Real?)",
    "artist": "AZIEDOESNTEXIST",
    "file": "aziedoesntexist-back-to-her-is-this-real.lrc",
    "kind": "synced",
    "sha": "492b75b1447e79a6247b3c53a5bbc641f1ebcba7e90f2308804d2beb430cde89"
+  },
+  {
+   "title": "Boy Meets Girl",
+   "artist": "AZIEDOESNTEXIST",
+   "file": "aziedoesntexist-boy-meets-girl.lrc",
+   "kind": "synced",
+   "sha": "358f4e17824be4d847c10b4c4a787def48579de8bc2a7c7cd53445347791e476"
+  },
+  {
+   "title": "Call Me Back",
+   "artist": "AZIEDOESNTEXIST",
+   "file": "aziedoesntexist-call-me-back.lrc",
+   "kind": "synced",
+   "sha": "8d0ab5832bf5a53b9b5fcd7e0a05bc8b24ecd12dbfe16f30b73618cecc2b10d8"
+  },
+  {
+   "title": "Emotionally Scarred",
+   "artist": "AZIEDOESNTEXIST",
+   "file": "aziedoesntexist-emotionally-scarred.lrc",
+   "kind": "synced",
+   "sha": "dec2dffc9039d2199ec3e862dd4433223913dc1d0e3456a1e9c9ca00a58dea5e"
   },
   {
    "title": "Everglades - Remix",
@@ -780,6 +822,13 @@
    "sha": "3370d7f160b3703067102d7d29f572706ad3995bdb7fcbb5ae310ecb6ca261fe"
   },
   {
+   "title": "I hate hoes",
+   "artist": "AZIEDOESNTEXIST",
+   "file": "aziedoesntexist-i-hate-hoes.lrc",
+   "kind": "synced",
+   "sha": "997814cd095eabde103b63d5bc254bbac3ceaf588d22be35f8f876d72ec22901"
+  },
+  {
    "title": "Pretty Brown Eyes",
    "artist": "AZIEDOESNTEXIST, inmyeyesyoulied",
    "file": "aziedoesntexist-inmyeyesyoulied-pretty-brown-eyes.lrc",
@@ -787,11 +836,32 @@
    "sha": "9f3a8678122e50a3be0fa372ecd91e81917be2fc1894cf8d053b4010c72465c7"
   },
   {
+   "title": "Love Relapse",
+   "artist": "AZIEDOESNTEXIST",
+   "file": "aziedoesntexist-love-relapse.lrc",
+   "kind": "synced",
+   "sha": "df6bf66deb52dcc341f84453548435eecf385fdc031bec93c78a39794f705d5c"
+  },
+  {
+   "title": "Luved the Bitch",
+   "artist": "AZIEDOESNTEXIST",
+   "file": "aziedoesntexist-luved-the-bitch.lrc",
+   "kind": "synced",
+   "sha": "17dfc320b415821656efa29eabc0a49ab9b72e7330d35eaee2768f6200eab37f"
+  },
+  {
    "title": "M.I.A.",
    "artist": "AZIEDOESNTEXIST",
    "file": "aziedoesntexist-m-i-a.lrc",
    "kind": "synced",
    "sha": "1b42ec2769e444f8319b6a5bf1f530cdd51fbac88b98bc01b69d88f2ad9e50fe"
+  },
+  {
+   "title": "Moonlight",
+   "artist": "AZIEDOESNTEXIST",
+   "file": "aziedoesntexist-moonlight.lrc",
+   "kind": "synced",
+   "sha": "a0751ba6de7981eeab197100ec3c13d3eb306e0d19e0883563c7061d2783250c"
   },
   {
    "title": "No One Else",
@@ -820,6 +890,13 @@
    "file": "aziedoesntexist-strings-attached.lrc",
    "kind": "synced",
    "sha": "34a4dc475c7af4575e8586a4599bf3c8de2660aae7944a476fbde847d969a048"
+  },
+  {
+   "title": "Who I Want",
+   "artist": "AZIEDOESNTEXIST",
+   "file": "aziedoesntexist-who-i-want.lrc",
+   "kind": "synced",
+   "sha": "b930d96437d2648bd3a647b533405c507b1a9db0610afce631b1d9a9ee4f000a"
   },
   {
    "title": "You Instead",
@@ -1116,6 +1193,34 @@
    "sha": "1c6c7c9c776a1d02c584c62e56ff41a8fe9aedbb0e6a1dcae4d5d7f35c4f0750"
   },
   {
+   "title": "1:00 AM",
+   "artist": "BabyRu78",
+   "file": "babyru78-1-00-am.lrc",
+   "kind": "synced",
+   "sha": "1a7963c145696a0507d022620397eb4316d2ab45c43342a5de300e858005e8fb"
+  },
+  {
+   "title": "2 Door",
+   "artist": "BabyRu78",
+   "file": "babyru78-2-door.lrc",
+   "kind": "synced",
+   "sha": "0fc1151811953b7746da6be759cf5f3e7526e59df7de19355411db820652dc01"
+  },
+  {
+   "title": "300 Blackout",
+   "artist": "BabyRu78",
+   "file": "babyru78-300-blackout.lrc",
+   "kind": "synced",
+   "sha": "99513e86fe8e54536795e37737be6d290b4ae1b9b1d117568d183edfd6c24800"
+  },
+  {
+   "title": "Anonymous",
+   "artist": "BabyRu78",
+   "file": "babyru78-anonymous.lrc",
+   "kind": "synced",
+   "sha": "02054a15ab121dcfec2b607b4bb247bbe25a3d70153bc37f03498f68d8dd397b"
+  },
+  {
    "title": "Ash Ketchum",
    "artist": "BabyRu78",
    "file": "babyru78-ash-ketchum.lrc",
@@ -1144,6 +1249,13 @@
    "sha": "0bdb6d8d9f1827d1ae6cd84856330b9dc032628cbc501254dd6f5dd654a31cb8"
   },
   {
+   "title": "BUTTON ON IT",
+   "artist": "BabyRu78",
+   "file": "babyru78-button-on-it.lrc",
+   "kind": "synced",
+   "sha": "9c435a0774547e8ddb682d11b5cbee52cbc4a00807130ef192123ff3fba38d30"
+  },
+  {
    "title": "Cant Tell Me Nothing",
    "artist": "BabyRu78",
    "file": "babyru78-cant-tell-me-nothing.lrc",
@@ -1165,11 +1277,67 @@
    "sha": "65da65495203335f3d7ad7a5c7f9f09882d3550af996f7c07b14b91b86a89ec2"
   },
   {
+   "title": "CHOP IT DOWN",
+   "artist": "BabyRu78",
+   "file": "babyru78-chop-it-down.lrc",
+   "kind": "synced",
+   "sha": "67a374732e260992048033994c08f3b367dc5fa152313ec3bbe6b36a0100732b"
+  },
+  {
+   "title": "Designer Down",
+   "artist": "BabyRu78",
+   "file": "babyru78-designer-down.lrc",
+   "kind": "synced",
+   "sha": "5f3fee213cce3ab2e3ce44593e0b25b89a8be669f4687d1eae2c539e4b040ff8"
+  },
+  {
+   "title": "DROP MY WINDOW",
+   "artist": "BabyRu78",
+   "file": "babyru78-drop-my-window.lrc",
+   "kind": "synced",
+   "sha": "d398fdd2cda5fcfa336869b5a02fa1894094120d98f3afe540b3ec98bdec370e"
+  },
+  {
+   "title": "EXOTIC SIP",
+   "artist": "BabyRu78",
+   "file": "babyru78-exotic-sip.lrc",
+   "kind": "synced",
+   "sha": "859198b371cfc0e78841738a3a1a555bdbbe7476d785e598141dc608d7250cff"
+  },
+  {
+   "title": "From Pab",
+   "artist": "BabyRu78",
+   "file": "babyru78-from-pab.lrc",
+   "kind": "synced",
+   "sha": "dfbf46585995bbffa9f2e8ef16f68750469a7b49d94a7d62cbb423b978ff9191"
+  },
+  {
+   "title": "G2 with a drum",
+   "artist": "BabyRu78",
+   "file": "babyru78-g2-with-a-drum.lrc",
+   "kind": "synced",
+   "sha": "acb176a87abf19823617a281af2c56cfb25f42523543693ad4ecef634710d7ae"
+  },
+  {
    "title": "GROUPIE HOES",
    "artist": "BabyRu78",
    "file": "babyru78-groupie-hoes.lrc",
    "kind": "synced",
    "sha": "d7135bee3570d5cda8c17bdbf1c2f20bed5bf34614a56e94dc023e8ec63e705e"
+  },
+  {
+   "title": "Having Cheddar",
+   "artist": "BabyRu78",
+   "file": "babyru78-having-cheddar.lrc",
+   "kind": "synced",
+   "sha": "3995d25a74ef0ed802216ca5cce610b1d82f6633627d435bfacb63b84e221244"
+  },
+  {
+   "title": "HEAD FOR GRABS (RipBabySlime) [Radio Edit]",
+   "artist": "BabyRu78",
+   "file": "babyru78-head-for-grabs-ripbabyslime-radio-edit.lrc",
+   "kind": "synced",
+   "sha": "fa9f3928320c2ed158762fbb2c02436046fa8bdc10c4e44da6610b810cb312ed"
   },
   {
    "title": "HELLSTAR FIT",
@@ -1179,11 +1347,32 @@
    "sha": "eac7df7ba82e07257298276bf189dbefdf38efe4b58fadf6003b49f300c83603"
   },
   {
+   "title": "HIGH RISK",
+   "artist": "BabyRu78",
+   "file": "babyru78-high-risk.lrc",
+   "kind": "synced",
+   "sha": "49cff62d69bcef0d8cab9cf0b2c00ec6ca1c9ee499d77df09a40110eb043a739"
+  },
+  {
+   "title": "Hold Your Breathe",
+   "artist": "BabyRu78",
+   "file": "babyru78-hold-your-breathe.lrc",
+   "kind": "synced",
+   "sha": "63088abf91af7b9b25a73a51b3e3b5428445257f9fcff2fd5a6077b892654d83"
+  },
+  {
    "title": "How It Go",
    "artist": "BabyRu78",
    "file": "babyru78-how-it-go.lrc",
    "kind": "synced",
    "sha": "a05c03ccda723deb0ea0a520b094e03a7609e33060cd5757656f82a13fef6430"
+  },
+  {
+   "title": "HOW THEY WANT IT",
+   "artist": "BabyRu78",
+   "file": "babyru78-how-they-want-it.lrc",
+   "kind": "synced",
+   "sha": "4486a9c7229b3a76382eb9f4c1705ce65aa3c52622b9e58719915ac5aea1f668"
   },
   {
    "title": "Krossfire",
@@ -1200,6 +1389,20 @@
    "sha": "b6950453e520011f35e1fd1f48531899660615bb4ce3309eaddd253c711ae52a"
   },
   {
+   "title": "LATE NIGHT",
+   "artist": "BabyRu78",
+   "file": "babyru78-late-night.lrc",
+   "kind": "synced",
+   "sha": "f6f39f009faefa57f308f6e7b1f2456a68346b0485f50173fada6dbcb1b52447"
+  },
+  {
+   "title": "Lit Opp",
+   "artist": "BabyRu78",
+   "file": "babyru78-lit-opp.lrc",
+   "kind": "synced",
+   "sha": "e59d2d2bffc7515574c3a72c5694de2784576090a6a009055cb2acfe698f5052"
+  },
+  {
    "title": "LOVE ME Rumix",
    "artist": "BabyRu78",
    "file": "babyru78-love-me-rumix.lrc",
@@ -1207,11 +1410,39 @@
    "sha": "fe10266943f656ca73f55fc4d723dd18cb02b31e9cd891923baff35de97e89ed"
   },
   {
+   "title": "LOVE NO THOTTIES",
+   "artist": "BabyRu78",
+   "file": "babyru78-love-no-thotties.lrc",
+   "kind": "synced",
+   "sha": "b7cf69204009f03d172285506c10456253592bd09eed9f69f4651daa4ef129a5"
+  },
+  {
    "title": "Make A Toast",
    "artist": "BabyRu78",
    "file": "babyru78-make-a-toast.lrc",
    "kind": "synced",
    "sha": "8fb98bdd4af163dd8bfe07b9a680dc3b7816e42b3b6ce4196565267b728217f5"
+  },
+  {
+   "title": "Make Me Sick",
+   "artist": "BabyRu78",
+   "file": "babyru78-make-me-sick.lrc",
+   "kind": "synced",
+   "sha": "30eae466120b453c86bee37dc9fb0dc34d77d254221b46ad5058f8f798b45299"
+  },
+  {
+   "title": "Man Down",
+   "artist": "BabyRu78",
+   "file": "babyru78-man-down.lrc",
+   "kind": "synced",
+   "sha": "bc6ba8d884d76a60ecafd20658a8f46d053c7804273e5814df79c474e5da861b"
+  },
+  {
+   "title": "MIXED FEELINGS",
+   "artist": "BabyRu78",
+   "file": "babyru78-mixed-feelings.lrc",
+   "kind": "synced",
+   "sha": "ee216ebbf193776a4bbe43d8675a47a36ef39ce048d2766b6b6ab23c007cfc70"
   },
   {
    "title": "More Than Friends",
@@ -1242,6 +1473,20 @@
    "sha": "e5d7f12d445088b1db160f30e6f4353cec63669ff982fb875d7467597ae12554"
   },
   {
+   "title": "Not A Hoe",
+   "artist": "BabyRu78",
+   "file": "babyru78-not-a-hoe.lrc",
+   "kind": "synced",
+   "sha": "1728e2611597cfac8c48290907927ed6693b34518bee42432a8a5496416aa103"
+  },
+  {
+   "title": "OH THATS RU",
+   "artist": "BabyRu78",
+   "file": "babyru78-oh-thats-ru.lrc",
+   "kind": "synced",
+   "sha": "ec3b211d501452d63a9cadd70a206711b4b17c194eeaefc743b2f2203259fa8e"
+  },
+  {
    "title": "On and On",
    "artist": "BabyRu78",
    "file": "babyru78-on-and-on.lrc",
@@ -1254,6 +1499,13 @@
    "file": "babyru78-onna-backend.lrc",
    "kind": "synced",
    "sha": "7e3f7f821bf6cc480a3a239f84f133136b8aec4933574cd500aff9cfd5e7d279"
+  },
+  {
+   "title": "OuuOuu",
+   "artist": "BabyRu78",
+   "file": "babyru78-ouuouu.lrc",
+   "kind": "synced",
+   "sha": "8a4e2152298aaefd954d1571e4ba639e9f7d66eaf4cf3c77cd13c4052c002776"
   },
   {
    "title": "Overlooked Me",
@@ -1277,6 +1529,13 @@
    "sha": "e290eb1c43072d185c03c3ea117d0608924ada197c1fa7f8a2ae6500a8e88b89"
   },
   {
+   "title": "RUBBER BANDS",
+   "artist": "BabyRu78",
+   "file": "babyru78-rubber-bands.lrc",
+   "kind": "synced",
+   "sha": "1c4e8e6a9f7bd90558e171c288eb691a3386a12752f39ff6b0595c831b851ece"
+  },
+  {
    "title": "Skip Town",
    "artist": "BabyRu78",
    "file": "babyru78-skip-town.lrc",
@@ -1284,11 +1543,32 @@
    "sha": "68f87f934874b63a75d12377b0ce9c827f099e65e568588ac81d2a059711c905"
   },
   {
+   "title": "SUBWAY SURFER",
+   "artist": "BabyRu78",
+   "file": "babyru78-subway-surfer.lrc",
+   "kind": "synced",
+   "sha": "e6a0af541e11bce494256a844c208ddd23eddcac29e1b07896d8aad98fea7686"
+  },
+  {
    "title": "Sum Bout U",
    "artist": "BabyRu78",
    "file": "babyru78-sum-bout-u.lrc",
    "kind": "synced",
    "sha": "d12be726a07dd7103481a3afe3141ac479a9f8168aa6a15b054abf9341f9239f"
+  },
+  {
+   "title": "TUXSUIT MY QUAGEN",
+   "artist": "BabyRu78",
+   "file": "babyru78-tuxsuit-my-quagen.lrc",
+   "kind": "synced",
+   "sha": "5312f55b3f5d55d64c10a96a71a0304708c79c38cc189afee04446af7c66f58c"
+  },
+  {
+   "title": "TWITTERR",
+   "artist": "BabyRu78",
+   "file": "babyru78-twitterr.lrc",
+   "kind": "synced",
+   "sha": "5ce3d90898949a1867a8802cb5b55b238fe8e0e720b461217ae942762662850e"
   },
   {
    "title": "Wallet Chains",
@@ -1303,6 +1583,13 @@
    "file": "babyru78-who-tf-is-getemgone.lrc",
    "kind": "synced",
    "sha": "a03cb1b2b2280fa94fe3faa2f38b5bb91f2bc25b171a3d7c55fe764119a98ce8"
+  },
+  {
+   "title": "With My Ru",
+   "artist": "BabyRu78",
+   "file": "babyru78-with-my-ru.lrc",
+   "kind": "synced",
+   "sha": "b8b101d48aaa7d43681ea14bc175d9bc8ce48b2649da2c01e5b1ab4d4b1a691f"
   },
   {
    "title": "Worlds Collide",
@@ -1578,6 +1865,13 @@
    "sha": "846f1d5dfc1aa1bfca70ee1d43c368e9b8d10276841b3d3a20bd7f72d95a4ec2"
   },
   {
+   "title": "Put It On Me",
+   "artist": "BAK Jay",
+   "file": "bak-jay-put-it-on-me.lrc",
+   "kind": "synced",
+   "sha": "92d85047f9807b125c9b544d50f8f5dcf2e3732374e8effbca8e977a29cc4431"
+  },
+  {
    "title": "Rat K",
    "artist": "BAK Jay",
    "file": "bak-jay-rat-k.txt",
@@ -1618,6 +1912,13 @@
    "file": "bak-jay-skate.lrc",
    "kind": "synced",
    "sha": "256b9157a15e5235bb9beacc5d2357a8eee4407c8277e33f94a2fca1cbe0b77e"
+  },
+  {
+   "title": "Spank A B*tch",
+   "artist": "BAK Jay",
+   "file": "bak-jay-spank-a-b-tch.lrc",
+   "kind": "synced",
+   "sha": "d7345cf2a36a76ff1e0b370fedaa60ef6e84fed3a81c7e923eeb4b72317fe62c"
   },
   {
    "title": "Wassam (feat. NLE Choppa)",
@@ -3074,6 +3375,20 @@
    "file": "fadess-1900rugrat-fairly-odd.lrc",
    "kind": "synced",
    "sha": "8bfae3c49fef01d4f6ad5ddd23340e293cd95d56c74dac2d5a65df121c17f5ee"
+  },
+  {
+   "title": "Catfish",
+   "artist": "FattMack",
+   "file": "fattmack-catfish.lrc",
+   "kind": "synced",
+   "sha": "7ad82d523c9479c9f9da4e89e7c7a184d24eb4e02b11d8c788f7e93f3945e7fe"
+  },
+  {
+   "title": "Done with Xans",
+   "artist": "FattMack",
+   "file": "fattmack-done-with-xans.lrc",
+   "kind": "synced",
+   "sha": "1634e44d024af80a5b75a31b0f72010793de31b73be82e234ada567f0a65db08"
   },
   {
    "title": "Lay It Down",
@@ -10349,6 +10664,13 @@
    "sha": "5c5f9d05342208b555190691a22b0f32a699bf8763695e6f0cda3de20254d699"
   },
   {
+   "title": "Kino Der Toten",
+   "artist": "Tae Retro",
+   "file": "tae-retro-kino-der-toten.lrc",
+   "kind": "synced",
+   "sha": "f6ff4f8165b34400bb32c30f3f9527a1b2ec7e35954945a89b5e7cbccf38d531"
+  },
+  {
    "title": "Crypto (feat. Rich The Kid)",
    "artist": "Takeoff, Rich The Kid",
    "file": "takeoff-crypto.lrc",
@@ -11455,6 +11777,13 @@
    "sha": "a61b819addfa5a9a317f424777566c92b9f5edcf1a137ce5b2239d242a1b551c"
   },
   {
+   "title": "Hot Freestyle on Famous Animal Tv",
+   "artist": "VonOff1700",
+   "file": "vonoff1700-hot-freestyle-on-famous-animal-tv.lrc",
+   "kind": "synced",
+   "sha": "87b3b9ada704422903f7000a39575a49cbd3227eee41ae1c7d367eeb5bfd9510"
+  },
+  {
    "title": "Automatic (feat. JillaOff1500)",
    "artist": "VonOff1700, JillaOff1500",
    "file": "vonoff1700-jillaoff1500-automatic-feat-jillaoff1500.lrc",
@@ -11658,6 +11987,13 @@
    "sha": "957fff58c078b603af14d429d2e184d656a6c7de3e33c7eb421fa0084dcbb13b"
   },
   {
+   "title": "sippin syrup",
+   "artist": "We Heart Gen, Klouxt",
+   "file": "we-heart-gen-klouxt-sippin-syrup.lrc",
+   "kind": "synced",
+   "sha": "38b218ddb4256c4d647d5d3ca31a840e2e5ebb93e92c4a62bc66d5c78d082c5c"
+  },
+  {
    "title": "The Letter",
    "artist": "We Heart Gen",
    "file": "we-heart-gen-the-letter.lrc",
@@ -11803,6 +12139,13 @@
    "file": "yfg-fatso-in-out.lrc",
    "kind": "synced",
    "sha": "4c218b65fe948692191dacfdc610855d5fd5066751abdfdd8088e24341b2dd0a"
+  },
+  {
+   "title": "Rylo Rod",
+   "artist": "YFG FATSO",
+   "file": "yfg-fatso-rylo-rod.lrc",
+   "kind": "synced",
+   "sha": "7805689ceaa49e74ba9c908bd8bfb717ef74e84203c781463496a9ffe8ff90fb"
   },
   {
    "title": "Money To Get",
