@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-23 15:55 CST",
- "updated_epoch": 1795470941,
- "library_songs": 1872,
+ "updated": "2026-11-23 17:37 CST",
+ "updated_epoch": 1795477054,
+ "library_songs": 1875,
  "total": 891,
- "done": 569,
- "open": 322,
+ "done": 572,
+ "open": 319,
  "by_status": {
-  "no_lyrics_yet": 9,
+  "no_lyrics_yet": 6,
   "has_lyrics_needs_sync": 224,
   "transcribing": 8,
   "blocked_on_audio": 73
@@ -29,11 +29,23 @@
    "open": 0
   },
   "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)": {
-   "done": 45,
-   "open": 19
+   "done": 48,
+   "open": 16
   }
  },
  "finished_recently": [
+  {
+   "slug": "cj-wick-laugh",
+   "when": "Nov 23 16:34"
+  },
+  {
+   "slug": "cj-wick-thought-about-it",
+   "when": "Nov 23 16:34"
+  },
+  {
+   "slug": "cj-wick-sitback",
+   "when": "Nov 23 16:34"
+  },
   {
    "slug": "cj-wick-da-realest",
    "when": "Nov 23 14:27"
@@ -77,33 +89,13 @@
   {
    "slug": "cj-wick-run-for-a-min-feat-tttysonnnn",
    "when": "Nov 23 11:36"
-  },
-  {
-   "slug": "cj-wick-caution",
-   "when": "Nov 23 10:47"
-  },
-  {
-   "slug": "cj-wick-headphones",
-   "when": "Nov 23 10:47"
-  },
-  {
-   "slug": "cj-wick-depression-is-real",
-   "when": "Nov 23 10:47"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
   {
-   "slug": "cj-wick-laugh",
-   "title": "Laugh",
-   "artist": "Cj Wick",
-   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "cj-wick-sitback",
-   "title": "Sitback",
+   "slug": "cj-wick-die-by-5",
+   "title": "Die By 5",
    "artist": "Cj Wick",
    "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
    "stage": "Finishing \u2014 checking lines & timing",
@@ -134,8 +126,8 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "cj-wick-thought-about-it",
-   "title": "Thought About It",
+   "slug": "cj-wick-wtf-he-on",
+   "title": "Wtf He On",
    "artist": "Cj Wick",
    "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
    "stage": "Finishing \u2014 checking lines & timing",
