@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-23T05:58:29Z",
- "count": 1829,
+ "generated_at": "2026-11-23T23:58:37Z",
+ "count": 1872,
  "songs": [
   {
    "title": "CARNIVAL",
@@ -766,11 +766,32 @@
    "sha": "cb99951f34d049f9e8abf34c86216059a159c4b22f7a8f23dd8524c553825920"
   },
   {
+   "title": "3AM Freestyle",
+   "artist": "AZIEDOESNTEXIST",
+   "file": "aziedoesntexist-3am-freestyle.lrc",
+   "kind": "synced",
+   "sha": "12f2551af22b30d856c26ad64e227ad250059415f8dd6a35c90d180afafff221"
+  },
+  {
+   "title": "4Real - Original",
+   "artist": "AZIEDOESNTEXIST",
+   "file": "aziedoesntexist-4real-original.lrc",
+   "kind": "synced",
+   "sha": "8718943f2882f668132e8bde76e37417ea3ccab0133147529d65756b3d0a3a8b"
+  },
+  {
    "title": "4Real",
    "artist": "AZIEDOESNTEXIST",
    "file": "aziedoesntexist-4real.lrc",
    "kind": "synced",
    "sha": "8718943f2882f668132e8bde76e37417ea3ccab0133147529d65756b3d0a3a8b"
+  },
+  {
+   "title": "Already Left",
+   "artist": "AZIEDOESNTEXIST",
+   "file": "aziedoesntexist-already-left.lrc",
+   "kind": "synced",
+   "sha": "e949838f831ae8776280bdcc1fd6455ce3098a729a0c431652ede32d409618c7"
   },
   {
    "title": "Back To Her (Is This Real?)",
@@ -2670,6 +2691,265 @@
    "sha": "2dbac99ad9b2f97a5a220fa91f8cfdd50ab3e4c556fc41a7de6be116433ca8ae"
   },
   {
+   "title": "Anywhere",
+   "artist": "Cj Wick",
+   "file": "cj-wick-anywhere.lrc",
+   "kind": "synced",
+   "sha": "1f5f1979e129c0902d538e42a47e2e789aab8299642d61893cdc54fc858bd22a"
+  },
+  {
+   "title": "Be About It",
+   "artist": "Cj Wick",
+   "file": "cj-wick-be-about-it.lrc",
+   "kind": "synced",
+   "sha": "7b8d20bc151d7302f630a4ed63709f579d6ed135f76b1a8354a2106e23611d85"
+  },
+  {
+   "title": "Breakin Bad",
+   "artist": "Cj Wick",
+   "file": "cj-wick-breakin-bad.lrc",
+   "kind": "synced",
+   "sha": "e6b5d42ae3d4555dcdb54c13b9f76a0028689be682a2e5478be2856879f73e16"
+  },
+  {
+   "title": "Caution",
+   "artist": "Cj Wick",
+   "file": "cj-wick-caution.lrc",
+   "kind": "synced",
+   "sha": "f8aa8fade0c873675bd7d1667dded44b74c25618be3fa1050a07fc5ab9283e17"
+  },
+  {
+   "title": "Celine Jeans",
+   "artist": "Cj Wick",
+   "file": "cj-wick-celine-jeans.lrc",
+   "kind": "synced",
+   "sha": "df24991bff47617ee323209f7a33e1f7b45aa798a1bdc70d87c95f052fbd6cb8"
+  },
+  {
+   "title": "Clerk",
+   "artist": "Cj Wick",
+   "file": "cj-wick-clerk.lrc",
+   "kind": "synced",
+   "sha": "ae28eab0c86d2d6abff260867ac91972bfac365ce48eeb9bd235517db783bd6d"
+  },
+  {
+   "title": "Crash yo whip",
+   "artist": "Cj Wick",
+   "file": "cj-wick-crash-yo-whip.lrc",
+   "kind": "synced",
+   "sha": "29acc4f0f2734bc07273708ecd20e4919106bc86ba91e65b1b2555aba9884d4c"
+  },
+  {
+   "title": "Da Realest",
+   "artist": "Cj Wick",
+   "file": "cj-wick-da-realest.lrc",
+   "kind": "synced",
+   "sha": "803a2d8bbd37a67469df42505fe0ec0067a2b3921cd3c4ddf2e5b572f95d65da"
+  },
+  {
+   "title": "Depression Is Real",
+   "artist": "Cj Wick",
+   "file": "cj-wick-depression-is-real.lrc",
+   "kind": "synced",
+   "sha": "92ebc5cc8744898c7e2777cb23afdacbf5b20e985d9ffbc891a5ff0c9fc2c51f"
+  },
+  {
+   "title": "Dreams",
+   "artist": "Cj Wick",
+   "file": "cj-wick-dreams.lrc",
+   "kind": "synced",
+   "sha": "31b1f93d4681690a313ace61a961f9f9ab99e283a106c6a94bbafe917fa27f1f"
+  },
+  {
+   "title": "Ed, Edd n Eddy",
+   "artist": "Cj Wick",
+   "file": "cj-wick-ed-edd-n-eddy.lrc",
+   "kind": "synced",
+   "sha": "fe9a5c8b68e1d83655210aeaa21364884e7fc68b630b727835a818fdbaa8d7d1"
+  },
+  {
+   "title": "feelin wrong",
+   "artist": "Cj Wick",
+   "file": "cj-wick-feelin-wrong.lrc",
+   "kind": "synced",
+   "sha": "e37b2150467df7db26d03811a5ede9dd42d3d07625861fbb06be827a041466c0"
+  },
+  {
+   "title": "Freedemslimes",
+   "artist": "Cj Wick",
+   "file": "cj-wick-freedemslimes.lrc",
+   "kind": "synced",
+   "sha": "ad576d9f1499bbe6f13b90aab61230cccac5bdc0cb69e94e525f920d3868dd82"
+  },
+  {
+   "title": "Get From Round",
+   "artist": "Cj Wick",
+   "file": "cj-wick-get-from-round.lrc",
+   "kind": "synced",
+   "sha": "d1f9b0b0661db5ff340925a759bed4a0a188e0dfd6a7a7517c04d35acad5dc42"
+  },
+  {
+   "title": "Head onna wall",
+   "artist": "Cj Wick",
+   "file": "cj-wick-head-onna-wall.lrc",
+   "kind": "synced",
+   "sha": "3d091d112e0f21e9d95a4c0c1a0f1c406525fe16eca9f3d069ee03e70b8e30e1"
+  },
+  {
+   "title": "Headphones",
+   "artist": "Cj Wick",
+   "file": "cj-wick-headphones.lrc",
+   "kind": "synced",
+   "sha": "f33e4c99d96d1859984e4cb6584bf0a1c52b0c76c15ba9520cb3b87883eab956"
+  },
+  {
+   "title": "In My Head",
+   "artist": "Cj Wick",
+   "file": "cj-wick-in-my-head.lrc",
+   "kind": "synced",
+   "sha": "deae4288d440a6350c1737f4e964fd4d2b7a6d0cdd46a6cd3ec53685c83ad80a"
+  },
+  {
+   "title": "Lately",
+   "artist": "Cj Wick",
+   "file": "cj-wick-lately.lrc",
+   "kind": "synced",
+   "sha": "2b8f716050477ad04fc1dc785ed7a3f8bc708b7663f3beee922d8c2ff3e2130c"
+  },
+  {
+   "title": "Laugh",
+   "artist": "Cj Wick",
+   "file": "cj-wick-laugh.lrc",
+   "kind": "synced",
+   "sha": "f78d3eff9769962024c2c9b96cb6b728541ca47ef2cc55366ca71f05bc4af6d1"
+  },
+  {
+   "title": "Liyaegang",
+   "artist": "Cj Wick",
+   "file": "cj-wick-liyaegang.lrc",
+   "kind": "synced",
+   "sha": "7724acb8d34aac285dfa496689edf6642f3de777746f96cf4b0a1357d1be97cd"
+  },
+  {
+   "title": "Mind been gone",
+   "artist": "Cj Wick",
+   "file": "cj-wick-mind-been-gone.lrc",
+   "kind": "synced",
+   "sha": "0ee1bec4acb037da9aa101863338e756dcc44941c0714319abbcbfe802ec7d0f"
+  },
+  {
+   "title": "Real Slime",
+   "artist": "Cj Wick",
+   "file": "cj-wick-real-slime.lrc",
+   "kind": "synced",
+   "sha": "07c6adad5cdffe3e3b5eb270a76a12ec8d4657eaa40dcf0e3a70f507a7990149"
+  },
+  {
+   "title": "Relations",
+   "artist": "Cj Wick",
+   "file": "cj-wick-relations.lrc",
+   "kind": "synced",
+   "sha": "6221514a243b50ac1f61b8091f955457df9f0af5fb2d616d1376e47276da010b"
+  },
+  {
+   "title": "Rich off pain",
+   "artist": "Cj Wick",
+   "file": "cj-wick-rich-off-pain.lrc",
+   "kind": "synced",
+   "sha": "aa935674aaa29c93b739271e91afeec720034e4e98e4b57373957807c341beb2"
+  },
+  {
+   "title": "Run For A Min (feat. tttysonnnn)",
+   "artist": "Cj Wick",
+   "file": "cj-wick-run-for-a-min-feat-tttysonnnn.lrc",
+   "kind": "synced",
+   "sha": "3d1ecaf73947cbc9df6feb968ac4ab1daff0c61bd6083da62dd5fe9389a48510"
+  },
+  {
+   "title": "Sedated 2",
+   "artist": "Cj Wick",
+   "file": "cj-wick-sedated-2.lrc",
+   "kind": "synced",
+   "sha": "01aa6fc367a6ea85b184655bbc8b5c87547398323e05f5bfaef0078fb3f8b8fc"
+  },
+  {
+   "title": "Seen nothing",
+   "artist": "Cj Wick",
+   "file": "cj-wick-seen-nothing.lrc",
+   "kind": "synced",
+   "sha": "8379fb375406b3b8161033622365f17902a68e5946e1a653af262a459cf99467"
+  },
+  {
+   "title": "Sitback",
+   "artist": "Cj Wick",
+   "file": "cj-wick-sitback.lrc",
+   "kind": "synced",
+   "sha": "1b911ffcd750a4887f5dda91102b3ffb99b85bcea7b07bf4ecdd97283ff6f318"
+  },
+  {
+   "title": "Slaving",
+   "artist": "Cj Wick",
+   "file": "cj-wick-slaving.lrc",
+   "kind": "synced",
+   "sha": "195f1f58afc767b5218f04f554348f0ab8bbbc54c9583049e91d428c035eac14"
+  },
+  {
+   "title": "Slime For Slime (feat. Osama5L)",
+   "artist": "Cj Wick",
+   "file": "cj-wick-slime-for-slime-feat-osama5l.lrc",
+   "kind": "synced",
+   "sha": "31bedabe1574bcfe4b85becbd9ddbb2c39c9d5048aafb64243ecc01a87bc8edd"
+  },
+  {
+   "title": "Static",
+   "artist": "Cj Wick",
+   "file": "cj-wick-static.lrc",
+   "kind": "synced",
+   "sha": "e38689ce0cba097e56278312f72cdd6c83984a29b142b9bcaacaf35ecb0671b4"
+  },
+  {
+   "title": "Tap",
+   "artist": "Cj Wick",
+   "file": "cj-wick-tap.lrc",
+   "kind": "synced",
+   "sha": "714c386026bb37e0500147fdd9eebf16938072e367dfd3bed610bb9018841610"
+  },
+  {
+   "title": "That Message",
+   "artist": "Cj Wick",
+   "file": "cj-wick-that-message.lrc",
+   "kind": "synced",
+   "sha": "b4a026f844d934a7cd9e218f0303be2ff2f92499496e209c5959dd06f2808857"
+  },
+  {
+   "title": "Thought About It",
+   "artist": "Cj Wick",
+   "file": "cj-wick-thought-about-it.lrc",
+   "kind": "synced",
+   "sha": "ca7810a8aee5bb179ae39f08ea12b6dd5248536afdd5fce1251e498b0439d52a"
+  },
+  {
+   "title": "timeforit",
+   "artist": "Cj Wick",
+   "file": "cj-wick-timeforit.lrc",
+   "kind": "synced",
+   "sha": "27fe9c83dac23133f6e47827a9a87fc62f08f00336079c83e3e131a5b31039b3"
+  },
+  {
+   "title": "Wackem",
+   "artist": "Cj Wick",
+   "file": "cj-wick-wackem.lrc",
+   "kind": "synced",
+   "sha": "9469516bbc0f02f8976695cdcc9f0dab087eb2cdbcb64b98198df5bb6be8fc46"
+  },
+  {
+   "title": "Won't Go Fa Nun",
+   "artist": "Cj Wick",
+   "file": "cj-wick-won-t-go-fa-nun.lrc",
+   "kind": "synced",
+   "sha": "67bbcaf6fafd1dc9602764b1c2062544ffecb56dea94b866d15f71b88d87265a"
+  },
+  {
    "title": "Bring Dat Bag Out (feat. Lil Yachty)",
    "artist": "Comethazine, Lil Yachty",
    "file": "comethazine-bring-dat-bag-out.lrc",
@@ -3375,6 +3655,13 @@
    "file": "fadess-1900rugrat-fairly-odd.lrc",
    "kind": "synced",
    "sha": "8bfae3c49fef01d4f6ad5ddd23340e293cd95d56c74dac2d5a65df121c17f5ee"
+  },
+  {
+   "title": "BLRDDD",
+   "artist": "FattMack",
+   "file": "fattmack-blrddd.lrc",
+   "kind": "synced",
+   "sha": "c7c6c1195ddf676fa19759d9e45fe509e5e3e12362256dc048d1cf00b647037d"
   },
   {
    "title": "Catfish",
@@ -5344,6 +5631,13 @@
    "sha": "3e51113bbcfaf2034e451b175f04349f8675a7705351e4dd5445ca5bdb084469"
   },
   {
+   "title": "Doit4 Dthang",
+   "artist": "Klouxt",
+   "file": "klouxt-doit4-dthang.lrc",
+   "kind": "synced",
+   "sha": "d20f0700e070885e9f866e56b22792bd0daa6ddeab04049b45e6bfd2d1e82b66"
+  },
+  {
    "title": "Everytime",
    "artist": "Klouxt",
    "file": "klouxt-everytime.lrc",
@@ -5356,6 +5650,13 @@
    "file": "klouxt-free-threat-p2.lrc",
    "kind": "synced",
    "sha": "8ba1acc646ef073935b62b66cee4a3c49551cb09420482fbefd50f8571287980"
+  },
+  {
+   "title": "hells far",
+   "artist": "Klouxt",
+   "file": "klouxt-hells-far.lrc",
+   "kind": "synced",
+   "sha": "f20e80c8bc7aa77f68af9b4b18a1989c30f36f1f8e85592eada7aeefddb60e74"
   },
   {
    "title": "lilfish",
