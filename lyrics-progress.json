@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23 21:28 UTC",
- "updated_epoch": 1795469336,
+ "updated": "2026-11-23 21:53 UTC",
+ "updated_epoch": 1795470815,
  "library_songs": 1872,
  "total": 891,
  "done": 569,
@@ -118,6 +118,22 @@
    "detail": "Passes in: enh, raw, small"
   },
   {
+   "slug": "cj-wick-slime-for-slime-feat-osama5l",
+   "title": "Slime For Slime (feat. Osama5L)",
+   "artist": "Cj Wick",
+   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "cj-wick-that-message",
+   "title": "That Message",
+   "artist": "Cj Wick",
+   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
    "slug": "cj-wick-thought-about-it",
    "title": "Thought About It",
    "artist": "Cj Wick",
@@ -140,14 +156,6 @@
    "tier": "Rest of playlist",
    "stage": "Fix in progress",
    "detail": "Re-checking specific lines against the audio"
-  },
-  {
-   "slug": "cj-wick-that-message",
-   "title": "That Message",
-   "artist": "Cj Wick",
-   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
-   "stage": "Transcription paused",
-   "detail": "1 of 3 passes in \u2014 more transcription queued"
   },
   {
    "slug": "juice-wrld-denial-3-demo",
