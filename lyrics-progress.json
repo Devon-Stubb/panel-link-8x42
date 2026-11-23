@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-22 19:37 UTC",
- "updated_epoch": 1795376234,
- "library_songs": 1823,
+ "updated": "2026-11-23 05:26 UTC",
+ "updated_epoch": 1795411588,
+ "library_songs": 1834,
  "total": 891,
- "done": 520,
- "open": 371,
+ "done": 531,
+ "open": 360,
  "by_status": {
-  "no_lyrics_yet": 79,
+  "no_lyrics_yet": 50,
   "has_lyrics_needs_sync": 224,
-  "transcribing": 4,
-  "blocked_on_audio": 56
+  "transcribing": 8,
+  "blocked_on_audio": 70
  },
  "tiers": {
   "Rest of playlist": {
@@ -21,12 +21,12 @@
    "open": 0
   },
   "BabyRu78": {
-   "done": 61,
-   "open": 24
+   "done": 63,
+   "open": 22
   },
   "AZIEDOESNTEXIST": {
-   "done": 9,
-   "open": 12
+   "done": 18,
+   "open": 3
   },
   "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)": {
    "done": 12,
@@ -34,6 +34,50 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "aziedoesntexist-who-i-want",
+   "when": "Nov 23 04:32"
+  },
+  {
+   "slug": "aziedoesntexist-love-relapse",
+   "when": "Nov 23 04:31"
+  },
+  {
+   "slug": "aziedoesntexist-moonlight",
+   "when": "Nov 23 04:30"
+  },
+  {
+   "slug": "aziedoesntexist-luved-the-bitch",
+   "when": "Nov 23 03:17"
+  },
+  {
+   "slug": "aziedoesntexist-i-hate-hoes",
+   "when": "Nov 23 02:39"
+  },
+  {
+   "slug": "aziedoesntexist-boy-meets-girl",
+   "when": "Nov 23 01:32"
+  },
+  {
+   "slug": "aziedoesntexist-call-me-back",
+   "when": "Nov 23 01:32"
+  },
+  {
+   "slug": "aziedoesntexist-emotionally-scarred",
+   "when": "Nov 23 01:27"
+  },
+  {
+   "slug": "aziedoesntexist-4real",
+   "when": "Nov 22 23:22"
+  },
+  {
+   "slug": "babyru78-2-door",
+   "when": "Nov 22 20:38"
+  },
+  {
+   "slug": "babyru78-from-pab",
+   "when": "Nov 22 20:38"
+  },
   {
    "slug": "babyru78-not-a-hoe",
    "when": "Nov 22 19:16"
@@ -45,67 +89,39 @@
   {
    "slug": "babyru78-make-me-sick",
    "when": "Nov 22 18:26"
-  },
-  {
-   "slug": "babyru78-ouuouu",
-   "when": "Nov 22 18:26"
-  },
-  {
-   "slug": "babyru78-oh-thats-ru",
-   "when": "Nov 22 17:49"
-  },
-  {
-   "slug": "babyru78-hold-your-breathe",
-   "when": "Nov 22 17:49"
-  },
-  {
-   "slug": "babyru78-with-my-ru",
-   "when": "Nov 22 17:49"
-  },
-  {
-   "slug": "babyru78-man-down",
-   "when": "Nov 22 16:49"
-  },
-  {
-   "slug": "babyru78-lit-opp",
-   "when": "Nov 22 16:49"
-  },
-  {
-   "slug": "babyru78-anonymous",
-   "when": "Nov 22 16:49"
-  },
-  {
-   "slug": "babyru78-designer-down",
-   "when": "Nov 22 16:49"
-  },
-  {
-   "slug": "babyru78-subway-surfer",
-   "when": "Nov 22 16:49"
-  },
-  {
-   "slug": "babyru78-300-blackout",
-   "when": "Nov 22 15:20"
-  },
-  {
-   "slug": "babyru78-having-cheddar",
-   "when": "Nov 22 15:20"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
   {
-   "slug": "babyru78-2-door",
-   "title": "2 Door",
+   "slug": "babyru78-twitterr",
+   "title": "TWITTERR",
    "artist": "BabyRu78",
    "tier": "BabyRu78",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
   {
-   "slug": "babyru78-from-pab",
-   "title": "From Pab",
-   "artist": "BabyRu78",
-   "tier": "BabyRu78",
+   "slug": "aziedoesntexist-3am-freestyle",
+   "title": "3AM Freestyle",
+   "artist": "AZIEDOESNTEXIST",
+   "tier": "AZIEDOESNTEXIST",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "aziedoesntexist-4real-original",
+   "title": "4Real - Original",
+   "artist": "AZIEDOESNTEXIST",
+   "tier": "AZIEDOESNTEXIST",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "aziedoesntexist-already-left",
+   "title": "Already Left",
+   "artist": "AZIEDOESNTEXIST",
+   "tier": "AZIEDOESNTEXIST",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
   },
@@ -124,6 +140,14 @@
    "tier": "Rest of playlist",
    "stage": "Fix in progress",
    "detail": "Re-checking specific lines against the audio"
+  },
+  {
+   "slug": "klouxt-doit4-dthang",
+   "title": "Doit4 Dthang",
+   "artist": "Klouxt",
+   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
+   "stage": "Transcription paused",
+   "detail": "1 of 3 passes in \u2014 more transcription queued"
   },
   {
    "slug": "juice-wrld-denial-3-demo",
