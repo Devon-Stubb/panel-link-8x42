@@ -1,138 +1,98 @@
 {
- "updated": "2026-11-23 17:37 CST",
- "updated_epoch": 1795477054,
- "library_songs": 1875,
+ "updated": "2026-11-24 11:20 CST",
+ "updated_epoch": 1795540847,
+ "library_songs": 1891,
  "total": 891,
- "done": 572,
- "open": 319,
+ "done": 588,
+ "open": 303,
  "by_status": {
-  "no_lyrics_yet": 6,
-  "has_lyrics_needs_sync": 224,
-  "transcribing": 8,
+  "no_lyrics_yet": 0,
+  "has_lyrics_needs_sync": 220,
+  "transcribing": 2,
   "blocked_on_audio": 73
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 388,
-   "open": 282
+   "done": 392,
+   "open": 278
   },
   "TopOppGen": {
    "done": 51,
    "open": 0
   },
   "BabyRu78": {
-   "done": 64,
-   "open": 21
+   "done": 65,
+   "open": 20
   },
   "AZIEDOESNTEXIST": {
    "done": 21,
    "open": 0
   },
   "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)": {
-   "done": 48,
-   "open": 16
+   "done": 59,
+   "open": 5
   }
  },
  "finished_recently": [
   {
-   "slug": "cj-wick-laugh",
-   "when": "Nov 23 16:34"
+   "slug": "paygotti-wake-n-bake",
+   "when": "Nov 24 11:03"
   },
   {
-   "slug": "cj-wick-thought-about-it",
-   "when": "Nov 23 16:34"
+   "slug": "paygotti-cold-nigga",
+   "when": "Nov 24 11:03"
   },
   {
-   "slug": "cj-wick-sitback",
-   "when": "Nov 23 16:34"
+   "slug": "lil-2z-what-s-wrong-is-right",
+   "when": "Nov 24 11:03"
   },
   {
-   "slug": "cj-wick-da-realest",
-   "when": "Nov 23 14:27"
+   "slug": "metro-boomin-i-can-t-save-you-interlude",
+   "when": "Nov 24 10:45"
   },
   {
-   "slug": "cj-wick-freedemslimes",
-   "when": "Nov 23 14:22"
+   "slug": "klouxt-crash-out",
+   "when": "Nov 24 00:24"
   },
   {
-   "slug": "cj-wick-mind-been-gone",
-   "when": "Nov 23 14:22"
+   "slug": "babyru78-dont-like-drugs",
+   "when": "Nov 23 23:03"
   },
   {
-   "slug": "cj-wick-relations",
-   "when": "Nov 23 13:20"
+   "slug": "we-heart-gen-she-dgaf",
+   "when": "Nov 23 22:33"
   },
   {
-   "slug": "cj-wick-anywhere",
-   "when": "Nov 23 13:20"
+   "slug": "lady2x-wasn-t-him",
+   "when": "Nov 23 21:07"
   },
   {
-   "slug": "cj-wick-clerk",
-   "when": "Nov 23 13:20"
+   "slug": "lady2x-fck-cancer",
+   "when": "Nov 23 21:07"
   },
   {
-   "slug": "cj-wick-head-onna-wall",
-   "when": "Nov 23 12:20"
+   "slug": "lady2x-zombie",
+   "when": "Nov 23 21:07"
   },
   {
-   "slug": "cj-wick-wackem",
-   "when": "Nov 23 12:20"
+   "slug": "cj-wick-pill-fake",
+   "when": "Nov 23 19:39"
   },
   {
-   "slug": "cj-wick-seen-nothing",
-   "when": "Nov 23 12:20"
+   "slug": "cj-wick-die-by-5",
+   "when": "Nov 23 19:39"
   },
   {
-   "slug": "cj-wick-liyaegang",
-   "when": "Nov 23 11:36"
+   "slug": "cj-wick-wtf-he-on",
+   "when": "Nov 23 19:39"
   },
   {
-   "slug": "cj-wick-run-for-a-min-feat-tttysonnnn",
-   "when": "Nov 23 11:36"
+   "slug": "cj-wick-slime-for-slime-feat-osama5l",
+   "when": "Nov 23 17:52"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
-  {
-   "slug": "cj-wick-die-by-5",
-   "title": "Die By 5",
-   "artist": "Cj Wick",
-   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "cj-wick-slaving",
-   "title": "Slaving",
-   "artist": "Cj Wick",
-   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "cj-wick-slime-for-slime-feat-osama5l",
-   "title": "Slime For Slime (feat. Osama5L)",
-   "artist": "Cj Wick",
-   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "cj-wick-that-message",
-   "title": "That Message",
-   "artist": "Cj Wick",
-   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "cj-wick-wtf-he-on",
-   "title": "Wtf He On",
-   "artist": "Cj Wick",
-   "tier": "Gen circle (Klouxt/Cj Wick/lady2x/We Heart Gen)",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
   {
    "slug": "krispylife-kidd-certified-motion",
    "title": "Certified Motion",
@@ -161,6 +121,14 @@
    "slug": "juice-wrld-forever",
    "title": "Forever",
    "artist": "Juice WRLD",
+   "tier": "Rest of playlist",
+   "stage": "Transcription paused",
+   "detail": "1 of 3 passes in \u2014 more transcription queued"
+  },
+  {
+   "slug": "paygotti-hands-down",
+   "title": "Hands Down",
+   "artist": "PayGotti",
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
    "detail": "1 of 3 passes in \u2014 more transcription queued"
