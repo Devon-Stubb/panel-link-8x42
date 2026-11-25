@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-24 21:46 CST",
- "updated_epoch": 1795578360,
- "library_songs": 1891,
+ "updated": "2026-11-25 12:32 CST",
+ "updated_epoch": 1795631532,
+ "library_songs": 1895,
  "total": 891,
- "done": 588,
- "open": 303,
+ "done": 592,
+ "open": 299,
  "by_status": {
   "no_lyrics_yet": 0,
-  "has_lyrics_needs_sync": 220,
-  "transcribing": 2,
+  "has_lyrics_needs_sync": 217,
+  "transcribing": 1,
   "blocked_on_audio": 73
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 392,
-   "open": 278
+   "done": 396,
+   "open": 274
   },
   "TopOppGen": {
    "done": 51,
@@ -34,6 +34,22 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "vonoff1700-time-again",
+   "when": "Nov 25 11:39"
+  },
+  {
+   "slug": "paygotti-hands-down",
+   "when": "Nov 25 11:30"
+  },
+  {
+   "slug": "saxkboy-kd-that-mexican-ot-gucci-rugs",
+   "when": "Nov 25 11:24"
+  },
+  {
+   "slug": "rmc-mike-rio-da-yung-og-lucid-nightmare-2",
+   "when": "Nov 25 11:08"
+  },
   {
    "slug": "paygotti-wake-n-bake",
    "when": "Nov 24 11:03"
@@ -73,22 +89,6 @@
   {
    "slug": "lady2x-zombie",
    "when": "Nov 23 21:07"
-  },
-  {
-   "slug": "cj-wick-pill-fake",
-   "when": "Nov 23 19:39"
-  },
-  {
-   "slug": "cj-wick-die-by-5",
-   "when": "Nov 23 19:39"
-  },
-  {
-   "slug": "cj-wick-wtf-he-on",
-   "when": "Nov 23 19:39"
-  },
-  {
-   "slug": "cj-wick-slime-for-slime-feat-osama5l",
-   "when": "Nov 23 17:52"
   }
  ],
  "transcribing_now": [],
@@ -110,6 +110,14 @@
    "detail": "Re-checking specific lines against the audio"
   },
   {
+   "slug": "krispylife-kidd-lil-yachty-bonus-track-krispy-boat-feat-lil-yachty",
+   "title": "(Bonus Track) Krispy Boat (feat. Lil Yachty)",
+   "artist": "KrispyLife Kidd, Lil Yachty",
+   "tier": "Rest of playlist",
+   "stage": "Transcription paused",
+   "detail": "2 of 3 passes in \u2014 more transcription queued"
+  },
+  {
    "slug": "juice-wrld-denial-3-demo",
    "title": "DENIAL </3 (demo)",
    "artist": "Juice WRLD",
@@ -123,15 +131,7 @@
    "artist": "Juice WRLD",
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
-   "detail": "1 of 3 passes in \u2014 more transcription queued"
-  },
-  {
-   "slug": "paygotti-hands-down",
-   "title": "Hands Down",
-   "artist": "PayGotti",
-   "tier": "Rest of playlist",
-   "stage": "Transcription paused",
-   "detail": "1 of 3 passes in \u2014 more transcription queued"
+   "detail": "2 of 3 passes in \u2014 more transcription queued"
   },
   {
    "slug": "dee-mula-oh-lord",
@@ -140,14 +140,6 @@
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
    "detail": "1 of 3 passes in \u2014 more transcription queued"
-  },
-  {
-   "slug": "vonoff1700-time-again",
-   "title": "Time Again",
-   "artist": "VonOff1700",
-   "tier": "Rest of playlist",
-   "stage": "Transcription paused",
-   "detail": "2 of 3 passes in \u2014 more transcription queued"
   }
  ]
 }
