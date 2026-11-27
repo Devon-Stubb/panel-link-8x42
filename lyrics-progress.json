@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-27 11:27 CST",
- "updated_epoch": 1795800449,
+ "updated": "2026-11-27 12:59 CST",
+ "updated_epoch": 1795805978,
  "library_songs": 1896,
  "total": 891,
  "done": 593,
  "open": 298,
  "by_status": {
   "no_lyrics_yet": 0,
-  "has_lyrics_needs_sync": 216,
-  "transcribing": 1,
+  "has_lyrics_needs_sync": 217,
+  "transcribing": 0,
   "blocked_on_audio": 73
  },
  "tiers": {
@@ -35,16 +35,8 @@
  },
  "finished_recently": [
   {
-   "slug": "billie-eilish-juice-wrld-khalid-lovely",
-   "when": "Nov 27 10:47"
-  },
-  {
-   "slug": "vonoff1700-time-again",
-   "when": "Nov 25 11:39"
-  },
-  {
-   "slug": "paygotti-hands-down",
-   "when": "Nov 25 11:30"
+   "slug": "dee-mula-oh-lord",
+   "when": "Nov 27 11:46"
   }
  ],
  "transcribing_now": [],
@@ -53,14 +45,6 @@
    "slug": "krispylife-kidd-lil-yachty-bonus-track-krispy-boat-feat-lil-yachty",
    "title": "(Bonus Track) Krispy Boat (feat. Lil Yachty)",
    "artist": "KrispyLife Kidd, Lil Yachty",
-   "tier": "Rest of playlist",
-   "stage": "Finishing \u2014 checking lines & timing",
-   "detail": "Passes in: enh, raw, small"
-  },
-  {
-   "slug": "dee-mula-oh-lord",
-   "title": "Oh Lord",
-   "artist": "Dee Mula",
    "tier": "Rest of playlist",
    "stage": "Finishing \u2014 checking lines & timing",
    "detail": "Passes in: enh, raw, small"
