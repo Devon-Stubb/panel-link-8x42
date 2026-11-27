@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-27 03:20 CST",
- "updated_epoch": 1795771215,
- "library_songs": 1895,
+ "updated": "2026-11-27 11:27 CST",
+ "updated_epoch": 1795800449,
+ "library_songs": 1896,
  "total": 891,
- "done": 592,
- "open": 299,
+ "done": 593,
+ "open": 298,
  "by_status": {
   "no_lyrics_yet": 0,
-  "has_lyrics_needs_sync": 217,
+  "has_lyrics_needs_sync": 216,
   "transcribing": 1,
   "blocked_on_audio": 73
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 396,
-   "open": 274
+   "done": 397,
+   "open": 273
   },
   "TopOppGen": {
    "done": 51,
@@ -35,24 +35,36 @@
  },
  "finished_recently": [
   {
+   "slug": "billie-eilish-juice-wrld-khalid-lovely",
+   "when": "Nov 27 10:47"
+  },
+  {
    "slug": "vonoff1700-time-again",
    "when": "Nov 25 11:39"
   },
   {
    "slug": "paygotti-hands-down",
    "when": "Nov 25 11:30"
-  },
-  {
-   "slug": "saxkboy-kd-that-mexican-ot-gucci-rugs",
-   "when": "Nov 25 11:24"
-  },
-  {
-   "slug": "rmc-mike-rio-da-yung-og-lucid-nightmare-2",
-   "when": "Nov 25 11:08"
   }
  ],
  "transcribing_now": [],
  "in_progress": [
+  {
+   "slug": "krispylife-kidd-lil-yachty-bonus-track-krispy-boat-feat-lil-yachty",
+   "title": "(Bonus Track) Krispy Boat (feat. Lil Yachty)",
+   "artist": "KrispyLife Kidd, Lil Yachty",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
+  {
+   "slug": "dee-mula-oh-lord",
+   "title": "Oh Lord",
+   "artist": "Dee Mula",
+   "tier": "Rest of playlist",
+   "stage": "Finishing \u2014 checking lines & timing",
+   "detail": "Passes in: enh, raw, small"
+  },
   {
    "slug": "krispylife-kidd-certified-motion",
    "title": "Certified Motion",
@@ -70,14 +82,6 @@
    "detail": "Re-checking specific lines against the audio"
   },
   {
-   "slug": "krispylife-kidd-lil-yachty-bonus-track-krispy-boat-feat-lil-yachty",
-   "title": "(Bonus Track) Krispy Boat (feat. Lil Yachty)",
-   "artist": "KrispyLife Kidd, Lil Yachty",
-   "tier": "Rest of playlist",
-   "stage": "Transcription paused",
-   "detail": "2 of 3 passes in \u2014 more transcription queued"
-  },
-  {
    "slug": "juice-wrld-denial-3-demo",
    "title": "DENIAL </3 (demo)",
    "artist": "Juice WRLD",
@@ -92,14 +96,6 @@
    "tier": "Rest of playlist",
    "stage": "Transcription paused",
    "detail": "2 of 3 passes in \u2014 more transcription queued"
-  },
-  {
-   "slug": "dee-mula-oh-lord",
-   "title": "Oh Lord",
-   "artist": "Dee Mula",
-   "tier": "Rest of playlist",
-   "stage": "Transcription paused",
-   "detail": "1 of 3 passes in \u2014 more transcription queued"
   }
  ]
 }
