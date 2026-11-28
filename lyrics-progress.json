@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-27 14:39 CST",
- "updated_epoch": 1795811940,
- "library_songs": 1896,
+ "updated": "2026-11-27 19:38 CST",
+ "updated_epoch": 1795829935,
+ "library_songs": 1900,
  "total": 895,
- "done": 593,
- "open": 302,
+ "done": 597,
+ "open": 298,
  "by_status": {
-  "no_lyrics_yet": 4,
+  "no_lyrics_yet": 0,
   "has_lyrics_needs_sync": 217,
   "transcribing": 0,
   "blocked_on_audio": 73
  },
  "tiers": {
   "Rest of playlist": {
-   "done": 397,
-   "open": 274
+   "done": 398,
+   "open": 273
   },
   "BabyRu78": {
-   "done": 65,
-   "open": 22
+   "done": 67,
+   "open": 20
   },
   "TopOppGen": {
-   "done": 51,
-   "open": 1
+   "done": 52,
+   "open": 0
   },
   "AZIEDOESNTEXIST": {
    "done": 21,
@@ -34,6 +34,22 @@
   }
  },
  "finished_recently": [
+  {
+   "slug": "jay-montana-topoppgen-puppy-feat-topoppgen",
+   "when": "Nov 27 17:34"
+  },
+  {
+   "slug": "babyru78-bak-jay-whole-hunnid",
+   "when": "Nov 27 16:35"
+  },
+  {
+   "slug": "bak-jay-kidding-me",
+   "when": "Nov 27 16:30"
+  },
+  {
+   "slug": "babyru78-one-more-chance",
+   "when": "Nov 27 16:26"
+  },
   {
    "slug": "dee-mula-oh-lord",
    "when": "Nov 27 11:46"
